@@ -1,18 +1,22 @@
 const app = Vue.createApp({
   data() {
     return {
-      drawer: true,
       items: [],
+
       selectedItem: {
         title: "",
-        description: ""
-      }
+        description: "",
+        tutorialEmbedCode: ""
+      },
+
+      errorMessage: ""
     };
   },
 
   async created() {
     const urlParams = new URLSearchParams(window.location.search);
 
+    // Change this default filename for each software folder if needed.
     const jsonFile =
       urlParams.get("file") || "Linear-Video-Editing.json";
 
@@ -20,24 +24,31 @@ const app = Vue.createApp({
       const response = await fetch(`./${jsonFile}`);
 
       if (!response.ok) {
-        throw new Error(`Could not load ${jsonFile}`);
+        throw new Error(
+          `Could not load ${jsonFile}. Server returned ${response.status}.`
+        );
       }
 
       const data = await response.json();
 
       if (!Array.isArray(data) || data.length === 0) {
-        throw new Error(`${jsonFile} does not contain any tutorials`);
+        throw new Error(
+          `${jsonFile} does not contain any tutorial information.`
+        );
       }
 
       this.items = data;
       this.selectedItem = data[0];
     } catch (error) {
-      console.error("Error loading JSON file:", error);
+      console.error("Error loading tutorial file:", error);
+
+      this.errorMessage =
+        "The tutorial could not be loaded. Please return to the homepage and try again.";
 
       this.selectedItem = {
         title: "Tutorial unavailable",
-        description:
-          "The tutorial could not be loaded. Please return to the homepage and try again."
+        description: "",
+        tutorialEmbedCode: ""
       };
     }
   },
@@ -45,6 +56,7 @@ const app = Vue.createApp({
   methods: {
     selectItem(item) {
       this.selectedItem = item;
+      this.errorMessage = "";
     }
   }
 });

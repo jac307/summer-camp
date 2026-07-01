@@ -31,13 +31,13 @@ The goal is to help participants build confidence with digital tools while devel
 
 ### Tutorials
 
-* 📷 [Basic Photographic Editing](tutorials/GIMP/Photographic-Editing.md)  
+* 📷 [Basic Photographic Editing](tutorials/GIMP/index.html?file=Photographic-Editing.json)  
   Learn how to import, transform, enhance, and export photographs.  
 
-* ✂️ [Digital Collage](tutorials/GIMP/Digital-Collage.md)  
+* ✂️ [Digital Collage](tutorials/GIMP/index.html?file=Digital-Collage.json)  
   Learn how to combine photographs, textures, layers, and selections to create a digital collage.  
 
-* [Digital Illustration](tutorials/GIMP/Digital-Illustration.md)  
+* [Digital Illustration](tutorials/GIMP/index.html?file=Digital-Illustration.json)  
   Learn how to use painting and erasing tools to create digital illustrations.  
 
 </div>
@@ -81,10 +81,10 @@ Participants can use Krita to sketch, create digital illustrations, develop conc
 
 ### Tutorials
 
-* 🖌️ [Intro to Digital Illustration](tutorials/Krita/Digital-Illustration.md)  
+* 🖌️ [Intro to Digital Illustration](tutorials/Krita/index.html?file=Digital-Illustration.json)  
   Learn how to create and save a project, navigate the Krita workspace, draw with the Freehand Brush tool, work with layers, and import images.  
 
-* 🌀 [Intro to Animation in Krita](tutorials/Krita/Animation.md)  
+* 🌀 [Intro to Animation in Krita](tutorials/Krita/index.html?file=Animation.json)  
   Learn how to prepare the Krita workspace for animation, create a frame-by-frame sequence, preview your work, and export the finished animation.  
 
 </div>
@@ -110,7 +110,7 @@ Pictarize can be used in two ways:
 
 ### Tutorials
 
-* [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)  
+* [Create an Augmented Reality Project](tutorials/index.html?file=Augmented-Reality.json)  
   Learn how to create a basic AR project and expand it by working with multiple image targets.  
 
 </div>
