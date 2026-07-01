@@ -1,4 +1,9 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
+
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
@@ -67,4 +72,12 @@ Try this:
 
 - What happens when you combine two shapes using modifiers?  
 - Which modifier did you like most? Why?
+
+---
+
+## What is next?
+
+Once you finish, continue with 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
+
+---
 

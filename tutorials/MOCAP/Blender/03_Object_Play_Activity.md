@@ -1,17 +1,21 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
+
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
 # 🌀 OBJECT PLAY: Build an Abstract Sculpture or Creature
 
-**Time**: 1 hour  
-**Tools**: Blender *(only use the tools covered earlier today!)*
+**Tools**: Blender *(only use the tools covered today!)*
 
 ---
 
-## ✏️ 1. Sketch First! (10–15 min)
+## ✏️ 1. Sketch First!
 
-Before you open Blender, sketch your idea on paper. Think about:
+Before you continue working in Blender, sketch your idea on paper. Take **10 minutes** to think about:
 
 - What kind of shape or creature do you want to create?  
 - Will it be geometric, organic, or weird?  
@@ -22,7 +26,7 @@ _No need to be perfect — just plan your approach!_
 
 ---
 
-## 🧱 2. Start Building in Blender (45 min)
+## 🧱 2. Start Building in Blender
 
 Use only the tools from today’s lessons:
 
@@ -48,3 +52,5 @@ Answer these questions on a piece of paper:
 - What would you name your digital sculpture?  
 - What inspired your design?  
 - Is it part of a world or a story?
+
+---

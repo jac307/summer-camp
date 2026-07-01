@@ -86,3 +86,11 @@ Go to **Top Menu** → **File** → **Save** (your file will be saved as `.blend
 
 - How does it feel to move in a 3D space?  
 - What’s harder—navigating the view or moving objects?
+
+---
+
+## What is next?
+
+Once you finish, continue with 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)  
+
+---
