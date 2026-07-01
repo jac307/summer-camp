@@ -110,7 +110,7 @@ Pictarize can be used in two ways:
 
 ### Tutorials
 
-* [Create an Augmented Reality Project](tutorials/index.html?file=Augmented-Reality.json)  
+* [Create an Augmented Reality Project](tutorials/Pictarize/index.html?file=Augmented-Reality.json)  
   Learn how to create a basic AR project and expand it by working with multiple image targets.  
 
 </div>

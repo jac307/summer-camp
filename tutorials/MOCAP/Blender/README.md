@@ -65,7 +65,7 @@ In this program, participants use 3D art to design original objects, characters,
 ## Instructor Presentation
 
 <iframe
-  src="W1_Teacher_Presentation_Slides.pdf"
+  src="img/W1_Teacher_Presentation_Slides.pdf"
   width="100%"
   height="600"
   title="Motion Capture and Animation Foundations presentation slides">
