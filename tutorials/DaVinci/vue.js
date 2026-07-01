@@ -16,7 +16,6 @@ const app = Vue.createApp({
   async created() {
     const urlParams = new URLSearchParams(window.location.search);
 
-    // Change this default filename for each software folder if needed.
     const jsonFile =
       urlParams.get("file") || "Linear-Video-Editing.json";
 
@@ -38,7 +37,17 @@ const app = Vue.createApp({
       }
 
       this.items = data;
-      this.selectedItem = data[0];
+
+      /*
+        Open the first tutorial automatically.
+
+        If the first item has children, select its first child.
+        Otherwise, select the first item itself.
+      */
+      const firstItem = data[0];
+
+      this.selectedItem =
+        firstItem.children?.[0] || firstItem;
     } catch (error) {
       console.error("Error loading tutorial file:", error);
 
@@ -57,6 +66,10 @@ const app = Vue.createApp({
     selectItem(item) {
       this.selectedItem = item;
       this.errorMessage = "";
+    },
+
+    isSelected(item) {
+      return this.selectedItem === item;
     }
   }
 });
