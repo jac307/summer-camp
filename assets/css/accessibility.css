@@ -119,3 +119,11 @@ th {
 tbody tr:nth-child(even) {
   background-color: #fafafa;
 }
+
+.tutorial-image {
+  width: 70vw;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}

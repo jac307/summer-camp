@@ -17,13 +17,9 @@ title: Motion Capture and Animation Foundations
 
 Before you continue working in Blender, sketch your idea on paper using only simple geometric shapes.
 
-A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.
+A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.  
 
-<img
-  src="imgs/primitives.png"
-  alt="Blender Primitives"
-  style="width: 70vw; max-width: 100%; height: auto; display: block; margin: 0 auto;"
->
+![Blender Primitives](imgs/primitives.png){: .tutorial-image }  
 
 For your sketch:
 
