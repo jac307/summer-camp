@@ -1,8 +1,7 @@
 ---
-
 layout: default
-title: Digital Arts Summer Camps Tutorials
-------------------------------------------
+title: "Digital Arts Summer Camps Tutorials"
+---
 
 # Digital Arts Summer Camps Tutorials
 
