@@ -3,7 +3,7 @@ layout: default
 title: "Digital Arts Summer Camps Tutorials"
 ---
 
-# Digital Arts Summer Camps @McMaster
+<h1 class="camp-heading">Digital Arts Summer Camps @McMaster</h1>
 
 Welcome to the **Digital Arts Summer Camps tutorial hub**. This website provides step-by-step guides for the software and creative tools used by children and teens participating in the summer arts programs at McMaster University.
 
