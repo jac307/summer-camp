@@ -3,9 +3,11 @@ layout: default
 title: Motion Capture and Animation Foundations
 ---
 
-[Home](../../README.md)
+[Home](../../../README.md)
 
 ---
+
+<h1 class="camp-heading">Motion Capture and Animation Foundations – Teen Arts at McMaster</h1>
 
 ## Part 1: 3D Art and Animation in Blender
 
@@ -17,21 +19,21 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 1. Introduction to Blender
 
-* 🧱 [QuickStart Blender Guide](1_QuickStart_Blender_Guide.md)
-* 🧱 [Blender Modifiers Reference Sheet](2_Blender_Modifiers.md)
-* 🌀 [Object Play: Build an Abstract Sculpture or Creature](3_Object_Play_Activity.md)
+* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)
+* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
+* 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
 
 ### 2. Character Building
 
-* 🧱 [Blender Reference: More Tools](4_Blender_Reference_More_Tools.md)
-* ✏️ [Character Sketch Activity](5_Creature_Sketch_Activity.md)
-* 👾 [Character Modelling: Session 1](6_Character_Modeling_Session_1.md)
+* 🧱 [Blender Reference: More Tools](04_Blender_Reference_More_Tools.md)
+* ✏️ [Character Sketch Activity](05_Creature_Sketch_Activity.md)
+* 👾 [Character Modelling: Session 1](06_Character_Modeling_Session_1.md)
 
 ### 3. Environment Building and Materials
 
-* 🌆 [Environment Modelling Session](7_Environment_Modeling_Session.md)
-* 💠 [Introduction to Materials](8_Intro_to_Materials.md)
-* 👾 [Character Modelling: Session 2](9_Character_Modeling_Session_2.md)
+* 🌆 [Environment Modelling Session](07_Environment_Modeling_Session.md)
+* 💠 [Introduction to Materials](08_Intro_to_Materials.md)
+* 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md)
 
 ### 4. Lighting and Cameras
 
