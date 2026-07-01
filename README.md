@@ -42,78 +42,81 @@ The goal is to help participants build confidence with digital tools while devel
 </details>
 
 <details>
-<summary><strong>DaVinci Resolve: Video Editing</strong></summary>
+<summary class="software-title"><strong>DaVinci Resolve: Video Editing</strong></summary>  
 
-[DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) is professional video-editing software used in film, television, and online media production. It combines video editing, colour correction, audio production, visual effects, and motion graphics in one platform.
+[DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) is professional video-editing software used in film, television, and online media production. It combines video editing, colour correction, audio production, visual effects, and motion graphics in one platform.  
 
-The free version includes the tools needed for most beginner and intermediate creative projects, including cutting and trimming clips, adding transitions and effects, working with multiple video layers, and creating keyframe animations.
+The free version includes the tools needed for most beginner and intermediate creative projects, including cutting and trimming clips, adding transitions and effects, working with multiple video layers, and creating keyframe animations.  
 
-<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>Download DaVinci Resolve</strong></a>
+<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>Download DaVinci Resolve</strong></a>  
 
 ### Tutorial Sections
 
-* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)  
-  Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.
+* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)    
+  Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
 
-* 🎞️ [Intro to Video Collage](tutorials/DaVinci/Video-Collage.md)
-  Learn how to combine multiple video layers, resize and position clips, apply effects and composite modes, and add text.
+* 🎞️ [Intro to Video Collage](tutorials/DaVinci/Video-Collage.md)  
+  Learn how to combine multiple video layers, resize and position clips, apply effects and composite modes, and add text.  
 
-* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/Keyframe-Animation.md)
-  Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.
+* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/Keyframe-Animation.md)  
+  Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
 
 </details>
 
 <details>
-<summary><strong>Krita: Digital Illustration and Animation</strong></summary>
+<summary class="software-title"><strong>Krita: Digital Illustration and Animation</strong></summary>  
 
-[Krita](https://krita.org/) is a free, open-source digital painting program designed for artists, illustrators, and animators. It includes professional tools for drawing, painting, working with layers, and creating frame-by-frame animation within a customizable interface.
+[Krita](https://krita.org/) is a free, open-source digital painting program designed for artists, illustrators, and animators. It includes professional tools for drawing, painting, working with layers, and creating frame-by-frame animation within a customizable interface.  
 
-Participants can use Krita to sketch, create digital illustrations, develop concept art, and animate short scenes.
+Participants can use Krita to sketch, create digital illustrations, develop concept art, and animate short scenes.  
 
-<a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>Download Krita</strong></a>
+<a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>Download Krita</strong></a>  
 
 </details>
 
 ### Tutorial Sections
 
-* 🖌️ [Intro to Digital Illustration](tutorials/Krita/Digital-Illustration.md)
-  Learn how to create and save a project, navigate the Krita workspace, draw with the Freehand Brush tool, work with layers, and import images.
+* 🖌️ [Intro to Digital Illustration](tutorials/Krita/Digital-Illustration.md)  
+  Learn how to create and save a project, navigate the Krita workspace, draw with the Freehand Brush tool, work with layers, and import images.  
 
-* 🌀 [Intro to Animation in Krita](tutorials/Krita/Animation.md)
-  Learn how to prepare the Krita workspace for animation, create a frame-by-frame sequence, preview your work, and export the finished animation.
+* 🌀 [Intro to Animation in Krita](tutorials/Krita/Animation.md)  
+  Learn how to prepare the Krita workspace for animation, create a frame-by-frame sequence, preview your work, and export the finished animation.  
 
 </details>
 
 <details>
-<summary><strong>Pictarize: Augmented Reality</strong></summary>
+<summary class="software-title"><strong>Pictarize: Augmented Reality</strong></summary>  
 
-**Augmented reality (AR)** combines digital content with the physical world. Through a smartphone or tablet, users can view images, videos, text, and sound layered over real-world objects and environments.
+**Augmented reality (AR)** combines digital content with the physical world. Through a smartphone or tablet, users can view images, videos, text, and sound layered over real-world objects and environments.  
 
-[Pictarize](https://pictarize.com/) is a browser-based tool for creating AR experiences. Users connect digital materials, such as images, videos, and sounds, to physical images called **targets**. Viewers can then point their device’s camera at a target to activate the digital content.
+[Pictarize](https://pictarize.com/) is a browser-based tool for creating AR experiences. Users connect digital materials, such as images, videos, and sounds, to physical images called **targets**. Viewers can then point their device’s camera at a target to activate the digital content.  
 
-Pictarize can be used in two ways:
+Pictarize can be used in two ways:  
 
-* **Try Out Mode:** No account is required, but projects are automatically deleted after 24 hours.
-* **Registered Account:** A free account allows users to save projects, return to them later, and organize multiple AR scenes.
+* **Try Out Mode:** No account is required, but projects are automatically deleted after 24 hours.  
+* **Registered Account:** A free account allows users to save projects, return to them later, and organize multiple AR scenes.  
 
-**Camp access note:** During the summer camps, participants will **use Try Out Mode only**. Creating a registered account requires an adult, so participants should not create personal accounts. Projects made in Try Out Mode are automatically deleted after 24 hours. Make sure to complete and document your project during the camp session.
+**Camp access note:** During the summer camps, participants will **use Try Out Mode only**. Creating a registered account requires an adult, so participants should not create personal accounts. Projects made in Try Out Mode are automatically deleted after 24 hours. Make sure to complete and document your project during the camp session.  
 
-<a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer"><strong>Access Pictarize</strong></a>
+<a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer"><strong>Access Pictarize</strong></a>  
 
+### Tutorial Sections
+
+* [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)  
+  Learn how to create a basic AR project and expand it by working with multiple image targets.  
+
+</details>
 ---
 
 ## Tutorials Teen Intensives
 
-* [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)
-  Learn how to create a basic AR project and expand it by working with multiple image targets.
-
 <details>
-<summary><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>
+<summary><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
 
-This two-week intensive program introduces high school students to the creative and technical foundations of 3D animation and motion capture. Participants begin by learning **Blender**, a free and open-source 3D creation program. They then use **Perception Neuron 3** to capture real-world movement and apply it to rigged digital characters.
+This two-week intensive program introduces high school students to the creative and technical foundations of 3D animation and motion capture. Participants begin by learning **Blender**, a free and open-source 3D creation program. They then use **Perception Neuron 3** to capture real-world movement and apply it to rigged digital characters.  
 
-* [Part 1: 3D Art and Animation in Blender](tutorials/MOCAP/Blender/README.md)
-* [Part 2: Motion Capture with Perception Neuron 3](tutorials/MOCAP/MOCAP/README.md)
+* [Part 1: 3D Art and Animation in Blender](tutorials/MOCAP/Blender/README.md)  
+* [Part 2: Motion Capture with Perception Neuron 3](tutorials/MOCAP/MOCAP/README.md)  
 
 </details>
 
