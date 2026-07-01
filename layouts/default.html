@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      Digital Arts Summer Camps Tutorials
+    {% endif %}
+  </title>
+
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/accessibility.css' | relative_url }}"
+  >
+</head>
+
+<body>
+
+  <div class="speech-controls" aria-label="Text-to-speech controls">
+    <button
+      id="speech-toggle"
+      class="speech-button"
+      type="button"
+      aria-label="Read this page aloud"
+    >
+      🔊 Read aloud
+    </button>
+
+    <button
+      id="speech-stop"
+      class="speech-button speech-stop"
+      type="button"
+      aria-label="Stop reading"
+      disabled
+    >
+      Stop
+    </button>
+  </div>
+
+  <main id="page-content">
+    {{ content }}
+  </main>
+
+  <script src="{{ '/assets/js/text-to-speech.js' | relative_url }}"></script>
+
+</body>
+</html>
