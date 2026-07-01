@@ -22,6 +22,8 @@ The goal is to help participants build confidence with digital tools while devel
 <details class="software-section">
 <summary class="software-title"><strong>GIMP: Digital Art and Image Editing</strong></summary>  
 
+<div markdown="1">
+
 [GIMP](https://www.gimp.org/) is a free, open-source image-editing program used for photography, digital collage, illustration, and graphic design. These beginner-friendly tutorials introduce the GIMP interface, layers, selections, image adjustments, filters, painting tools, and file export.  
 
 <a href="https://www.gimp.org/downloads/" target="_blank" rel="noopener noreferrer">
@@ -39,6 +41,7 @@ The goal is to help participants build confidence with digital tools while devel
 * [Digital Illustration](tutorials/GIMP/Digital-Illustration.md)  
   Learn how to use painting and erasing tools to create digital illustrations.  
 
+</div>
 </details>
 
 <details class="software-section">
