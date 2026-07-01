@@ -7,7 +7,7 @@ title: Motion Capture and Animation Foundations
 
 ---
 
-<h1 class="camp-heading">Motion Capture and Animation Foundations – Teen Arts at McMaster</h1>
+<h1 class="camp-heading">Motion Capture and Animation Foundations</h1>
 
 ## Part 1: 3D Art and Animation in Blender
 

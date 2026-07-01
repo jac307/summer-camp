@@ -13,7 +13,9 @@ title: Motion Capture with Perception Neuron 3
 
 ---
 
-# Motion Capture with Perception Neuron 3
+<h1 class="camp-heading">Motion Capture and Animation Foundations</h1>
+
+# Part 2: Motion Capture with Perception Neuron 3
 
 [Perception Neuron 3](https://www.noitom.com/perception-neuron-3) is a wireless, full-body motion-capture system. It uses small **Inertial Measurement Unit (IMU) sensors** to track body movement without requiring cameras, special lighting, or a dedicated recording studio.
 

@@ -31,13 +31,13 @@ The goal is to help participants build confidence with digital tools while devel
 
 ### Tutorials
 
-* 📷 [Basic Photographic Editing](tutorials/GIMP/Photographic-Editing.md)  
+* 📷 [Basic Photographic Editing](tutorials/GIMP/index.html?file=Photographic-Editing.json)  
   Learn how to import, transform, enhance, and export photographs.  
 
-* ✂️ [Digital Collage](tutorials/GIMP/Digital-Collage.md)  
+* ✂️ [Digital Collage](tutorials/GIMP/index.html?file=Digital-Collage.json)  
   Learn how to combine photographs, textures, layers, and selections to create a digital collage.  
 
-* [Digital Illustration](tutorials/GIMP/Digital-Illustration.md)  
+* [Digital Illustration](tutorials/GIMP/index.html?file=Digital-Illustration.json)  
   Learn how to use painting and erasing tools to create digital illustrations.  
 
 </div>
@@ -56,13 +56,13 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 ### Tutorials
 
-* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)    
+* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/index.html?file=Video-Collage.json)    
   Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
 
-* 🎞️ [Intro to Video Collage](tutorials/DaVinci/Video-Collage.md)  
+* 🎞️ [Intro to Video Collage](tutorials/DaVinci/index.html?file=Video-Collage.json)  
   Learn how to combine multiple video layers, resize and position clips, apply effects and composite modes, and add text.  
 
-* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/Keyframe-Animation.md)  
+* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/index.html?file=Keyframe-Animation.json)  
   Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
 
 </div>
@@ -81,10 +81,10 @@ Participants can use Krita to sketch, create digital illustrations, develop conc
 
 ### Tutorials
 
-* 🖌️ [Intro to Digital Illustration](tutorials/Krita/Digital-Illustration.md)  
+* 🖌️ [Intro to Digital Illustration](tutorials/Krita/index.html?file=Digital-Illustration.json)  
   Learn how to create and save a project, navigate the Krita workspace, draw with the Freehand Brush tool, work with layers, and import images.  
 
-* 🌀 [Intro to Animation in Krita](tutorials/Krita/Animation.md)  
+* 🌀 [Intro to Animation in Krita](tutorials/Krita/index.html?file=Animation.json)  
   Learn how to prepare the Krita workspace for animation, create a frame-by-frame sequence, preview your work, and export the finished animation.  
 
 </div>
@@ -110,7 +110,7 @@ Pictarize can be used in two ways:
 
 ### Tutorials
 
-* [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)  
+* [Create an Augmented Reality Project](tutorials/Pictarize/index.html?file=Augmented-Reality.json)  
   Learn how to create a basic AR project and expand it by working with multiple image targets.  
 
 </div>
@@ -120,7 +120,7 @@ Pictarize can be used in two ways:
 <h2 class="camp-heading">Teen Intensives</h2>
 
 <details class="software-section">
-<summary class="software-title"><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
+<summary class="software-title"><strong>Motion Capture and Animation Foundations</strong></summary>. 
 
 <div markdown="1">
 

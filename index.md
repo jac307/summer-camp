@@ -120,7 +120,7 @@ Pictarize can be used in two ways:
 <h2 class="camp-heading">Teen Intensives</h2>
 
 <details class="software-section">
-<summary class="software-title"><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
+<summary class="software-title"><strong>Motion Capture and Animation Foundations</strong></summary>. 
 
 <div markdown="1">
 
