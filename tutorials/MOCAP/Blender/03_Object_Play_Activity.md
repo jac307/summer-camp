@@ -19,7 +19,7 @@ Before you continue working in Blender, sketch your idea on paper using only sim
 
 A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.
 
-![Blender Primitives](imgs/axis.png)
+![Blender Primitives](imgs/primitives.png)
 
 For your sketch:
 
