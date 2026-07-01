@@ -3,7 +3,7 @@ layout: default
 title: "Digital Arts Summer Camps Tutorials"
 ---
 
-# Digital Arts Summer Camps Tutorials
+# Digital Arts Summer Camps @McMaster
 
 Welcome to the **Digital Arts Summer Camps tutorial hub**. This website provides step-by-step guides for the software and creative tools used by children and teens participating in the summer arts programs at McMaster University.
 
@@ -16,7 +16,7 @@ This website supports hands-on learning in digital arts through clear and access
 The goal is to help participants build confidence with digital tools while developing their own artistic ideas. Rather than focusing only on software skills, the activities encourage experimentation, problem-solving, storytelling, collaboration, and creative exploration.
 
 ---
-## Junior Camps
+<h2 class="camp-heading">Junior Camps</h2>
 
 <details class="software-section">
 <summary class="software-title"><strong>GIMP: Digital Art and Image Editing</strong></summary>  
@@ -29,7 +29,7 @@ The goal is to help participants build confidence with digital tools while devel
   ⬇️ Download GIMP
 </a>  
 
-### Tutorial Sections
+### Tutorials
 
 * 📷 [Basic Photographic Editing](tutorials/GIMP/Photographic-Editing.md)  
   Learn how to import, transform, enhance, and export photographs.  
@@ -54,7 +54,7 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download DaVinci Resolve</strong></a>  
 
-### Tutorial Sections
+### Tutorials
 
 * 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)    
   Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
@@ -69,7 +69,7 @@ The free version includes the tools needed for most beginner and intermediate cr
 </details>
 
 <details class="software-section">
-<summary class="software-title"><strong>⬇️ Krita: Digital Illustration and Animation</strong></summary>  
+<summary class="software-title"><strong> Krita: Digital Illustration and Animation</strong></summary>  
 
 <div markdown="1">
 
@@ -77,9 +77,9 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 Participants can use Krita to sketch, create digital illustrations, develop concept art, and animate short scenes.  
 
-<a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>Download Krita</strong></a>  
+<a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download Krita</strong></a>  
 
-### Tutorial Sections
+### Tutorials
 
 * 🖌️ [Intro to Digital Illustration](tutorials/Krita/Digital-Illustration.md)  
   Learn how to create and save a project, navigate the Krita workspace, draw with the Freehand Brush tool, work with layers, and import images.  
@@ -91,7 +91,7 @@ Participants can use Krita to sketch, create digital illustrations, develop conc
 </details>
 
 <details class="software-section">
-<summary class="software-title"><strong>🔗 Pictarize: Augmented Reality</strong></summary>  
+<summary class="software-title"><strong> Pictarize: Augmented Reality</strong></summary>  
 
 <div markdown="1">
 
@@ -106,9 +106,9 @@ Pictarize can be used in two ways:
 
 **Camp access note:** During the summer camps, participants will **use Try Out Mode only**. Creating a registered account requires an adult, so participants should not create personal accounts. Projects made in Try Out Mode are automatically deleted after 24 hours. Make sure to complete and document your project during the camp session.  
 
-<a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer"><strong>Access Pictarize</strong></a>  
+<a href="https://pictarize.com/" target="_blank" rel="noopener noreferrer"><strong>🔗 Access Pictarize</strong></a>  
 
-### Tutorial Sections
+### Tutorials
 
 * [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)  
   Learn how to create a basic AR project and expand it by working with multiple image targets.  
@@ -117,10 +117,10 @@ Pictarize can be used in two ways:
 </details>
 
 ---
-## Tutorials Teen Intensives
+<h2 class="camp-heading">Teen Intensives</h2>
 
 <details class="software-section">
-<summary><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
+<summary class="software-title"><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
 
 <div markdown="1">
 
