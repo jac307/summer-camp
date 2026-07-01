@@ -1,4 +1,9 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
+
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
@@ -23,7 +28,7 @@ Blender’s 3D space is built around three axes that define direction and positi
 
 Each axis helps you move, rotate, or scale objects with precision.
 
-![X, Y, and Z axis graph](axis.png)
+![X, Y, and Z axis graph](imgs/axis.png)
 
 
 ---
@@ -39,7 +44,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 ➡️ **MMB = Middle Mouse Button**
 
-![Mouse](mouse.jpg)
+![Mouse](imgs/mouse.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tH46sGwAFfo?si=1z2mItpdBhTSKV27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
