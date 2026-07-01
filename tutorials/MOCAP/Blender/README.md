@@ -27,7 +27,7 @@ The activities are designed to build foundational skills while encouraging creat
 * 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
 * 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
 
-### 2. Character Building
+<!-- ### 2. Character Building
 
 * 🧱 [Blender Reference: More Tools](04_Blender_Reference_More_Tools.md)
 * ✏️ [Character Sketch Activity](05_Creature_Sketch_Activity.md)
@@ -56,7 +56,7 @@ The activities are designed to build foundational skills while encouraging creat
 ### Additional Blender Resources
 
 * 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
-* 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md)
+* 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md) -->
 
 ---
 
