@@ -19,7 +19,7 @@ The goal is to help participants build confidence with digital tools while devel
 
 ## Junior Camps
 
-<details>
+<details class="software-section">
 <summary class="software-title"><strong>GIMP: Digital Art and Image Editing</strong></summary>  
 
 [GIMP](https://www.gimp.org/) is a free, open-source image-editing program used for photography, digital collage, illustration, and graphic design. These beginner-friendly tutorials introduce the GIMP interface, layers, selections, image adjustments, filters, painting tools, and file export.  
@@ -41,7 +41,7 @@ The goal is to help participants build confidence with digital tools while devel
 
 </details>
 
-<details>
+<details class="software-section">
 <summary class="software-title"><strong>DaVinci Resolve: Video Editing</strong></summary>  
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) is professional video-editing software used in film, television, and online media production. It combines video editing, colour correction, audio production, visual effects, and motion graphics in one platform.  
@@ -63,7 +63,7 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 </details>
 
-<details>
+<details class="software-section">
 <summary class="software-title"><strong>Krita: Digital Illustration and Animation</strong></summary>  
 
 [Krita](https://krita.org/) is a free, open-source digital painting program designed for artists, illustrators, and animators. It includes professional tools for drawing, painting, working with layers, and creating frame-by-frame animation within a customizable interface.  
@@ -71,8 +71,6 @@ The free version includes the tools needed for most beginner and intermediate cr
 Participants can use Krita to sketch, create digital illustrations, develop concept art, and animate short scenes.  
 
 <a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>Download Krita</strong></a>  
-
-</details>
 
 ### Tutorial Sections
 
@@ -84,7 +82,7 @@ Participants can use Krita to sketch, create digital illustrations, develop conc
 
 </details>
 
-<details>
+<details class="software-section">
 <summary class="software-title"><strong>Pictarize: Augmented Reality</strong></summary>  
 
 **Augmented reality (AR)** combines digital content with the physical world. Through a smartphone or tablet, users can view images, videos, text, and sound layered over real-world objects and environments.  
@@ -110,7 +108,7 @@ Pictarize can be used in two ways:
 
 ## Tutorials Teen Intensives
 
-<details>
+<details class="software-section">
 <summary><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
 
 This two-week intensive program introduces high school students to the creative and technical foundations of 3D animation and motion capture. Participants begin by learning **Blender**, a free and open-source 3D creation program. They then use **Perception Neuron 3** to capture real-world movement and apply it to rigged digital characters.  
