@@ -15,7 +15,11 @@ Blender is a free and open-source 3D creation suite used by artists, designers, 
 
 The activities are designed to build foundational skills while encouraging creativity, experimentation, and play.
 
-<a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download Blender</strong></a>
+<a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download Blender</strong></a>  
+
+---
+
+## Activities
 
 ### 1. Introduction to Blender
 

@@ -42,9 +42,9 @@ Each axis helps you move, rotate, or scale objects with precision.
 | Zoom                    | Scroll Wheel                     |
 
 
-➡️ **MMB = Middle Mouse Button**
+➡️ **MMB = Middle Mouse Button**  
 
-![Mouse](imgs/mouse.jpg)
+![Mouse](imgs/mouse.jpg)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tH46sGwAFfo?si=1z2mItpdBhTSKV27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -59,11 +59,11 @@ Each axis helps you move, rotate, or scale objects with precision.
 | Rotate              | R                   | Rotate object                                           |
 | Scale               | S                   | Resize object                                           |
 | Confirm / Cancel    | Left Click / Esc    | Finalize or cancel the action                           |
-| New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…         |
+| New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…          |
 
-
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENzqrkOGIRI?si=AzE8ZBnQEYlxLeh0&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8sg0nHNTTo?si=NoV9u0vGHYeP7CB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

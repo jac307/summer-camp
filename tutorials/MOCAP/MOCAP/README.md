@@ -9,7 +9,7 @@ layout: default
 title: Motion Capture with Perception Neuron 3
 ----------------------------------------------
 
-[Home](../../README.md)
+[Home](../../../README.md)
 
 ---
 
@@ -33,17 +33,17 @@ In these tutorials, you will learn how to set up the motion-capture equipment, c
 
 ---
 
-## Tutorials
+## Activities
 
 ### Setup and Calibration
 
-* ⚙️ [Perception Neuron 3 QuickStart Guide](1_QuickStart_Neuron3_Guide.md)
-* 🧍 [Posture Calibration in Axis Studio](2_Body_Callibration.md)
+* ⚙️ [Perception Neuron 3 QuickStart Guide](01_QuickStart_Neuron3_Guide.md)
+* 🧍 [Posture Calibration in Axis Studio](02_Body_Callibration.md)
 
 ### Recording and Retargeting
 
-* 🎥 [Record and Export Motion Data in Axis Studio](3_Recording_And_Exporting.md)
-* 🌀 [Retarget Motion onto a Character in Blender](4_Retargeting_Blender.md)
+* 🎥 [Record and Export Motion Data in Axis Studio](03_Recording_And_Exporting.md)
+* 🌀 [Retarget Motion onto a Character in Blender](04_Retargeting_Blender.md)
 
 ---
 
