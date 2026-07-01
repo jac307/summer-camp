@@ -5,24 +5,38 @@ title: Motion Capture and Animation Foundations
 
 [Blender Tutorials](README.md)
 
--------------------------------------------------------------------------------
+---
 
 # 🌀 OBJECT PLAY: Build an Abstract Sculpture or Creature
 
-**Tools**: Blender *(only use the tools covered today!)*
+**Goal:** Use Blender primitives and the tools covered today to design and build an original abstract sculpture or creature.
 
 ---
 
-## ✏️ 1. Sketch First!
+## ✏️ 1. Sketch with Primitive Shapes
 
-Before you continue working in Blender, sketch your idea on paper. Take **10 minutes** to think about:
+Before you continue working in Blender, sketch your idea on paper using only simple geometric shapes.
 
-- What kind of shape or creature do you want to create?  
-- Will it be geometric, organic, or weird?  
-- Is it standing, floating, or moving?  
-- What’s its mood or purpose?  
+A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.
 
-_No need to be perfect — just plan your approach!_
+![Blender Primitives](imgs/axis.png)
+
+For your sketch:
+
+- Build your sculpture or creature from basic shapes only.
+- Use circles, squares, rectangles, triangles, and ovals to represent 3D primitives.
+- Identify which Blender primitive each shape will become.
+- Show how the shapes connect, overlap, or repeat.
+- Consider whether the final form will stand, float, balance, or lean.
+
+You may label parts of your sketch, for example:
+
+- **Sphere** for the head
+- **Cylinder** for the arms
+- **Cube** for the body
+- **Cone** for spikes or horns
+
+Your sketch does not need to be detailed or realistic. Its purpose is to help you plan which primitives you will use and how you will arrange them in Blender.
 
 ---
 
@@ -30,18 +44,19 @@ _No need to be perfect — just plan your approach!_
 
 Use only the tools from today’s lessons:
 
-- Adding, deleting, and combining basic geometric shapes  
-- Moving, rotating, and scaling  
-- Modifiers: **Subdivision Surface**, **Mirror**, **Boolean**, **Solidify**, and **Array**  
+- Add, delete, and combine basic geometric primitives
+- Move, rotate, and scale objects
+- Apply modifiers: **Subdivision Surface**, **Mirror**, **Boolean**, **Solidify**, and **Array**
 
-❗**Save your work often!**
+❗ **Save your work often!**
 
 ---
 
 ## 💾 Save Your Work
 
-Save your Blender file.  
-**File name format**: `YourName_Monday.blend`
+Save your Blender file.
+
+**File name format:** `YourName_Monday.blend`
 
 ---
 
@@ -49,8 +64,10 @@ Save your Blender file.
 
 Answer these questions on a piece of paper:
 
-- What would you name your digital sculpture?  
-- What inspired your design?  
+- What would you name your digital sculpture or creature?
+- Which primitive shapes did you use?
+- How did you combine or transform the shapes?
+- What inspired your design?
 - Is it part of a world or a story?
 
 ---
