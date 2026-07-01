@@ -16,7 +16,6 @@ This website supports hands-on learning in digital arts through clear and access
 The goal is to help participants build confidence with digital tools while developing their own artistic ideas. Rather than focusing only on software skills, the activities encourage experimentation, problem-solving, storytelling, collaboration, and creative exploration.
 
 ---
-
 ## Junior Camps
 
 <details class="software-section">
@@ -27,7 +26,7 @@ The goal is to help participants build confidence with digital tools while devel
 [GIMP](https://www.gimp.org/) is a free, open-source image-editing program used for photography, digital collage, illustration, and graphic design. These beginner-friendly tutorials introduce the GIMP interface, layers, selections, image adjustments, filters, painting tools, and file export.  
 
 <a href="https://www.gimp.org/downloads/" target="_blank" rel="noopener noreferrer">
-  Download GIMP
+  ⬇️ Download GIMP
 </a>  
 
 ### Tutorial Sections
@@ -47,11 +46,13 @@ The goal is to help participants build confidence with digital tools while devel
 <details class="software-section">
 <summary class="software-title"><strong>DaVinci Resolve: Video Editing</strong></summary>  
 
+<div markdown="1">
+
 [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) is professional video-editing software used in film, television, and online media production. It combines video editing, colour correction, audio production, visual effects, and motion graphics in one platform.  
 
 The free version includes the tools needed for most beginner and intermediate creative projects, including cutting and trimming clips, adding transitions and effects, working with multiple video layers, and creating keyframe animations.  
 
-<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>Download DaVinci Resolve</strong></a>  
+<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download DaVinci Resolve</strong></a>  
 
 ### Tutorial Sections
 
@@ -64,10 +65,13 @@ The free version includes the tools needed for most beginner and intermediate cr
 * 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/Keyframe-Animation.md)  
   Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
 
+</div>
 </details>
 
 <details class="software-section">
-<summary class="software-title"><strong>Krita: Digital Illustration and Animation</strong></summary>  
+<summary class="software-title"><strong>⬇️ Krita: Digital Illustration and Animation</strong></summary>  
+
+<div markdown="1">
 
 [Krita](https://krita.org/) is a free, open-source digital painting program designed for artists, illustrators, and animators. It includes professional tools for drawing, painting, working with layers, and creating frame-by-frame animation within a customizable interface.  
 
@@ -83,10 +87,13 @@ Participants can use Krita to sketch, create digital illustrations, develop conc
 * 🌀 [Intro to Animation in Krita](tutorials/Krita/Animation.md)  
   Learn how to prepare the Krita workspace for animation, create a frame-by-frame sequence, preview your work, and export the finished animation.  
 
+</div>
 </details>
 
 <details class="software-section">
-<summary class="software-title"><strong>Pictarize: Augmented Reality</strong></summary>  
+<summary class="software-title"><strong>🔗 Pictarize: Augmented Reality</strong></summary>  
+
+<div markdown="1">
 
 **Augmented reality (AR)** combines digital content with the physical world. Through a smartphone or tablet, users can view images, videos, text, and sound layered over real-world objects and environments.  
 
@@ -106,19 +113,23 @@ Pictarize can be used in two ways:
 * [Create an Augmented Reality Project](tutorials/Augmented-Reality.md)  
   Learn how to create a basic AR project and expand it by working with multiple image targets.  
 
+</div>
 </details>
----
 
+---
 ## Tutorials Teen Intensives
 
 <details class="software-section">
 <summary><strong>Motion Capture and Animation Foundations – Teen Arts at McMaster</strong></summary>. 
+
+<div markdown="1">
 
 This two-week intensive program introduces high school students to the creative and technical foundations of 3D animation and motion capture. Participants begin by learning **Blender**, a free and open-source 3D creation program. They then use **Perception Neuron 3** to capture real-world movement and apply it to rigged digital characters.  
 
 * [Part 1: 3D Art and Animation in Blender](tutorials/MOCAP/Blender/README.md)  
 * [Part 2: Motion Capture with Perception Neuron 3](tutorials/MOCAP/MOCAP/README.md)  
 
+</div>
 </details>
 
 
