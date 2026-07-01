@@ -29,29 +29,83 @@ Follow the tutorials below and experiment with each modifier. **Save your experi
 ### Boolean  
 Combines or subtracts shapes from each other — great for holes or mashups.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCzCi2_hX3w?si=DekYCDK94lezjlbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/LCzCi2_hX3w?si=DekYCDK94lezjlbF"
+    title="How to CUT an OBJECT with another OBJECT in Blender - Boolean modifier"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Array  
 Duplicates objects in rows, circles, or repeating patterns.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L3ugGWySjI8?si=2yrrSHiEa2jW8vvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/L3ugGWySjI8?si=2yrrSHiEa2jW8vvB"
+    title="Array Modifier - Blender Tutorial for Beginners"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rTi5ApBgt8M?si=prQ5MT4OXcrPIreW&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Z7HlL2Oly8s?si=evhceP-jBbh3uTLL"
+    title="Make Circular Arrays | Blender Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Mirror  
 Automatically duplicates one half of your model to the other side.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-AxJTwHXul4?si=c_985rntlJhRuVKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/-AxJTwHXul4?si=c_985rntlJhRuVKB"
+    title="Blender Basics - Mirroring & the Mirror Modifier Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Solidify  
 Gives flat shapes some thickness. Only works with planes or other flat objects. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uvq3F8rOPTY?si=EPk1By4SpEZciQYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/uvq3F8rOPTY?si=EPk1By4SpEZciQYG"
+    title="Solidify Modifier - Blender Tutorial for Beginners "
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Subdivision Surface  
 Smooths your shape for a rounded or organic look.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NAwf0Tuuwjw?si=fF7VDjQSuZbxkkEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/NAwf0Tuuwjw?si=fF7VDjQSuZbxkkEt"
+    title="Blender Basics - Subdivision Surface Modifier"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

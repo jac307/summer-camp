@@ -19,7 +19,11 @@ Before you continue working in Blender, sketch your idea on paper using only sim
 
 A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.
 
-![Blender Primitives](imgs/primitives.png)
+<img
+  src="imgs/primitives.png"
+  alt="Blender Primitives"
+  style="width: 70vw; max-width: 100%; height: auto; display: block; margin: 0 auto;"
+>
 
 For your sketch:
 
@@ -44,6 +48,11 @@ Your sketch does not need to be detailed or realistic. Its purpose is to help yo
 
 Use only the tools from today’s lessons:
 
+* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md){:target="_blank"}  
+* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md){:target="_blank"}  
+
+You can:
+
 - Add, delete, and combine basic geometric primitives
 - Move, rotate, and scale objects
 - Apply modifiers: **Subdivision Surface**, **Mirror**, **Boolean**, **Solidify**, and **Array**
@@ -54,9 +63,11 @@ Use only the tools from today’s lessons:
 
 ## 💾 Save Your Work
 
-Save your Blender file.
+Save your Blender file.  
 
-**File name format:** `YourName_Monday.blend`
+Go to **Top Menu** → **File** → **Save** (your file will be saved as `.blend`)   
+
+**File name format:** `YourName_Monday.blend`  
 
 ---
 
