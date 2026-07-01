@@ -17,27 +17,27 @@ The goal is to help participants build confidence with digital tools while devel
 
 ---
 
-## Tutorials Junior Camps
+## Junior Camps
 
 <details>
-<summary><strong>GIMP: Digital Art and Image Editing</strong></summary>
+<summary class="software-title"><strong>GIMP: Digital Art and Image Editing</strong></summary>  
 
-[GIMP](https://www.gimp.org/) is a free, open-source image-editing program used for photography, digital collage, illustration, and graphic design. These beginner-friendly tutorials introduce the GIMP interface, layers, selections, image adjustments, filters, painting tools, and file export.
+[GIMP](https://www.gimp.org/) is a free, open-source image-editing program used for photography, digital collage, illustration, and graphic design. These beginner-friendly tutorials introduce the GIMP interface, layers, selections, image adjustments, filters, painting tools, and file export.  
 
 <a href="https://www.gimp.org/downloads/" target="_blank" rel="noopener noreferrer">
   Download GIMP
-</a>
+</a>  
 
 ### Tutorial Sections
 
-* 📷 [Basic Photographic Editing](tutorials/GIMP/Photographic-Editing.md)
-  Learn how to import, transform, enhance, and export photographs.
+* 📷 [Basic Photographic Editing](tutorials/GIMP/Photographic-Editing.md)  
+  Learn how to import, transform, enhance, and export photographs.  
 
-* ✂️ [Digital Collage](tutorials/GIMP/Digital-Collage.md)
-  Learn how to combine photographs, textures, layers, and selections to create a digital collage.
+* ✂️ [Digital Collage](tutorials/GIMP/Digital-Collage.md)  
+  Learn how to combine photographs, textures, layers, and selections to create a digital collage.  
 
-* [Digital Illustration](tutorials/GIMP/Digital-Illustration.md)
-  Learn how to use painting and erasing tools to create digital illustrations.
+* [Digital Illustration](tutorials/GIMP/Digital-Illustration.md)  
+  Learn how to use painting and erasing tools to create digital illustrations.  
 
 </details>
 
@@ -52,7 +52,7 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 ### Tutorial Sections
 
-* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)
+* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)  
   Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.
 
 * 🎞️ [Intro to Video Collage](tutorials/DaVinci/Video-Collage.md)
@@ -71,6 +71,8 @@ The free version includes the tools needed for most beginner and intermediate cr
 Participants can use Krita to sketch, create digital illustrations, develop concept art, and animate short scenes.
 
 <a href="https://krita.org/en/download/" target="_blank" rel="noopener noreferrer"><strong>Download Krita</strong></a>
+
+</details>
 
 ### Tutorial Sections
 
