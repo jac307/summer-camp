@@ -56,13 +56,13 @@ The free version includes the tools needed for most beginner and intermediate cr
 
 ### Tutorials
 
-* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/Linear-Video-Editing.md)    
+* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/index.html?file=Video-Collage.json)    
   Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
 
-* 🎞️ [Intro to Video Collage](tutorials/DaVinci/Video-Collage.md)  
+* 🎞️ [Intro to Video Collage](tutorials/DaVinci/index.html?file=Video-Collage.json)  
   Learn how to combine multiple video layers, resize and position clips, apply effects and composite modes, and add text.  
 
-* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/Keyframe-Animation.md)  
+* 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/index.html?file=Keyframe-Animation.json)  
   Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
 
 </div>
