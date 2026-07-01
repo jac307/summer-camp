@@ -39,6 +39,29 @@
         border-right: 1px solid #cccccc;
       }
 
+      .tutorial-section-title {
+        margin-top: 8px;
+        border-top: 1px solid #cccccc;
+        border-bottom: 1px solid #cccccc;
+        background: #f2f2f2;
+        font-weight: 700;
+      }
+
+      .tutorial-section-title:first-child {
+        margin-top: 0;
+      }
+
+      .tutorial-child {
+        min-height: 52px;
+        padding-left: 30px;
+        border-bottom: 1px solid #eeeeee;
+      }
+
+      .tutorial-child:hover,
+      .tutorial-section-title:hover {
+        background: #e8e8e8;
+      }
+
       .tutorial-content {
         max-width: 1200px;
         margin: 0 auto;
@@ -56,6 +79,16 @@
         font-weight: 600;
       }
 
+      /*
+        Allows long tutorial titles to wrap instead of
+        being cut off inside the navigation.
+      */
+      .tutorial-drawer .v-list-item-title {
+        overflow: visible;
+        white-space: normal;
+        line-height: 1.35;
+      }
+
       @media (max-width: 800px) {
         .tutorial-frame {
           height: 500px;
@@ -67,6 +100,7 @@
   <body>
     <div id="app">
       <v-app>
+
         <!-- Permanent left navigation -->
         <v-navigation-drawer
           permanent
@@ -75,38 +109,41 @@
           aria-label="Tutorial navigation"
         >
           <v-list nav>
+
             <template
               v-for="(item, index) in items"
               :key="index"
             >
-              <!-- Tutorial category with children -->
-              <v-list-group
-                v-if="item.children"
-                :value="item.title"
-              >
-                <template #activator="{ props }">
-                  <v-list-item
-                    v-bind="props"
-                    :title="item.title"
-                    @click="selectItem(item)"
-                  ></v-list-item>
-                </template>
+
+              <!-- Section containing multiple tutorials -->
+              <div v-if="item.children">
+
+                <v-list-item
+                  :title="item.title"
+                  class="tutorial-section-title"
+                  @click="selectItem(item)"
+                ></v-list-item>
 
                 <v-list-item
                   v-for="(child, childIndex) in item.children"
                   :key="childIndex"
                   :title="child.title"
+                  class="tutorial-child"
                   @click="selectItem(child)"
                 ></v-list-item>
-              </v-list-group>
 
-              <!-- Tutorial without children -->
+              </div>
+
+              <!-- Individual item without children -->
               <v-list-item
                 v-else
                 :title="item.title"
+                class="tutorial-child"
                 @click="selectItem(item)"
               ></v-list-item>
+
             </template>
+
           </v-list>
         </v-navigation-drawer>
 
@@ -128,7 +165,9 @@
         <!-- Main tutorial area -->
         <v-main>
           <v-container class="pa-4 tutorial-content">
+
             <v-card variant="outlined">
+
               <v-card-text
                 v-if="selectedItem?.description"
                 v-html="selectedItem.description"
@@ -159,9 +198,12 @@
                 sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-downloads allow-modals allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
                 allowfullscreen
               ></iframe>
+
             </v-card>
+
           </v-container>
         </v-main>
+
       </v-app>
     </div>
 
