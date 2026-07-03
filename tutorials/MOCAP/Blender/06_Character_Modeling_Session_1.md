@@ -26,26 +26,6 @@ Follow the steps in order and save your work regularly.
 
 ---
 
-## 🧍 Model Your Character in a T-Pose
-
-Your character must be modelled in a **T-pose** so it can be prepared for rigging, motion capture, and animation later.
-
-A T-pose is a neutral position in which the character:
-
-- Faces forward
-- Stands upright
-- Extends both arms horizontally to the sides
-- Keeps space between the arms and the torso
-- Keeps both legs separated
-- Keeps the head centred and facing forward
-- Avoids overlapping body parts
-
-![T-Pose](imgs/Tpose.jpg){: .tutorial-image }
-
-Use the front, side, and perspective views to check that the character is balanced in three-dimensional space.
-
----
-
 ## First, Review Your Sketch
 
 Look at your character drawing and its breakdown into geometric shapes.
@@ -55,7 +35,6 @@ Ask yourself:
 - What is the main shape of the torso?
 - Which shapes will become the head, arms, hands, legs, and feet?
 - Is the character mostly symmetrical?
-- Can its personality still be recognized while it is standing in a T-pose?
 - Is the character more geometric or more organic?
 
 Choose one of the following approaches:
@@ -70,11 +49,9 @@ Choose one of the following approaches:
 - Use **Path A** for robots, abstract beings, and characters made from separate geometric parts.
 - Use **Path B** for humanoid, animal-like, or organic characters with connected limbs.
 - Begin with the largest body parts before adding smaller features.
-- Model only one side when using the **Mirror Modifier**.
 - Keep your model low-poly and simple.
-- Check the character from the front, side, and back.
-- Do not add a complex pose yet. Keep the character in a T-pose.
-- Ask for help when choosing a modelling method or applying a modifier.
+- Keep the character in a T-pose.
+- **Ask for help when choosing a modelling method or applying a modifier.**
 
 ---
 
@@ -184,6 +161,8 @@ The **Mirror Modifier** is especially helpful for maintaining a symmetrical T-po
 </div>
 </details>
 
+---
+
 <details class="software-section">
 <summary class="software-title"><strong># 🅱️ Path B: Organic Modelling with the Skin Modifier</strong></summary>  
 
@@ -279,30 +258,6 @@ Before continuing, make sure:
 
 ---
 
-## ✅ Final Model Check
-
-Before saving, check your character from several angles.
-
-### T-Pose
-
-- Is the character standing upright?
-- Are both arms extended horizontally?
-- Is there space between the arms and torso?
-- Are the legs separated?
-- Is the head facing forward?
-- Are the left and right sides balanced?
-
-### Character Design
-
-- Does the model resemble your original sketch?
-- Is the silhouette easy to recognize?
-- Are the proportions intentional?
-- Can you identify the character’s personality or identity?
-- Are the main body parts easy to distinguish?
-- Have you avoided unnecessary details?
-
----
-
 ## 💾 File Saving
 
 1. Go to **File → Save As**.
@@ -310,7 +265,7 @@ Before saving, check your character from several angles.
 
    `YourName_Tuesday.blend`
 
-3. Save the file to your assigned class folder or USB.
+3. Save the file to your assigned class folder.
 4. Confirm that the file opens correctly before closing Blender.
 
 ---
