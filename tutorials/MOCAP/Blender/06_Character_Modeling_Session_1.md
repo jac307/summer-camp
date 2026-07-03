@@ -57,7 +57,6 @@ Choose one of the following approaches:
 
 <details class="software-section">
 <summary class="software-title"><strong>🅰️ Path A: Geometric Modelling with Basic Shapes and Modifiers</strong></summary>  
-<summary> Best for: <strong>robots, abstract beings, and simple creatures made from separate shapes</strong></summary> 
 
 <div markdown="1">
 
@@ -67,14 +66,29 @@ Review your sketch and decide which primitive will represent each body part.
 
 For example:
 
-- Sphere for the head
-- Cube or sphere for the torso
-- Cylinders for the arms and legs
-- Smaller spheres for joints
-- Cubes or flattened spheres for hands and feet
-- Cones for horns, ears, spikes, or other features
+- Sphere = Head
+- Cube or sphere = Torso
+- Cylinders = Arms and Legs
+- Smaller spheres = Joints
+- Cubes or flattened spheres = Hands and Feet
+- Cones = Horns, Ears, Spikes, or other features
 
 Begin with the torso because it will help you position the rest of the body.
+
+---
+
+## Tutorial
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/zRsLUXSTN_U?si=mbwgRH-vGkSSFE1G"
+    title="Geometric character modelling tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -142,52 +156,36 @@ Do not bend the elbows, knees, or torso during this session.
 
 The **Mirror Modifier** is especially helpful for maintaining a symmetrical T-pose.
 
----
-
-## Tutorial
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/zRsLUXSTN_U?si=mbwgRH-vGkSSFE1G"
-    title="Geometric character modelling tutorial"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
 </div>
 </details>
 
 ---
 
 <details class="software-section">
-<summary class="software-title"><strong># 🅱️ Path B: Organic Modelling with the Skin Modifier</strong></summary>  
+<summary class="software-title"><strong>🅱️ Path B: Organic Modelling with the Skin Modifier</strong></summary>  
 
 <div markdown="1">
 
-> Best for: **humanoid or animal-like characters with connected limbs**
+## Step 1: Plan the Character Structure
 
-In this method, you will build a simple line-like structure from connected vertices. The **Skin Modifier** will wrap a three-dimensional surface around this structure.
+Use your sketch to identify the central structure of the character: Head, Neck, Torso, Shoulders, Arms, Hands, Hips, Legs, and Feet.  
+
+Begin with the centre of the body, then extend outward toward the arms and legs.
 
 ---
 
-## Step 1: Plan the Character Structure
+## Tutorial
 
-Use your sketch to identify the central structure of the character:
-
-- Head
-- Neck
-- Torso
-- Shoulders
-- Arms
-- Hands
-- Hips
-- Legs
-- Feet
-
-Begin with the centre of the body, then extend outward toward the arms and legs.
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75"
+    title="Organic character modelling with the Skin Modifier"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -236,21 +234,6 @@ Before continuing, make sure:
 - The body is symmetrical
 - The character faces forward
 - The elbows and knees are not bent
-
----
-
-## Tutorial
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75"
-    title="Organic character modelling with the Skin Modifier"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
 
 </div>
 </details>
