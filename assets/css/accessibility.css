@@ -127,3 +127,16 @@ tbody tr:nth-child(even) {
   display: block;
   margin: 1rem auto;
 }
+
+.path-description {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 400;
+  color: #555555;
+}
+
+details[open] .path-description {
+  display: none;
+}

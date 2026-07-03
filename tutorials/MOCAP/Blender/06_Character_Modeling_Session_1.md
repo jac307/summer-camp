@@ -62,6 +62,7 @@ Choose one of the following approaches:
 <details class="software-section">
 <summary class="software-title">
   <strong>🅰️ Path A: Geometric Modelling with Basic Shapes and Modifiers</strong>
+  <br>
   <span class="path-description">
     Best for robots, abstract beings, and characters built from separate geometric shapes.
   </span>
@@ -173,6 +174,7 @@ The **Mirror Modifier** is especially helpful for maintaining a symmetrical T-po
 <details class="software-section">
 <summary class="software-title">
   <strong>🅱️ Path B: Organic Modelling with the Skin Modifier</strong>
+  <br>
   <span class="path-description">
     Best for humanoid, animal-like, or organic characters with connected limbs and curved forms.
   </span>
