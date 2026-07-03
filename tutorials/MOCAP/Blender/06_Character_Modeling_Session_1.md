@@ -15,6 +15,10 @@ title: Motion Capture and Animation Foundations
 
 Translate your character sketch into a 3D model in Blender using one of the modelling approaches introduced in class.
 
+* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)  
+* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)  
+* 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md)  
+
 Focus on:
 
 - Building your character in a clear **T-pose**
