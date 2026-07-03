@@ -27,36 +27,36 @@ The activities are designed to build foundational skills while encouraging creat
 * 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
 * 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
 
-### 2. Character Building
+<!-- ### 2. Character Building
 
 * ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
 * 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md)
-* 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md)
+* 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md) -->
 
-### 3. Environment Building and Materials
+<!-- ### 3. Environment Building and Materials
 
 * 🌆 [Environment Modelling Session](07_Environment_Modeling_Session.md)
 * 💠 [Introduction to Materials](08_Intro_to_Materials.md)
-* 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md)
+* 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md) -->
 
-### 4. Lighting and Cameras
+<!-- ### 4. Lighting and Cameras
 
-* 💡 [Lighting and Camera](10_Lighting_Camera.md)
+* 💡 [Lighting and Camera](10_Lighting_Camera.md) -->
 
-### 5. Rigging
+<!-- ### 5. Rigging
 
 * 🦴 [Introduction to Armatures and Rigging](11_Intro_to_Armatures.md)
-* 🖍️ [Tips for Weight Painting in Blender](14_Weight_Painting.md)
+* 🖍️ [Tips for Weight Painting in Blender](14_Weight_Painting.md) -->
 
-### 6. Animation
+<!-- ### 6. Animation
 
 * 🕹️ [Camera Animation Basics](12_Camera_Animation_Basics.md)
-* 🕹️ [Mesh Animation Basics](13_Mesh_Animation_Basics.md)
+* 🕹️ [Mesh Animation Basics](13_Mesh_Animation_Basics.md) -->
 
-### Additional Blender Resources
+<!-- ### Additional Blender Resources
 
 * 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
-* 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md)
+* 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md) -->
 
 ---
 

@@ -15,9 +15,9 @@ title: Motion Capture and Animation Foundations
 
 Translate your character sketch into a 3D model in Blender using one of the modelling approaches introduced in class.
 
-* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)  
-* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)  
-* 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md)  
+* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md){:target="_blank"}   
+* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md){:target="_blank"}   
+* 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md){:target="_blank"}   
 
 Focus on:
 
@@ -60,7 +60,12 @@ Choose one of the following approaches:
 ---
 
 <details class="software-section">
-<summary class="software-title"><strong>🅰️ Path A: Geometric Modelling with Basic Shapes and Modifiers</strong></summary>  
+<summary class="software-title">
+  <strong>🅰️ Path A: Geometric Modelling with Basic Shapes and Modifiers</strong>
+  <span class="path-description">
+    Best for robots, abstract beings, and characters built from separate geometric shapes.
+  </span>
+</summary>
 
 <div markdown="1">
 
@@ -166,7 +171,12 @@ The **Mirror Modifier** is especially helpful for maintaining a symmetrical T-po
 ---
 
 <details class="software-section">
-<summary class="software-title"><strong>🅱️ Path B: Organic Modelling with the Skin Modifier</strong></summary>  
+<summary class="software-title">
+  <strong>🅱️ Path B: Organic Modelling with the Skin Modifier</strong>
+  <span class="path-description">
+    Best for humanoid, animal-like, or organic characters with connected limbs and curved forms.
+  </span>
+</summary>
 
 <div markdown="1">
 
