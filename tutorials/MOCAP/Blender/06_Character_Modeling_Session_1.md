@@ -57,10 +57,9 @@ Choose one of the following approaches:
 
 <details class="software-section">
 <summary class="software-title"><strong>🅰️ Path A: Geometric Modelling with Basic Shapes and Modifiers</strong></summary>  
+<summary> Best for: <strong>robots, abstract beings, and simple creatures made from separate shapes</strong></summary> 
 
 <div markdown="1">
-
-> Best for: **robots, abstract beings, and simple creatures made from separate shapes**
 
 ## Step 1: Identify the Main Shapes
 
