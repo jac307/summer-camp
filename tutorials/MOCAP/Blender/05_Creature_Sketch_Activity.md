@@ -1,60 +1,124 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
+
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
-# ✏️ Character Sketch Activity
+# ✏️ Character Design Activity
 
-**Activity:** Draw Your Ideal Character 
-
----
-
-## 🎯 Goal  
-Design a creature or character that express personality or emotion.  
-You’ll build this in Blender today, so keep your ideas clear and **not too detailed**.
+**Activity:** Sketch a character using basic geometric shapes. Explore its silhouette, proportions, personality, and overall design.
 
 ---
 
-## 🔍 Step 1: Brainstorm (3–5 min)
+## 🎯 Goal
 
-Use a piece of paper to answer the following:
+Design a creature or character that expresses a clear personality, emotion, or identity.
 
-- What is your character’s name?  
-- What kind of being is it? (Animal, robot, alien, blob?)  
-- What’s one emotion or personality trait it has?  
-- Is it from a certain place? (Desert, dream world, underwater?)  
+You will build this character in Blender today, so keep the design clear, manageable, and **not too detailed**.
 
----
-
-## 🎨 Step 2: Sketch Your Character (15–20 min)
-
-Sketch your character on a piece of paper. Focus on:
-
-- Basic body shape (round? tall? jagged?)  
-- 2–3 key features: big eyes? horns? one leg?  
-- Clear silhouette — can you recognize it from the outline alone?
-
-![Character Design](character-design.png)
-
-**❗ Try to avoid:**
-
-- Too much detail like fingers, fur, or tiny features  
-- Complex limbs or overlapping parts (they’re hard to model quickly!)
+Your drawing will also help you plan the character’s body parts before modelling them in 3D.
 
 ---
 
-## ✏️ Step 3: Add Notes
+## 🔍 Step 1: Brainstorm Your Character (3–5 min)
 
-Next to your drawing, add relevant notes answering these questions:
+On a piece of paper, briefly answer these questions:
 
-- What kind of movement or pose do you imagine?  
-- Does your character have a catchphrase or sound?  
-- What inspired your idea? 
-- Any other ideas? Texture? Light? Color?
+- What is your character’s name?
+- What kind of being is it: an animal, robot, alien, creature, blob, or something else?
+- What is one important emotion or personality trait it has?
+- Where does it come from: a desert, dream world, underwater city, another planet, or somewhere else?
+- What makes it different from other characters?
+
+---
+
+## 🎨 Step 2: Sketch Your Character in a T-Pose (15–20 min)
+
+Draw your character from the front in a **T-pose**.
+
+A **T-pose** is a neutral position used when preparing characters for 3D modelling and animation. The character stands upright with both arms extended horizontally, creating the shape of the letter **T**.
+
+![T-Pose](imgs/Tpose.jpg){: .tutorial-image }
+
+Your character should have:
+
+- Both arms extended straight out to the sides
+- Both legs separated, with visible space between them
+- The head facing forward
+- The full body visible from head to feet
+- A clear and mostly symmetrical pose
+- No body parts overlapping
+
+Keep the body easy to understand by building it from basic geometric shapes, such as:
+
+- Circles or spheres for the head and joints
+- Rectangles or cubes for the torso
+- Cylinders for the arms and legs
+- Cones for horns, ears, spikes, or other features
+
+Focus on:
+
+- The main body shape: round, tall, wide, angular, soft, or unusual
+- The proportions of the head, torso, arms, and legs
+- Two or three important features that communicate personality
+- A clear silhouette that can be recognized from the outline alone
+
+![Character Design](imgs/character-design.png){: .tutorial-image }
+
+### ❗ Try to avoid:
+
+- Fingers, fur, scales, or other tiny details
+- Complicated clothing
+- Limbs crossing in front of the body
+- Arms touching the torso
+- Legs touching each other
+- Complex or overlapping shapes
+- Features that would be difficult to model quickly
+
+---
+
+## ✏️ Step 3: Add Design Notes
+
+Add labels and short notes around your drawing.
+
+Include:
+
+- The geometric shapes you plan to use for each body part
+- The character’s personality or main emotion
+- The type of movement you imagine for the character
+- A catchphrase, voice, sound, or way of communicating
+- The colours or textures you might use
+- The inspiration behind the design
+- Any additional ideas for the character’s world or story
+
+---
+
+## 🗣️ Character Pitch Activity
+
+You will have approximately **two minutes** to introduce your character to the class.
+
+Your drawing will be projected while you present.
+
+Briefly explain:
+
+- Your character’s name
+- What kind of being it is
+- Its personality, emotion, or special ability
+- Where it comes from
+- The main geometric shapes you will use to build it in Blender
+- The design feature that makes it unique
+
+You do not need to explain every detail. Focus on the most important parts of your idea.
 
 ---
 
 ## 📝 Reflection
 
-**What makes your creature unique?**  
-You’ll present your drawing briefly before jumping into Blender modeling!
+After you finish modelling, consider:
 
+**What makes your character recognizable and unique?**
+
+**Which parts of your drawing may need to change when you build the character in 3D?**

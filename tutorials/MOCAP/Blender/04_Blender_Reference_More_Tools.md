@@ -1,19 +1,21 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
+
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
-# 🧱 Blender Reference - More Tools  
+# 🧱 Blender Reference—Character-Building Tools  
 
-**Activity**: Interface & Object Manipulation
-
----
-
-## 🎯 Objective  
-Learn additional Blender tools that help refine your character’s shape and structure. You’ll explore how to join shapes, edit with vertices, and use new modifiers to add more definition and creativity to your design.
+**Activity**: Blender Reference—Character-Building Tools
 
 ---
 
-### Tools (✨New Options)
+## Quick Reference
+
+### Tools
 
 | Tool                      | Shortcut               | Use for...                               |
 |---------------------------|------------------------|------------------------------------------|
@@ -29,7 +31,7 @@ Learn additional Blender tools that help refine your character’s shape and str
 | ✨Undo                    | `Ctrl + Z`             | Undo steps/actions                       |
 | ✨Delete                  | `X`                    | Deletes an object/vertice/edge/phase                            |
 
-### Modifiers (✨New Options)
+### Modifiers
 
 | Modifier              | How to access   | Use for...                     |
 |-----------------------|-----------------|--------------------------------|
@@ -40,16 +42,84 @@ Learn additional Blender tools that help refine your character’s shape and str
 | Solidify              | Modifiers Tab   | Gives flat shapes a thickness  |
 | ✨Wireframe Modifier  | Modifiers Tab   | Start with a line “skeleton”   |
 
-#### Tutorials
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fuddZUv7MzA?si=FJaeF0xyqXQCo51u&amp;start=113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Proportional Editing  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Proportional editing allows you to move groups of mesh anatomy or actual objects themselves and affect the objects around them in a sphere of influence.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9gn_1V1sCS8?si=ZWJ2m8zSvTYSyMyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/fuddZUv7MzA?si=FJaeF0xyqXQCo51u&amp;start=113"
+    title="Proportional Editing [Blender 2.8]"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Join/Unjoin objects  
 
+Learn how to join two or more object and also how to unjoin them.  
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/9zsoeV85yUk?si=S4OSa2sUklpqjNKo"
+    title="How to unjoin objects in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Round Edges  
+
+Round the edges on any shape.  
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9"
+    title="How To Make Round Edges In Blender - Full Guide"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Object Origins 
+
+What object origins are in Blender, and how to edit and use them.  
+
+Round the edges on any shape. 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/9gn_1V1sCS8?si=ZWJ2m8zSvTYSyMyk"
+    title="Understanding Object Origins in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Wireframe Modifier  
+
+The wireframe modifier is used to create a wireframe outline of the mesh. The wireframe width and offset can be adjusted and we can apply a material to the wireframe.  
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/FPLhz2X3axo?si=WQ7jD-3iiHGdHy1b"
+    title="Blender Wireframe Modifier Tutorial (Micro Tip)"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
