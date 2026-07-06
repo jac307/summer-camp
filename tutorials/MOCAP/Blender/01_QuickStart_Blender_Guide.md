@@ -70,6 +70,7 @@ Each axis helps you move, rotate, or scale objects with precision.
 | Scale               | S                   | Resize object                                           |
 | Confirm / Cancel    | Left Click / Esc    | Finalize or cancel the action                           |
 | New Mesh            | Shift + A           | Add a new mesh: plane, cube, cylinder, sphere…          |
+| Delete Mesh         | Select + X          | Delete a mesh                                           |
 | Go back             | Cmd + Z             | Undo steps                                              |
 
 ### Blender tutorial for beginners : Move, Rotate and Scale
