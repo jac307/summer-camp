@@ -25,10 +25,6 @@ Identify:
 - Which parts need to be moved, rotated, or scaled
 - Whether your sculpture or creature will stand, float, balance, or lean
 
-A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses.
-
-![Blender Primitives](imgs/primitives.png){: .tutorial-image }
-
 Keep your sketch beside you while you work. You may change your design as you experiment in Blender, but try to preserve its main mood, story, or purpose.
 
 ---
@@ -49,3 +45,20 @@ You can:
 Begin with the largest or most important shape, then add the smaller parts.
 
 ❗ **Save your work often!**
+
+- Go to **Top Menu** → **File** → **Save** (your file will be saved as .blend)    
+- **File name format:** YourName_Monday.blend 
+
+--- 
+
+## 📝 Reflection 
+
+Answer these questions on a piece of paper:
+
+- What changed when you translated your paper sketch into a 3D model?  
+- Which parts of your original design were easy to recreate in Blender?  
+- Which parts were difficult or not possible to build with the tools you learned today?  
+- What did you simplify, remove, or redesign during the modelling process?  
+- What would you change if you continued working on the design?  
+
+---

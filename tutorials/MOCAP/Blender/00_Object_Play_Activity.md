@@ -7,14 +7,16 @@ title: Motion Capture and Animation Foundations
 
 ---
 
-# 🌀 Object Play I: Sketch an Abstract Sculpture or Creature
+# 🌀 Object Play I: Sketch a Blocky Abstract Sculpture or Creature
 
 **Time:** 20 minutes  
 **Materials:** Paper and pencil
 
 ## 🎯 Goal
 
-Use only basic geometric shapes to design an abstract sculpture or creature that communicates a story, mood, or purpose.
+Use simple geometric shapes to design a **blocky, abstract sculpture or creature** that communicates a story, mood, or purpose.
+
+Your design should not look realistic. Keep the main shapes visible and easy to recognize so you can rebuild them in Blender using only **primitives**.
 
 ---
 
@@ -31,9 +33,11 @@ Examples include:
 - Torus
 - Plane
 
-Complex objects can be created by combining, resizing, rotating, repeating, and overlapping these basic forms.
+![Blender Primitives](imgs/primitives.png){: .tutorial-image }
 
-![Blender Primitives](imgs/primitives.png){: .tutorial-image }  
+Complex forms can be created by combining, resizing, rotating, repeating, and overlapping these basic shapes.
+
+For this activity, focus mainly on **cubes, rectangular forms, cylinders, and other bold geometric shapes**. Your design should look solid, simplified, and blocky rather than smooth or realistic.
 
 ---
 
@@ -41,8 +45,8 @@ Complex objects can be created by combining, resizing, rotating, repeating, and 
 
 Select one direction for your design:
 
-- [ ] An abstract sculpture
-- [ ] An imaginary creature
+- [ ] A blocky abstract sculpture
+- [ ] A geometric imaginary creature
 - [ ] A mysterious object
 - [ ] A machine or invention
 - [ ] Something else: __________________________
@@ -60,43 +64,54 @@ Choose one quality you want your design to communicate:
 
 ---
 
-## 2. Plan with Shapes — 4 minutes
+## 2. Plan with Blocky Shapes — 4 minutes
 
-Which geometric shapes could you use?
+Break your idea into a small number of simple geometric parts.
 
 | Part of the design | Shape or primitive |
 |---|---|
 | Main body or central form | ________________________ |
-| Top or head | ________________________ |
+| Top, head, or upper section | ________________________ |
 | Sides, arms, or extensions | ________________________ |
 | Base, legs, or support | ________________________ |
 | Repeated or decorative parts | ________________________ |
+
+Try to use no more than **five or six main shapes**.
 
 ---
 
 ## 3. Sketch Your Design — 10 minutes
 
-Draw your sculpture or creature using only basic geometric shapes.
+Draw your sculpture or creature using only bold geometric shapes.
+
+Your design should be:
+
+- **Abstract** rather than realistic
+- **Blocky** rather than smooth or detailed
+- Built from clearly visible geometric parts
+- Simple enough to recreate in Blender
+- Recognizable from its overall silhouette
 
 As you sketch, think about:
 
 - Which shape will be the largest?
-- How will the shapes connect or overlap?
+- Which parts will be cubes, cylinders, cones, or spheres?
+- How will the shapes connect, overlap, stack, or repeat?
 - Will the design stand, float, lean, or balance?
-- Will any shapes repeat?
-- How will the silhouette communicate its mood?
-- Can the design be understood from its outline?
+- Will the design feel heavy, light, stable, or unstable?
+- How can the arrangement of shapes communicate a mood or story?
 
 Label the main shapes in your drawing.
 
 For example:
 
-- **Sphere**
 - **Cube**
+- **Rectangular block**
 - **Cylinder**
 - **Cone**
+- **Sphere**
 
-Your drawing does not need to be realistic or perfectly detailed. It is a plan for building your idea in Blender.
+Your drawing does not need realistic anatomy, facial details, fingers, fur, clothing, or complex textures. The geometric shapes should remain visible in the final design.
 
 ---
 
@@ -114,17 +129,19 @@ ________________________________________________
 ________________________________________________  
 ________________________________________________
 
-**The most important shape in my design is:**  
+**The most important geometric shape in my design is:**  
 ________________________________________________
 
 ---
 
-## ✅ Final Check
+## ❗ Avoid
 
-Before finishing, make sure:
+- Realistic human or animal anatomy
+- Detailed faces
+- Fingers, hair, fur, scales, or clothing
+- Thin or complicated parts
+- Too many small shapes
+- Designs that depend on smooth organic surfaces
+- Details that would be difficult to build quickly in Blender
 
-- [ ] I used basic geometric shapes.
-- [ ] I labelled the main shapes.
-- [ ] My design has a clear silhouette.
-- [ ] My design communicates a mood, story, or purpose.
-- [ ] The design is simple enough to build in Blender.
+---
