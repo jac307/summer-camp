@@ -23,6 +23,7 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 1. Introduction to Blender
 
+* 🌀 [Object Play I: Sketch an Abstract Sculpture or Creature](00_Object_Play_Activity.md)
 * 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)
 * 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
 * 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)

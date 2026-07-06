@@ -7,40 +7,33 @@ title: Motion Capture and Animation Foundations
 
 ---
 
-# 🌀 OBJECT PLAY: Build an Abstract Sculpture or Creature
+# 🌀 OBJECT PLAY II: Build Your Abstract Sculpture or Creature in Blender
 
-**Goal:** Use Blender primitives and the tools covered today to design and build an original abstract sculpture or creature.
-
----
-
-## ✏️ 1. Sketch with Primitive Shapes
-
-Before you continue working in Blender, sketch your idea on paper using only simple geometric shapes.
-
-A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses. More complex objects can be created by combining, resizing, rotating, and overlapping these simple forms.  
-
-![Blender Primitives](imgs/primitives.png){: .tutorial-image }  
-
-For your sketch:
-
-- Build your sculpture or creature from basic shapes only.
-- Use circles, squares, rectangles, triangles, and ovals to represent 3D primitives.
-- Identify which Blender primitive each shape will become.
-- Show how the shapes connect, overlap, or repeat.
-- Consider whether the final form will stand, float, balance, or lean.
-
-You may label parts of your sketch, for example:
-
-- **Sphere** for the head
-- **Cylinder** for the arms
-- **Cube** for the body
-- **Cone** for spikes or horns
-
-Your sketch does not need to be detailed or realistic. Its purpose is to help you plan which primitives you will use and how you will arrange them in Blender.
+**Goal:** Translate the sketch you created in **Object Play I** into a 3D sculpture or creature using Blender primitives and the tools covered today.
 
 ---
 
-## 🧱 2. Start Building in Blender
+## ✏️ Review Your Sketch
+
+Before you begin modelling, look closely at the sketch you created in **Object Play I**.
+
+Identify:
+
+- The main primitive shapes in your design
+- Which shape you will build first
+- How the shapes connect, overlap, or repeat
+- Which parts need to be moved, rotated, or scaled
+- Whether your sculpture or creature will stand, float, balance, or lean
+
+A **primitive** is a basic 3D form used as a starting point for modelling. Blender primitives include cubes, spheres, cylinders, cones, planes, and toruses.
+
+![Blender Primitives](imgs/primitives.png){: .tutorial-image }
+
+Keep your sketch beside you while you work. You may change your design as you experiment in Blender, but try to preserve its main mood, story, or purpose.
+
+---
+
+## 🧱 Start Building in Blender
 
 Use only the tools from today’s lessons:
 
@@ -53,28 +46,6 @@ You can:
 - Move, rotate, and scale objects
 - Apply modifiers: **Subdivision Surface**, **Mirror**, **Boolean**, **Solidify**, and **Array**
 
+Begin with the largest or most important shape, then add the smaller parts.
+
 ❗ **Save your work often!**
-
----
-
-## 💾 Save Your Work
-
-Save your Blender file.  
-
-Go to **Top Menu** → **File** → **Save** (your file will be saved as `.blend`)   
-
-**File name format:** `YourName_Monday.blend`  
-
----
-
-## 📝 Reflection
-
-Answer these questions on a piece of paper:
-
-- What would you name your digital sculpture or creature?
-- Which primitive shapes did you use?
-- How did you combine or transform the shapes?
-- What inspired your design?
-- Is it part of a world or a story?
-
----
