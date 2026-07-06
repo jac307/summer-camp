@@ -68,7 +68,7 @@ Break your idea into a small number of simple geometric parts.
 
 | Part of the design | Shape or primitive |
 |---|---|
-| Main body or central form.   |                           |
+| Main body or central form    |                           |
 | Top, head, or upper section  |                           |
 | Sides, arms, or extensions   |                           |
 | Base, legs, or support       |                           |
