@@ -24,14 +24,7 @@ Your design should not look realistic. Keep the main shapes visible and easy to 
 
 A **primitive** is a simple geometric form used as a starting point for 3D modelling.
 
-Examples include:
-
-- Cube
-- Sphere
-- Cylinder
-- Cone
-- Torus
-- Plane
+Examples include: Cube, Sphere, Cylinder, Cone, Torus, and Plane.  
 
 ![Blender Primitives](imgs/primitives.png){: .tutorial-image }
 
