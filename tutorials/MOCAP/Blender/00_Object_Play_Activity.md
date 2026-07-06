@@ -10,13 +10,18 @@ title: Motion Capture and Animation Foundations
 # 🌀 Object Play I: Sketch a Blocky Abstract Sculpture or Creature
 
 **Time:** 20 minutes  
-**Materials:** Paper and pencil
 
-## 🎯 Goal
+**Goal:** Use simple geometric shapes to design a **blocky, abstract sculpture or creature** that communicates a story, mood, or purpose.  
 
-Use simple geometric shapes to design a **blocky, abstract sculpture or creature** that communicates a story, mood, or purpose.
+Your design should not look realistic. Keep the main shapes visible and easy to recognize so you can rebuild them in Blender using only **primitives**.  
 
-Your design should not look realistic. Keep the main shapes visible and easy to recognize so you can rebuild them in Blender using only **primitives**.
+### ❗ Avoid
+
+- Realistic human or animal anatomy
+- Detailed faces
+- Fingers, hair, fur, scales, or clothing
+- Thin or complicated parts
+- Too many small shapes
 
 ---
 
@@ -24,21 +29,13 @@ Your design should not look realistic. Keep the main shapes visible and easy to 
 
 A **primitive** is a simple geometric form used as a starting point for 3D modelling.
 
-Examples include: Cube, Sphere, Cylinder, Cone, Torus, and Plane.  
+Examples include: **Cube**, **Sphere**, **Cylinder**, **Cone**, and **Plane**.  
 
 ![Blender Primitives](imgs/primitives.png){: .tutorial-image }
 
 Complex forms can be created by combining, resizing, rotating, repeating, and overlapping these basic shapes.
 
 For this activity, focus mainly on **cubes, rectangular forms, cylinders, and other bold geometric shapes**. Your design should look solid, simplified, and blocky rather than smooth or realistic.
-
-## ❗ Avoid
-
-- Realistic human or animal anatomy
-- Detailed faces
-- Fingers, hair, fur, scales, or clothing
-- Thin or complicated parts
-- Too many small shapes
 
 ---
 

@@ -9,6 +9,8 @@ title: Motion Capture and Animation Foundations
 
 # 🌀 OBJECT PLAY II: Build Your Abstract Sculpture or Creature in Blender
 
+**Time:** 50 minutes 
+
 **Goal:** Translate the sketch you created in **Object Play I** into a 3D sculpture or creature using Blender primitives and the tools covered today.
 
 ---
