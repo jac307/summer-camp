@@ -15,7 +15,7 @@ title: Motion Capture and Animation Foundations
 
 ## ✏️ Review Your Sketch
 
-Before you begin modelling, look closely at the sketch you created in **Object Play I**.
+Before you begin modelling, look closely at the sketch you created in **🌀 [Object Play I: Sketch an Abstract Sculpture or Creature](00_Object_Play_Activity.md){:target="_blank"}**
 
 Identify:
 
