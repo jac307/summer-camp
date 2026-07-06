@@ -117,8 +117,17 @@ Your drawing does not need realistic anatomy, facial details, fingers, fur, clot
 
 Complete the sentences:   
 
-| **My design is called:**         |                                          |
-| **It communicates the mood of:** |                                          |
-| **Its purpose or story is:**     |                                          |
+**My design is called:**   
+>  
+_____________________________________________________________
+
+**It communicates the mood of:**  
+>  
+_____________________________________________________________
+
+**Its purpose or story is:**  
+>  
+_____________________________________________________________  
+_____________________________________________________________
 
 ---
