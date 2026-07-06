@@ -115,20 +115,10 @@ Your drawing does not need realistic anatomy, facial details, fingers, fur, clot
 
 ## 4. Add a Story, Mood, or Purpose — 3 minutes
 
-Complete the sentences:
+Complete the sentences:   
 
-**My design is called:**  
-_____________________________________________________________
-
-**It communicates the mood of:**  
-_____________________________________________________________
-
-**Its purpose or story is:**  
-_____________________________________________________________  
-_____________________________________________________________
-
-**The most important geometric shape in my design is:**  
-_____________________________________________________________
-_____________________________________________________________
+| **My design is called:**         |                                          |
+| **It communicates the mood of:** |                                          |
+| **Its purpose or story is:**     |                                          |
 
 ---
