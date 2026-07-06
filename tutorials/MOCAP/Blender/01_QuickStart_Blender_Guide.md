@@ -62,10 +62,10 @@ Each axis helps you move, rotate, or scale objects with precision.
 
 The 3D Cursor in Blender is a red and white target-shaped marker that holds a location and rotation in 3D space. It primarily **serves as a reference point for creating new objects, adjusting pivot points, and snapping elements together**.  
 
-![Mouse buttons](imgs/3d-cursor.png){: .tutorial-image }
-
 - **Place the Cursor in the centre:** press Shift + C  
 - **Place the Cursor anywhere else:** Hold Shift and Right-Click anywhere in the viewport to move the cursor to that location.  
+
+![Mouse buttons](imgs/3d-cursor.png){: .tutorial-image }
 
 ---
 
