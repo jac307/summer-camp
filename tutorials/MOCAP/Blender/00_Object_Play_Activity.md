@@ -85,10 +85,7 @@ Draw your sculpture or creature using only bold geometric shapes.
 Your design should be:
 
 - **Abstract** rather than realistic
-- **Blocky** rather than smooth or detailed
-- Built from clearly visible geometric parts
-- Simple enough to recreate in Blender
-- Recognizable from its overall silhouette
+- **Blocky** rather than smooth or detailed built from clearly visible geometric parts
 
 As you sketch, think about:
 
@@ -101,13 +98,7 @@ As you sketch, think about:
 
 Label the main shapes in your drawing.
 
-For example:
-
-- **Cube**
-- **Rectangular block**
-- **Cylinder**
-- **Cone**
-- **Sphere**
+For example: **Cube**, **Rectangular block**, **Cylinder**, **Cone**, **Sphere**...
 
 Your drawing does not need realistic anatomy, facial details, fingers, fur, clothing, or complex textures. The geometric shapes should remain visible in the final design.
 
@@ -119,14 +110,14 @@ Complete the sentences:
 
 **My design is called:**   
 >  
-_____________________________________________________________
+_____________________________________________________________  
 
 **It communicates the mood of:**  
 >  
-_____________________________________________________________
+_____________________________________________________________   
 
 **Its purpose or story is:**  
 >  
-_____________________________________________________________  
+_____________________________________________________________   
 
 ---
