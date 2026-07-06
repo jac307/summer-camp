@@ -3,7 +3,7 @@ layout: default
 title: Motion Capture and Animation Foundations
 ---
 
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 ---
 
@@ -39,6 +39,14 @@ Complex forms can be created by combining, resizing, rotating, repeating, and ov
 
 For this activity, focus mainly on **cubes, rectangular forms, cylinders, and other bold geometric shapes**. Your design should look solid, simplified, and blocky rather than smooth or realistic.
 
+## ❗ Avoid
+
+- Realistic human or animal anatomy
+- Detailed faces
+- Fingers, hair, fur, scales, or clothing
+- Thin or complicated parts
+- Too many small shapes
+
 ---
 
 ## 1. Choose an Idea — 3 minutes
@@ -70,11 +78,11 @@ Break your idea into a small number of simple geometric parts.
 
 | Part of the design | Shape or primitive |
 |---|---|
-| Main body or central form | ________________________ |
-| Top, head, or upper section | ________________________ |
-| Sides, arms, or extensions | ________________________ |
-| Base, legs, or support | ________________________ |
-| Repeated or decorative parts | ________________________ |
+| Main body or central form.   |                           |
+| Top, head, or upper section  |                           |
+| Sides, arms, or extensions   |                           |
+| Base, legs, or support       |                           |
+| Repeated or decorative parts |                           |
 
 Try to use no more than **five or six main shapes**.
 
@@ -120,28 +128,17 @@ Your drawing does not need realistic anatomy, facial details, fingers, fur, clot
 Complete the sentences:
 
 **My design is called:**  
-________________________________________________
+_____________________________________________________________
 
 **It communicates the mood of:**  
-________________________________________________
+_____________________________________________________________
 
 **Its purpose or story is:**  
-________________________________________________  
-________________________________________________
+_____________________________________________________________  
+_____________________________________________________________
 
 **The most important geometric shape in my design is:**  
-________________________________________________
-
----
-
-## ❗ Avoid
-
-- Realistic human or animal anatomy
-- Detailed faces
-- Fingers, hair, fur, scales, or clothing
-- Thin or complicated parts
-- Too many small shapes
-- Designs that depend on smooth organic surfaces
-- Details that would be difficult to build quickly in Blender
+_____________________________________________________________
+_____________________________________________________________
 
 ---
