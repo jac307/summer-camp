@@ -17,7 +17,7 @@ Translate your character sketch into a 3D model in Blender using one of the mode
 
 * 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md){:target="_blank"}   
 * 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md){:target="_blank"}   
-* 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md){:target="_blank"}   
+* 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md){:target="_blank"}   
 
 Focus on:
 
