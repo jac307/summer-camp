@@ -17,19 +17,21 @@ title: Motion Capture and Animation Foundations
 
 ### Tools
 
-| Tool                      | Shortcut               | Use for...                               |
-|---------------------------|------------------------|------------------------------------------|
-| Add Object                | `Shift + A`            | Add basic shapes                         |
-| Move / Rotate / Scale     | `G` / `R` / `S`        | Place and transform objects              |
-| Join Objects              | `Ctrl + J`             | Combine multiple meshes                  |
-| Shade Smooth              | Right-click            | Soften surface shading                   |
-| ✨Select all              | `A`                    | Selects all objects/vertices/edges/phases|
-| ✨Switch Modes            | Tab                    | Switch between object mode and edit mode |
-| ✨Join Objects            | `Ctrl + J`             | Combine multiple meshes                  |
-| ✨Shade Smooth            | Right-click            | Soften surface shading                   |
-| ✨Snap Tool               | Right-click on mesh    | Align shapes perfectly                   |
-| ✨Undo                    | `Ctrl + Z`             | Undo steps/actions                       |
-| ✨Delete                  | `X`                    | Deletes an object/vertice/edge/phase                            |
+| Tool                      | Shortcut               | Use for...                                       |
+|---------------------------|------------------------|--------------------------------------------------|
+| Select                    | Left Click             | Select objects                                   |
+| Move                      | G                      | Grab/move object                                 |
+| Rotate                    | R                      | Rotate object                                    |
+| Scale                     | S                      | Resize object                                    |
+| Confirm / Cancel          | Left Click / Esc       | Finalize or cancel the action                    |
+| New Mesh                  | Shift + `A`            | Add a new mesh: plane, cube, cylinder, sphere…   |
+| Delete                    | Select + `X`           | Deletes an object/vertice/edge/                  |
+| Undo                      | `Ctrl + Z`             | Undo steps/actions                               |
+| ✨ Join Objects           | `Ctrl + J`             | Combine multiple meshes                          |
+| ✨Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
+| ✨Switch Modes            | Tab                    | Switch between object mode and edit mode         |
+| ✨Shade Smooth            | right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
+| ✨Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
 
 ### Modifiers
 
