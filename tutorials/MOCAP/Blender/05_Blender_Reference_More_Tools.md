@@ -7,11 +7,7 @@ title: Motion Capture and Animation Foundations
 
 -------------------------------------------------------------------------------
 
-# 🧱 Blender Reference—Character-Building Tools  
-
-**Activity**: Blender Reference—Character-Building Tools
-
----
+# 🧱 Blender Reference—More Tools  
 
 ## Quick Reference
 
@@ -30,7 +26,7 @@ title: Motion Capture and Animation Foundations
 | ✨ Separate Objects       | `P`                    | Separate a joined objects                        |
 | ✨ Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
 | ✨ Switch Modes            | Tab                    | Switch between object mode and edit mode         |
-| ✨ Shade Smooth            | Right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
+| ✨ Shade Smooth            | 	Right-click → Shade Smooth | Soften surface shading                   |
 | ✨ Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
 
 ### Modifiers
