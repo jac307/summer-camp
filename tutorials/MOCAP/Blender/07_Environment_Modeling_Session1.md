@@ -1,4 +1,4 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 ---
 
@@ -58,7 +58,7 @@ You're only building a **section** of your world — enough to give your charact
 - Leave room for character movement or interaction  
 - Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
 
-<img src="spaces.png" alt="Walls with details"/>
+<img src="imgs/spaces.png" alt="Walls with details"/>
 
 ### Step 4 💾 File Saving
 
@@ -69,9 +69,9 @@ You're only building a **section** of your world — enough to give your charact
 
 ---
 
-#### Use These Tools & Modifiers
+## Use These Tools & Modifiers
 
-##### 🔧 Tools
+### 🔧 Tools
 
 | Tool                      | Shortcut                | Use for...                      |
 |---------------------------|-------------------------|---------------------------------|
@@ -88,7 +88,7 @@ You're only building a **section** of your world — enough to give your charact
 | ✨ Inset Faces            | `I` in Edit Mode        | Create windows, frames, steps   |
 | ✨ Bevel Edges            | `Ctrl + B` in Edit Mode | Round out or soften corners     |
 
-##### 🧰 Modifiers
+### 🧰 Modifiers
 
 | Modifier              | How to access   | Use for...                        |
 |-----------------------|-----------------|-----------------------------------|
@@ -100,19 +100,16 @@ You're only building a **section** of your world — enough to give your charact
 | Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
 | Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
 
+---
 
-##### Tutorials
+## Tutorials  
 
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/o-bEbTGdIcQ?si=EtVJZGw82PGqjgC9"
-    title="How To Make Round Edges In Blender - Full Guide"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)  
+* 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md)   
+
+### How to add Loop Cuts  
+
+The Loop Cut tool splits faces by **inserting new edge loops around your mesh**. 
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
@@ -125,6 +122,10 @@ You're only building a **section** of your world — enough to give your charact
   </iframe>
 </div>
 
+### Inset Tool 
+
+The Inset tool in Blender **duplicates selected faces**, creating a **new border of geometry inside (or outside)** the original boundary without altering the overall shape. 
+
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/lJSf6Y83ZCo?si=NXwKooypXts_tpum&amp;start=156"
@@ -135,6 +136,10 @@ You're only building a **section** of your world — enough to give your charact
     allowfullscreen>
   </iframe>
 </div>
+
+### Bevel Tool 
+
+The Bevel tool in Blender **smooths hard edges and corners** by turning them into chamfers or rounded curves.
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
