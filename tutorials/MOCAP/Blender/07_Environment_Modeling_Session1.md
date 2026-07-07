@@ -34,18 +34,18 @@ You're only building a **section** of your world — enough to give your charact
 - Press `S` to scale it large enough for your scene  
 - Add a **Solidify Modifier** to give it thickness (optional but recommended)
 
-<img src="imgs/ground-image.png" alt="Ground" height="300"/>
+![Ground](imgs/ground-image.png){: .tutorial-image }
 
 ### Step 2 – Block Out Your Space *(for indoor environments only)*
 - Press `Shift + A → Mesh → Cube` → Scale/rotate into walls, floors, or stairs  
 - Press `Tab` to enter Edit Mode → Select four faces (as shown in the image) → Press `X` to delete them  
 - Use `G`, `R`, and `S` to move, rotate, and scale objects
 
-<img src="imgs/groundWithWalls.png" alt="Ground with Walls" height="300"/>
+![Ground with Walls](imgs/groundWithWalls.png){: .tutorial-image }
 
 - Optional: Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
 
-<img src="imgs/wallsWithDetails.png" alt="Walls with details" height="300"/>
+![Walls with details](imgs/wallsWithDetails.png){: .tutorial-image }
 
 ### Step 3 – Create Simple Props or Environmental Objects
 - Use basic shapes (e.g., cylinders, spheres, cubes) and modifiers to create furniture or decorations  
@@ -58,7 +58,7 @@ You're only building a **section** of your world — enough to give your charact
 - Leave room for character movement or interaction  
 - Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
 
-<img src="imgs/spaces.png" alt="Walls with details"/>
+![Walls with details](imgs/spaces.png){: .tutorial-image }
 
 ### Step 4 💾 File Saving
 

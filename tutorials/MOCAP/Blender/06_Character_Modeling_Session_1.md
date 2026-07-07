@@ -278,3 +278,9 @@ Consider the following questions:
 - What would you refine or add during the next modelling session?
 
 ---
+
+## What is next?
+
+Once you finish, continue with 🌆 [Environment Modelling Session 1](07_Environment_Modeling_Session1.md)
+
+---
