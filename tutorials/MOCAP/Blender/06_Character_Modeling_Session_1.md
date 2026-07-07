@@ -281,6 +281,6 @@ Consider the following questions:
 
 ## What is next?
 
-Once you finish, continue with 🌆 [Environment Modelling Session 1](07_Environment_Modeling_Session1.md)
+If you finish, continue with 🌆 [Environment Modelling: Building your environment using custom-made objects](07_Environment_Modeling_Session1.md)
 
 ---

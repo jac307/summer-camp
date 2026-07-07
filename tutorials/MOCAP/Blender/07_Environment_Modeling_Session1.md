@@ -2,7 +2,7 @@
 
 ---
 
-# 🌆 Environment Modeling Instructions  
+# 🌆 Environment Modeling: Building your environment using custom-made objects
 
 ---
 

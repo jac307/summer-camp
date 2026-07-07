@@ -1,136 +1,73 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 ---
 
-# 🌆 Environment Modeling Instructions  
-**Time:** 45 min
+# 🌆 Environment Modeling: Importing 3D objects (optional)
+
+This optional tutorial shows you how to continue developing your Blender scene by **importing 3D objects into your environment**. You will learn how to bring external models into your scene, place them in 3D space, and adjust their size, position, and rotation so they fit your world.
 
 ---
 
-## Plan and Prepare
+## 📦 Sketchfab: Download a 3D Model
 
-### Create a New Blender File
-- Go to `File → New → General`
-- Save your file as: `YourName_SceneModel.blend`
-- ⚠️ Don’t forget to press `Ctrl + S` regularly to save your progress.
+### Step 1: Open a Sketchfab Account
 
-### Think Small (But Meaningful)
-You're only building a **section** of your world — enough to give your character context.
-
-### Examples:
-- 🛏️ A **room** → Just 2 walls and part of the floor  
-- 🌲 A **forest** → A small clearing with 3–4 trees  
-- 🛰️ A **space station** → One hallway or pod  
-- 🌌 A **dream world** → One floating platform or terrain patch  
-- 🏞️ A **park** → One bench, a path, a bush, and a tree  
-
-> You’ll add the character later — leave open space for them to stand or move!
-
----
-
-## Step-by-Step Instructions
-
-### Step 1 – Create a Ground Plane
-- Press `Shift + A → Mesh → Plane`  
-- Press `S` to scale it large enough for your scene  
-- Add a **Solidify Modifier** to give it thickness (optional but recommended)
-
-<img src="ground-image.png" alt="Ground" height="300"/>
-
-### Step 2 – Block Out Your Space *(for indoor environments only)*
-- Press `Shift + A → Mesh → Cube` → Scale/rotate into walls, floors, or stairs  
-- Press `Tab` to enter Edit Mode → Select four faces (as shown in the image) → Press `X` to delete them  
-- Use `G`, `R`, and `S` to move, rotate, and scale objects
-
-<img src="groundWithWalls.png" alt="Ground with Walls" height="300"/>
-
-- Optional: Create divisions and use **Extrude** on faces or the **Boolean Modifier** to create doors or windows
-
-<img src="wallsWithDetails.png" alt="Walls with details" height="300"/>
-
-### Step 3 – Add Props or Environmental Objects
-- Use basic shapes (e.g., cylinders, spheres, cubes) and modifiers to create furniture or decorations  
-- **OR** import ready-made models from **Sketchfab** (see instructions below)
-- You can also modify your ground to make it more rocky or organic.
-
-#### Tips for Blocking Your Space
-- Start **big to small**: ground → walls → details  
-- Don’t overbuild — focus on what your character sees  
-- Leave room for character movement or interaction  
-- Use **Array** or **Mirror** modifiers for repetition (fences, tiles, etc.)
-
-<img src="spaces.png" alt="Walls with details"/>
-
-#### Use These Tools & Modifiers
-
-##### 🔧 Tools
-
-| Tool                      | Shortcut                | Use for...                      |
-|---------------------------|-------------------------|---------------------------------|
-| Add Object                | `Shift + A`             | Add basic shapes                |
-| Move / Rotate / Scale     | `G` / `R` / `S`         | Place and transform objects     |
-| Join Objects              | `Ctrl + J`              | Combine multiple meshes         |
-| Shade Smooth              | Right-click             | Soften surface shading          |
-| Snap Tool                 | Shift + Tab             | Align objects easily            |
-| Join Objects              | `Ctrl + J`              | Combine multiple meshes         |
-| Shade Smooth              | Right-click             | Soften surface shading          |
-| Snap Tool                 | Right-click on mesh     | Align shapes perfectly          |
-| ✨ Loop Cuts              | `Ctrl + R` in Edit Mode | Add structure or divisions      |
-| ✨ Extrude Faces          | `Tab → Edit Mode → E`   | Pull up walls or stretch planes |
-| ✨ Inset Faces            | `I` in Edit Mode        | Create windows, frames, steps   |
-| ✨ Bevel Edges            | `Ctrl + B` in Edit Mode | Round out or soften corners     |
-
-##### 🧰 Modifiers
-
-| Modifier              | How to access   | Use for...                        |
-|-----------------------|-----------------|-----------------------------------|
-| Mirror                | Modifiers Tab   | Build symmetrical characters      |
-| Subdivision Surface   | Modifiers Tab   | Smooth rounded shapes             |
-| Array                 | Modifiers Tab   | Repeats objects in rows           |
-| Boolean               | Modifiers Tab   | Combines or subtracts shapes      |
-| Solidify              | Modifiers Tab   | Gives flat shapes a thickness     |
-| Wireframe Modifier    | Modifiers Tab   | Start with a line “skeleton”      |
-| Skin Modifier         | Modifiers Tab   | Wraps a mesh around your skeleton |
-
-
-##### Tutorials
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fUYo5_If_5I?si=VmwiyBbvgaGFuN6Y&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EkGYtownblk?si=vA3A_hUPZG2pxJnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJSf6Y83ZCo?si=NXwKooypXts_tpum&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OmlY9mpSRXI?si=2i5JlBuUSMSasgZR&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 📦 Sketchfab (Optional Props)
-
-### Step 1: Browse  
 <a href="https://sketchfab.com/search" target="_blank">https://sketchfab.com/search</a>
-- Search: `"chair"`, `"rock"`, `"tree"` etc.  
-- Filter: **Downloadable**, License: **CC**, Format: **OBJ**
-- Look for free simple models
 
-### Step 2: Import into Blender  
-- `File → Import → .obj`
+- Create an account and log in.
+
+### Step 2: Browse for a Model
+
+- Search for keywords such as: `"chair free"`, `"rock free"`, `"tree free"`, etc.
+- Use the filters:
+  - **Downloadable**
+  - **License: CC**
+
+![Browse Screenshot](imgs/browse-screenshot.png){: .tutorial-image }
+
+### Step 3: Select a Model
+
+- Click on the object you want to download.
+- Check that the model has a **download icon**.
+- Make sure the model does **not** have a dollar symbol **($)**, because that means it is not free.
+
+![Select Screenshot](imgs/select-screenshot.png){: .tutorial-image }
+
+### Step 4: Download the Model
+
+- If the model is free and downloadable, you will see the option **Download 3D Model**.
+- Click **Download 3D Model**.
+- In the download window, choose either **.OBJ** or **.GLB**.
+- Save the file in your project folder.
+
+![Download Screenshot](imgs/download-screenshot.png){: .tutorial-image }
+
+### File Types
+
+An **OBJ** file is a common 3D model format that stores the shape or geometry of an object. It may need separate image or material files to show colours and textures correctly.
+
+A **GLB** file is a compact 3D model format that can include the object, materials, colours, and textures in one file. GLB files are often easier to import because most of the visual information stays together.
+
+---
+
+## ⬆️ Blender: Import
+
+- Go to your Blender file
+- `File → Import → .obj` or `File → Import → .glb`
 - Locate your downloaded file  
 - Use `G` and `S` to position and scale
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wlcbHnW12NM?si=MgsKhfUANAJesqrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Tutorial
 
----
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/wlcbHnW12NM?si=MgsKhfUANAJesqrb"
+    title="Organic character modelling with the Skin Modifier"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-## 💾 File Saving
-
-- Go to `File → Save` or `File → Save As`  
-- Use filename: `YourName_SceneModel.blend`  
-- Save to your **USB** or **class folder**
-
----
-
-## 📝 Reflection
-What feeling do you want your space to give your character (and the viewer)?  
-→ Is it cozy, eerie, magical, futuristic, chaotic, peaceful, or something else?
 ---
