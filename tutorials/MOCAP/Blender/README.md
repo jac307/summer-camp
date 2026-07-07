@@ -30,7 +30,7 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 2. Character Building
 
-* 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md)
+* 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md)  
 <!-- * ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
 * 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md) -->
 
