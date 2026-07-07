@@ -199,13 +199,27 @@ Use your sketch to identify the central structure of the character: Head, Neck, 
 
 Begin with the centre of the body, then extend outward toward the arms and legs.
 
+### Add-On needed
+
+1. Download this ZIP file:
+2. On Blender, go to **Edit** → **Preferences**
+3. Go to the **Add-ons** Tab
+4. Click on the top-right down arrow, select **Install from Disk**
+5. Select the ZIP file and click **Install from Disk**
+6. In the search bar, look for **Extra Mesh Objects** and make sure it is enabled.
+7. Follow the tutorial bellow.
+
+If you have problems installing this add-on, please call the instructor.  
+
+![Preferences: Add-ons](imgs/add-ons.png){: .tutorial-image }
+
 ---
 
 ## Tutorial
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
-    src="https://www.youtube.com/embed/DAAwy_l4jw4?si=5kIERwnWNljiJ1sa&amp;start=75"
+    src="https://www.youtube.com/embed/DAAwy_l4jw4?si=FmuLJg7aTmCXu6qk&amp;start=99"
     title="Organic character modelling with the Skin Modifier"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

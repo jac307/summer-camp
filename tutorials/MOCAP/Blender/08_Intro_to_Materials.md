@@ -1,14 +1,10 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
 # 💡 Intro to Materials  
-**Time:** 1 hour
 
----
-
-## 🎯 Objective  
-Use materials to bring your scene to life. Create atmosphere and emotion using color, surface, and texture.
+**Objective:** Use materials to bring your scene to life. Create atmosphere and emotion using color, surface, and texture.
 
 ---
 
@@ -30,45 +26,145 @@ Before diving in, ask yourself:
 
 ---
 
-## Step 1: Add Materials  
-1. Select an object  
-2. Go to the **Material Properties tab** (icon in bottom-right panel)  
-3. Click **+ New**  
-4. Change:
+## Add Materials  
+
+1. Click `Z` to open the user's perspective menu and choose **Material Preview**
+2. Select an object  
+3. Go to the **Material Properties tab** (icon in bottom-right panel)  
+4. Click **+ New**  
+5. Change:
    - **Base Color**  
    - **Roughness** (smooth vs. matte)  
    - **Metallic** (non-metal to chrome)
 
-Preview Your Scene  
-- Switch to **Rendered View**: `Z → Rendered`  
-- Or click the shaded ball icon in top-right of the 3D view
-
-### Tutorials
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E42OxbroToM?si=2CTEL1nATvRUWuOE&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4EaA4LUhgc?si=aY_lKYEV5tNt1-Jq&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/73hPexS1YAY?si=geuihBcUvjSVxxlA&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4qT5zNPxiY?si=4Up74H1QOiqX0sAU&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oavPuJuRc3E?si=Laa5dq18QhnCYZMk&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TnmCOeqfZ5o?si=u5h8CNqinrK8K_J4&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p03fspwMY64?si=vUHmsdUdqEi28eIk&amp;start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mURA2g1rOSc?si=wEaUgWflrpZuEVr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oqNcOrxHKbU?si=5Duvm1k2e-4JNzPD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
+![Material Settings in Blender](imgs/material.png){: .tutorial-image }
 
 ## 💾 Save Your Work!  
 - `File → Save`  
-- Use filename: `YourName_SceneLights.blend`  
-- Save to USB or class folder
+- Use filename: `YourName_SceneMaterials.blend`  
+- Save it to your class folder
+
+---
+
+### Tutorials
+
+### ADDING MATERIALS in Blender | The BASICS
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/E42OxbroToM?si=NSdq5r6-jMjThlDb"
+    title="ADDING MATERIALS in Blender | The BASICS"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Create Emissive Material in Blender | Glow - Neon
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/F4EaA4LUhgc?si=EyEY-eCK5T92BrmG"
+    title="Create Emissive Material in Blender | Glow - Neon"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Create Realistic Steel Material
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/73hPexS1YAY?si=h81I7VEMvAOvYhyI"
+    title="Create Realistic Steel Material"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Blender Beginner Tutorial: Glass in 1 Minute
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/K4qT5zNPxiY?si=P2hKTA1Ula16vXkM"
+    title="Blender Beginner Tutorial: Glass in 1 Minute"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Create realistic grass in 1 minute
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/5cD0ZfS2Uug?si=7R02245i_7MNmj-M"
+    title="Create realistic grass in 1 minute"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Create dynamic Fur/Hair in Blender
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/TnmCOeqfZ5o?si=IxXrhTra9uYJofTr"
+    title="Create dynamic Fur/Hair in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Endless Ocean Loop In Blender
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/p03fspwMY64?si=gKkn96D_icZzrYfl"
+    title="Endless Ocean Loop In Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+### Add A (Image) Texture to An Object 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/mURA2g1rOSc?si=VT-p8E8OXcAiYEM1"
+    title="Add A (Image) Texture to An Object"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Copy material from one object to another object
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/oqNcOrxHKbU?si=C2jJBmK_9H6o9MaO"
+    title="lender Basics: Copy material from one object to another object"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
