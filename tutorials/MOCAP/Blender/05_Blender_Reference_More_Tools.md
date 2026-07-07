@@ -24,9 +24,10 @@ title: Motion Capture and Animation Foundations
 | Undo                      | `Ctrl + Z`             | Undo steps/actions                               |
 | ✨ Join Objects           | `Ctrl + J`             | Combine multiple meshes                          |
 | ✨ Separate Objects       | `P`                    | Separate a joined objects                        |
-| ✨ Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
+| ✨ Select all              | `A`                    | Selects all objects/vertices/edges/phases       |
+| ✨ View Menu               | `Z`                    | Choose Wireframe, Solid, Material, or Rendered View  |
 | ✨ Switch Modes            | Tab                    | Switch between object mode and edit mode         |
-| ✨ Shade Smooth            | 	Right-click → Shade Smooth | Soften surface shading                   |
+| ✨ Shade Smooth            | Right-click → Shade Smooth | Soften surface shading                     |
 | ✨ Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
 
 ### Modifiers
