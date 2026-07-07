@@ -26,13 +26,13 @@ The activities are designed to build foundational skills while encouraging creat
 * 🌀 [Object Play I: Sketch an Abstract Sculpture or Creature](00_Object_Play_Activity.md)
 * 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)
 * 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
-* 🌀 [Object Play: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
+* 🌀 [Object Play II: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
 
-<!-- ### 2. Character Building
+### 2. Character Building
 
 * ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
 * 🧱 [Blender Reference—Character-Building Tools](05_Blender_Reference_More_Tools.md)
-* 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md) -->
+* 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md)
 
 <!-- ### 3. Environment Building and Materials
 
