@@ -27,10 +27,11 @@ title: Motion Capture and Animation Foundations
 | Delete                    | Select + `X`           | Deletes an object/vertice/edge/                  |
 | Undo                      | `Ctrl + Z`             | Undo steps/actions                               |
 | ✨ Join Objects           | `Ctrl + J`             | Combine multiple meshes                          |
-| ✨Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
-| ✨Switch Modes            | Tab                    | Switch between object mode and edit mode         |
-| ✨Shade Smooth            | Right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
-| ✨Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
+| ✨ Separate Objects       | `P`                    | Separate a joined objects                        |
+| ✨ Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
+| ✨ Switch Modes            | Tab                    | Switch between object mode and edit mode         |
+| ✨ Shade Smooth            | Right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
+| ✨ Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
 
 ### Modifiers
 
@@ -53,7 +54,7 @@ Proportional editing allows you to move groups of mesh anatomy or actual objects
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
-    src="https://www.youtube.com/embed/fuddZUv7MzA?si=FJaeF0xyqXQCo51u&amp;start=113"
+    src="https://www.youtube.com/embed/fuddZUv7MzA?si=bV3zynF53z4gufrg&amp;start=111"
     title="Proportional Editing [Blender 2.8]"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
