@@ -12,9 +12,8 @@ This optional tutorial shows you how to continue developing your Blender scene b
 
 ### Step 1: Open a Sketchfab Account
 
-<a href="https://sketchfab.com/search" target="_blank">https://sketchfab.com/search</a>
-
-- Create an account and log in.
+- Go to <a href="https://sketchfab.com/search" target="_blank">https://sketchfab.com/search</a>   
+- Create an account and log in  
 
 ### Step 2: Browse for a Model
 
@@ -22,6 +21,7 @@ This optional tutorial shows you how to continue developing your Blender scene b
 - Use the filters:
   - **Downloadable**
   - **License: CC**
+- **Advice:** Use only simple models
 
 ![Browse Screenshot](imgs/browse-screenshot.png){: .tutorial-image }
 
@@ -42,12 +42,6 @@ This optional tutorial shows you how to continue developing your Blender scene b
 
 ![Download Screenshot](imgs/download-screenshot.png){: .tutorial-image }
 
-### File Types
-
-An **OBJ** file is a common 3D model format that stores the shape or geometry of an object. It may need separate image or material files to show colours and textures correctly.
-
-A **GLB** file is a compact 3D model format that can include the object, materials, colours, and textures in one file. GLB files are often easier to import because most of the visual information stays together.
-
 ---
 
 ## ⬆️ Blender: Import
@@ -57,12 +51,35 @@ A **GLB** file is a compact 3D model format that can include the object, materia
 - Locate your downloaded file  
 - Use `G` and `S` to position and scale
 
-## Tutorial
+**Note:** Ask the professor if you're having problems scaling or moving your imported object around.
+
+---
+
+## Tutorials
+
+### Import OBJ Files  
+
+An **OBJ** file is a common 3D model format that stores the shape or geometry of an object. It may need separate image or material files to show colours and textures correctly.
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/wlcbHnW12NM?si=MgsKhfUANAJesqrb"
-    title="Organic character modelling with the Skin Modifier"
+    title="How to import OBJ files in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Import GLB Files 
+
+A **GLB** file is a compact 3D model format that can include the object, materials, colours, and textures in one file. GLB files are often easier to import because most of the visual information stays together.
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/V1q5w6onuCE?si=qe-QPu1xtfHQ3foq&amp;start=25"
+    title="How to Import a GLB into Blender"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
