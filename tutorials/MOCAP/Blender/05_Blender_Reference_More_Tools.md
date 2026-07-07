@@ -23,14 +23,13 @@ title: Motion Capture and Animation Foundations
 | Move                      | G                      | Grab/move object                                 |
 | Rotate                    | R                      | Rotate object                                    |
 | Scale                     | S                      | Resize object                                    |
-| Confirm / Cancel          | Left Click / Esc       | Finalize or cancel the action                    |
 | New Mesh                  | Shift + `A`            | Add a new mesh: plane, cube, cylinder, sphere…   |
 | Delete                    | Select + `X`           | Deletes an object/vertice/edge/                  |
 | Undo                      | `Ctrl + Z`             | Undo steps/actions                               |
 | ✨ Join Objects           | `Ctrl + J`             | Combine multiple meshes                          |
 | ✨Select all              | `A`                    | Selects all objects/vertices/edges/phases        |
 | ✨Switch Modes            | Tab                    | Switch between object mode and edit mode         |
-| ✨Shade Smooth            | right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
+| ✨Shade Smooth            | Right-click to open the Context Menu and choose Shade Smooth| Soften surface shading                   |
 | ✨Snap Tool on/off        | Shift + Tab            | Align shapes perfectly                            |
 
 ### Modifiers
@@ -96,8 +95,6 @@ Round the edges on any shape.
 ### Object Origins 
 
 What object origins are in Blender, and how to edit and use them.  
-
-Round the edges on any shape. 
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
