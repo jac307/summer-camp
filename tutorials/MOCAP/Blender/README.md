@@ -33,6 +33,9 @@ The activities are designed to build foundational skills while encouraging creat
 * 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md)  
 * ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
 * 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md)
+
+### 3. Environment Building and Materials
+
 * 🌆 [Environment Modelling Session 1](07_Environment_Modeling_Session1.md)
 
 <!-- ### 3. Environment Building and Materials
