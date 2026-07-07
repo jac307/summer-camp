@@ -55,7 +55,18 @@ Choose one of the following approaches:
 - Begin with the largest body parts before adding smaller features.
 - Keep your model low-poly and simple.
 - Keep the character in a T-pose.
-- **Ask for help when choosing a modelling method or applying a modifier.**
+- **Ask for help when choosing a modelling method or applying a modifier.** 
+
+---
+
+## 💾 File Saving
+
+1. Go to **File → Save As**.
+2. Name your file:
+
+   `YourName_Tuesday.blend`
+
+3. Save the file to your assigned class folder.
 
 ---
 
@@ -253,18 +264,6 @@ Before continuing, make sure:
 
 </div>
 </details>
-
----
-
-## 💾 File Saving
-
-1. Go to **File → Save As**.
-2. Name your file:
-
-   `YourName_Tuesday.blend`
-
-3. Save the file to your assigned class folder.
-4. Confirm that the file opens correctly before closing Blender.
 
 ---
 
