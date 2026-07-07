@@ -9,23 +9,17 @@ title: Motion Capture and Animation Foundations
 
 # ✏️ Character Design Activity
 
-**Activity:** Sketch a character using basic geometric shapes. Explore its silhouette, proportions, personality, and overall design.
+**Activity:** Sketch a character using basic geometric shapes. Explore its silhouette, proportions, personality, and overall design.  
 
----
+**Time:** 30 minutes  
 
-## 🎯 Goal
-
-Design a creature or character that expresses a clear personality, emotion, or identity.
-
-You will build this character in Blender today, so keep the design clear, manageable, and **not too detailed**.
-
-Your drawing will also help you plan the character’s body parts before modelling them in 3D.
+**Goal:** Design a creature or character that expresses a clear personality, emotion, or identity.  
 
 ---
 
 ## 🔍 Step 1: Brainstorm Your Character (3–5 min)
 
-On a piece of paper, briefly answer these questions:
+Briefly answer these questions:
 
 - What is your character’s name?
 - What kind of being is it: an animal, robot, alien, creature, blob, or something else?
