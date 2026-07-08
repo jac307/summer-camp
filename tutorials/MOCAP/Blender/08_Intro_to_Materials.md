@@ -172,3 +172,10 @@ Before diving in, ask yourself:
 **What kind of mood or feeling do your materials create?**  
 → Describe it in one or two words!
 
+---
+
+## Optional Workflow
+
+Once you finish, you can go do the following: 🌆 [Environment Modelling: Importing 3D objects (optional)](07_Environment_Modeling_Session2.md)
+
+---
