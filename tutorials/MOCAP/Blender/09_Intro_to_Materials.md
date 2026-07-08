@@ -61,6 +61,19 @@ Before diving in, ask yourself:
   </iframe>
 </div>
 
+### Create Glossy Plastic Material
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/sDE7sbmLJ3o?si=yljhVfWRi-HzdViT"
+    title="CREATE A PROCEDURAL GLOSSY PLASTIC MATERIAL FOR BLENDER"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ### Create Emissive Material in Blender | Glow - Neon
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
