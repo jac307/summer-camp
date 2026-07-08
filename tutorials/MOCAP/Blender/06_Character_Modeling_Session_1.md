@@ -201,13 +201,13 @@ Begin with the centre of the body, then extend outward toward the arms and legs.
 
 ### Add-On needed
 
-1. Download this ZIP file:
+1. [Download this ZIP file](imgs/add-on-extra-mesh-objects-v0.4.1.zip)
 2. On Blender, go to **Edit** → **Preferences**
 3. Go to the **Add-ons** Tab
 4. Click on the top-right down arrow, select **Install from Disk**
 5. Select the ZIP file and click **Install from Disk**
 6. In the search bar, look for **Extra Mesh Objects** and make sure it is enabled.
-7. Follow the tutorial bellow.
+7. **Follow the tutorial bellow**.
 
 If you have problems installing this add-on, please call the instructor.  
 

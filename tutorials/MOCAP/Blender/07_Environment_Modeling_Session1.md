@@ -160,3 +160,9 @@ The Bevel tool in Blender **smooths hard edges and corners** by turning them int
 - Is it cozy, eerie, magical, futuristic, chaotic, peaceful, or something else?  
 
 ---
+
+## What is next?
+
+Once you finish, continue with 💠 [Introduction to Materials](08_Intro_to_Materials.md)
+
+---
