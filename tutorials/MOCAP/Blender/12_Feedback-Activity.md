@@ -12,14 +12,7 @@ title: Pair Feedback Scene Walkthrough
 **Time:** 20 minutes  
 **Materials:** Your Blender scene, paper, pencil  
 **Group:** Work in pairs
-
----
-
-## 🎯 Goal
-
-Share your work-in-progress with a partner and receive helpful feedback before final revisions.
-
-This activity is not about judging finished work. It is about noticing what is already working and identifying one or two things that could make the scene clearer.
+**Goal:** Share your work-in-progress with a partner and receive helpful feedback and comments before final revisions.
 
 ---
 
@@ -122,19 +115,3 @@ ______________________________________________________
 ______________________________________________________
 
 ---
-
-## ✅ Final Reminder
-
-Helpful feedback should be:
-
-- Specific
-- Kind
-- Useful
-- Connected to the artist’s idea
-
-Try saying:
-
-> “One thing that works well is…”  
-> “One thing that could make the scene stronger is…”  
-> “I understand the mood as…”  
-> “I wonder what would happen if…”
