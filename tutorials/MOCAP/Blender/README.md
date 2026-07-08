@@ -40,10 +40,10 @@ The activities are designed to build foundational skills while encouraging creat
 * 💠 [Introduction to Materials](09_Intro_to_Materials.md)
 * 🌆 [Environment Modelling: Importing 3D objects (optional)](10_Environment_Modeling_Session2.md)
 
-<!-- 
+### 4. Character Building: Scene Integration
+
 * 👾 [Character Modelling: Session 2](11_Character_Modeling_Session_2.md)
 * 🗣️ [Pair Feedback Activity: Scene Walkthrough](12_Feedback-Activity.md)
- -->
 
 <!-- ### 4. Lighting and Cameras
 
