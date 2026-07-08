@@ -30,16 +30,17 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 2. Character Building
 
-* 🧱 [Blender Reference—More Tools](05_Blender_Reference_More_Tools.md)  
+* 🧱 [Blender Reference: More Tools](05_Blender_Reference_More_Tools.md)  
 * ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
-* 👾 [Character Modelling—Session 1](06_Character_Modeling_Session_1.md)
+* 👾 [Character Modelling: Session 1](06_Character_Modeling_Session_1.md)
 
 ### 3. Environment Building and Materials
 
 * 🌆 [Environment Modelling: Building your environment using custom-made objects](07_Environment_Modeling_Session1.md)
 * 💠 [Introduction to Materials](08_Intro_to_Materials.md)
 * 🌆 [Environment Modelling: Importing 3D objects (optional)](07_Environment_Modeling_Session2.md)
-* 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md)
+
+<!-- * 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md) -->
 
 <!-- ### 4. Lighting and Cameras
 

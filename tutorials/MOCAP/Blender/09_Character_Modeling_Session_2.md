@@ -35,7 +35,7 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
    - Press `A` to select all objects.
    - Press `Ctrl + J` to join everything into one object.
 
-7. 💾 **Save** your character file again using **Save As**!
+7. 💾 **Save** your character file again using **Save As**
    - Go to `File → Save As`
    - Name it: `YourName_Final_Character.blend`
   
@@ -95,7 +95,7 @@ In this session, you’ll finalize your 3D character, **export it as a `.obj` fi
 
 ### 4. Add Materials and Textures and/or Add Hair or Fur
 
-Check tutorials on 💠 [Introduction to Materials](08_Intro_to_Materials.md) 
+Check tutorials on 💠 [Introduction to Materials](08_Intro_to_Materials.md){:target="_blank"} 
 
 - Select your character and go to the **Material Properties** tab
 - Create and assign materials for skin, metal, clothing...
