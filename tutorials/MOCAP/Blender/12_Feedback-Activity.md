@@ -11,7 +11,7 @@ title: Pair Feedback Scene Walkthrough
 
 **Time:** 20 minutes  
 **Materials:** Your Blender scene, paper, pencil  
-**Group:** Work in pairs
+**Group:** Work in pairs  
 **Goal:** Share your work-in-progress with a partner and receive helpful feedback and comments before final revisions.
 
 ---
