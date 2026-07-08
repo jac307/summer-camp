@@ -1,4 +1,4 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
