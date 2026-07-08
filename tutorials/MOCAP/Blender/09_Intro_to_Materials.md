@@ -176,6 +176,6 @@ Before diving in, ask yourself:
 
 ## Optional Workflow
 
-Once you finish, you can go do the following: 🌆 [Environment Modelling: Importing 3D objects (optional)](07_Environment_Modeling_Session2.md)
+Once you finish, you can go do the following: 🌆 [Environment Modelling: Importing 3D objects (optional)](10_Environment_Modeling_Session2.md)
 
 ---

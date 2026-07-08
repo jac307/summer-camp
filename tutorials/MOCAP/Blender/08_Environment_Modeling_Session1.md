@@ -163,6 +163,6 @@ The Bevel tool in Blender **smooths hard edges and corners** by turning them int
 
 ## What is next?
 
-Once you finish, continue with 💠 [Introduction to Materials](08_Intro_to_Materials.md)
+Once you finish, continue with 💠 [Introduction to Materials](09_Intro_to_Materials.md)
 
 ---
