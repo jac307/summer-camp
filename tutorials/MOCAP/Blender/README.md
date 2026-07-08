@@ -23,24 +23,27 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 1. Introduction to Blender
 
-* 🌀 [Object Play I: Sketch an Abstract Sculpture or Creature](00_Object_Play_Activity.md)
-* 🧱 [QuickStart Blender Guide](01_QuickStart_Blender_Guide.md)
-* 🧱 [Blender Modifiers Reference Sheet](02_Blender_Modifiers.md)
-* 🌀 [Object Play II: Build an Abstract Sculpture or Creature](03_Object_Play_Activity.md)
+* 🌀 [Object Play I: Sketch an Abstract Sculpture or Creature](01_Object_Play_Activity.md)
+* 🧱 [QuickStart Blender Guide](02_QuickStart_Blender_Guide.md)
+* 🧱 [Blender Modifiers Reference Sheet](03_Blender_Modifiers.md)
+* 🌀 [Object Play II: Build an Abstract Sculpture or Creature](04_Object_Play_Activity.md)
 
 ### 2. Character Building
 
 * 🧱 [Blender Reference: More Tools](05_Blender_Reference_More_Tools.md)  
-* ✏️ [Character Design Activity](04_Creature_Sketch_Activity.md)
-* 👾 [Character Modelling: Session 1](06_Character_Modeling_Session_1.md)
+* ✏️ [Character Design Activity](06_Creature_Sketch_Activity.md)
+* 👾 [Character Modelling: Session 1](07_Character_Modeling_Session_1.md)
 
 ### 3. Environment Building and Materials
 
-* 🌆 [Environment Modelling: Building your environment using custom-made objects](07_Environment_Modeling_Session1.md)
-* 💠 [Introduction to Materials](08_Intro_to_Materials.md)
-* 🌆 [Environment Modelling: Importing 3D objects (optional)](07_Environment_Modeling_Session2.md)
+* 🌆 [Environment Modelling: Building your environment using custom-made objects](08_Environment_Modeling_Session1.md)
+* 💠 [Introduction to Materials](09_Intro_to_Materials.md)
+* 🌆 [Environment Modelling: Importing 3D objects (optional)](10_Environment_Modeling_Session2.md)
 
-<!-- * 👾 [Character Modelling: Session 2](09_Character_Modeling_Session_2.md) -->
+<!-- 
+* 👾 [Character Modelling: Session 2](11_Character_Modeling_Session_2.md)
+* 🗣️ [Pair Feedback Activity: Scene Walkthrough](12_Feedback-Activity.md)
+ -->
 
 <!-- ### 4. Lighting and Cameras
 
