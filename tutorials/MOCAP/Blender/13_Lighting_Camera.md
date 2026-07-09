@@ -141,6 +141,20 @@
   </iframe>
 </div>
 
+### How to move camera in Blender with WASD (View Navigate) 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/oOS7gO7GNQk?si=mkUSm7Yb5oCIHe2c&amp;start=32"
+    title="How to move camera in Blender with WASD (View Navigate)"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 ### Learn more about the Camera settings - ⚠️ Watch it only until 9:16 
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
