@@ -3,13 +3,8 @@
 ---
 
 # 🦴 Intro to Armatures (Rigging)
-**Time:** 1 hour
 
----
-
-## 🎯 Objective  
-
-**Goal**: Rig your character by adding an armature (bones) to your character, pose them, and create expressive still shots using camera and lighting.
+**Goal:** Rig your character by adding an armature (bones) to your character, pose them, and create expressive still shots using camera and lighting.  
 
 ## 🦴 What is Rigging?
 
@@ -54,9 +49,31 @@ Follow along in Blender and try:
 - Extruding (`E`) to add limbs
 - Switching between **Edit**, **Pose**, and **Object** Modes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gdOaUv0_TC8?si=lY-v3eS2EEH05ESC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Blender Bones For Beginners
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SCWZr-It1bE?si=XcuTrHcMCQjnLu1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/gdOaUv0_TC8?si=lY-v3eS2EEH05ESC"
+    title="Blender Bones For Beginners"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Weight Painting in Blender
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/SCWZr-It1bE?si=XcuTrHcMCQjnLu1I"
+    title="Weight Painting in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -76,17 +93,57 @@ Think about the shape of your character:
 - Humanoid or organic? Add a basic spine, arms, and legs.
 - Unusual shape? Be creative with the rig!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SqnhLzPw8Kc?si=8-yDlE5celFgs9rg&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Rig and Animate Character
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nlMZx0vp6E?si=pvxFyvKawCh5Ntq5&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/SqnhLzPw8Kc?si=8-yDlE5celFgs9rg&amp;start=143"
+    title="Rig and Animate Character"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Character Rigging in Blender
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/2nlMZx0vp6E?si=pvxFyvKawCh5Ntq5&amp;start=143"
+    title="Character Rigging in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Possible solution to the problem of character not moving after applying armature as parent
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s2BkEVxUXKE?si=k-yHv7tw2cp6jHXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/s2BkEVxUXKE?si=k-yHv7tw2cp6jHXA"
+    title="Blender bone rig wont attach to mesh"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-### Connect separated bones
+### How to connect the separated bones in blender
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DKCPY1wsW90?si=EUDds3k7770k75ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/DKCPY1wsW90?si=EUDds3k7770k75ss"
+    title="How to connect the separated bones in blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -94,7 +151,7 @@ Think about the shape of your character:
 
 - Select your armature, then your model and switch to **Weight Paint Mode**.
 - Select each point and paint over the areas you want that bone to affect.
-- Check: [🖍️ Tips for Weight Painting in Blender](14_Weight_Painting.md)
+- Check: [🖍️ Tips for Weight Painting in Blender](15_Weight_Painting.md)
 
 ---
 
@@ -115,7 +172,18 @@ Think about the shape of your character:
 
 🎯 Try rendering 2–3 different poses!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YtRpBj_T07Q?si=hLa5lY-l56yf09Wk&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Blender - Save Render as Image
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/YtRpBj_T07Q?si=hLa5lY-l56yf09Wk&amp;start=143"
+    title="Blender - Save Render as Image"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -124,8 +192,6 @@ Think about the shape of your character:
 - Zoom in/out with `Scroll`, rotate with `Middle Mouse`, pan with `Shift + Middle Mouse`
 - Use the **Bone tab** to rename or tweak bones
 - If your mesh doesn’t move with the bones, don’t worry—we’re focusing on visual posing for now
-
----
 
 ---
 

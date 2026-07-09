@@ -1,10 +1,10 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 ---
 
 # 💡 Lighting & 🎥 Camera  
 
-**Objective:** Learn how to set up lighting and a camera in Blender to create a mood or focus attention in your scene. Experiment with color, strength, and angle to change how your scene feels.  
+**Goal:** Learn how to set up lighting and a camera in Blender to create a mood or focus attention in your scene. Experiment with color, strength, and angle to change how your scene feels.  
 
 ## 🔧 Tools You’ll Use
 
