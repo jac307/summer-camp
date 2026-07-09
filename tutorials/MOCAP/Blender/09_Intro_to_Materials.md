@@ -126,10 +126,17 @@ Before diving in, ask yourself:
   </iframe>
 </div>
 
-**Notes (Advance):**   
-- The default "reflecting image" you are seeing is an HDRI used in Blender's Viewport Shading (usually a forest). To display your actual scene reflections instead of this placeholder, switch your Viewport to Rendered mode (**Z** > **Rendered**), or customize your scene with an Environment Texture (HDRI) in the World Properties tab.  
-- To change your Environment Texture (HDRI) in Blender, go to the **World Properties tab**, click the yellow dot next to **Color**, and select **Environment Texture**. Click Open to load your **.hdr** or **.exr** file, then switch to the Rendered Viewport Shading mode to see the effect.  
+<details class="software-section">
+<summary class="software-title"><strong>Notes on glass reflection (Advance)</strong></summary> 
 
+<div markdown="1">
+
+The default "reflecting image" you are seeing is an HDRI used in Blender's Viewport Shading (usually a forest). To display your actual scene reflections instead of this placeholder, switch your Viewport to Rendered mode (**Z** > **Rendered**), or customize your scene with an Environment Texture (HDRI) in the World Properties tab.   
+
+To change your Environment Texture (HDRI) in Blender, go to the **World Properties tab**, click the yellow dot next to **Color**, and select **Environment Texture**. Click Open to load your **.hdr** or **.exr** file, then switch to the Rendered Viewport Shading mode to see the effect.    
+
+</div>
+</details>
 
 ### Create dynamic Fur/Hair in Blender
 
