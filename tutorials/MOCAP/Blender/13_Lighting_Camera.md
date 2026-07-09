@@ -3,12 +3,8 @@
 ---
 
 # 💡 Lighting & 🎥 Camera  
-**Time:** 40 min
 
----
-
-## 🎯 Objective  
-Learn how to set up lighting and a camera in Blender to create a mood or focus attention in your scene. Experiment with color, strength, and angle to change how your scene feels.
+**Objective:** Learn how to set up lighting and a camera in Blender to create a mood or focus attention in your scene. Experiment with color, strength, and angle to change how your scene feels.  
 
 ## 🔧 Tools You’ll Use
 
@@ -36,7 +32,7 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
   - **Area** – Soft, rectangular light source (good for studio or room lighting)  
   - **Spot** – Cone-shaped light (useful for dramatic or focused light)
 
-![Light Scenes](light.png)
+![Light Scenes](imgs/light.png)
 
 ### Step 2: Position the Light  
 - Use `G` to **move**, `R` to **rotate**
@@ -68,9 +64,31 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ## Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Light Types
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/FdbnzfjoOJU?si=b_qj-pza7Kndc7h2"
+    title="Light Types - Blender 2.80 Fundamentals"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### How to Use Blender's Light Objects 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/JJV8l6MaXxA?si=kIEPy6l0rxPCI2jS"
+    title="How to Use Blender's Light Objects"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -110,29 +128,69 @@ Learn how to set up lighting and a camera in Blender to create a mood or focus a
 
 ## Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FApegTD0a5M?si=T1bZkj1ZeWCYjaof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Camera to View Tutorial 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=itt5NR0yr4NRvYTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fTVED78bnio?si=3UclY175KnzWIcY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Learn how to have two views at the same time
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Q_-R4UjtB8?si=8iqCxJ6WnJLAWzXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/0sDZ0zRVn1M?si=itt5NR0yr4NRvYTW"
+    title="Blender 3 Camera to View Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Learn more about the Camera settings - ⚠️ Watch it only until 9:16 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aY04h4ujrlY?si=l-VcJvGLSdknDt8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/aY04h4ujrlY?si=l-VcJvGLSdknDt8H"
+    title="Best Way to Render High Quality Images in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Best Way to Render High Quality Images in Blender 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/fTVED78bnio?si=3UclY175KnzWIcY-"
+    title="Best Way to Render High Quality Images in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Learn how to have two views at the same time
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/3Q_-R4UjtB8?si=8iqCxJ6WnJLAWzXd"
+    title="Best Way to Render High Quality Images in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
 ## 💾 Save Your Work  
 - `File → Save`  
 - Filename: `YourName_SceneLights.blend`  
-- Save to USB or class folder
+- Save to your class folder
 
 ---
 
 ## 📝 Reflection  
 **What kind of mood or feeling do your lighting and camera choices create?**  
 → Write down **1–2 words**: _(e.g., “dreamy,” “mysterious,” “playful,” “cinematic”)_
+
+---
