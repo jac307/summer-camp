@@ -104,7 +104,7 @@ Think about the shape of your character:
 
 - Select your armature, then your model and switch to **Weight Paint Mode**.
 - Select each point and paint over the areas you want that bone to affect.
-- Check: [🖍️ Tips for Weight Painting in Blender](15_Weight_Painting.md){:target="_blank"}
+- Check: [🖍️ Tips for Weight Painting in Blender](16_Weight_Painting.md){:target="_blank"}
 
 ---
 
