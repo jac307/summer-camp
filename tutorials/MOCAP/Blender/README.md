@@ -62,7 +62,7 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### Additional Blender Resources
 
-* 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
+* 🔤 [Blender Shortcut Reference Guide](00_Shortcut_Reference_Guide.md)
 
 <!-- * 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md) -->
 
