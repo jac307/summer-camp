@@ -45,19 +45,19 @@ The activities are designed to build foundational skills while encouraging creat
 * 👾 [Character Modelling: Session 2](11_Character_Modeling_Session_2.md)
 * 🗣️ [Pair Feedback Activity: Scene Walkthrough](12_Feedback-Activity.md)
 
-<!-- ### 4. Lighting and Cameras
+### 4. Lighting and Cameras
 
-* 💡 [Lighting and Camera](10_Lighting_Camera.md) -->
+* 💡 [Lighting and Camera](13_Lighting_Camera.md)
 
-<!-- ### 5. Rigging
+### 5. Rigging
 
-* 🦴 [Introduction to Armatures and Rigging](11_Intro_to_Armatures.md)
-* 🖍️ [Tips for Weight Painting in Blender](14_Weight_Painting.md) -->
+* 🦴 [Introduction to Armatures and Rigging](14_Intro_to_Armatures.md)
+* 🖍️ [Tips for Weight Painting in Blender](15_Weight_Painting.md)
 
 <!-- ### 6. Animation
 
-* 🕹️ [Camera Animation Basics](12_Camera_Animation_Basics.md)
-* 🕹️ [Mesh Animation Basics](13_Mesh_Animation_Basics.md) -->
+* 🕹️ [Camera Animation Basics](16_Camera_Animation_Basics.md)
+* 🕹️ [Mesh Animation Basics](17_Mesh_Animation_Basics.md) -->
 
 <!-- ### Additional Blender Resources
 
