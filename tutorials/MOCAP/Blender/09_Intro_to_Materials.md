@@ -139,6 +139,19 @@ Before diving in, ask yourself:
   </iframe>
 </div>
 
+### Basic Hair Particles, Vertex Groups, and Weight Painting - Advance
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/HvnzUXD4hF0?si=20AfEp1HeILjZZOx"
+    title="Basic Hair Particles, Vertex Groups, and Weight Painting"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ### Endless Ocean Loop In Blender
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
