@@ -1,4 +1,4 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 ---
 
@@ -56,7 +56,6 @@ In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis 
 → Useful for symmetrical characters (e.g. left and right arms/legs).
 -->
 
-
 #### Use Auto Normalize
 
 In **Tool Settings → Options**, turn on **Auto Normalize**.  
@@ -69,14 +68,23 @@ In **Tool Settings → Options**, turn on **Auto Normalize**.
 Switch to **Pose Mode**, adjust your rig to try different positions, then return to **Weight Paint Mode**.  
 → This allows you to reach and fix hard-to-paint areas based on realistic deformations.
 
-**Using a MOCAP (animated) armature?**  
+<!-- **Using a MOCAP (animated) armature?**  
 Scrub through the **timeline** to find a specific pose, then switch back to **Weight Paint Mode**.  
-→ This lets you see how your weights behave during motion and refine them at problem frames.
+→ This lets you see how your weights behave during motion and refine them at problem frames. -->
 
 ---
 
 ## More information on Weight Painting
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tUIIauuXveE?si=sFluA-G-db_YvBA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/tUIIauuXveE?si=sFluA-G-db_YvBA-"
+    title="Weight Painting in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---

@@ -4,7 +4,9 @@
 
 # 🦴 Intro to Armatures (Rigging)
 
-**Goal:** Rig your character by adding an armature (bones) to your character, pose them, and create expressive still shots using camera and lighting.  
+**Goal:** Learn the basics of armatures and rigging in Blender by working in a small armature. 
+
+---
 
 ## 🦴 What is Rigging?
 
@@ -35,7 +37,7 @@
 
 ---
 
-## Step 1: Learn the Basics of Armatures
+## Learn the Basics of Armatures
 
 **Open a New Blender File**  
 - Go to `File → New → General`  
@@ -49,8 +51,6 @@ Follow along in Blender and try:
 - Extruding (`E`) to add limbs
 - Switching between **Edit**, **Pose**, and **Object** Modes
 
-### Blender Bones For Beginners
-
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/gdOaUv0_TC8?si=lY-v3eS2EEH05ESC"
@@ -62,7 +62,9 @@ Follow along in Blender and try:
   </iframe>
 </div>
 
-### Weight Painting in Blender
+---
+
+### More on Weight Painting in Blender
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
@@ -77,121 +79,9 @@ Follow along in Blender and try:
 
 ---
 
-## Step 2: Add Bones to Your Character
+## What is next?
 
-**Open Your Character File**  
-- File → Open → `YourName_Character.blend`
-
-🦴 **Add an Armature**
-- `Shift + A → Armature → Single Bone`
-- Enter **Edit Mode** (`Tab`) to build your skeleton --use wireframeview
-- Select one end of the Bone, then use `E` to extrude more bones
-- Follow the tutorial to learn how to link your object to your armature and go into **Pose Mode**
-
-Think about the shape of your character:
-- Robot or blocky? You may only need a few bones.
-- Humanoid or organic? Add a basic spine, arms, and legs.
-- Unusual shape? Be creative with the rig!
-
-### Rig and Animate Character
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/SqnhLzPw8Kc?si=8-yDlE5celFgs9rg&amp;start=143"
-    title="Rig and Animate Character"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-### Character Rigging in Blender
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/2nlMZx0vp6E?si=pvxFyvKawCh5Ntq5&amp;start=143"
-    title="Character Rigging in Blender"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-### Possible solution to the problem of character not moving after applying armature as parent
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/s2BkEVxUXKE?si=k-yHv7tw2cp6jHXA"
-    title="Blender bone rig wont attach to mesh"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-### How to connect the separated bones in blender
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/DKCPY1wsW90?si=EUDds3k7770k75ss"
-    title="How to connect the separated bones in blender"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## Step 3: Weight Paint your bones
-
-- Select your armature, then your model and switch to **Weight Paint Mode**.
-- Select each point and paint over the areas you want that bone to affect.
-- Check: [🖍️ Tips for Weight Painting in Blender](15_Weight_Painting.md)
-
----
-
-## Step 4: Pose and Capture Your Character
-
-👾 **Pose Your Character**
-- Select your model, then your armature and switch to **Pose Mode**.
-- Use `R` (rotate) to change bone angles
-- Experiment with expressive poses
-- ⚠️ For now, just pose your character. **Don’t animate with armatures yet**.
-
-📷 **Set Up a Camera and Lights**
-- Add or adjust camera angle and lighting (use earlier guides)
-
-💾 **Render Still Images**
-- Use `F12` to render a single shot
-- Save as `.png`: `Image → Save As`
-
-🎯 Try rendering 2–3 different poses!
-
-### Blender - Save Render as Image
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/YtRpBj_T07Q?si=hLa5lY-l56yf09Wk&amp;start=143"
-    title="Blender - Save Render as Image"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## 💡 Tips
-- Keep bones simple—this is just a pose, ⚠️ **not full animation**
-- Zoom in/out with `Scroll`, rotate with `Middle Mouse`, pan with `Shift + Middle Mouse`
-- Use the **Bone tab** to rename or tweak bones
-- If your mesh doesn’t move with the bones, don’t worry—we’re focusing on visual posing for now
+Once you finish, continue with 🦴 [Rig your character for a Pose](15_Character-Rig.md)
 
 ---
 

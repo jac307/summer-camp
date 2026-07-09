@@ -52,7 +52,8 @@ The activities are designed to build foundational skills while encouraging creat
 ### 5. Rigging
 
 * 🦴 [Introduction to Armatures and Rigging](14_Intro_to_Armatures.md)
-* 🖍️ [Tips for Weight Painting in Blender](15_Weight_Painting.md)
+* 🦴 [Rig your character for a Pose](15_Character-Rig.md)
+* 🖍️ [Tips for Weight Painting in Blender](16_Weight_Painting.md)
 
 <!-- ### 6. Animation
 
