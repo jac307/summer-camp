@@ -32,7 +32,7 @@
   - **Area** – Soft, rectangular light source (good for studio or room lighting)  
   - **Spot** – Cone-shaped light (useful for dramatic or focused light)
 
-![Light Scenes](imgs/light.png)
+![Light Scenes](imgs/light.png){: .tutorial-image }
 
 ### Step 2: Position the Light  
 - Use `G` to **move**, `R` to **rotate**
