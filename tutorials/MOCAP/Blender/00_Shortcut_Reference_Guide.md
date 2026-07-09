@@ -1,4 +1,4 @@
-[Blender Tutorials](README.md) | [Home](../../README.md)
+[Blender Tutorials](README.md)
 
 -------------------------------------------------------------------------------
 
@@ -11,6 +11,7 @@
 | **Rotate**                       | `R`                          | Rotate selected object or element                            |
 | **Scale**                        | `S`                          | Scale selected object or element                             |
 | **Select All**                   | `A`                          | Select all objects or elements                               |
+| **View Menu**.                   | `Z`                          | Choose Wireframe, Solid, Material, or Rendered View  |
 | **Join Objects**                 | `Ctrl + J`                   | Combine selected objects into one mesh                       |
 | **Delete Faces / Objects**       | `X` or `Delete`              | Delete selected items                                        |
 | **Enter Edit Mode**              | `Tab`                        | Toggle between Object and Edit Modes                         |
@@ -68,7 +69,7 @@
 
 ---
 
-## 🕹️ Animation Basics
+<!-- ## 🕹️ Animation Basics
 
 | **Action**               | **Shortcut / Location**                  | **Purpose / Use**                                              |
 |--------------------------|-------------------------------------------|----------------------------------------------------------------|
@@ -81,6 +82,6 @@
 | **Graph Editor**         | Editor Type Dropdown → Graph Editor      | Fine-tune animation curves (e.g. ease in/out)                  |
 | **Delete Keyframe**      | `Alt + I`                                | Remove keyframe from selected property                         |
 | **Render Animation**     | `Ctrl + F12` or `Render → Render Animation` | Export animation to video                                    |
-| **Save File**            | `File → Save As`                         | Save your Blender project file                                 |
+| **Save File**            | `File → Save As`                         | Save your Blender project file                                 | -->
 
 ---

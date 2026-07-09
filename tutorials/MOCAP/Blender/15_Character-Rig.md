@@ -32,8 +32,6 @@
 
 ## Step 1: Add Bones to Your Character
 
-Check 🦴 [Introduction to Armatures and Rigging](14_Intro_to_Armatures.md){:target="_blank"}
-
 **Open Your Character File**  
 - File → Open → `YourName_Character.blend`
 

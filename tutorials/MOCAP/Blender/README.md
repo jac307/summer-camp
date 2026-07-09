@@ -51,7 +51,7 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 5. Rigging
 
-* 🦴 [Introduction to Armatures and Rigging](14_Intro_to_Armatures.md)
+* 🦴 [Intro to Armatures (Rigging)](14_Intro_to_Armatures.md)
 * 🦴 [Rig your character for a Pose](15_Character-Rig.md)
 * 🖍️ [Tips for Weight Painting in Blender](16_Weight_Painting.md)
 
@@ -60,10 +60,11 @@ The activities are designed to build foundational skills while encouraging creat
 * 🕹️ [Camera Animation Basics](16_Camera_Animation_Basics.md)
 * 🕹️ [Mesh Animation Basics](17_Mesh_Animation_Basics.md) -->
 
-<!-- ### Additional Blender Resources
+### Additional Blender Resources
 
 * 🔤 [Blender Shortcut Reference Guide](0_Shortcut_Reference_Guide.md)
-* 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md) -->
+
+<!-- * 👾 [Character Modelling: Additional References and Approaches](More_References_Character_Modeling.md) -->
 
 ---
 
