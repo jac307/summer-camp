@@ -96,4 +96,10 @@ Now it’s your turn!
 
 ---
 
+## What is next?
+
+Once you finish animating various objects in your scene, continue with 🕹️ [Camera Animation Basics](18_Camera_Animation_Basics.md)
+
+---
+
 
