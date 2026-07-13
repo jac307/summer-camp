@@ -28,7 +28,16 @@ Watch and **apply** this basic camera animation in your own scene, then export i
 
 ### **Intro to Camera Animation**: How To Keyframe Camera
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uCaPydFcakA?si=5f8VfBseWNvn9Gdm&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/uCaPydFcakA?si=5f8VfBseWNvn9Gdm&amp;start=143"
+    title="Blender How To Keyframe Camera"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### 💾 Export Your Animation
 
@@ -39,7 +48,16 @@ Watch and **apply** this basic camera animation in your own scene, then export i
 - File → Render → Render Animation  
 - Save as `YourName_CameraMove.mp4
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OENbinegV2c?si=zU77Qu5hGbkt7hWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/OENbinegV2c?si=zU77Qu5hGbkt7hWQ"
+    title="How to Render Your 3d Animation to a Video File"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -71,11 +89,38 @@ For each tutorial:
 
 ### Tutorials to Try
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0N8ucYi_eOM?si=ZJ5m3vK-7rz5cdKo&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/0N8ucYi_eOM?si=53RLOVcRwSdHBr43"
+    title="Make Camera Follow Path in Blender Easy"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a7qyW1G350g?si=ee1ydymaHqnuWUcx&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/a7qyW1G350g?si=7_XRIyr5wz-wgNIn"
+    title="Quick Smooth Camera Movements in Blender"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COwENnPwWJ8?si=8K7O_RORWteJp_7B&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/COwENnPwWJ8?si=yMscp2pVdPYFLymZ"
+    title="Animate Cameras like a Pro"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

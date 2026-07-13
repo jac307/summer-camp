@@ -35,7 +35,7 @@
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/CBJp82tlR3M?si=FtOz4SfgG9wkrnhU"
-    title="Rig and Animate Character"
+    title="Animation for Beginners"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -74,7 +74,7 @@ Now it’s your turn!
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ"
-    title="Rig and Animate Character"
+    title="Export as an MP4 video"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
