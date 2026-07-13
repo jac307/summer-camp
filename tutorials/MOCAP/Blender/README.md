@@ -57,8 +57,8 @@ The activities are designed to build foundational skills while encouraging creat
 
 ### 6. Animation
 
-* 🕹️ [Camera Animation Basics](17_Camera_Animation_Basics.md)
-* 🕹️ [Mesh Animation Basics](18_Mesh_Animation_Basics.md)
+* 🕹️ [Mesh Animation Basics](17_Mesh_Animation_Basics.md)
+* 🕹️ [Camera Animation Basics](18_Camera_Animation_Basics.md)
 
 ### Additional Blender Resources
 
