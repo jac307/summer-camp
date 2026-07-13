@@ -45,7 +45,7 @@ Then, follow these steps:
    - In Blender, go to `File → Import → OBJ/FBX` (or whatever format your model is in)  
    - Make sure your model **does not include an armature**
   
-![Sensor Check](images/import-mocap-1.png)
+![Sensor Check](images/import-mocap-1.png){: .tutorial-image }
 
 #### 2. **Import Your BVH File**  
    - Go to `File → Import → Motion Capture (.bvh)`  
@@ -54,14 +54,14 @@ Then, follow these steps:
    - Click **Import BVH**  
    - This will create a **BVH armature** with baked motion keyframes
 
-![Sensor Check](images/import-mocap-2.png)
+![Sensor Check](images/import-mocap-2.png){: .tutorial-image }
 
 #### 3. **Align BVH Scale with Character**  
    - Your mocap character may appear larger/smaller than your mesh  
    - Use **`S` (scale)** on the **BVH armature only** (Object Mode)  
    - Do **not scale the armature in Edit Mode** or using non-uniform transforms
 
-![Sensor Check](images/import-mocap-3.png)
+![Sensor Check](images/import-mocap-3.png){: .tutorial-image }
 
 #### 4. **Match Bone Positions**  
    - Select the **BVH armature**  
@@ -69,7 +69,7 @@ Then, follow these steps:
    - Move and adjust bones so they **visually align with your character’s mesh**  
    - Focus on key joints like the **shoulders, hips, knees, and feet** for accurate alignment
 
-![Sensor Check](images/import-mocap-4.png)
+![Sensor Check](images/import-mocap-4.png){: .tutorial-image }
 
 #### 5. **Parent the Mesh**  
    - To apply the BVH armature to your mesh, select the **mesh first**, then **Shift+click the armature**  
@@ -77,13 +77,13 @@ Then, follow these steps:
    - **Note**: This works best if your mesh is **roughly aligned** with the armature  
    - **Tip**: Use **Weight Paint mode** to fine-tune how bones influence the mesh if deformations look incorrect
 
-![Sensor Check](images/import-mocap-5.png)
+![Sensor Check](images/import-mocap-5.png){: .tutorial-image }
 
 #### 6. **Play the Timeline**  
    - Press `Spacebar` or drag the timeline to preview the movement  
    - Your BVH skeleton should animate based on the captured motion
   
-![Sensor Check](images/import-mocap-6.png)
+![Sensor Check](images/import-mocap-6.png){: .tutorial-image }
 
 #### 7. **Export short video**  
    - Go to the **Output Properties** tab (printer icon in the Properties Panel).
@@ -156,7 +156,7 @@ Then, follow these steps:
 
 🛠️ You can tweak the rig to better fit your model after generation.
 
-![Sensor Check](images/import-mocap-7.png)
+![Sensor Check](images/import-mocap-7.png){: .tutorial-image }
 
 ### Retarget Using Auto-Rig Pro: Remap
 
@@ -172,13 +172,13 @@ Then configure the following:
 
 Click **Remap** to complete the transfer.
 
-![Sensor Check](images/import-mocap-8.png)
+![Sensor Check](images/import-mocap-8.png){: .tutorial-image }
 
 ### Preview & Adjust
 
 Play the timeline to see your character animated with the mocap data
 
-![Sensor Check](images/import-mocap-10.png)
+![Sensor Check](images/import-mocap-10.png){: .tutorial-image }
      
 ---
 
@@ -241,9 +241,18 @@ If needed, enter **Edit Mode** on the target armature to rename or reposition bo
 
 ---
 
-## Tutorial
+### Perception Neuron 3 | Retargeting data in Blender
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dv2oS0OsJqE?si=snc_H0h28BKN6cwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/dv2oS0OsJqE?si=snc_H0h28BKN6cwC"
+    title="Perception Neuron 3 | First Launch"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

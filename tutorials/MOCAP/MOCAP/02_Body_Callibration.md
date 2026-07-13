@@ -37,7 +37,7 @@
 - Click the **T-Pose icon** on the right-side toolbar to open the Posture Calibration panel.
 - Enable the relevant posture types: **T-Pose**, **W (Beta)**, and **P-Pose**.
 
-![Light Scenes](images/body_callibration_0.png)
+![Light Scenes](images/body_callibration_0.png){: .tutorial-image }
 
 ---
 
@@ -59,7 +59,7 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Keep head forward, knees relaxed, and hands flat (palms down).
 - Ensures proper alignment of **arms, torso, legs, and overall posture**.
 
-![Light Scenes](images/body_callibration_2.png)
+![Light Scenes](images/body_callibration_2.png){: .tutorial-image }
 
 ---
 
@@ -68,7 +68,7 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Hands face inward, aligned to the sides of your thighs.
 - Used optionally when **shoulder joints** perform better with relaxed calibration.
 
-![Light Scenes](images/body_callibration_3.png)
+![Light Scenes](images/body_callibration_3.png){: .tutorial-image }
 
 ---
 
@@ -78,7 +78,7 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Avoid running, jumping, or changing direction.
 - Captures **natural locomotion and balance data**.
 
-![Light Scenes](images/body_callibration_4.png)
+![Light Scenes](images/body_callibration_4.png){: .tutorial-image }
 
 ---
 
@@ -88,7 +88,7 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Then stand still again.
 - This improves **elbow and lower arm movement accuracy**.
 
-![Light Scenes](images/body_callibration_6.png)
+![Light Scenes](images/body_callibration_6.png){: .tutorial-image }
 
 ---
 
@@ -98,7 +98,7 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 - Both hands should mirror each other.
 - Used when **hand sensors or gloves** are enabled for finger tracking.
 
-![Light Scenes](images/body_callibration_7.png)
+![Light Scenes](images/body_callibration_7.png){: .tutorial-image }
 
 ---
 
@@ -115,9 +115,18 @@ Each posture calibrates a specific aspect of the body tracking system. Perform e
 
 ---
 
-## Video Tutorial
+### Perception Neuron 3 | First Launch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdryfjN8pvs?si=ANNxJWdKtMohntUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/KdryfjN8pvs?si=ANNxJWdKtMohntUB"
+    title="Perception Neuron 3 | First Launch"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

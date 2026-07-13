@@ -14,7 +14,18 @@
 - USB **receiver plugged into your computer**
 - **3×3 meter workspace** (minimum) free of obstacles and metal interference
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MgAUYQAoXyk?si=TJ8aVa9u7bq6OLuC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Perception Neuron 3 | Body Kit Unboxing
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/MgAUYQAoXyk?si=TJ8aVa9u7bq6OLuC"
+    title="Perception Neuron 3 | Body Kit Unboxing"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -24,14 +35,14 @@
 > Go to the **Capturing** tab → **Sensor Check** panel.  
 > Make sure the device shows as **Connected** and all sensors are online.
 
-![Sensor Check](images/setup_0.png)
+![Sensor Check](images/setup_0.png){: .tutorial-image }
 
 ## Step 2: Sensor Check
 
 > **Axis Studio → Capturing Tab → Sensor Check** Panel  
 > Follow the on-screen instructions
 
-![Sensor Check](images/setup_2.png)
+![Sensor Check](images/setup_2.png){: .tutorial-image }
 
 ### 🔌 Turn On Sensors
 Choose one method, then click **Next**:
@@ -53,9 +64,18 @@ The system will automatically run the following diagnostics:
 - All sensors must show as **Connected**
 - Click **Finish**
 
-### Tutorial
+### Perception Neuron 3 | Sensor Calibration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a"
+    title="Perception Neuron 3 | Sensor Calibration"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -64,7 +84,7 @@ The system will automatically run the following diagnostics:
 ### 🟢 Proper Sensor Placement  
 > Use the [PN Studio] tab in Axis Studio for reference.
 
-![Sensor Wear](images/setup_1.png)
+![Sensor Wear](images/setup_1.png){: .tutorial-image }
 
 Key sensor locations:
 - **[1] Shoulders** – Attach to the **upper back** of each shoulder  
@@ -79,7 +99,7 @@ The hub **receives data wirelessly** from each sensor and streams it to Axis Stu
 > Click **Next** and follow the instructions to complete the initial general calibration.  
 > This calibration won’t be perfect — you will need to perform a full **Posture Calibration** in **Step 4**.
 
-![Sensor Wear](images/setup_4.png)
+![Sensor Wear](images/setup_4.png){: .tutorial-image }
 
 ---
 
