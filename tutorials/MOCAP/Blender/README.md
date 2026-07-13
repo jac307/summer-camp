@@ -55,10 +55,10 @@ The activities are designed to build foundational skills while encouraging creat
 * 🦴 [Rig your character for a Pose](15_Character-Rig.md)
 * 🖍️ [Tips for Weight Painting in Blender](16_Weight_Painting.md)
 
-<!-- ### 6. Animation
+### 6. Animation
 
-* 🕹️ [Camera Animation Basics](16_Camera_Animation_Basics.md)
-* 🕹️ [Mesh Animation Basics](17_Mesh_Animation_Basics.md) -->
+* 🕹️ [Camera Animation Basics](17_Camera_Animation_Basics.md)
+* 🕹️ [Mesh Animation Basics](18_Mesh_Animation_Basics.md)
 
 ### Additional Blender Resources
 

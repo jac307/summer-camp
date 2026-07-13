@@ -1,11 +1,10 @@
-# 🕹️ Mesh Animation Basics
-
-**Time:** 1h30m
+[Blender Tutorials](README.md)
 
 ---
 
-## 🎯 Objective
-Use Blender’s **Timeline** to animate one meaningful mesh movement and export a short video clips.
+# 🕹️ Mesh Animation Basics
+
+**Objective:** Use the timeline to animate mesh movements and export short video clips.
 
 ---
 
@@ -33,7 +32,16 @@ Use Blender’s **Timeline** to animate one meaningful mesh movement and export 
 - **Tip**: Use the timeline at the bottom of your screen to add and view keyframes.
 - Save your Blender file as: `YourName_AnimatedObject.blend`
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CBJp82tlR3M?si=FtOz4SfgG9wkrnhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/CBJp82tlR3M?si=FtOz4SfgG9wkrnhU"
+    title="Rig and Animate Character"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -62,7 +70,17 @@ Now it’s your turn!
 5. Go to **Render → Render Animation** (`Ctrl + F12`).
 6. Once done, your video file will be saved in the selected folder.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/3eJmISziyIY?si=ZCpno06akClY-OWQ"
+    title="Rig and Animate Character"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

@@ -1,11 +1,10 @@
-# 🕹️ Camera Animation Basics  
-
-**Time:** 1h30m
+[Blender Tutorials](README.md)
 
 ---
 
-## 🎯 Objective
-Use Blender’s **Timeline** and **Dope Sheet** to animate one meaningful camera movement and export a short video clips.
+# 🕹️ Camera Animation Basics  
+
+**Objective:** Get knowledge about the timeline and keyframes to animate camera movement and export short video clips.
 
 ---
 
@@ -71,6 +70,7 @@ For each tutorial:
    - Save as a short `.mp4` file to review your work.
 
 ### Tutorials to Try
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0N8ucYi_eOM?si=ZJ5m3vK-7rz5cdKo&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a7qyW1G350g?si=ee1ydymaHqnuWUcx&amp;start=143" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

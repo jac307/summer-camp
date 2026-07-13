@@ -37,7 +37,7 @@ In these tutorials, you will learn how to set up the motion-capture equipment, c
 
 ## Activities
 
-<!-- ### Setup and Calibration
+### Setup and Calibration
 
 * ⚙️ [Perception Neuron 3 QuickStart Guide](01_QuickStart_Neuron3_Guide.md)
 * 🧍 [Posture Calibration in Axis Studio](02_Body_Callibration.md)
@@ -45,7 +45,7 @@ In these tutorials, you will learn how to set up the motion-capture equipment, c
 ### Recording and Retargeting
 
 * 🎥 [Record and Export Motion Data in Axis Studio](03_Recording_And_Exporting.md)
-* 🌀 [Retarget Motion onto a Character in Blender](04_Retargeting_Blender.md) -->
+* 🌀 [Retarget Motion onto a Character in Blender](04_Retargeting_Blender.md)
 
 ---
 
