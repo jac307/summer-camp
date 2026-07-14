@@ -3,12 +3,6 @@ layout: default
 title: Motion Capture and Animation Foundations
 ---
 
----
-
-layout: default
-title: Motion Capture with Perception Neuron 3
-----------------------------------------------
-
 [Home](../../../README.md)
 
 ---
