@@ -17,6 +17,8 @@ The activities are designed to build foundational skills while encouraging creat
 
 <a href="https://www.blender.org/download/" target="_blank" rel="noopener noreferrer"><strong>⬇️ Download Blender</strong></a>  
 
+* [Part 2: Motion Capture with Perception Neuron 3](../MOCAP/README.md)  
+
 ---
 
 ## Activities
