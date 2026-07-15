@@ -39,6 +39,7 @@ In these tutorials, you will learn how to set up the motion-capture equipment, c
 ### Recording and Retargeting
 
 * 🎥 [Record and Export Motion Data in Axis Studio](03_Recording_And_Exporting.md)
+* 🦴 [Rigging Movements in Blender ](04_Rigging_Blender.md)
 * 🌀 [Retarget Motion onto a Character in Blender](04_Retargeting_Blender.md)
 
 ---

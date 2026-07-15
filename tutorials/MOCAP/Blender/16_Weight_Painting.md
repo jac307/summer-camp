@@ -49,17 +49,17 @@ If Blender’s automatic weight painting doesn’t work well, reset and start ma
 Select the **Brush**, then go to **Tool Settings → Settings → Falloff**, and choose **Projected**.  
 → This makes painting more accurate over complex or hidden surfaces.
 
-<!-- 
+
 #### Use Mirror Painting
 
 In the same **Tool Settings**, go to the **Mirror** section and enable **X-Axis Mirror**.  
-→ Useful for symmetrical characters (e.g. left and right arms/legs).
--->
+→ Useful only for symmetrical characters (e.g. left and right arms/legs).
 
-#### Use Auto Normalize
+
+<!-- #### Use Auto Normalize
 
 In **Tool Settings → Options**, turn on **Auto Normalize**.  
-→ Prevents overlapping or uneven influence by ensuring all vertex weights total 1.0.
+→ Prevents overlapping or uneven influence by ensuring all vertex weights total 1.0. -->
 
 ---
 
@@ -68,9 +68,9 @@ In **Tool Settings → Options**, turn on **Auto Normalize**.
 Switch to **Pose Mode**, adjust your rig to try different positions, then return to **Weight Paint Mode**.  
 → This allows you to reach and fix hard-to-paint areas based on realistic deformations.
 
-<!-- **Using a MOCAP (animated) armature?**  
+**Using a MOCAP (animated) armature?**  
 Scrub through the **timeline** to find a specific pose, then switch back to **Weight Paint Mode**.  
-→ This lets you see how your weights behave during motion and refine them at problem frames. -->
+→ This lets you see how your weights behave during motion and refine them at problem frames.
 
 ---
 
