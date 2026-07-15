@@ -15,7 +15,7 @@ Make sure:
 
 ---
 
-## 1. Go to the **Record Panel**
+## 1. Go to the **Capturing Panel**
 - Click the **🎥 Record tab** from the top navigation bar
 - Open **Record Settings**:
   - Set file format to `.bvh`
