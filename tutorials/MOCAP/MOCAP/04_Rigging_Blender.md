@@ -53,6 +53,7 @@ Before starting, remove any existing armatures from your model:
    - Before importing: In the **Transform** panel on the right, set the **Scale** to `0.1`  
    - Click **Import BVH**  
    - This will create a **BVH armature** with baked motion keyframes
+   - Before going to the next step, **go to frame 0 in your timeline**. This will show the imported **armature in T pose**.
 
 ![Import mocap](images/import-mocap-2.png){: .tutorial-image }
 
@@ -73,9 +74,10 @@ Before starting, remove any existing armatures from your model:
 
 #### 5. **Parent the Mesh**  
    - To apply the BVH armature to your mesh, select the **mesh first**, then **Shift+click the armature**  
-   - Press `Ctrl+P` and choose **With Empty Groups**  
-   - **Note**: This works best if your mesh is **roughly aligned** with the armature  
-   - **Tip**: Use **Weight Paint mode** to fine-tune how bones influence the mesh if deformations look incorrect
+   - Press `Ctrl+P` and choose **With Automatic Weights**  
+   - **Note**: This works best if your mesh is **roughly aligned** with the armature
+   - Clean the hands, removing any weight paint on them if not need it.  
+   - **Tip**: Use **Weight Paint mode** to fine-tune how bones influence the mesh if deformations look incorrect and/or re-parent **With Empty Groups**.
    - 🖍️ [Tips for Weight Painting in Blender](../Blender/16_Weight_Painting.md)
 
 ![Parent](images/import-mocap-5.png){: .tutorial-image }
