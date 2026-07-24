@@ -9,7 +9,7 @@ title: Photographic Foundations
 
 <h1 class="camp-heading">Photographic Foundations</h1>
 
-Participants will create technical reference cards and GIFs that demonstrate how different camera settings affect an image. Each day also includes a short creative project where participants apply the techniques through photography, editing, and visual storytelling.
+Photography combines technical camera control with observation, composition, and visual storytelling. These beginner-friendly activities introduce DSLR camera operation, aperture, ISO, white balance, shutter speed, focal length, depth of field, RAW image editing, and photographic sequencing.
 
 ## Overview 
 
@@ -21,8 +21,6 @@ Participants will create technical reference cards and GIFs that demonstrate how
 | 4   | Focal length, camera distance, perspective, depth of field | Lens and Distance card                               | Person in Place photo series         |
 
 ---
-
-## Activities
 
 ## Activities
 
