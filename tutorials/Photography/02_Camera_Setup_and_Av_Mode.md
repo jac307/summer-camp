@@ -746,7 +746,7 @@ You can also press <code>Q</code> and select the White Balance setting from the 
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/2XE1Z89pXmc?si=RWo5ElbFKQTLsFSS
+    src="https://www.youtube.com/embed/2XE1Z89pXmc?si=RWo5ElbFKQTLsFSS"
     title="White Balance: Master your Canon DSLR"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
