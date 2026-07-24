@@ -132,6 +132,17 @@ This two-week intensive program introduces high school students to the creative 
 </div>
 </details>
 
+<details class="software-section">
+<summary class="software-title"><strong>Photographic Foundations</strong></summary> 
+
+<div markdown="1">
+
+This four-day intensive program introduces high school students to the ...
+* [Photographic Foundations](tutorials/MOCAP/Blender/README.md)
+
+</div>
+</details>
+
 
 ---
 
