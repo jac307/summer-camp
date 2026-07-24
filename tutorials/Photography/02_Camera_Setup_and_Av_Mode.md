@@ -834,7 +834,7 @@ SECTION 7
 
 ## What is next?
 
-Continue with 🌀 [Technical Cards: Aperture, ISO, and White Balance](03_Technical_Cards.md).
+Continue with ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md).
 
 </div>
 </details>
