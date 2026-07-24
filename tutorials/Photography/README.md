@@ -11,15 +11,6 @@ title: Photographic Foundations
 
 Photography combines technical camera control with observation, composition, and visual storytelling. These beginner-friendly activities introduce DSLR camera operation, aperture, ISO, white balance, shutter speed, focal length, depth of field, RAW image editing, and photographic sequencing.
 
-## Overview 
-
-| Day | Technical focus                                            | Technical resource                                   | Mini-project                         |
-| --- | ---------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------ |
-| 1   | Camera anatomy, Av, aperture, ISO, white balance           | Aperture GIF, ISO comparison card, white-balance GIF | Short camera exercise                |
-| 2   | Custom white balance, bracketing, RAW development          | Colour-to-black-and-white editing card               | 30-second black-and-white photo-film |
-| 3   | Tv, shutter speed, controlled motion                       | Shutter-speed GIF                                    | Motion Blur Triptych                 |
-| 4   | Focal length, camera distance, perspective, depth of field | Lens and Distance card                               | Person in Place photo series         |
-
 ---
 
 ## Activities
