@@ -13,8 +13,6 @@ title: Photography Foundations
 
 **Goal:** Prepare the Canon Rebel T4i for photography, format the SD card, use the main menu and control buttons, understand exposure, and set aperture, ISO, and white balance.
 
-Complete this guide after reviewing 🔍 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md).
-
 ---
 
 <!--
@@ -25,9 +23,9 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare the camera and format the SD card</span>
+    <span class="section-title">1. Prepare the camera and configure the recording settings</span>
     <span class="section-description">
-      Check the equipment and clear the memory card before beginning a new shoot.
+      Check the equipment, format the SD card, and set the image quality, grid, and aspect ratio.
     </span>
   </summary>
 
@@ -79,18 +77,26 @@ SECTION 1
   </label>
 </fieldset>
 
+## Turn on the camera and select Av mode
+
+1. Turn on the camera.
+2. Rotate the Mode Dial to <code>Av</code>.
+
+The camera must be in a Creative Zone mode, such as <code>Av</code>, to access the RAW image-quality settings.
+
+Section 2 explains how Aperture Priority mode works.
+
 ## Format the SD card
 
 Formatting prepares the card for a new shoot and removes all existing files.
 
 > **Warning:** Formatting permanently deletes every file on the SD card. Only format an instructor-provided card after confirming that its previous files have been transferred and are no longer needed.
 
-1. Turn on the camera.
-2. Press the <strong>MENU</strong> button.
-3. Use the navigation buttons to locate the yellow **Setup** menu.
-4. Select **Format card**.
-5. Select **OK** and press <strong>SET</strong>.
-6. Wait until the camera finishes formatting the card.
+1. Press the <strong>MENU</strong> button.
+2. Use the navigation buttons to locate the yellow **Setup** menu.
+3. Select **Format card**.
+4. Select **OK** and press <strong>SET</strong>.
+5. Wait until the camera finishes formatting the card.
 
 Do not remove the card or turn off the camera while formatting is in progress.
 
@@ -104,8 +110,115 @@ Do not remove the card or turn off the camera while formatting is in progress.
   </iframe>
 </div>
 
+## Set the image quality to RAW + JPEG
+
+Using RAW + JPEG creates two versions of every photograph:
+
+- The **RAW file** retains more image information for editing.
+- The **JPEG file** is processed by the camera and can be reviewed or shared quickly.
+
+### Steps
+
+1. Press the <strong>Q</strong> button to open the Quick Control screen.
+2. Use the navigation buttons to select **Image Quality**.
+3. Select the option that displays both **RAW** and **Large/Fine JPEG**.
+4. Press <strong>SET</strong> to confirm.
+
+![Canon Quick Control screen](imgs/QuickControlScreen.png){: .tutorial-image }
+
+> Keep both files when transferring the photographs to a computer.
+
+## Activate the composition grid
+
+The grid helps with:
+
+- Subject placement
+- Rule of thirds
+- Horizon alignment
+- Visual balance
+- Consistent framing
+
+### Steps
+
+1. Press the **Live View** button so the camera image appears on the LCD screen.
+2. Press the <strong>MENU</strong> button.
+3. Open the **Live View shooting** menu.
+4. Select **Grid display**.
+5. Select **Grid 1**.
+6. Press <strong>SET</strong> to confirm.
+
+Return to Live View and confirm that the grid appears over the camera image.
+
+## Set the aspect ratio to 16:9
+
+The aspect ratio controls the proportional relationship between the width and height of the photograph.
+
+A **16:9 aspect ratio** creates a wide, horizontal frame that matches standard widescreen video.
+
+### Steps
+
+1. Remain in the **Live View shooting** menu.
+2. Select **Aspect ratio**.
+3. Select <code>16:9</code>.
+4. Press <strong>SET</strong> to confirm.
+5. Exit the menu and return to Live View.
+
+The areas outside the 16:9 frame will appear masked on the LCD screen.
+
+> The JPEG version will be saved at 16:9. The RAW file retains the full 3:2 image and stores the 16:9 crop as additional information. Keep important subjects inside the visible 16:9 frame.
+
+## Confirm the recording settings
+
+<fieldset class="equipment-checklist">
+  <legend>Initial recording settings</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shooting mode set to <code>Av</code></strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>SD card formatted</strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image quality set to RAW + JPEG</strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Grid display set to Grid 1</strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aspect ratio set to <code>16:9</code></strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Live View checked</strong>
+      Confirm that the grid and 16:9 frame are visible on the LCD screen.
+    </span>
+  </label>
+</fieldset>
+
 </div>
 </details>
+
 
 <!--
 /////////////////
@@ -354,14 +467,6 @@ Press <code>Q</code>, use the navigation buttons to select a setting, turn the M
     <span>
       <strong>Flash: Off</strong>
       Do not use the built-in flash during the Day 1 activities.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Auto Exposure Bracketing: Off</strong>
-      The exposure scale should show one marker at <code>0</code>, not three separate markers.
     </span>
   </label>
 </fieldset>
