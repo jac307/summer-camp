@@ -1,0 +1,34 @@
+/* Reusable image-reference grids */
+.reference-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.reference-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.reference-card {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.reference-card img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.reference-card figcaption {
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 760px) {
+  .reference-grid--three {
+    grid-template-columns: 1fr;
+  }
+}
