@@ -231,7 +231,9 @@ SECTION 2
 
 <div class="section-content" markdown="1">
 
-## Select Aperture Priority mode
+## Aperture Priority mode
+
+Check that your camera is set on Aperture Priority mode. 
 
 1. Turn the camera on.
 2. Rotate the Mode Dial until <code>Av</code> aligns with the mode marker.
@@ -422,14 +424,6 @@ Press <code>Q</code>, use the navigation buttons to select a setting, turn the M
     <span>
       <strong>Shooting mode: <code>Av</code></strong>
       You control aperture and ISO; the camera controls shutter speed.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image quality: RAW + JPEG</strong>
-      Keep both files. RAW is used for editing; JPEG is useful for quick review and GIF creation.
     </span>
   </label>
 
@@ -749,6 +743,16 @@ For the White Balance Technical Card, you will temporarily photograph the same s
 4. Review the symbol on the screen before photographing.
 
 You can also press <code>Q</code> and select the White Balance setting from the Quick Control screen.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/2XE1Z89pXmc?si=RWo5ElbFKQTLsFSS
+    title="White Balance: Master your Canon DSLR"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 </details>
