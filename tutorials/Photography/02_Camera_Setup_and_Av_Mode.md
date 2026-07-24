@@ -82,8 +82,6 @@ SECTION 1
 1. Turn on the camera.
 2. Rotate the Mode Dial to <code>Av</code>.
 
-The camera must be in a Creative Zone mode, such as <code>Av</code>, to access the RAW image-quality settings.
-
 Section 2 explains how Aperture Priority mode works.
 
 ## Format the SD card
@@ -119,14 +117,28 @@ Using RAW + JPEG creates two versions of every photograph:
 
 ### Steps
 
-1. Press the <strong>Q</strong> button to open the Quick Control screen.
-2. Use the navigation buttons to select **Image Quality**.
-3. Select the option that displays both **RAW** and **Large/Fine JPEG**.
-4. Press <strong>SET</strong> to confirm.
+1. Press the <strong>MENU</strong> button to go into the options.
+2. Go to the **first tab** of the menu.
+3. Go to **Image quality** and press <strong>SET</strong> to enter the options. 
+4. Select **RAW** and **Large/Fine JPEG** and press <strong>SET</strong> to confirm.
 
-![Canon Quick Control screen](imgs/QuickControlScreen.png){: .tutorial-image }
+![Set RAW + JPEG through the Camera MENU](imgs/Camera-RAW-settings.JPG){: .tutorial-image }
 
-> Keep both files when transferring the photographs to a computer.
+## Set the aspect ratio to 16:9
+
+The aspect ratio controls the proportional relationship between the width and height of the photograph.
+
+A **16:9 aspect ratio** creates a wide, horizontal frame that matches standard widescreen video.
+
+### Steps
+
+1. Press the <strong>MENU</strong> button to go into the options.
+2. Go to the **fourth tab** of the menu.
+3. Go to **Aspect ratio** and press <strong>SET</strong> to enter the options. 
+4. Select **16:9** and press <strong>SET</strong> to confirm.
+5. Press the <strong>MENU</strong> button to leave these settings. 
+
+![Set Aspect Ratio through the Camera MENU](imgs/Camera-AspectRatio-settings.JPG){: .tutorial-image }
 
 ## Activate the composition grid
 
@@ -140,32 +152,13 @@ The grid helps with:
 
 ### Steps
 
-1. Press the **Live View** button so the camera image appears on the LCD screen.
-2. Press the <strong>MENU</strong> button.
-3. Open the **Live View shooting** menu.
-4. Select **Grid display**.
-5. Select **Grid 1**.
-6. Press <strong>SET</strong> to confirm.
+1. Press the <strong>MENU</strong> button to go into the options.
+2. Go to the **fourth tab** of the menu.
+3. Go to **Aspect ratio** and press <strong>SET</strong> to enter the options. 
+4. Select **16:9** and press <strong>SET</strong> to confirm.
+5. Press the <strong>MENU</strong> button to leave these settings. 
 
-Return to Live View and confirm that the grid appears over the camera image.
-
-## Set the aspect ratio to 16:9
-
-The aspect ratio controls the proportional relationship between the width and height of the photograph.
-
-A **16:9 aspect ratio** creates a wide, horizontal frame that matches standard widescreen video.
-
-### Steps
-
-1. Remain in the **Live View shooting** menu.
-2. Select **Aspect ratio**.
-3. Select <code>16:9</code>.
-4. Press <strong>SET</strong> to confirm.
-5. Exit the menu and return to Live View.
-
-The areas outside the 16:9 frame will appear masked on the LCD screen.
-
-> The JPEG version will be saved at 16:9. The RAW file retains the full 3:2 image and stores the 16:9 crop as additional information. Keep important subjects inside the visible 16:9 frame.
+![Set RAW + JPEG through the Camera's MENU](imgs/Camera-Grid-settings.JPG){: .tutorial-image }
 
 ## Confirm the recording settings
 
