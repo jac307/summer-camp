@@ -84,6 +84,8 @@ SECTION 1
 
 Section 2 explains how Aperture Priority mode works.
 
+![Camera set on Aperture Mode](imgs/aperture-mode.jpg){: .tutorial-image }
+
 ## Format the SD card
 
 Formatting prepares the card for a new shoot and removes all existing files.
