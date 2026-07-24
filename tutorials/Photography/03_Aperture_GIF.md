@@ -15,7 +15,7 @@ title: Photography Foundations
 
 Complete this activity after:
 
-- 🔍 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
+- 📷 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
 - 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
 
 You may work with a partner for camera setup, tripod support, and feedback. Each participant must photograph and create their own three technical cards.
@@ -26,9 +26,9 @@ You may work with a partner for camera setup, tripod support, and feedback. Each
 
 Create:
 
-1. **Aperture GIF** — four photographs showing changes in depth of field
-2. **ISO Comparison Card** — four photographs and matching detail crops showing changes in digital noise
-3. **White Balance GIF** — six photographs showing different white-balance presets
+1. **Aperture GIF** — six photographs showing changes in depth of field
+2. **ISO Comparison Card** — six photographs and matching detail crops showing changes in digital noise
+3. **White Balance GIF** — five photographs showing different white-balance presets
 
 Use these filenames:
 
@@ -48,45 +48,253 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare a controlled photography setup</span>
+    <span class="section-title">1. Plan the three technical comparisons</span>
     <span class="section-description">
-      Keep the camera, subject, focus, and lighting consistent so each comparison changes only one setting.
+      Choose a location and subject for each comparison, then check the camera equipment before leaving the classroom.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Choose the subject
+## Plan before leaving the classroom
 
-Create a small still-life setup using objects that include:
+You will photograph the Aperture, ISO, and White Balance comparisons in **three different locations**.
 
+Each location should support the specific camera setting being tested.
+
+| Technical card | Required location | What to look for |
+|---|---|---|
+| **Aperture GIF** | Outdoors | Visible distance between the subject and background, stable light, and foreground, middle-ground, and background details |
+| **ISO Comparison Card** | Indoors | A darker area containing shadows, fine textures, and small details where digital noise will be visible |
+| **White Balance GIF** | A third location, indoors or outdoors | A clearly different type of light and a subject containing white, neutral, and strongly coloured areas |
+
+> The White Balance photographs must be created in a different location from the Aperture and ISO comparisons.
+
+## Plan the Aperture GIF
+
+The Aperture GIF must be photographed **outdoors**.
+
+Choose a location with:
+
+- Stable available light
+- A subject that will remain still
+- Enough distance between the subject and background
+- Visible foreground, middle-ground, and background elements
+- Minimal pedestrian traffic
+- A safe, level place for the tripod
+
+Open shade is recommended because the light is usually more consistent than direct sunlight.
+
+The subject may be:
+
+- A small outdoor still life
+- A plant or natural object
+- A sculpture
+- A sign or architectural detail
+- Another stationary subject approved by the instructor
+
+Avoid locations where:
+
+- Strong wind may move the subject
+- Clouds repeatedly change the brightness
+- People frequently cross the frame
+- The tripod would block a doorway, hallway, path, or accessibility route
+
+Complete the planning notes:
+
+**Outdoor location:**  
+>  
+_____________________________________________________________
+
+**Main subject:**  
+>  
+_____________________________________________________________
+
+**Foreground element:**  
+>  
+_____________________________________________________________
+
+**Background element:**  
+>  
+_____________________________________________________________
+
+## Plan the ISO Comparison Card
+
+The ISO comparison must be photographed **inside**.
+
+Choose an indoor location containing:
+
+- Low or moderate light
+- A shadowed area
 - Fine texture or small details
-- A light or white area
-- A dark or shadowed area
-- At least one strong colour
-- Objects positioned at different distances from the camera
+- Dark, flat surfaces where digital noise may become visible
+- A stable surface for the tripod
+- Lighting that will remain unchanged during the comparison
 
-For example, arrange three objects so that one is close to the camera, one is in the middle, and one is farther away.
+Possible subjects include:
 
-Do not photograph an identifiable person without their permission.
+- Fabric
+- Books
+- Wood grain
+- Dark paper
+- A textured wall
+- Small objects with detailed surfaces
+- A still life containing both bright and shadowed areas
 
-## Position the equipment
+Do not select a location where lights will be switched on and off during the activity.
 
-1. Place the camera on a tripod.
-2. Use landscape orientation.
-3. Activate Live View.
-4. Confirm that **Grid 1** and the **16:9 aspect ratio** are visible.
-5. Choose a fixed focal length. Approximately `55 mm` is recommended for making depth-of-field changes easier to see.
-6. Compose the image and do not move the tripod after beginning.
-7. Use autofocus to focus on the closest or main object.
-8. After confirming focus, move the lens switch from `AF` to `MF`.
+Complete the planning notes:
 
-> Switching to Manual Focus after focusing prevents the camera from selecting a different focus point between photographs.
+**Indoor location:**  
+>  
+_____________________________________________________________
 
-## Confirm the starting settings
+**Main subject:**  
+>  
+_____________________________________________________________
+
+**Shadowed or textured area to magnify:**  
+>  
+_____________________________________________________________
+
+## Plan the White Balance GIF
+
+The White Balance comparison may be photographed indoors or outdoors, but it must use a **third location**.
+
+Choose a location with a clearly identifiable light source, such as:
+
+- Daylight
+- Open shade
+- Cloudy outdoor light
+- Warm indoor lamps
+- Fluorescent classroom lighting
+- Mixed daylight and indoor lighting
+
+The composition should include:
+
+- A white or neutral object
+- At least one strongly coloured object
+- Areas where warm and cool colour changes will be visible
+- A subject that will remain still
+
+Possible subjects include:
+
+- A white sheet of paper beside colourful objects
+- A still life containing red, blue, and green materials
+- A neutral wall with coloured objects
+- A subject near a window
+- Objects illuminated by warm indoor lighting
+
+Complete the planning notes:
+
+**White Balance location:**  
+>  
+_____________________________________________________________
+
+**Main light source:**  
+>  
+_____________________________________________________________
+
+**White or neutral reference:**  
+>  
+_____________________________________________________________
+
+**Coloured object or area:**  
+>  
+_____________________________________________________________
+
+## Equipment checklist
+
+Check all equipment before leaving the classroom.
 
 <fieldset class="equipment-checklist">
-  <legend>Controlled comparison setup</legend>
+  <legend>Photography equipment</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Canon Rebel T4i camera body</strong>
+      Confirm that the camera turns on and operates correctly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>18–55 mm lens</strong>
+      Confirm that the lens is securely attached and that the zoom and focus rings move correctly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Charged battery</strong>
+      Check the battery level before beginning.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>SD card</strong>
+      Confirm that the card is inserted, formatted, and has enough available space.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Tripod</strong>
+      A tripod is required for all three technical comparisons.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Tripod mounting plate</strong>
+      Confirm that the plate is attached securely to the camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Camera strap</strong>
+      Keep the strap attached while carrying the camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Lens cap</strong>
+      Store the cap safely while photographing and replace it before returning the camera.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Objects for the controlled compositions</strong>
+      Bring any still-life objects, coloured materials, white paper, or textured surfaces required for the three comparisons.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Notebook or phone for recording settings</strong>
+      Record the aperture, ISO, shutter speed, white-balance preset, focal length, and location for each photograph.
+    </span>
+  </label>
+</fieldset>
+
+## Confirm the camera settings
+
+<fieldset class="equipment-checklist">
+  <legend>Camera setup before leaving</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -100,7 +308,7 @@ Do not photograph an identifiable person without their permission.
     <input type="checkbox">
     <span>
       <strong>Image quality: RAW + JPEG</strong>
-      Keep both files. Use the JPEG files for the GIFs.
+      Keep both files. Use the JPEG files for the GIFs and the RAW files for later editing practice.
     </span>
   </label>
 
@@ -108,7 +316,7 @@ Do not photograph an identifiable person without their permission.
     <input type="checkbox">
     <span>
       <strong>Aspect ratio: <code>16:9</code></strong>
-      Keep the important visual information inside the visible widescreen frame.
+      Keep important visual information inside the visible widescreen frame.
     </span>
   </label>
 
@@ -116,23 +324,23 @@ Do not photograph an identifiable person without their permission.
     <input type="checkbox">
     <span>
       <strong>Grid display: Grid 1</strong>
-      Use the grid to maintain the same composition.
+      Use the grid to maintain consistent framing and intentional composition.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focus: Manual Focus</strong>
-      Focus once, then keep the focus ring unchanged.
+      <strong>White balance: Daylight</strong>
+      Use Daylight as the starting setting. The White Balance activity will require changing the presets.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Image Stabilization: Off</strong>
-      Turn stabilization off while the camera is secured to a tripod.
+      <strong>ISO: 100</strong>
+      Begin at ISO 100. The ISO activity will require changing this setting.
     </span>
   </label>
 
@@ -140,7 +348,7 @@ Do not photograph an identifiable person without their permission.
     <input type="checkbox">
     <span>
       <strong>Flash: Off</strong>
-      Use the existing light in the room.
+      Use the existing light at each location.
     </span>
   </label>
 
@@ -153,16 +361,22 @@ Do not photograph an identifiable person without their permission.
   </label>
 </fieldset>
 
-## Controlled-comparison rule
+## Rules for all three comparisons
 
-For each technical card:
+At each location:
 
-- Do not move the camera
-- Do not move the subject
-- Do not change the focal length
-- Do not change the focus
-- Do not change the lighting
+- Attach the camera securely to the tripod
+- Keep the tripod in the same position throughout that comparison
+- Keep the subject stationary
+- Keep the focal length unchanged
+- Focus once, then move the lens switch from `AF` to `MF`
+- Turn Image Stabilization `OFF`
+- Do not turn the focus or zoom ring after beginning
+- Keep the lighting unchanged
 - Change only the setting being tested
+- Record the settings used for every photograph
+
+> The camera, tripod, and subject may be repositioned when moving to the next location. Once a comparison begins, they must remain unchanged until all required photographs are complete.
 
 </div>
 </details>
