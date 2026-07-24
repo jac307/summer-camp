@@ -46,89 +46,136 @@ SECTION 1
 /////////////////
 -->
 
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
+
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Plan the three technical comparisons</span>
+    <span class="section-title">1. Prepare the equipment and find the three locations</span>
     <span class="section-description">
-      Choose a location and subject for each comparison, then check the camera equipment before leaving the classroom.
+      Check the camera equipment before leaving the classroom, then work with a partner to find appropriate locations for the three technical comparisons.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Plan before leaving the classroom
+## Location requirements
 
 You will photograph the Aperture, ISO, and White Balance comparisons in **three different locations**.
 
-Each location should support the specific camera setting being tested.
+Each location should support the camera setting being tested.
 
 | Technical card | Required location | What to look for |
 |---|---|---|
-| **Aperture GIF** | Outdoors | Visible distance between the subject and background, stable light, and foreground, middle-ground, and background details |
-| **ISO Comparison Card** | Indoors | A darker area containing shadows, fine textures, and small details where digital noise will be visible |
-| **White Balance GIF** | A third location, indoors or outdoors | A clearly different type of light and a subject containing white, neutral, and strongly coloured areas |
+| **Aperture GIF** | Outdoors | Stable light, visible distance between the subject and background, and clear foreground, middle-ground, and background elements |
+| **ISO Comparison Card** | Indoors | Lower light, shadows, fine textures, and small details where digital noise will be visible |
+| **White Balance GIF** | A third location, indoors or outdoors | A different type of light and a subject containing white, neutral, and strongly coloured areas |
 
-> The White Balance photographs must be created in a different location from the Aperture and ISO comparisons.
+You do not need to select the exact locations before leaving the classroom.
 
-## Plan the Aperture GIF
+After checking the equipment, walk through the available indoor and outdoor areas and look for locations that meet the requirements.
+
+## Work in pairs
+
+You will travel and photograph in pairs for support and safety.
+
+Both partners must:
+
+- Remain together while moving between locations
+- Work in the same general location
+- Help each other check the tripod and equipment
+- Watch for pedestrians, obstacles, and changing conditions
+- Confirm that the camera settings are correct before each comparison
+
+The work remains **individual**.
+
+Each student must:
+
+- Use their own camera files
+- Create their own composition
+- Choose their own camera position and perspective
+- Focus and operate the camera independently
+- Record their own settings
+- Produce their own Aperture GIF, ISO Comparison Card, and White Balance GIF
+
+Partners may photograph the same subject or choose different subjects within the same location.
+
+> Working in pairs does not require both students to create the same photograph. Use the same general location, but develop an individual perspective and composition.
+
+## Rules for all three comparisons
+
+At each location:
+
+- Attach the camera securely to the tripod
+- Place the tripod on a stable and level surface
+- Keep the tripod in the same position throughout that comparison
+- Keep the subject stationary
+- Keep the focal length unchanged
+- Focus once, then move the lens switch from `AF` to `MF`
+- Turn Image Stabilization `OFF`
+- Do not turn the focus ring after beginning
+- Do not turn the zoom ring after beginning
+- Keep the lighting as consistent as possible
+- Change only the setting being tested
+- Record the settings used for every photograph
+- Review the photographs before leaving the location
+
+> The camera, tripod, subject, and composition may be repositioned when moving to the next location. Once a comparison begins, they must remain unchanged until all required photographs are complete.
+
+## Find an outdoor location for the Aperture GIF
 
 The Aperture GIF must be photographed **outdoors**.
 
-Choose a location with:
+Walk through the available outdoor areas with your partner and choose a location with:
 
 - Stable available light
-- A subject that will remain still
+- A stationary subject
 - Enough distance between the subject and background
 - Visible foreground, middle-ground, and background elements
 - Minimal pedestrian traffic
-- A safe, level place for the tripod
+- A safe and level place for the tripod
 
 Open shade is recommended because the light is usually more consistent than direct sunlight.
 
-The subject may be:
+Possible subjects include:
 
-- A small outdoor still life
 - A plant or natural object
 - A sculpture
-- A sign or architectural detail
-- Another stationary subject approved by the instructor
+- A sign
+- An architectural detail
+- A bench or stationary object
+- A small outdoor still life
 
 Avoid locations where:
 
 - Strong wind may move the subject
+- Branches or leaves move continuously
 - Clouds repeatedly change the brightness
 - People frequently cross the frame
-- The tripod would block a doorway, hallway, path, or accessibility route
+- The tripod would block a doorway, path, or accessibility route
+- The camera or tripod could be damaged
 
-Complete the planning notes:
+Both partners must use the same general outdoor location, but each student may choose:
 
-**Outdoor location:**  
->  
-_____________________________________________________________
+- A different subject
+- A different camera position
+- A different perspective
+- A different foreground or background relationship
 
-**Main subject:**  
->  
-_____________________________________________________________
+## Find an indoor location for the ISO Comparison Card
 
-**Foreground element:**  
->  
-_____________________________________________________________
+The ISO comparison must be photographed **indoors**.
 
-**Background element:**  
->  
-_____________________________________________________________
-
-## Plan the ISO Comparison Card
-
-The ISO comparison must be photographed **inside**.
-
-Choose an indoor location containing:
+Walk through the available indoor areas with your partner and look for:
 
 - Low or moderate light
 - A shadowed area
 - Fine texture or small details
-- Dark, flat surfaces where digital noise may become visible
-- A stable surface for the tripod
+- Dark or flat surfaces where digital noise may become visible
+- A stable and level place for the tripod
 - Lighting that will remain unchanged during the comparison
 
 Possible subjects include:
@@ -139,43 +186,41 @@ Possible subjects include:
 - Dark paper
 - A textured wall
 - Small objects with detailed surfaces
-- A still life containing both bright and shadowed areas
+- A still life containing bright and shadowed areas
 
-Do not select a location where lights will be switched on and off during the activity.
+Avoid locations where:
 
-Complete the planning notes:
+- Lights will be switched on and off
+- People frequently move through the frame
+- The tripod would block a hallway, doorway, stairway, or accessibility route
+- Reflective surfaces create distracting glare
+- The subject or background may move
 
-**Indoor location:**  
->  
-_____________________________________________________________
+Both partners must use the same general indoor location, but each student must create an individual composition.
 
-**Main subject:**  
->  
-_____________________________________________________________
+Choose a shadowed or textured area that can be magnified later in the ISO Comparison Card.
 
-**Shadowed or textured area to magnify:**  
->  
-_____________________________________________________________
+## Find a third location for the White Balance GIF
 
-## Plan the White Balance GIF
-
-The White Balance comparison may be photographed indoors or outdoors, but it must use a **third location**.
+The White Balance comparison may be photographed indoors or outdoors, but it must use a **different location** from the Aperture and ISO comparisons.
 
 Choose a location with a clearly identifiable light source, such as:
 
-- Daylight
+- Direct daylight
 - Open shade
 - Cloudy outdoor light
 - Warm indoor lamps
 - Fluorescent classroom lighting
+- Window light
 - Mixed daylight and indoor lighting
 
 The composition should include:
 
 - A white or neutral object
-- At least one strongly coloured object
-- Areas where warm and cool colour changes will be visible
+- At least one strongly coloured object or area
+- Surfaces where warm and cool colour changes will be visible
 - A subject that will remain still
+- Lighting that will remain consistent throughout the comparison
 
 Possible subjects include:
 
@@ -184,28 +229,13 @@ Possible subjects include:
 - A neutral wall with coloured objects
 - A subject near a window
 - Objects illuminated by warm indoor lighting
+- A colourful sign or architectural surface
 
-Complete the planning notes:
+Both partners must use the same general location, but each student may select a different subject, angle, or composition.
 
-**White Balance location:**  
->  
-_____________________________________________________________
+## Check the equipment before leaving
 
-**Main light source:**  
->  
-_____________________________________________________________
-
-**White or neutral reference:**  
->  
-_____________________________________________________________
-
-**Coloured object or area:**  
->  
-_____________________________________________________________
-
-## Equipment checklist
-
-Check all equipment before leaving the classroom.
+Complete the equipment checklist before leaving the classroom.
 
 <fieldset class="equipment-checklist">
   <legend>Photography equipment</legend>
@@ -221,7 +251,7 @@ Check all equipment before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>18–55 mm lens</strong>
+      <strong>Canon 18–135 mm lens</strong>
       Confirm that the lens is securely attached and that the zoom and focus rings move correctly.
     </span>
   </label>
@@ -230,7 +260,7 @@ Check all equipment before leaving the classroom.
     <input type="checkbox">
     <span>
       <strong>Charged battery</strong>
-      Check the battery level before beginning.
+      Check the battery level and confirm that the battery is inserted correctly.
     </span>
   </label>
 
@@ -254,7 +284,15 @@ Check all equipment before leaving the classroom.
     <input type="checkbox">
     <span>
       <strong>Tripod mounting plate</strong>
-      Confirm that the plate is attached securely to the camera.
+      Confirm that the plate is attached securely to the camera and locks correctly into the tripod.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Tripod legs and locks</strong>
+      Confirm that the legs extend correctly and that every lock closes securely.
     </span>
   </label>
 
@@ -262,7 +300,7 @@ Check all equipment before leaving the classroom.
     <input type="checkbox">
     <span>
       <strong>Camera strap</strong>
-      Keep the strap attached while carrying the camera.
+      Keep the strap attached while carrying and operating the camera.
     </span>
   </label>
 
@@ -277,24 +315,16 @@ Check all equipment before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Objects for the controlled compositions</strong>
-      Bring any still-life objects, coloured materials, white paper, or textured surfaces required for the three comparisons.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Notebook or phone for recording settings</strong>
-      Record the aperture, ISO, shutter speed, white-balance preset, focal length, and location for each photograph.
+      Record the aperture, ISO, shutter speed, white-balance preset, focal length, and location for each comparison.
     </span>
   </label>
 </fieldset>
 
-## Confirm the camera settings
+## Confirm the camera settings before leaving
 
 <fieldset class="equipment-checklist">
-  <legend>Camera setup before leaving</legend>
+  <legend>Camera setup</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -307,7 +337,7 @@ Check all equipment before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Image quality: RAW + JPEG</strong>
+      <strong>Image quality: RAW + Large/Fine JPEG</strong>
       Keep both files. Use the JPEG files for the GIFs and the RAW files for later editing practice.
     </span>
   </label>
@@ -332,7 +362,7 @@ Check all equipment before leaving the classroom.
     <input type="checkbox">
     <span>
       <strong>White balance: Daylight</strong>
-      Use Daylight as the starting setting. The White Balance activity will require changing the presets.
+      Use Daylight as the starting setting. The White Balance comparison will require changing the presets.
     </span>
   </label>
 
@@ -340,7 +370,7 @@ Check all equipment before leaving the classroom.
     <input type="checkbox">
     <span>
       <strong>ISO: 100</strong>
-      Begin at ISO 100. The ISO activity will require changing this setting.
+      Begin at ISO 100. The ISO comparison will require changing this setting.
     </span>
   </label>
 
@@ -355,28 +385,67 @@ Check all equipment before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Exposure compensation: <code>0</code></strong>
+      Confirm that no exposure adjustment is active.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Auto Exposure Bracketing: Off</strong>
       Confirm that the exposure scale displays one marker at <code>0</code>.
     </span>
   </label>
 </fieldset>
 
-## Rules for all three comparisons
+## Pair check before leaving
 
-At each location:
+<fieldset class="equipment-checklist">
+  <legend>Partner check</legend>
 
-- Attach the camera securely to the tripod
-- Keep the tripod in the same position throughout that comparison
-- Keep the subject stationary
-- Keep the focal length unchanged
-- Focus once, then move the lens switch from `AF` to `MF`
-- Turn Image Stabilization `OFF`
-- Do not turn the focus or zoom ring after beginning
-- Keep the lighting unchanged
-- Change only the setting being tested
-- Record the settings used for every photograph
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Partners identified</strong>
+      Confirm who you will travel and photograph with.
+    </span>
+  </label>
 
-> The camera, tripod, and subject may be repositioned when moving to the next location. Once a comparison begins, they must remain unchanged until all required photographs are complete.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Both equipment kits checked</strong>
+      Each partner must confirm that their camera, lens, battery, SD card, and tripod are ready.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Location requirements reviewed</strong>
+      Both partners understand what to look for in the Aperture, ISO, and White Balance locations.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Individual work confirmed</strong>
+      Each student will create their own composition, operate the camera, record settings, and produce their own files.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Safety and accessibility confirmed</strong>
+      Keep tripods clear of doorways, hallways, stairs, pathways, and accessibility routes.
+    </span>
+  </label>
+</fieldset>
+
+> Do not leave the classroom until both partners have completed the equipment, camera, and partner checks.
 
 </div>
 </details>
@@ -391,7 +460,7 @@ SECTION 2
   <summary>
     <span class="section-title">2. Photograph the aperture comparison</span>
     <span class="section-description">
-      Change the f-stop while keeping ISO, white balance, framing, and focus fixed.
+      Photograph an outdoor subject at six aperture settings while keeping ISO, white balance, framing, focal length, and focus unchanged.
     </span>
   </summary>
 
@@ -399,61 +468,250 @@ SECTION 2
 
 ## What the comparison should demonstrate
 
-The Aperture GIF should show how the amount of the scene that appears sharp changes as the aperture becomes narrower.
+The Aperture GIF should demonstrate how **depth of field** changes as the aperture becomes narrower.
 
-A smaller f-number creates a wider aperture. A larger f-number creates a narrower aperture.
+- A smaller f-number creates a wider aperture and a shallower depth of field.
+- A larger f-number creates a narrower aperture and a deeper depth of field.
 
-## Aperture settings
+The main focus point should remain sharp throughout the comparison. The most visible changes should occur in the foreground and background.
+
+## Outdoor location requirement
+
+Complete the Aperture comparison outdoors in the location identified on the **Technical Cards Planning Handout**.
+
+Choose a location with:
+
+- A stationary main subject
+- A clearly visible foreground
+- A background positioned several metres behind the subject
+- Stable outdoor light
+- Minimal pedestrian traffic
+- A safe and level place for the tripod
+
+Open shade is recommended because it usually provides more consistent light than direct sunlight.
+
+Avoid locations where:
+
+- Strong wind may move the subject
+- Branches or leaves move continuously
+- Clouds repeatedly change the brightness
+- People frequently cross the frame
+- The tripod would block a doorway, path, or accessibility route
+
+> A tripod is required. Do not complete the Aperture comparison handheld.
+
+## Aperture comparison settings
 
 Use:
 
 ```text
 Shooting mode: Av
-ISO: 400
+Lens: Canon 18–135 mm
+Focal length: 50 mm
+ISO: 100 or 200
 White Balance: Daylight
 Focus: Manual Focus
-Focal length: Keep unchanged
+Image Stabilization: Off
+Flash: Off
+Auto Exposure Bracketing: Off
+Aspect ratio: 16:9
+Grid display: Grid 1
 ```
+
+## Select the ISO before beginning
+
+Use:
+
+- `ISO 100` in bright outdoor light
+- `ISO 200` in open shade or lower outdoor light
+
+Choose one ISO value before taking the first photograph.
+
+Keep the same ISO for all six aperture settings.
+
+> Because the camera is secured to a tripod, a slower shutter speed is acceptable. Do not change the ISO between photographs.
+
+## Set the focal length to 50 mm
+
+1. Turn the zoom ring until the lens is set to approximately `50 mm`.
+2. Use Live View to compose the photograph.
+3. Confirm that the subject, foreground, and background are visible.
+4. Do not turn the zoom ring again until the complete comparison is finished.
+
+The Canon 18–135 mm lens has a variable maximum aperture:
+
+- At `18 mm`, the widest available aperture is approximately `f/3.5`.
+- As the lens zooms toward `135 mm`, the widest available aperture becomes narrower.
+- At approximately `50 mm`, the widest available aperture will usually be close to `f/5`.
+
+Use the lowest f-number displayed by the camera at `50 mm`.
+
+> The exact lowest available f-number may vary slightly. Use the value permitted by the camera.
+
+## Focus the photograph
+
+1. Set the lens focus switch to `AF`.
+2. Place the autofocus point over the main subject.
+3. Press the shutter button halfway to focus.
+4. Take one test photograph.
+5. Press the Playback button.
+6. Magnify the main subject and confirm that it is sharp.
+7. Move the lens focus switch from `AF` to `MF`.
+8. Do not touch the focus ring after switching to Manual Focus.
+
+> Switching to Manual Focus prevents the camera from selecting a different focus point between photographs.
+
+## Photograph the six aperture settings
 
 Photograph the same composition using:
 
-1. The lowest available f-number, such as `f/5.6`
-2. `f/8`
-3. `f/11`
-4. `f/16`
+1. The lowest available f-number at `50 mm`, usually approximately `f/5`
+2. `f/6.3`
+3. `f/8`
+4. `f/11`
+5. `f/16`
+6. `f/22`
 
-> The lowest available f-number depends on the lens and focal length. At approximately 55 mm, the 18–55 mm kit lens may begin at `f/5.6`.
+If the camera does not offer exactly `f/5`, use the lowest available f-number displayed at `50 mm`.
 
-## Photographing steps
+> The camera will select a different shutter speed as the aperture changes. This is expected in `Av` mode.
 
-1. Confirm the framing and focus.
-2. Set the aperture to the lowest available f-number.
-3. Take the first photograph.
-4. Change only the aperture.
-5. Take one photograph at each required f-stop.
-6. Review all four photographs.
-7. Magnify the main object to confirm that the focus point remained unchanged.
-8. Check that the camera did not move between photographs.
+## Photographing and backup procedure
 
-The camera will select a different shutter speed as the aperture changes. This is expected in `Av` mode.
+At each aperture setting:
+
+1. Set the required f-number.
+2. Confirm that the focal length remains at `50 mm`.
+3. Confirm that the ISO and White Balance remain unchanged.
+4. Check that the tripod, subject, framing, and focus have not moved.
+5. Take the first photograph.
+6. Review the photograph on the camera.
+7. Magnify the main subject to check focus.
+8. Check for camera movement, subject movement, or unexpected blur.
+9. Take a second photograph using the same settings as a backup.
+10. Take a third photograph only when one of the first two has a visible problem.
+11. Record the shutter speed selected by the camera on the handout.
+
+Take a minimum of **two photographs at every aperture setting**.
+
+This will produce at least:
+
+```text
+6 aperture settings × 2 photographs = 12 photographs
+```
+
+You will select the strongest photograph from each pair when creating the GIF.
+
+> Taking four photographs at every aperture is unnecessary unless wind, movement, changing light, or another technical problem affects the images.
+
+## Check narrow-aperture photographs
+
+At `f/16` and `f/22`, the camera may select a slow shutter speed.
+
+The tripod helps prevent camera shake, but a moving subject may still appear blurred.
+
+Before continuing, check that:
+
+- The main subject remained still
+- Wind did not move the subject
+- People did not enter the frame
+- The tripod did not move
+- The outdoor light did not change significantly
+- The main subject remains sharp
 
 ## Record the settings
 
-| Frame | Aperture | Shutter speed selected by camera | What appears sharp? |
-|---|---:|---:|---|
-| 1 | Lowest available |  |  |
-| 2 | `f/8` |  |  |
-| 3 | `f/11` |  |  |
-| 4 | `f/16` |  |  |
+Record the information on the **Technical Cards Planning Handout**.
+
+| Frame | Aperture | ISO | Shutter speed selected by camera | What appears sharp? |
+|---|---:|---:|---:|---|
+| 1 | Lowest available at `50 mm` |  |  |  |
+| 2 | `f/6.3` |  |  |  |
+| 3 | `f/8` |  |  |  |
+| 4 | `f/11` |  |  |  |
+| 5 | `f/16` |  |  |  |
+| 6 | `f/22` |  |  |  |
+
+## Before leaving the outdoor location
+
+<fieldset class="equipment-checklist">
+  <legend>Aperture comparison check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Six aperture settings completed</strong>
+      Confirm that the complete sequence was photographed from the widest available aperture through <code>f/22</code>.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>At least two photographs taken at every aperture</strong>
+      Confirm that each setting has a backup photograph.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focal length remained at <code>50 mm</code></strong>
+      Confirm that the zoom ring was not moved.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ISO remained unchanged</strong>
+      Confirm that every photograph used either ISO 100 or ISO 200.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>White Balance remained set to Daylight</strong>
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus remained unchanged</strong>
+      Magnify photographs from the beginning and end of the sequence.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Framing remained consistent</strong>
+      Confirm that the camera and tripod did not move.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shutter speeds recorded</strong>
+      Complete the settings table on the planning handout.
+    </span>
+  </label>
+</fieldset>
 
 ## Aperture GIF requirements
 
+Select the strongest photograph from each pair.
+
 - **Dimensions:** 960 × 540 pixels
 - **Aspect ratio:** 16:9
-- **Frames:** 4
+- **Frames:** 6
 - **Frame duration:** Approximately 1.5 seconds
 - **Loop:** Forever
 - **Order:** Widest aperture to narrowest aperture
+- **Sequence:** Lowest available aperture at `50 mm`, `f/6.3`, `f/8`, `f/11`, `f/16`, `f/22`
 - **Label:** Display the f-stop on every frame
 - **Colour:** Keep the photographs in colour
 - **Additional effects:** None
