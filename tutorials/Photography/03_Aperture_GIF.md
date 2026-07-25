@@ -46,15 +46,9 @@ SECTION 1
 /////////////////
 -->
 
-<!--
-/////////////////
-SECTION 1
-/////////////////
--->
-
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Prepare the equipment and find the three locations</span>
+    <span class="section-title">1. Prepare the equipment</span>
     <span class="section-description">
       Check the camera equipment before leaving the classroom, then work with a partner to find appropriate locations for the three technical comparisons.
     </span>
@@ -92,146 +86,7 @@ Both partners must:
 
 The work remains **individual**.
 
-Each student must:
-
-- Use their own camera files
-- Create their own composition
-- Choose their own camera position and perspective
-- Focus and operate the camera independently
-- Record their own settings
-- Produce their own Aperture GIF, ISO Comparison Card, and White Balance GIF
-
-Partners may photograph the same subject or choose different subjects within the same location.
-
 > Working in pairs does not require both students to create the same photograph. Use the same general location, but develop an individual perspective and composition.
-
-## Rules for all three comparisons
-
-At each location:
-
-- Attach the camera securely to the tripod
-- Place the tripod on a stable and level surface
-- Keep the tripod in the same position throughout that comparison
-- Keep the subject stationary
-- Keep the focal length unchanged
-- Focus once, then move the lens switch from `AF` to `MF`
-- Turn Image Stabilization `OFF`
-- Do not turn the focus ring after beginning
-- Do not turn the zoom ring after beginning
-- Keep the lighting as consistent as possible
-- Change only the setting being tested
-- Record the settings used for every photograph
-- Review the photographs before leaving the location
-
-> The camera, tripod, subject, and composition may be repositioned when moving to the next location. Once a comparison begins, they must remain unchanged until all required photographs are complete.
-
-## Find an outdoor location for the Aperture GIF
-
-The Aperture GIF must be photographed **outdoors**.
-
-Walk through the available outdoor areas with your partner and choose a location with:
-
-- Stable available light
-- A stationary subject
-- Enough distance between the subject and background
-- Visible foreground, middle-ground, and background elements
-- Minimal pedestrian traffic
-- A safe and level place for the tripod
-
-Open shade is recommended because the light is usually more consistent than direct sunlight.
-
-Possible subjects include:
-
-- A plant or natural object
-- A sculpture
-- A sign
-- An architectural detail
-- A bench or stationary object
-- A small outdoor still life
-
-Avoid locations where:
-
-- Strong wind may move the subject
-- Branches or leaves move continuously
-- Clouds repeatedly change the brightness
-- People frequently cross the frame
-- The tripod would block a doorway, path, or accessibility route
-- The camera or tripod could be damaged
-
-Both partners must use the same general outdoor location, but each student may choose:
-
-- A different subject
-- A different camera position
-- A different perspective
-- A different foreground or background relationship
-
-## Find an indoor location for the ISO Comparison Card
-
-The ISO comparison must be photographed **indoors**.
-
-Walk through the available indoor areas with your partner and look for:
-
-- Low or moderate light
-- A shadowed area
-- Fine texture or small details
-- Dark or flat surfaces where digital noise may become visible
-- A stable and level place for the tripod
-- Lighting that will remain unchanged during the comparison
-
-Possible subjects include:
-
-- Fabric
-- Books
-- Wood grain
-- Dark paper
-- A textured wall
-- Small objects with detailed surfaces
-- A still life containing bright and shadowed areas
-
-Avoid locations where:
-
-- Lights will be switched on and off
-- People frequently move through the frame
-- The tripod would block a hallway, doorway, stairway, or accessibility route
-- Reflective surfaces create distracting glare
-- The subject or background may move
-
-Both partners must use the same general indoor location, but each student must create an individual composition.
-
-Choose a shadowed or textured area that can be magnified later in the ISO Comparison Card.
-
-## Find a third location for the White Balance GIF
-
-The White Balance comparison may be photographed indoors or outdoors, but it must use a **different location** from the Aperture and ISO comparisons.
-
-Choose a location with a clearly identifiable light source, such as:
-
-- Direct daylight
-- Open shade
-- Cloudy outdoor light
-- Warm indoor lamps
-- Fluorescent classroom lighting
-- Window light
-- Mixed daylight and indoor lighting
-
-The composition should include:
-
-- A white or neutral object
-- At least one strongly coloured object or area
-- Surfaces where warm and cool colour changes will be visible
-- A subject that will remain still
-- Lighting that will remain consistent throughout the comparison
-
-Possible subjects include:
-
-- A white sheet of paper beside colourful objects
-- A still life containing red, blue, and green materials
-- A neutral wall with coloured objects
-- A subject near a window
-- Objects illuminated by warm indoor lighting
-- A colourful sign or architectural surface
-
-Both partners must use the same general location, but each student may select a different subject, angle, or composition.
 
 ## Check the equipment before leaving
 
@@ -321,7 +176,7 @@ Complete the equipment checklist before leaving the classroom.
   </label>
 </fieldset>
 
-## Confirm the camera settings before leaving
+## Confirm general camera settings before leaving
 
 <fieldset class="equipment-checklist">
   <legend>Camera setup</legend>
@@ -361,42 +216,11 @@ Complete the equipment checklist before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>White balance: Daylight</strong>
-      Use Daylight as the starting setting. The White Balance comparison will require changing the presets.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>ISO: 100</strong>
-      Begin at ISO 100. The ISO comparison will require changing this setting.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Flash: Off</strong>
       Use the existing light at each location.
     </span>
   </label>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure compensation: <code>0</code></strong>
-      Confirm that no exposure adjustment is active.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Auto Exposure Bracketing: Off</strong>
-      Confirm that the exposure scale displays one marker at <code>0</code>.
-    </span>
-  </label>
 </fieldset>
 
 ## Pair check before leaving
@@ -470,10 +294,11 @@ SECTION 2
 
 The Aperture GIF should demonstrate how **depth of field** changes as the aperture becomes narrower.
 
-- A smaller f-number creates a wider aperture and a shallower depth of field.
-- A larger f-number creates a narrower aperture and a deeper depth of field.
-
 The main focus point should remain sharp throughout the comparison. The most visible changes should occur in the foreground and background.
+
+The tripod, camera position, framing, focal length, focus, ISO, white balance, subject, and lighting must remain unchanged throughout the sequence.
+
+The only setting you will change manually is the **aperture**.
 
 ## Outdoor location requirement
 
@@ -489,14 +314,6 @@ Choose a location with:
 - A safe and level place for the tripod
 
 Open shade is recommended because it usually provides more consistent light than direct sunlight.
-
-Avoid locations where:
-
-- Strong wind may move the subject
-- Branches or leaves move continuously
-- Clouds repeatedly change the brightness
-- People frequently cross the frame
-- The tripod would block a doorway, path, or accessibility route
 
 > A tripod is required. Do not complete the Aperture comparison handheld.
 
@@ -719,93 +536,7 @@ Select the strongest photograph from each pair.
 </div>
 </details>
 
-<!--
-/////////////////
-SECTION 3
-/////////////////
--->
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Photograph the ISO comparison</span>
-    <span class="section-description">
-      Change ISO while keeping aperture, white balance, framing, focus, and lighting fixed.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## What the comparison should demonstrate
-
-The ISO Comparison Card should show:
-
-- Changes in visible digital noise
-- Changes in fine detail
-- Changes in the shutter speed selected by the camera
-
-In `Av` mode, the camera usually compensates for ISO changes by selecting a different shutter speed. The overall brightness may remain similar.
-
-## ISO settings
-
-Use:
-
-```text
-Shooting mode: Av
-Aperture: f/8
-White Balance: Daylight
-Focus: Manual Focus
-Focal length: Keep unchanged
-```
-
-Photograph the same composition using:
-
-1. `ISO 100`
-2. `ISO 400`
-3. `ISO 1600`
-4. `ISO 6400`
-
-When the difference is difficult to see, you may create one additional photograph at `ISO 12800`.
-
-## Photographing steps
-
-1. Confirm that the composition includes a textured area and a dark or shadowed area.
-2. Set the aperture to `f/8`.
-3. Set ISO to `100`.
-4. Take the first photograph.
-5. Increase only the ISO.
-6. Photograph the remaining ISO values.
-7. Review the shutter speed selected for each image.
-8. Magnify the shadowed or textured area to compare noise and detail.
-
-## Record the settings
-
-| Photograph | ISO | Shutter speed selected by camera | Visible noise or detail |
-|---|---:|---:|---|
-| 1 | 100 |  |  |
-| 2 | 400 |  |  |
-| 3 | 1600 |  |  |
-| 4 | 6400 |  |  |
-
-## ISO Comparison Card requirements
-
-Create one still image containing all four comparisons.
-
-- **Canvas:** 1920 × 1080 pixels
-- **Aspect ratio:** 16:9
-- **Layout:** Four equal sections
-- **Each section must include:**
-  - The complete photograph
-  - A magnified crop from the same shadowed or textured area
-  - The ISO value
-  - The shutter speed selected by the camera
-- **Crop:** Use the same location and magnification for every photograph
-- **Colour:** Keep the photographs in colour
-- **File format:** PNG
-
-> Do not apply noise reduction, sharpening, filters, or retouching. The card should display the camera’s result.
-
-</div>
-</details>
 
 <!--
 /////////////////
