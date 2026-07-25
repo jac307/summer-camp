@@ -20,26 +20,6 @@ Complete this activity after:
 
 You may work with a partner for camera setup, tripod support, and feedback. Each participant must photograph and create their own three technical cards.
 
----
-
-## Final outputs
-
-Create:
-
-1. **Aperture GIF** — six photographs showing changes in depth of field
-2. **ISO Comparison Card** — six photographs and matching detail crops showing changes in digital noise
-3. **White Balance GIF** — five photographs showing different white-balance presets
-
-Use these filenames:
-
-```text
-Name-Lastname-Aperture.gif
-Name-Lastname-ISO.png
-Name-Lastname-WhiteBalance.gif
-```
-
-> The ISO comparison is a still card rather than a GIF because digital noise and fine detail are easier to examine side by side.
-
 <!--
 /////////////////
 SECTION 1
@@ -294,6 +274,34 @@ SECTION 2
 
 The Aperture GIF should demonstrate how **depth of field** changes as the aperture becomes narrower.
 
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="{{ '/assets/images/photography/aperture-example-1.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="Aperture comparison showing small figures photographed at different f-stops, with changes in foreground and background sharpness."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 1:</strong> A small subject with visible foreground, middle-ground, and background elements.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="{{ '/assets/images/photography/aperture-example-2.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="Aperture comparison showing three orange bottles photographed at different f-stops, with changes in background sharpness."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 2:</strong> A larger subject separated from a distant background.
+    </figcaption>
+  </figure>
+
+</div>
+
 The main focus point should remain sharp throughout the comparison. The most visible changes should occur in the foreground and background.
 
 The tripod, camera position, framing, focal length, focus, ISO, white balance, subject, and lighting must remain unchanged throughout the sequence.
@@ -301,10 +309,6 @@ The tripod, camera position, framing, focal length, focus, ISO, white balance, s
 The only setting you will change manually is the **aperture**.
 
 ## Outdoor location requirement
-
-Complete the Aperture comparison outdoors in the location identified on the **Technical Cards Planning Handout**.
-
-Choose a location with:
 
 - A stationary main subject
 - A clearly visible foreground
@@ -317,226 +321,287 @@ Open shade is recommended because it usually provides more consistent light than
 
 > A tripod is required. Do not complete the Aperture comparison handheld.
 
-## Aperture comparison settings
+## Static photographic settings
 
-Use:
+Set and confirm these controls before beginning the aperture sequence.
 
-```text
-Shooting mode: Av
-Lens: Canon 18–135 mm
-Focal length: 50 mm
-ISO: 100 or 200
-White Balance: Daylight
-Focus: Manual Focus
-Image Stabilization: Off
-Flash: Off
-Auto Exposure Bracketing: Off
-Aspect ratio: 16:9
-Grid display: Grid 1
-```
+<fieldset class="equipment-checklist">
+  <legend>Static photographic settings</legend>
 
-## Select the ISO before beginning
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shooting mode: <code>Av</code></strong>
+    </span>
+  </label>
 
-Use:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Lens: Canon 18–135 mm</strong>
+    </span>
+  </label>
 
-- `ISO 100` in bright outdoor light
-- `ISO 200` in open shade or lower outdoor light
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focal length: <code>50 mm</code></strong>
+      Set the zoom ring to approximately <code>50 mm</code> and do not move it again.
+    </span>
+  </label>
 
-Choose one ISO value before taking the first photograph.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ISO: <code>100</code> or <code>200</code></strong>
+      Use ISO 100 in bright light or ISO 200 in open shade. Keep the selected ISO unchanged.
+    </span>
+  </label>
 
-Keep the same ISO for all six aperture settings.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>White Balance: Daylight</strong>
+    </span>
+  </label>
 
-> Because the camera is secured to a tripod, a slower shutter speed is acceptable. Do not change the ISO between photographs.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus locked</strong>
+      Focus on the main subject using <code>AF</code>, confirm sharpness, then switch the lens to <code>MF</code>. Do not touch the focus ring again.
+    </span>
+  </label>
 
-## Set the focal length to 50 mm
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image Stabilization: Off</strong>
+    </span>
+  </label>
+</fieldset>
 
-1. Turn the zoom ring until the lens is set to approximately `50 mm`.
-2. Use Live View to compose the photograph.
-3. Confirm that the subject, foreground, and background are visible.
-4. Do not turn the zoom ring again until the complete comparison is finished.
-
-The Canon 18–135 mm lens has a variable maximum aperture:
-
-- At `18 mm`, the widest available aperture is approximately `f/3.5`.
-- As the lens zooms toward `135 mm`, the widest available aperture becomes narrower.
-- At approximately `50 mm`, the widest available aperture will usually be close to `f/5`.
-
-Use the lowest f-number displayed by the camera at `50 mm`.
-
-> The exact lowest available f-number may vary slightly. Use the value permitted by the camera.
-
-## Focus the photograph
-
-1. Set the lens focus switch to `AF`.
-2. Place the autofocus point over the main subject.
-3. Press the shutter button halfway to focus.
-4. Take one test photograph.
-5. Press the Playback button.
-6. Magnify the main subject and confirm that it is sharp.
-7. Move the lens focus switch from `AF` to `MF`.
-8. Do not touch the focus ring after switching to Manual Focus.
-
-> Switching to Manual Focus prevents the camera from selecting a different focus point between photographs.
+> Keep all these settings unchanged throughout the sequence. The only setting you will change manually is the aperture.
 
 ## Photograph the six aperture settings
 
 Photograph the same composition using:
 
-1. The lowest available f-number at `50 mm`, usually approximately `f/5`
+1. `f/5`
 2. `f/6.3`
 3. `f/8`
 4. `f/11`
 5. `f/16`
 6. `f/22`
 
-If the camera does not offer exactly `f/5`, use the lowest available f-number displayed at `50 mm`.
-
-> The camera will select a different shutter speed as the aperture changes. This is expected in `Av` mode.
+> At `f/16` and `f/22`, the camera may select a slow shutter speed. The tripod helps prevent camera shake, but a moving subject may still appear blurred.
 
 ## Photographing and backup procedure
 
 At each aperture setting:
 
 1. Set the required f-number.
-2. Confirm that the focal length remains at `50 mm`.
-3. Confirm that the ISO and White Balance remain unchanged.
-4. Check that the tripod, subject, framing, and focus have not moved.
-5. Take the first photograph.
-6. Review the photograph on the camera.
-7. Magnify the main subject to check focus.
-8. Check for camera movement, subject movement, or unexpected blur.
-9. Take a second photograph using the same settings as a backup.
-10. Take a third photograph only when one of the first two has a visible problem.
-11. Record the shutter speed selected by the camera on the handout.
-
-Take a minimum of **two photographs at every aperture setting**.
-
-This will produce at least:
-
-```text
-6 aperture settings × 2 photographs = 12 photographs
-```
+2. **Take the first photograph.**
+3. Review the photograph on the camera.
+4. Magnify the main subject to check focus.
+5. Check for camera movement, subject movement, or unexpected blur.
+6. **Take a second photograph** using the same settings as a backup.
+7. Take a third photograph only when one of the first two has a visible problem.
 
 You will select the strongest photograph from each pair when creating the GIF.
-
-> Taking four photographs at every aperture is unnecessary unless wind, movement, changing light, or another technical problem affects the images.
-
-## Check narrow-aperture photographs
-
-At `f/16` and `f/22`, the camera may select a slow shutter speed.
-
-The tripod helps prevent camera shake, but a moving subject may still appear blurred.
-
-Before continuing, check that:
-
-- The main subject remained still
-- Wind did not move the subject
-- People did not enter the frame
-- The tripod did not move
-- The outdoor light did not change significantly
-- The main subject remains sharp
 
 ## Record the settings
 
 Record the information on the **Technical Cards Planning Handout**.
 
-| Frame | Aperture | ISO | Shutter speed selected by camera | What appears sharp? |
-|---|---:|---:|---:|---|
-| 1 | Lowest available at `50 mm` |  |  |  |
-| 2 | `f/6.3` |  |  |  |
-| 3 | `f/8` |  |  |  |
-| 4 | `f/11` |  |  |  |
-| 5 | `f/16` |  |  |  |
-| 6 | `f/22` |  |  |  |
-
-## Before leaving the outdoor location
-
-<fieldset class="equipment-checklist">
-  <legend>Aperture comparison check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Six aperture settings completed</strong>
-      Confirm that the complete sequence was photographed from the widest available aperture through <code>f/22</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>At least two photographs taken at every aperture</strong>
-      Confirm that each setting has a backup photograph.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focal length remained at <code>50 mm</code></strong>
-      Confirm that the zoom ring was not moved.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>ISO remained unchanged</strong>
-      Confirm that every photograph used either ISO 100 or ISO 200.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>White Balance remained set to Daylight</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus remained unchanged</strong>
-      Magnify photographs from the beginning and end of the sequence.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Framing remained consistent</strong>
-      Confirm that the camera and tripod did not move.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shutter speeds recorded</strong>
-      Complete the settings table on the planning handout.
-    </span>
-  </label>
-</fieldset>
-
-## Aperture GIF requirements
-
-Select the strongest photograph from each pair.
-
-- **Dimensions:** 960 × 540 pixels
-- **Aspect ratio:** 16:9
-- **Frames:** 6
-- **Frame duration:** Approximately 1.5 seconds
-- **Loop:** Forever
-- **Order:** Widest aperture to narrowest aperture
-- **Sequence:** Lowest available aperture at `50 mm`, `f/6.3`, `f/8`, `f/11`, `f/16`, `f/22`
-- **Label:** Display the f-stop on every frame
-- **Colour:** Keep the photographs in colour
-- **Additional effects:** None
+| Frame | Aperture | ISO | What appears sharp? |
+|---|---:|---:|---|
+| 1 | `f/5` |  |  |
+| 2 | `f/6.3` |  |  |
+| 3 | `f/8` |  |  |
+| 4 | `f/11` |  |  |
+| 5 | `f/16` |  |  |
+| 6 | `f/22` |  |  |
 
 </div>
 </details>
 
+<!--
+/////////////////
+SECTION 3
+/////////////////
+-->
 
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Photograph the ISO comparison</span>
+    <span class="section-description">
+      Photograph an indoor subject at six ISO settings while keeping the tripod, camera, aperture, white balance, framing, focal length, focus, subject, and lighting unchanged.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## What the comparison should demonstrate
+
+The ISO Comparison Card should demonstrate how increasing ISO affects:
+
+- Digital noise
+- Fine detail
+- Shadow quality
+- Colour clarity
+- The shutter speed selected by the camera
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="{{ '/assets/images/photography/ISO-digital-noise.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="Aperture comparison showing small figures photographed at different f-stops, with changes in foreground and background sharpness."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 1:</strong> A small subject with visible foreground, middle-ground, and background elements.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="{{ '/assets/images/photography/ISO-and-effective-exposure.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="Aperture comparison showing three orange bottles photographed at different f-stops, with changes in background sharpness."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 2:</strong> A larger subject separated from a distant background.
+    </figcaption>
+  </figure>
+
+</div>
+
+The tripod and camera must remain static throughout the sequence.
+
+The aperture, white balance, focal length, focus, framing, subject, and lighting must also remain unchanged.
+
+The only setting you will change manually is the **ISO**.
+
+## Indoor location requirement
+
+- Low or moderate available light
+- A stationary subject
+- Fine textures or small details
+- A dark or shadowed area
+- A stable and level place for the tripod
+- Lighting that will remain unchanged throughout the sequence
+
+Avoid locations where:
+
+- Lights may be switched on or off
+- People frequently cross the frame
+- Sunlight from a window changes rapidly
+- The subject or background may move
+- Reflective surfaces create distracting glare
+- The tripod blocks a hallway, doorway, stairway, or accessibility route
+
+> A tripod is required. Do not complete the ISO comparison handheld.
+
+## Static photographic settings
+
+<fieldset class="equipment-checklist">
+  <legend>Static photographic settings</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ISO: <code>100</code></strong>
+      Set ISO to <code>100</code> while composing, selecting the aperture, setting white balance, and confirming focus.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focal length: <code>50 mm</code></strong>
+      Compose the photograph in Live View, then do not move the zoom ring.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aperture selected and locked</strong>
+      Use approximately <code>f/5–f/5.6</code> in lower light or <code>f/6.3–f/8</code> in brighter conditions. Keep the selected aperture unchanged.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>White Balance selected and locked</strong>
+      Choose Daylight, Shade, Cloudy, Tungsten, White Fluorescent, or Custom White Balance. Do not use Auto White Balance.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus confirmed and locked</strong>
+      Focus on the main subject using <code>AF</code>, take a test photograph, and magnify it during playback to confirm sharpness.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Lens switched to <code>MF</code></strong>
+      After confirming focus, switch from <code>AF</code> to <code>MF</code> and do not touch the focus ring again.
+    </span>
+  </label>
+</fieldset>
+
+> Keep the tripod, camera, aperture, focal length, focus, white balance, framing, subject, and lighting unchanged. The only setting you will change manually is ISO.
+
+## Photograph the six ISO settings
+
+Photograph the same composition using:
+
+1. `ISO 100`
+2. `ISO 200`
+3. `ISO 400`
+4. `ISO 800`
+5. `ISO 1600`
+6. `ISO 3200`
+
+> The camera will automatically select a different shutter speed as the ISO changes. Do not manually correct the shutter speed or exposure.
+
+## Photographing and backup procedure
+
+1. Set the required ISO.
+2. **Take the first photograph.**
+3. Review the photograph on the camera.
+4. Magnify the main subject to check focus.
+5. Check for camera movement, subject movement, or unexpected blur.
+6. **Take a second photograph** using the same settings as a backup.
+7. Take a third photograph only when one of the first two has a visible problem.
+
+You will select the strongest photograph from each pair when creating the GIF.
+
+## Record the settings
+
+Record the information on the **Technical Cards Handout**.
+
+| Frame | ISO | Aperture | Visible noise or detail |
+|---|---:|---:|---|
+| 1 | `100` |  |  |
+| 2 | `200` |  |  |
+| 3 | `400` |  |  |
+| 4 | `800` |  |  |
+| 5 | `1600` |  |  |
+| 6 | `3200` |  |  |
+
+</div>
+</details>
 
 <!--
 /////////////////
@@ -548,7 +613,7 @@ SECTION 4
   <summary>
     <span class="section-title">4. Photograph the white-balance comparison</span>
     <span class="section-description">
-      Change the white-balance preset while keeping every other camera setting fixed.
+      Photograph the same composition using six white-balance presets while keeping the tripod, camera, exposure settings, framing, focal length, focus, subject, and lighting unchanged.
     </span>
   </summary>
 
@@ -556,22 +621,68 @@ SECTION 4
 
 ## What the comparison should demonstrate
 
-The White Balance GIF should show how the camera interprets the colour of the same light source differently.
+The White Balance GIF should demonstrate how the camera interprets the colour of the same light source using different white-balance presets.
 
-Include a white or neutral object and at least one colourful object in the composition.
+The tripod and camera must remain static throughout the sequence.
 
-## White-balance settings
+The aperture, ISO, focal length, focus, framing, subject, and lighting must also remain unchanged.
 
-Use:
+The only setting you will change manually is the **white-balance preset**.
 
-```text
-Shooting mode: Av
-Aperture: f/5.6 or f/8
-ISO: 400
-Focus: Manual Focus
-Focal length: Keep unchanged
-Lighting: Keep unchanged
-```
+## Location requirement
+
+- A clearly identifiable light source
+- Stable lighting
+- A stationary subject
+- A white or neutral area
+- At least one strongly coloured area
+- A safe and level place for the tripod
+
+> A tripod is required. Do not complete the White Balance comparison handheld.
+
+## Static photographic settings
+
+Set and confirm these controls before beginning the white-balance sequence.
+
+<fieldset class="equipment-checklist">
+  <legend>Static photographic settings</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focal length: <code>50 mm</code></strong>
+      Compose the photograph in Live View, then do not move the zoom ring.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aperture selected and locked</strong>
+      Use approximately <code>f/5–f/5.6</code> in lower light or <code>f/6.3–f/8</code> in brighter conditions. Keep it unchanged.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ISO selected and locked</strong>
+      Use <code>ISO 100–200</code> outdoors or approximately <code>ISO 400</code> indoors. Keep it unchanged.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus confirmed and locked</strong>
+      Focus using <code>AF</code>, take a test photograph, confirm sharpness, then switch the lens to <code>MF</code>.
+    </span>
+  </label>
+</fieldset>
+
+> Keep all static settings unchanged throughout the sequence. The only setting you will change manually is White Balance.
+
+## Photograph the six white-balance presets
 
 Photograph the same composition using:
 
@@ -582,20 +693,21 @@ Photograph the same composition using:
 5. **Tungsten**
 6. **White Fluorescent**
 
-Do not use flash. Custom White Balance will be introduced in a later activity.
+Do not use flash.
 
-## Photographing steps
+Custom White Balance will be introduced in a later activity.
 
-1. Confirm that the composition contains a white or neutral area.
-2. Press the `WB` button.
-3. Select **AWB / Auto**.
-4. Take the first photograph.
-5. Change only the white-balance preset.
-6. Photograph the remaining presets in the listed order.
-7. Review the JPEG versions on the camera.
-8. Return the camera to **Daylight** after completing the comparison.
+## Photographing and backup procedure
 
-> Use the JPEG files for this GIF. The JPEG files preserve the white-balance interpretation created by the camera.
+1. Set the required White Balance.
+2. **Take the first photograph.**
+3. Review the photograph on the camera.
+4. Magnify the main subject to check focus.
+5. Check for camera movement, subject movement, or unexpected blur.
+6. **Take a second photograph** using the same settings as a backup.
+7. Take a third photograph only when one of the first two has a visible problem.
+
+You will select the strongest photograph from each pair when creating the GIF.
 
 ## Record your observations
 
@@ -607,18 +719,6 @@ Do not use flash. Custom White Balance will be introduced in a later activity.
 | 4 | Cloudy |  |
 | 5 | Tungsten |  |
 | 6 | White Fluorescent |  |
-
-## White Balance GIF requirements
-
-- **Dimensions:** 960 × 540 pixels
-- **Aspect ratio:** 16:9
-- **Frames:** 6
-- **Frame duration:** Approximately 1.5 seconds
-- **Loop:** Forever
-- **Order:** Follow the preset order listed above
-- **Label:** Display the white-balance preset on every frame
-- **Colour:** Keep the photographs in colour
-- **Additional effects:** None
 
 </div>
 </details>
@@ -662,13 +762,26 @@ Name-Lastname-Technical-Cards/
 
 Rename the selected JPEG files in the correct order.
 
-Example:
+Aperture:
 
 ```text
-01-f5-6.jpg
-02-f8.jpg
-03-f11.jpg
-04-f16.jpg
+01-f5.jpg
+02-f6.3.jpg
+03-f8.jpg
+04-f11.jpg
+05-f16.jpg
+06-f22.jpg
+```
+
+ISO:
+
+```text
+01-100.jpg
+02-200.jpg
+03-400.jpg
+04-800.jpg
+05-1600.jpg
+06-3200.jpg
 ```
 
 For White Balance:
@@ -682,7 +795,7 @@ For White Balance:
 06-Fluorescent.jpg
 ```
 
-Keep the original camera files unchanged. Create separate copies for editing.
+Don't erase or format the SD camera. 
 
 </div>
 </details>
@@ -695,7 +808,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Create the Aperture and White Balance GIFs in Photoshop</span>
+    <span class="section-title">6. Create GIFs in Photoshop</span>
     <span class="section-description">
       Label the photographs, load them as layers, and export looping GIF files.
     </span>
@@ -776,82 +889,7 @@ SECTION 7
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">7. Create the ISO Comparison Card in Photoshop</span>
-    <span class="section-description">
-      Arrange the four photographs and matching detail crops in one 16:9 image.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Create the document
-
-1. Open Photoshop.
-2. Select **File → New**.
-3. Set:
-   - **Width:** 1920 pixels
-   - **Height:** 1080 pixels
-   - **Orientation:** Landscape
-4. Create the document.
-
-## Add the photographs
-
-1. Place the four ISO photographs in the document.
-2. Arrange them in four equal sections.
-3. Keep every full photograph at the same size.
-4. Align and space the images evenly.
-
-## Create the detail crops
-
-For every ISO photograph:
-
-1. Duplicate the image.
-2. Select the same shadowed or textured area.
-3. Crop or mask the same area at the same magnification.
-4. Place the detail crop below or beside the full photograph.
-
-The four crops must show exactly the same part of the composition.
-
-## Add the technical labels
-
-Label every section with:
-
-- ISO value
-- Shutter speed selected by the camera
-
-Example:
-
-```text
-ISO 1600
-1/250 second
-```
-
-Use one font, one text size, and a consistent label position.
-
-## Export the card
-
-1. Check that the complete comparison is readable.
-2. Select **File → Export → Export As**.
-3. Select **PNG**.
-4. Confirm the dimensions are `1920 × 1080`.
-5. Save as:
-
-```text
-Name-Lastname-ISO.png
-```
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 8
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">8. Complete the final quality check</span>
+    <span class="section-title">7. Complete the final quality check</span>
     <span class="section-description">
       Confirm that the comparisons are controlled, accurate, readable, and correctly exported.
     </span>
@@ -899,14 +937,6 @@ SECTION 8
     <span>
       <strong>The GIFs loop continuously.</strong>
       Both GIFs play in the correct order and return to the first frame.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>The ISO crops match.</strong>
-      Every crop shows the same area at the same magnification.
     </span>
   </label>
 
