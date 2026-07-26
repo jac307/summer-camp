@@ -278,7 +278,7 @@ The Aperture GIF should demonstrate how **depth of field** changes as the apertu
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/Aperture-Example-1.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/Aperture-Example-1.gif' | relative_url }}"
       class="tutorial-image"
       alt="Aperture comparison showing small figures photographed at different f-stops, with changes in foreground and background sharpness."
       loading="lazy"
@@ -290,7 +290,7 @@ The Aperture GIF should demonstrate how **depth of field** changes as the apertu
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/Aperture-Example-2.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/Aperture-Example-2.gif' | relative_url }}"
       class="tutorial-image"
       alt="Aperture comparison showing three orange bottles photographed at different f-stops, with changes in background sharpness."
       loading="lazy"
@@ -456,9 +456,9 @@ The ISO Comparison Card should demonstrate how increasing ISO affects:
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/ISO-digital-noise.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/ISO-digital-noise.gif' | relative_url }}"
       class="tutorial-image"
-      alt="Aperture comparison showing small figures photographed at different f-stops, with changes in foreground and background sharpness."
+      alt="ISO comparison showing small figures photographed at different values, with changes in the light and amount of grain."
       loading="lazy"
     >
     <figcaption>
@@ -468,9 +468,9 @@ The ISO Comparison Card should demonstrate how increasing ISO affects:
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/ISO-and-effective-exposure.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/ISO-and-effective-exposure.gif' | relative_url }}"
       class="tutorial-image"
-      alt="Aperture comparison showing three orange bottles photographed at different f-stops, with changes in background sharpness."
+      alt="SO comparison showing small figures photographed at different values, with changes in the light and amount of grain."
       loading="lazy"
     >
     <figcaption>
