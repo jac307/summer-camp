@@ -627,7 +627,7 @@ The White Balance GIF should demonstrate how the camera interprets the colour of
 
   <figure class="media-card">
     <img
-      src="{{ '/tutorials/Photography/imgs/WB-Examples-1.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/WB-Examples-1.jpg' | relative_url }}"
       class="tutorial-image"
       alt="White Balance settings comparission in a beach scene showing different white profiles."
       loading="lazy"
@@ -639,7 +639,7 @@ The White Balance GIF should demonstrate how the camera interprets the colour of
 
   <figure class="media-card">
     <img
-      src="{{ '/tutorials/Photography/imgs/WB-Examples-2.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/WB-Examples-2.jpg' | relative_url }}"
       class="tutorial-image"
       alt="White Balance settings comparission in a rural city scene showing different white profiles."
       loading="lazy"
