@@ -116,7 +116,9 @@ SECTION 2
 
 ## What is metering?
 
-**Metering** is the camera system that measures the brightness of a scene and estimates an exposure.
+**Metering** is the camera system that measures the brightness of a scene and estimates an exposure.  
+
+> Begin with **Evaluative metering**. The other modes provide greater control when the subject and background have significantly different brightness levels.
 
 <!--
 /////////////////
@@ -275,8 +277,6 @@ Light metering determines which part of the frame the camera uses to calculate e
     </div>
   </aside>
 </div>
-
-> Begin with **Evaluative metering**. The other modes provide greater control when the subject and background have significantly different brightness levels.
 
 </div>
 </details>
