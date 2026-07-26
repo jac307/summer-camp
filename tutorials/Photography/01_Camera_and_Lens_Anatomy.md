@@ -9,10 +9,6 @@ title: Photography Foundations
 
 # 📷 Canon Rebel T4i Camera and Lens Anatomy
 
-**Time:** 45–60 minutes  
-
-**Goal:** Identify the main controls on the Canon Rebel T4i camera body and the 18–55 mm kit lens before changing camera settings or taking photographs.
-
 This guide focuses on the controls you will use throughout the photography camp. Select each numbered hotspot to learn the name and purpose of that camera part.
 
 > Handle the camera with both hands or use the neck strap. Do not touch the lens glass, force a button or dial, or remove the lens or SD card while the camera is turned on.
