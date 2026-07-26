@@ -9,27 +9,7 @@ title: Photography Foundations
 
 # 📸 Additional DSLR Camera Settings
 
-**Time:** 75–90 minutes  
-
 **Goal:** Use metering, the histogram, exposure compensation, Auto Exposure Bracketing, and Custom White Balance to respond to difficult lighting conditions.
-
-Complete this activity after:
-
-- 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
-- ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md)
-
----
-
-## What You Will Learn
-
-By the end of this activity, you should be able to:
-
-- Use the camera meter as a starting point for exposure
-- Read a brightness histogram
-- Make one photograph darker or brighter with exposure compensation
-- Create a three-image exposure bracket
-- Set a Custom White Balance using a neutral reference
-- Return the camera to the standard Summer Camp settings
 
 <!--
 /////////////////
@@ -47,22 +27,8 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-## Prepare a controlled subject
-
-Choose a scene that contains:
-
-- One bright area
-- One dark or shadowed area
-- A white or neutral object
-- At least one coloured object
-- Fine surface detail
-
-Place the camera on a tripod or another stable surface. Keep the camera and subject in the same position throughout the exposure comparisons.
-
-## Starting settings
-
 <fieldset class="equipment-checklist">
-  <legend>Additional settings activity setup</legend>
+  <legend>Setup</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -117,22 +83,6 @@ Place the camera on a tripod or another stable surface. Keep the camera and subj
     <span>
       <strong>White balance: Daylight</strong>
       Keep a fixed preset until the Custom White Balance section.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure compensation: <code>0</code></strong>
-      Begin with no intentional exposure adjustment.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Auto Exposure Bracketing: Off</strong>
-      The exposure scale should display one marker at <code>0</code>.
     </span>
   </label>
 

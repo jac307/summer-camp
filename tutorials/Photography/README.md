@@ -26,7 +26,8 @@ Photography combines technical camera control with observation, composition, and
 
 * 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
 * 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md)
-* 🎞️ [Mini-Project 1: Thirty Seconds of Light — Planning, Production, and Export](07_Thirty_Seconds_of_Light.md)
+* 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md)
+
 
 ### Day 3
 
@@ -39,14 +40,13 @@ Photography combines technical camera control with observation, composition, and
 
 * 🔭 [Focal Length, Camera Distance, Perspective, and Depth of Field](12_Focal_Length_and_Depth_of_Field.md)
 * ⚙️ [Technical Card: Focal Length and Distance](13_Focal_Length_and_Distance_Card.md)
-* 🏞️ [Mini-Project 3: Subject in Place — Environment, Planning, and Production](14_Subject_in_Place.md)
+* 🎞️ [Mini-Project 1: Thirty Seconds of Light — Planning, Production, and Export](07_Thirty_Seconds_of_Light.md)
 
 ### Additional Photography Resources
 
 * 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
 * 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
 * 🌗 [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
-* 💾 [Photography File Naming and Storage Guide](00_File_Management.md)
 * ⌨️ [Photo Editing Shortcut Reference Guide](00_Photo_Editing_Shortcuts.md)
 
 ---
