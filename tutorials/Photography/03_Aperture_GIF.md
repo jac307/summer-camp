@@ -278,7 +278,7 @@ The Aperture GIF should demonstrate how **depth of field** changes as the apertu
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/aperture-example-1.gif' | relative_url }}"
+      src="{{ '/imgs/Aperture-Example-1.gif' | relative_url }}"
       class="tutorial-image"
       alt="Aperture comparison showing small figures photographed at different f-stops, with changes in foreground and background sharpness."
       loading="lazy"
@@ -290,7 +290,7 @@ The Aperture GIF should demonstrate how **depth of field** changes as the apertu
 
   <figure class="media-card">
     <img
-      src="{{ '/imgs/aperture-example-2.gif' | relative_url }}"
+      src="{{ '/imgs/Aperture-Example-2.gif' | relative_url }}"
       class="tutorial-image"
       alt="Aperture comparison showing three orange bottles photographed at different f-stops, with changes in background sharpness."
       loading="lazy"
