@@ -130,13 +130,13 @@ LIGHT METERING MODES
   <summary>
     <span class="section-title">Light metering modes</span>
     <span class="section-description">
-      Select a numbered area to learn how each metering mode measures light.
+      Know more about the metering options in a Canon DSRL Camera. 
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Light metering determines which part of the frame the camera uses to calculate exposure.
+Select a numbered area to learn how each metering mode measures light.
 
 <div
   class="interactive-reference"
@@ -165,7 +165,7 @@ Light metering determines which part of the frame the camera uses to calculate e
     <button
       class="interactive-reference__hotspot"
       type="button"
-      style="left: 72%; top: 33%;"
+      style="left: 60%; top: 33%;"
       data-reference-button="center-weighted"
       aria-label="Learn about Center-weighted metering"
       aria-pressed="false"
@@ -187,7 +187,7 @@ Light metering determines which part of the frame the camera uses to calculate e
     <button
       class="interactive-reference__hotspot"
       type="button"
-      style="left: 72%; top: 75%;"
+      style="left: 60%; top: 75%;"
       data-reference-button="spot"
       aria-label="Learn about Spot metering"
       aria-pressed="false"
