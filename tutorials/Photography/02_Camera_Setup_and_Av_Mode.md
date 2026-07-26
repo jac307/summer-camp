@@ -9,7 +9,7 @@ title: Photography Foundations
 
 # 📸 Camera Setup and Aperture Priority Mode
 
-**Time:** 60–75 minutes  
+**Time:** 60 minutes  
 
 **Goal:** Prepare the Canon Rebel T4i for photography, format the SD card, use the main menu and control buttons, understand exposure, and set aperture, ISO, and white balance.
 

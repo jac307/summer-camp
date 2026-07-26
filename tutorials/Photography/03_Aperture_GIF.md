@@ -9,7 +9,7 @@ title: Photography Foundations
 
 # ⚙️ Technical Cards: Aperture, ISO, and White Balance
 
-**Time:** 2–2.5 hours  
+**Time:** 1.5-2 hours  
 
 **Goal:** Photograph controlled comparisons and create three labelled technical cards that demonstrate how aperture, ISO, and white balance affect a photograph.
 
