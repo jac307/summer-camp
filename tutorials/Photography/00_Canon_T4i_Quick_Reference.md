@@ -19,7 +19,7 @@ The following DSLR cameras are available for Media Art students to book. All thr
 
 ## Canon EOS Rebel T4i / EOS 650D
 
-![Canon EOS Rebel T4i camera](imgs/001.jpg)
+![Canon EOS Rebel T4i camera](imgs/001.jpg){: .tutorial-image }
 
 A reliable entry-level DSLR with full manual controls. It is suitable for learning exposure, focus, composition, photography, and video recording.
 

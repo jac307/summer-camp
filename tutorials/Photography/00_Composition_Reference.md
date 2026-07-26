@@ -9,8 +9,6 @@ title: Photography Foundations
 
 # 📐 Photography Composition Reference Guide
 
-**Goal:** Learn how shot size, subject placement, visual structure, and depth of field shape a photograph.
-
 Use this guide while planning, photographing, and reviewing your images. The examples include both human subjects and objects so the same ideas can be applied to portraits, still-life photography, landscapes, and environmental photographs.
 
 ---
