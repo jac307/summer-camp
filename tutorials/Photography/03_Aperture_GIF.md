@@ -458,7 +458,7 @@ The ISO Comparison Card should demonstrate how increasing ISO affects:
     <img
       src="{{ '/tutorials/Photography/imgs/ISO-digital-noise.gif' | relative_url }}"
       class="tutorial-image"
-      alt="ISO comparison showing small figures photographed at different values, with changes in the light and amount of grain."
+      alt="ISO comparison showing a city landscape photographed at different values, with changes in the light and amount of grain."
       loading="lazy"
     >
     <figcaption>
@@ -470,7 +470,7 @@ The ISO Comparison Card should demonstrate how increasing ISO affects:
     <img
       src="{{ '/tutorials/Photography/imgs/ISO-and-effective-exposure.gif' | relative_url }}"
       class="tutorial-image"
-      alt="SO comparison showing small figures photographed at different values, with changes in the light and amount of grain."
+      alt="ISO comparison showing a main subject photographed at different values, with changes in the light and amount of grain."
       loading="lazy"
     >
     <figcaption>
@@ -622,6 +622,34 @@ SECTION 4
 ## What the comparison should demonstrate
 
 The White Balance GIF should demonstrate how the camera interprets the colour of the same light source using different white-balance presets.
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="{{ '/tutorials/Photography/imgs/WB-Examples-1.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="White Balance settings comparission in a beach scene showing different white profiles."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 1:</strong> A small subject with visible foreground, middle-ground, and background elements.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="{{ '/tutorials/Photography/imgs/WB-Examples-2.gif' | relative_url }}"
+      class="tutorial-image"
+      alt="White Balance settings comparission in a rural city scene showing different white profiles."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Example 2:</strong> A larger subject separated from a distant background.
+    </figcaption>
+  </figure>
+
+</div>
 
 The tripod and camera must remain static throughout the sequence.
 
