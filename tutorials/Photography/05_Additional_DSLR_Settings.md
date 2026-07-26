@@ -118,20 +118,168 @@ SECTION 2
 
 **Metering** is the camera system that measures the brightness of a scene and estimates an exposure.
 
-For the Summer Camp activities, use **Evaluative Metering**. Other camera brands may call a similar setting **Matrix Metering**.
+<!--
+/////////////////
+LIGHT METERING MODES
+/////////////////
+-->
 
-Evaluative Metering examines a large part of the frame and produces a general exposure estimate.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">Light metering modes</span>
+    <span class="section-description">
+      Select a numbered area to learn how each metering mode measures light.
+    </span>
+  </summary>
 
-Use the meter as a starting point rather than an automatic answer.
+<div class="section-content" markdown="1">
 
-The meter may be misled by:
+Light metering determines which part of the frame the camera uses to calculate exposure.
 
-- Bright skies
-- Pale walls or concrete
-- Reflective surfaces
-- Large dark areas
-- Strong backlighting
-- A small bright subject against a dark background
+<div
+  class="interactive-reference"
+  data-interactive-reference
+  data-default-item="evaluative"
+>
+  <div class="interactive-reference__image">
+
+    <img
+      src="{{ '/tutorials/Photography/imgs/metering-modes-camera.jpeg' | relative_url }}"
+      alt="Diagram comparing Evaluative, Center-weighted, Partial, and Spot light metering modes."
+      class="tutorial-image"
+    >
+
+    <button
+      class="interactive-reference__hotspot is-active"
+      type="button"
+      style="left: 28%; top: 33%;"
+      data-reference-button="evaluative"
+      aria-label="Learn about Evaluative metering"
+      aria-pressed="true"
+    >
+      1
+    </button>
+
+    <button
+      class="interactive-reference__hotspot"
+      type="button"
+      style="left: 72%; top: 33%;"
+      data-reference-button="center-weighted"
+      aria-label="Learn about Center-weighted metering"
+      aria-pressed="false"
+    >
+      2
+    </button>
+
+    <button
+      class="interactive-reference__hotspot"
+      type="button"
+      style="left: 28%; top: 75%;"
+      data-reference-button="partial"
+      aria-label="Learn about Partial metering"
+      aria-pressed="false"
+    >
+      3
+    </button>
+
+    <button
+      class="interactive-reference__hotspot"
+      type="button"
+      style="left: 72%; top: 75%;"
+      data-reference-button="spot"
+      aria-label="Learn about Spot metering"
+      aria-pressed="false"
+    >
+      4
+    </button>
+
+  </div>
+
+  <aside
+    class="interactive-reference__panel"
+    aria-live="polite"
+  >
+    <div
+      class="interactive-reference__content is-active"
+      data-reference-content="evaluative"
+    >
+      <p class="interactive-reference__number">1</p>
+      <h3>Evaluative metering</h3>
+
+      <p>
+        The camera analyzes light across the complete frame and combines information from several areas.
+      </p>
+
+      <p>
+        This is the recommended general-purpose setting for most photographs.
+      </p>
+
+      <p><strong>Useful for:</strong> Everyday photography and scenes with balanced lighting.</p>
+    </div>
+
+    <div
+      class="interactive-reference__content"
+      data-reference-content="center-weighted"
+      hidden
+    >
+      <p class="interactive-reference__number">2</p>
+      <h3>Center-weighted average metering</h3>
+
+      <p>
+        The camera measures the complete frame but gives greater importance to the centre.
+      </p>
+
+      <p>
+        It works best when the main subject is positioned near the middle of the composition.
+      </p>
+
+      <p><strong>Useful for:</strong> Centred portraits, objects, and symmetrical compositions.</p>
+    </div>
+
+    <div
+      class="interactive-reference__content"
+      data-reference-content="partial"
+      hidden
+    >
+      <p class="interactive-reference__number">3</p>
+      <h3>Partial metering</h3>
+
+      <p>
+        The camera measures a small area near the centre and ignores most of the surrounding frame.
+      </p>
+
+      <p>
+        It is useful when the subject is much brighter or darker than the background.
+      </p>
+
+      <p><strong>Useful for:</strong> Backlit subjects and high-contrast scenes.</p>
+    </div>
+
+    <div
+      class="interactive-reference__content"
+      data-reference-content="spot"
+      hidden
+    >
+      <p class="interactive-reference__number">4</p>
+      <h3>Spot metering</h3>
+
+      <p>
+        The camera measures light from a very small area at the centre of the frame.
+      </p>
+
+      <p>
+        It provides precise control but may produce an incorrect exposure when the selected area is not representative of the subject.
+      </p>
+
+      <p><strong>Useful for:</strong> Precise exposure readings and small subjects in difficult lighting.</p>
+    </div>
+  </aside>
+</div>
+
+> Begin with **Evaluative metering**. The other modes provide greater control when the subject and background have significantly different brightness levels.
+
+</div>
+</details>
 
 ## Set Evaluative Metering
 
@@ -142,8 +290,8 @@ The meter may be misled by:
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/L4ljKZvf6BU?si=BctLEVZPZYCEhYI5&amp;start=136"
-    title="How to change the camera metering mode"
+    src="https://www.youtube.com/embed/DQlqJDnVoS0?si=xXugLVuvGJTK2cQs"
+    title="How to Change Metering Modes on a Canon DSLR Camera"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
