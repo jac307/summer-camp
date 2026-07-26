@@ -759,19 +759,23 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Transfer and organize the photographs</span>
+    <span class="section-title">5. Transfer, review, and organize the photographs</span>
     <span class="section-description">
-      Copy the files from the SD card and separate the three technical comparisons.
+      Import all camera files, review the JPEG photographs, select one image for each setting, and rename the selected files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
+## Transfer all files
+
 1. Turn off the camera.
 2. Remove the SD card.
-3. Insert the card into a card reader.
-4. Copy all RAW and JPEG files to the computer.
-5. Do not work directly from the SD card.
+3. Insert the SD card into a card reader.
+4. Create the main project folder on the computer.
+5. Copy **all RAW and JPEG files** from the SD card into the project folder.
+6. Confirm that the files open correctly on the computer.
+7. Do not work directly from the SD card.
 
 Create this folder structure:
 
@@ -780,17 +784,50 @@ Name-Lastname-Technical-Cards/
 ├── Aperture/
 │   ├── RAW/
 │   └── JPEG/
+│   └── Selected/
 ├── ISO/
 │   ├── RAW/
 │   └── JPEG/
+│   └── Selected/
 └── White-Balance/
     ├── RAW/
     └── JPEG/
+    └── Selected/
 ```
 
-Rename the selected JPEG files in the correct order.
+Sort the files into the correct comparison and file-type folders.
 
-Aperture:
+> Each photograph was recorded twice: once as a JPEG file and once as a RAW file. For today’s activity, use only the **JPEG files**. The RAW files will be reviewed tomorrow.
+
+## Review the JPEG photographs
+
+Open the JPEG folder for each comparison and check every photograph.
+
+For each camera setting:
+
+1. Compare the photographs taken at that setting.
+2. Confirm that the main subject is sharp.
+3. Check for camera movement or subject movement.
+4. Confirm that the framing remained consistent.
+5. Check that no person or unexpected object entered the composition.
+6. Select the strongest photograph.
+7. Copy the selected JPEG into the corresponding Selected folder.
+
+> Copy the selected files rather than moving them. Keep all original JPEG and RAW files in their existing folders.
+
+Your final selection should contain:
+
+```text
+Aperture: 6 selected JPEG files
+ISO: 6 selected JPEG files
+White Balance: 6 selected JPEG files
+```
+
+> Do not delete the additional JPEG photographs or RAW files.
+
+## Rename the selected Aperture JPEG files
+
+Rename the six selected files in order:
 
 ```text
 01-f5.jpg
@@ -801,7 +838,9 @@ Aperture:
 06-f22.jpg
 ```
 
-ISO:
+> Rename the first file using the lowest f-number recorded at `50 mm`. The exact value may differ slightly from `f/5`.
+
+## Rename the selected ISO JPEG files
 
 ```text
 01-100.jpg
@@ -812,7 +851,7 @@ ISO:
 06-3200.jpg
 ```
 
-For White Balance:
+## Rename the selected White Balance JPEG files
 
 ```text
 01-AWB.jpg
@@ -823,10 +862,65 @@ For White Balance:
 06-Fluorescent.jpg
 ```
 
-Don't erase or format the SD camera. 
+## Confirm the file organization
+
+<fieldset class="equipment-checklist">
+  <legend>File transfer and selection check</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>All camera files copied</strong>
+      Confirm that every RAW and JPEG file was transferred from the SD card.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Files separated by comparison</strong>
+      Confirm that the Aperture, ISO, and White Balance files are in the correct folders.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>RAW and JPEG files separated</strong>
+      Keep the RAW files for tomorrow’s activity.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>All JPEG photographs reviewed</strong>
+      Check focus, framing, movement, and technical consistency before making the final selection.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>One JPEG selected for each setting</strong>
+      Confirm that each comparison contains six selected photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Selected JPEG files renamed</strong>
+      Confirm that all filenames follow the required order and format.
+    </span>
+  </label>
+</fieldset>
+
+> Do not erase or format the SD card. Keep all original camera files until the instructor confirms that the transfer and backup are complete.
 
 </div>
 </details>
+
 
 <!--
 /////////////////
@@ -844,64 +938,132 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
-## Prepare the labelled frames
+Complete these steps separately for each GIF: **Aperture, ISO, and White Balance**.
 
-Complete these steps separately for the Aperture and White Balance photographs.
+> For this activity, use only the **JPEG files** in each **Selected** folder.
 
-1. Open the first selected JPEG in Photoshop.
-2. Use the **Type Tool** to add the correct setting label.
-3. Keep the label:
-   - Large enough to read
-   - In the same position on every frame
-   - High contrast against the photograph
-   - Simple and visually consistent
-4. Select **File → Export → Export As**.
-5. Export the labelled frame as a PNG.
-6. Repeat for every photograph.
+### 1. Add information to each selected photograph
 
-Save the labelled files in numbered order:
+1. Open the photograph in Photoshop:
+   - Right-click the file.
+   - Select **Open With → Adobe Photoshop**.
+2. Select the **Type Tool (`T`)**.
+3. Add the setting shown in the photograph:
+   - Aperture: `f/5`, `f/8`, `f/11`, etc.
+   - ISO: `ISO 100`, `ISO 400`, `ISO 1600`, etc.
+   - White Balance: `Daylight`, `Shade`, `Tungsten`, etc.
+4. Use a simple, readable sans-serif font.
+5. Keep the font, size, alignment, and colour consistent across all six photographs.
+6. Position the label in the same place on every photograph.
+7. Use **View → Rulers** and drag guides from the rulers to align the labels consistently.
+8. Make sure the text is clearly visible against the photograph. Add a simple solid background behind the text when necessary.
+9. Save image: **File → Save**
 
-```text
-01.png
-02.png
-03.png
-04.png
-```
+> Check the Photoshop Text Tool and ruler tutorials below before adding the labels.
+> Repeat the same process with each image. 
 
-## Load the frames as layers
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/SBfpj2fTWYs?si=-dIMAAL5prkpQz_E"
+    title="How to OPEN Files in Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Pi2VOfnes-Q?si=wPh_SZFp_YWp5nQX&amp;start=17"
+    title="How To Use Text Tool In Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/RCnDuPOE680?si=abHy-sg0q3_puaGx"
+    title="How to Add Ruler Guides in Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### 2. Create a new Photoshop document
+
+> Follow the video tutorial below, then use these document settings.
+
+1. Open Photoshop.
+2. Select **File → New**.
+3. Enter the following settings:
+   - **Width:** `1920 pixels`
+   - **Height:** `1080 pixels`
+   - **Orientation:** Landscape
+   - **Resolution:** `150 pixels/inch`
+   - **Colour Mode:** RGB Colour
+4. Click **Create**.
+5. Continue to the next step.
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/0KDEtrFnpx4?si=A6j---rMLKUOQipe"
+    title="How To Create New File In Photoshop 2025"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### 3. Create the GIF
+
+> Follow the video tutorial below to create a frame animation in Photoshop.
 
 1. In Photoshop, select **File → Scripts → Load Files into Stack**.
-2. Select the labelled PNG files.
-3. Confirm that the files appear as separate layers.
-4. Resize the document to `960 × 540` pixels when necessary.
+2. Click **Browse**.
+3. Select the six labelled JPEG files from the corresponding **Selected** folder.
+4. Click **Open**, then click **OK**.
+5. In the **Layers** panel, confirm that each photograph appears on a separate layer.
+6. Select **Window → Timeline**.
+7. In the Timeline panel, select **Create Frame Animation**.
+8. Open the Timeline panel menu.
+9. Select **Make Frames From Layers**.
+10. Confirm that the frames appear in the correct order:
+    - Aperture: lowest to highest f-number
+    - ISO: `100` to `3200`
+    - White Balance: AWB, Daylight, Shade, Cloudy, Tungsten, White Fluorescent
+11. When the frames appear in reverse order:
+    - Select all frames.
+    - Open the Timeline panel menu.
+    - Select **Reverse Frames**.
+12. Select all six frames.
+13. Set the duration to approximately **1.5 seconds** per frame.
+14. Set the looping option to **Forever**.
+15. Press **Play** and review the complete animation.
+16. Continue to the next step.
 
-Do not select automatic alignment when the camera remained stationary.
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/8cn6zmYGYZM?si=-iv8Dt76iCjemgVL&amp;start=28"
+    title="How To Create a GIF in Photoshop - Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-## Create the frame animation
-
-1. Select **Window → Timeline**.
-2. Choose **Create Frame Animation**.
-3. Open the Timeline panel menu.
-4. Select **Make Frames From Layers**.
-5. Reverse the order when the frames appear backwards.
-6. Select all frames.
-7. Set the duration to approximately `1.5 seconds`.
-8. Set the looping option to **Forever**.
-9. Press Play and review the complete animation.
-
-Check that:
-
-- The camera position does not jump
-- The labels are correct
-- Every frame has the same dimensions
-- The GIF plays in the intended order
-
-## Export the GIF
+## Export GIF
 
 1. Select **File → Export → Save for Web (Legacy)**.
 2. Select **GIF**.
 3. Confirm that looping is set to **Forever**.
-4. Reduce the number of colours when necessary to create a smaller file.
 5. Save using the required filename.
 
 Open the exported GIF in a web browser and watch it from beginning to end.
