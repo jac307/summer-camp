@@ -148,23 +148,33 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Develop the photograph in Adobe Camera Raw</span>
+    <span class="section-title">3. Explore Adobe Camera Raw</span>
     <span class="section-description">
-      Follow the tutorials to correct exposure and colour, refine the tonal range, crop the photograph, and compare the edited image with the original.
+      Experiment with exposure, colour, tonal, and composition controls to understand how each adjustment changes a RAW photograph.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Keep the selected RAW photograph open in **Adobe Camera Raw** while completing the tutorials below.
+This section is an **exploration phase**.
 
-Work through the tutorials in order and apply the techniques directly to your photograph.
+Keep the selected RAW photograph open in **Adobe Camera Raw** and follow the tutorials below. Test the different controls directly on your photograph and observe how each one changes the image.
 
-> You do not need to change every control. Use only the adjustments that improve the exposure, colour, and composition of your photograph. Avoid extreme corrections.
+During this exploration:
 
-## 1. Basic adjustments
+- Try each group of controls
+- Move sliders in both directions
+- Observe which parts of the photograph change
+- Compare subtle and extreme adjustments
+- Use **Undo** when necessary
+- Return controls to neutral values when an experiment does not support the photograph
+- Use the Before and After view regularly
 
-Learn how to use:
+> The goal is not to produce a perfect or finished edit during each tutorial. The goal is to understand what the controls do and begin identifying which adjustments may support your photograph.
+
+## 1. Explore the Basic adjustments
+
+Follow the tutorial and experiment with:
 
 - Temperature
 - Tint
@@ -180,7 +190,13 @@ Learn how to use:
 - Vibrance
 - Saturation
 
-Use these controls to establish the overall exposure, recover visible detail, correct colour casts, and refine the image.
+While exploring, notice:
+
+- Which controls affect the complete photograph
+- Which controls affect mainly bright or dark areas
+- Which controls change colour
+- Which controls increase or reduce visible texture
+- When an adjustment begins to look excessive
 
 <div class="video-wrapper">
   <iframe
@@ -192,17 +208,20 @@ Use these controls to establish the overall exposure, recover visible detail, co
   </iframe>
 </div>
 
-## 2. Curves
+## 2. Explore Curves
 
-Use the Curve panel to refine the relationship between:
+Follow the tutorial and experiment with the Curve panel.
+
+Observe how the curve changes:
 
 - Shadows
 - Dark tones
 - Midtones
 - Light tones
 - Highlights
+- Overall contrast
 
-Make small adjustments and avoid removing important highlight or shadow detail.
+Try creating a subtle adjustment and a more extreme adjustment. Compare the results before deciding whether to keep the change.
 
 <div class="video-wrapper">
   <iframe
@@ -214,17 +233,25 @@ Make small adjustments and avoid removing important highlight or shadow detail.
   </iframe>
 </div>
 
-## 3. Colour Mixer
+## 3. Explore the Colour Mixer
 
-Use the Colour Mixer to adjust individual colour ranges.
+Follow the tutorial and test how individual colour ranges can be adjusted.
 
-You may refine the:
+Explore:
 
-- Hue
-- Saturation
-- Luminance
+- **Hue:** Changes one colour into a neighbouring colour
+- **Saturation:** Increases or reduces the intensity of a colour
+- **Luminance:** Makes a colour range appear lighter or darker
 
-Adjust only colours that are present in the photograph and support the main subject.
+Focus on colours that are clearly visible in your photograph.
+
+Observe whether the adjustments:
+
+- Strengthen the main subject
+- Change the relationship between colours
+- Affect the visual hierarchy
+- Create unnatural colour shifts
+- Remove visible detail
 
 <div class="video-wrapper">
   <iframe
@@ -236,15 +263,25 @@ Adjust only colours that are present in the photograph and support the main subj
   </iframe>
 </div>
 
-## 4. Colour Grading
+## 4. Explore Colour Grading
 
-Use Colour Grading to introduce controlled colour into the:
+Follow the tutorial and experiment with adding colour to the:
 
 - Shadows
 - Midtones
 - Highlights
 
-Keep the effect subtle. The colour grading should support the photograph’s mood without creating distracting colour casts.
+Try different colour combinations and strengths.
+
+Observe how colour grading changes:
+
+- Mood
+- Atmosphere
+- Colour contrast
+- Separation between light and dark areas
+- The viewer’s attention
+
+> Colour grading is an interpretive adjustment. It does not need to make the colours appear neutral or realistic. During this exploration, test how colour can change the meaning and atmosphere of the photograph.
 
 <div class="video-wrapper">
   <iframe
@@ -256,19 +293,24 @@ Keep the effect subtle. The colour grading should support the photograph’s moo
   </iframe>
 </div>
 
-## 5. Compare before and after
+## 5. Explore the Before and After views
 
-Use the Before and After views to compare the edited photograph with the original RAW interpretation.
+Follow the tutorial and test the different Before and After views.
 
-Check whether the edited version improves:
+Use them throughout the exploration to compare:
 
-- Exposure
-- Highlight detail
-- Shadow detail
-- White balance
-- Colour clarity
-- Contrast
-- Attention toward the main subject
+- The original RAW interpretation
+- Individual adjustments
+- The complete edited version
+- Subtle and extreme changes
+
+Ask:
+
+- What changed?
+- Which adjustment created the clearest difference?
+- Which changes improved the photograph?
+- Which changes became distracting?
+- Does the edited version still retain important detail?
 
 <div class="video-wrapper">
   <iframe
@@ -280,21 +322,31 @@ Check whether the edited version improves:
   </iframe>
 </div>
 
-> The edited version should improve the photograph without making it appear excessively bright, dark, saturated, or artificial.
+## 6. Explore Crop, Straighten, Flip, and Rotate
 
-## 6. Crop, straighten, flip, and rotate
+Follow the tutorial and test the composition controls.
 
-Use the Crop panel to refine the composition.
+Explore how you can:
 
-You may:
-
-- Straighten a tilted horizon
+- Change the crop
+- Adjust the aspect ratio
+- Straighten a horizon
 - Correct the orientation
-- Remove distracting elements near the frame edges
-- Improve the placement of the main subject
-- Maintain or refine the original aspect ratio
+- Remove distractions near the frame edges
+- Reposition the main subject
+- Flip the photograph horizontally or vertically
+- Rotate the photograph
 
-Do not flip or rotate the photograph unless it is necessary for the composition.
+Compare different crops before selecting one.
+
+Observe how each crop changes:
+
+- Subject placement
+- Visual balance
+- Negative space
+- Shot size
+- The relationship between the subject and background
+- What enters or leaves the frame
 
 <div class="video-wrapper">
   <iframe
@@ -306,61 +358,20 @@ Do not flip or rotate the photograph unless it is necessary for the composition.
   </iframe>
 </div>
 
-## Review the RAW development
+## Record your exploration
 
-<fieldset class="equipment-checklist">
-  <legend>Adobe Camera Raw review</legend>
+After completing the tutorials, identify:
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure corrected</strong>
-      Confirm that the photograph is not unnecessarily bright or dark.
-    </span>
-  </label>
+1. One control that changed the overall photograph
+2. One control that affected mainly highlights or shadows
+3. One colour adjustment that produced an interesting result
+4. One adjustment that became excessive when pushed too far
+5. One crop or orientation change that affected the composition
+6. One adjustment you may use in the final edit
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Highlight and shadow detail retained</strong>
-      Confirm that important bright and dark areas still contain visible detail.
-    </span>
-  </label>
+> After exploring the controls, return to the photograph and keep only the adjustments that support the exposure, colour, mood, and composition you want to develop.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>White balance corrected</strong>
-      Confirm that unwanted blue, orange, green, or magenta colour casts have been addressed.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Colour refined</strong>
-      Confirm that the colours support the subject without appearing excessively saturated.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Composition reviewed</strong>
-      Confirm that the crop and orientation support the photograph.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Before and After compared</strong>
-      Confirm that the edited version improves the original RAW interpretation.
-    </span>
-  </label>
-</fieldset>
-
-> Do not click **Open** until you have completed and reviewed all Adobe Camera Raw corrections.
+Do not click **Open** until you have completed the exploration and selected the adjustments you want to keep.
 
 </div>
 </details>
