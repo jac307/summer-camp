@@ -421,18 +421,8 @@ Practise these controls:
 Before completing additional edits, save the photograph as a Photoshop file.
 
 1. Select **File → Save As**.
-2. Open the folder:
-
-```text
-Name-Lastname-RAW-Editing/
-```
-
-3. Name the file:
-
-```text
-Name-Lastname-Edited.psd
-```
-
+2. Save in folder `Name-Lastname-RAW-Editing/`
+3. Name the file: `Name-Lastname-Edited.psd`
 4. Select **Photoshop (`.PSD`)** as the file format.
 5. Confirm that **Layers** is enabled when the option appears.
 6. Click **Save**.
@@ -440,48 +430,23 @@ Name-Lastname-Edited.psd
 
 > The `.PSD` format preserves Photoshop layers and allows you to return to the file for additional editing. Do not overwrite the original `.CR2` file.
 
-## Check the saved file
+## Export a high-quality JPEG file
 
-<fieldset class="equipment-checklist">
-  <legend>Photoshop file check</legend>
+Exporting a JPEG creates a separate copy of the edited photograph. It does not preserve Photoshop layers, so keep the `.PSD` file as the editable working version.
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The photograph opened in Photoshop.</strong></span>
-  </label>
+## Save the Photoshop file first
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>I reviewed the main Photoshop tools and panels.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The working file was saved as a `.PSD` file.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The original `.CR2` file remains unchanged.</strong></span>
-  </label>
-</fieldset>
-
-## Additional exploration
-
-After completing and saving the required photograph, use any remaining time to explore Adobe Camera Raw with another photograph.
-
-Select an image with different:
-
-- Lighting conditions
-- Colours
-- Contrast
-- Subject matter
-- Highlight and shadow detail
-- White-balance challenges
-
-Compare how the same Camera Raw controls produce different results across photographs.
-
-> Additional photographs are for exploration. Complete and save the required photograph before beginning another edit.
+1. Select **File → Export → Export As**.
+2. Select **JPG** as the file format.
+3. Use these settings:
+   - Quality: **High or 100%**
+   - Scale: **100%**
+   - Colour Space: **Convert to sRGB**
+   - Embed Colour Profile: **Enabled**, when available
+4. Click **Export**
+5. Save in folder `Name-Lastname-RAW-Editing/`
+6. Name the file: `Name-Lastname-Edited.jpg`
+7. Check the exported file.
 
 </div>
 </details>
