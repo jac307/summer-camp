@@ -444,92 +444,7 @@ SECTION 4
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Use Auto Exposure Bracketing</span>
-    <span class="section-description">
-      Capture darker, camera-recommended, and brighter exposures of the same scene.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## What is Auto Exposure Bracketing?
-
-**Auto Exposure Bracketing**, or **AEB**, prepares a sequence of photographs at different exposure levels.
-
-A standard bracket includes:
-
-- One darker photograph
-- One photograph at the camera’s recommended exposure
-- One brighter photograph
-
-![Exposure Bracketing Example](imgs/bracketing.webp){: .tutorial-image }
-
-Bracketing is useful when:
-
-- The scene contains bright highlights and dark shadows
-- The lighting is difficult to evaluate on the camera screen
-- You are uncertain which exposure preserves the most useful information
-- You want several options for later selection
-
-For this activity, use bracketing for comparison and selection. Do not combine the images into HDR.
-
-## Set Auto Exposure Bracketing
-
-1. Confirm that the Mode Dial is set to <code>Av</code>.
-2. Press <strong>Q</strong>.
-3. Select the **Exposure Compensation/AEB** scale.
-4. Turn the Main Control Dial until three exposure markers appear.
-5. Begin with approximately one stop between the markers:
-   - <code>-1</code>
-   - <code>0</code>
-   - <code>+1</code>
-6. Press <strong>SET</strong> to confirm.
-7. Keep the camera and subject stationary.
-8. Press the shutter button to capture the three photographs.
-
-Depending on the drive mode, you may need to press the shutter button three times.
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/ayH7Y_6-VVw?si=-P_L3h20kxe5xTdb"
-    title="How to use Auto Exposure Bracketing on a Canon DSLR camera"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Review the bracket
-
-Compare:
-
-- Which image retains the most highlight detail?
-- Which image retains the most shadow detail?
-- Which exposure best supports the subject?
-- Does the camera-recommended exposure provide the best result?
-- Is the darker or brighter photograph more useful?
-
-## Turn AEB off
-
-1. Return to the **Exposure Compensation/AEB** scale.
-2. Turn the Main Control Dial until the three markers come together.
-3. Confirm that one marker appears at <code>0</code>.
-4. Press <strong>SET</strong>.
-
-> Always turn AEB off when finished. Otherwise, the camera may continue producing photographs at different exposure levels during the next activity.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Set a Custom White Balance</span>
+    <span class="section-title">4. Set a Custom White Balance</span>
     <span class="section-description">
       Use a neutral reference to create a colour balance for the current lighting.
     </span>
@@ -624,13 +539,13 @@ Consider:
 
 <!--
 /////////////////
-SECTION 6
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Return the camera to the standard settings</span>
+    <span class="section-title">5. Return the camera to the standard settings</span>
     <span class="section-description">
       Turn off temporary settings so they do not affect the next photography activity.
     </span>
