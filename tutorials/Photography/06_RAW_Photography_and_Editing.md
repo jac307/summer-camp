@@ -160,8 +160,6 @@ This section is an **exploration phase**.
 
 Keep the selected RAW photograph open in **Adobe Camera Raw** and follow the tutorials below. Test the controls directly on your photograph and observe how each adjustment changes the image.
 
-> The goal is not to produce a perfect or finished edit during each tutorial. The goal is to understand what the controls do and identify which adjustments may support your photograph.
-
 ---
 
 <details class="tutorial-section">
@@ -175,15 +173,6 @@ Keep the selected RAW photograph open in **Adobe Camera Raw** and follow the tut
 <div class="section-content" markdown="1">
 
 The **Basic panel** contains the main controls used to make broad corrections to the complete photograph.
-
-Use it when you want to:
-
-- Correct a photograph that is too bright or too dark
-- Recover detail in highlights or shadows
-- Correct an unwanted blue, orange, green, or magenta colour cast
-- Increase or reduce contrast
-- Strengthen or soften visible texture
-- Adjust the overall intensity of the colours
 
 Explore:
 
@@ -228,14 +217,6 @@ Explore:
 
 The **Curve panel** controls the brightness and contrast of different tonal areas in the photograph.
 
-Use it when you want to:
-
-- Brighten or darken a specific tonal range
-- Increase or reduce contrast
-- Add depth to a flat-looking photograph
-- Protect highlights while adjusting shadows
-- Refine the photograph after the Basic adjustments
-
 The left side of the curve represents shadows, the centre represents midtones, and the right side represents highlights.
 
 Explore:
@@ -272,14 +253,6 @@ Explore:
 
 The **Colour Mixer** allows you to adjust specific colour ranges without changing every colour in the photograph.
 
-Use it when you want to:
-
-- Correct one colour that appears inaccurate
-- Make the main subject stand out
-- Reduce a distracting colour
-- Brighten or darken a particular colour range
-- Refine colour relationships within the composition
-
 Explore:
 
 - **Hue:** Changes a colour into a neighbouring colour
@@ -312,14 +285,6 @@ Explore:
 <div class="section-content" markdown="1">
 
 **Colour Grading** allows you to add different colours to the shadows, midtones, and highlights of a photograph.
-
-Use it when you want to:
-
-- Create a specific mood or atmosphere
-- Introduce warm or cool tones
-- Separate light and dark areas through colour
-- Create a more stylized or cinematic appearance
-- Develop a consistent colour treatment
 
 Explore:
 
@@ -358,15 +323,6 @@ Explore:
 
 The **Before and After views** allow you to compare the original RAW interpretation with the edited version.
 
-Use them when you want to:
-
-- Confirm that the edit improves the photograph
-- Identify which adjustments created the clearest changes
-- Compare subtle and extreme edits
-- Check whether colour or contrast has become excessive
-- Confirm that highlight and shadow detail remain visible
-- Decide which adjustments to keep or remove
-
 Explore:
 
 - Side-by-side comparison
@@ -383,88 +339,6 @@ Explore:
     allowfullscreen>
   </iframe>
 </div>
-
-</div>
-</details>
-
----
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Explore Crop, Straighten, Flip, and Rotate</span>
-    <span class="section-description">
-      Refine the framing, orientation, and visual balance of the photograph.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-The **Crop, Straighten, Flip, and Rotate tools** change the frame and orientation of the photograph without changing its colour or exposure.
-
-Use them when you want to:
-
-- Remove distracting elements near the frame edges
-- Strengthen the placement of the main subject
-- Correct a tilted horizon
-- Change the aspect ratio
-- Correct the photograph’s orientation
-- Test a different visual balance
-- Reframe the relationship between the subject and background
-
-Explore:
-
-- **Crop:** Removes areas from the edges of the frame
-- **Aspect Ratio:** Controls the proportions of the image
-- **Straighten:** Corrects tilted horizontal or vertical lines
-- **Rotate:** Turns the photograph clockwise or counter-clockwise
-- **Flip:** Reverses the photograph horizontally or vertically
-
-Compare different crops and observe how each one changes:
-
-- Subject placement
-- Visual balance
-- Negative space
-- Shot size
-- The relationship between the subject and background
-- What enters or leaves the frame
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/cnXrSu2v63s?si=kQDedYS9u7tA4ubE"
-    title="Adobe Camera Raw crop, flip, and rotate tools"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
-</div>
-</details>
-
----
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Record your exploration</span>
-    <span class="section-description">
-      Identify the controls and adjustments that produced the most useful or noticeable results.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-After completing the tutorials, identify:
-
-1. One control that changed the overall photograph
-2. One control that affected mainly highlights or shadows
-3. One colour adjustment that produced an interesting result
-4. One adjustment that became excessive when pushed too far
-5. One crop or orientation change that affected the composition
-6. One adjustment you may use in the final edit
-
-> After exploring the controls, return to the photograph and keep only the adjustments that support the exposure, colour, mood, and composition you want to develop.
-
-Do not click **Open** until you have completed the exploration and selected the adjustments you want to keep.
 
 </div>
 </details>
