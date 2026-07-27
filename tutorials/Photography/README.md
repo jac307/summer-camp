@@ -28,7 +28,6 @@ Photography combines technical camera control with observation, composition, and
 * 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md)
 * 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md)
 
-
 ### Day 3
 
 * 📸 [Shutter Priority Mode: Freezing and Blurring Movement](08_Shutter_Priority_and_Movement.md)
