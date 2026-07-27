@@ -456,16 +456,9 @@ SECTION 4
 
 White balance adjusts how the camera records the colour of the light illuminating a scene.
 
-Automatic and preset white-balance settings are general estimates. A **Custom White Balance** uses a photograph of a neutral reference to measure the light in the actual location.
+Automatic and preset white-balance settings are general estimates. A **Custom White Balance** uses a photograph of a neutral reference to measure the light in the actual location. This is useful to maintain consistent colour.
 
 ![Custom vs Auto White Balance Example](imgs/WB-2.jpg){: .tutorial-image }
-
-Use Custom White Balance when:
-
-- The scene combines different light sources
-- Skin tones or neutral objects appear inaccurate
-- Several photographs must maintain consistent colour
-- Several cameras must record the same lighting consistently
 
 ## Prepare the reference
 
