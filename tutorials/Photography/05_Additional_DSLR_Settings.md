@@ -367,6 +367,8 @@ SECTION 3
 
 **Exposure compensation** changes the camera’s recommended exposure without leaving Aperture Priority mode.
 
+![Camera display showing an exposure histogram](imgs/ExposureCompensation.jpg){: .tutorial-image }
+
 - A negative value makes the photograph darker
 - A positive value makes the photograph brighter
 - A value of <code>0</code> uses the camera’s standard exposure estimate
@@ -391,6 +393,17 @@ Use exposure compensation when the photograph looks too dark or too bright even 
 1. Hold the <strong>Av +/-</strong> button.
 2. Turn the Main Control Dial.
 3. Release the button when the marker reaches the intended value.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/ZBOo1aOb3IE?si=UlqrowST6ixKf7yT&amp;start=23"
+    title="Canon DSLR Tutorial - How to use exposure compensation"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Create a three-photograph comparison
 
