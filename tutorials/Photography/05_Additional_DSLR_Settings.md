@@ -570,14 +570,6 @@ SECTION 5
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Auto Exposure Bracketing: Off</strong>
-      Confirm that the three markers have returned to one marker at <code>0</code>.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>White balance: Daylight</strong>
       Leave Custom White Balance only when the next activity specifically requires it.
     </span>
@@ -594,15 +586,16 @@ SECTION 5
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Image quality: RAW + JPEG</strong>
-      Confirm that both file types remain active.
+      <strong>Aperture: approximately <code>f/8</code></strong>
+      This provides a useful starting depth of field.
     </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Flash: Off</strong>
+      <strong>Image quality: RAW + JPEG</strong>
+      Confirm that both file types remain active.
     </span>
   </label>
 </fieldset>
