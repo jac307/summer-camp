@@ -158,45 +158,48 @@ SECTION 3
 
 This section is an **exploration phase**.
 
-Keep the selected RAW photograph open in **Adobe Camera Raw** and follow the tutorials below. Test the different controls directly on your photograph and observe how each one changes the image.
+Keep the selected RAW photograph open in **Adobe Camera Raw** and follow the tutorials below. Test the controls directly on your photograph and observe how each adjustment changes the image.
 
-During this exploration:
+> The goal is not to produce a perfect or finished edit during each tutorial. The goal is to understand what the controls do and identify which adjustments may support your photograph.
 
-- Try each group of controls
-- Move sliders in both directions
-- Observe which parts of the photograph change
-- Compare subtle and extreme adjustments
-- Use **Undo** when necessary
-- Return controls to neutral values when an experiment does not support the photograph
-- Use the Before and After view regularly
+---
 
-> The goal is not to produce a perfect or finished edit during each tutorial. The goal is to understand what the controls do and begin identifying which adjustments may support your photograph.
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">1. Explore the Basic adjustments</span>
+    <span class="section-description">
+      Test the main controls for correcting exposure, white balance, contrast, texture, and colour intensity.
+    </span>
+  </summary>
 
-## 1. Explore the Basic adjustments
+<div class="section-content" markdown="1">
 
-Follow the tutorial and experiment with:
+The **Basic panel** contains the main controls used to make broad corrections to the complete photograph.
 
-- Temperature
-- Tint
-- Exposure
-- Contrast
-- Highlights
-- Shadows
-- Whites
-- Blacks
-- Texture
-- Clarity
-- Dehaze
-- Vibrance
-- Saturation
+Use it when you want to:
 
-While exploring, notice:
+- Correct a photograph that is too bright or too dark
+- Recover detail in highlights or shadows
+- Correct an unwanted blue, orange, green, or magenta colour cast
+- Increase or reduce contrast
+- Strengthen or soften visible texture
+- Adjust the overall intensity of the colours
 
-- Which controls affect the complete photograph
-- Which controls affect mainly bright or dark areas
-- Which controls change colour
-- Which controls increase or reduce visible texture
-- When an adjustment begins to look excessive
+Explore:
+
+- **Temperature:** Makes the photograph warmer or cooler
+- **Tint:** Shifts the colour between green and magenta
+- **Exposure:** Changes the overall brightness
+- **Contrast:** Increases or reduces the difference between light and dark areas
+- **Highlights:** Adjusts the brightest areas
+- **Shadows:** Adjusts the darkest areas
+- **Whites:** Sets the brightest white point
+- **Blacks:** Sets the darkest black point
+- **Texture:** Strengthens or softens fine surface detail
+- **Clarity:** Changes contrast in the midtones
+- **Dehaze:** Reduces or increases atmospheric haze
+- **Vibrance:** Adjusts less-saturated colours more strongly
+- **Saturation:** Adjusts the intensity of all colours
 
 <div class="video-wrapper">
   <iframe
@@ -208,20 +211,39 @@ While exploring, notice:
   </iframe>
 </div>
 
-## 2. Explore Curves
+</div>
+</details>
 
-Follow the tutorial and experiment with the Curve panel.
+---
 
-Observe how the curve changes:
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Explore Curves</span>
+    <span class="section-description">
+      Adjust the brightness and contrast of specific tonal areas.
+    </span>
+  </summary>
 
-- Shadows
-- Dark tones
-- Midtones
-- Light tones
-- Highlights
-- Overall contrast
+<div class="section-content" markdown="1">
 
-Try creating a subtle adjustment and a more extreme adjustment. Compare the results before deciding whether to keep the change.
+The **Curve panel** controls the brightness and contrast of different tonal areas in the photograph.
+
+Use it when you want to:
+
+- Brighten or darken a specific tonal range
+- Increase or reduce contrast
+- Add depth to a flat-looking photograph
+- Protect highlights while adjusting shadows
+- Refine the photograph after the Basic adjustments
+
+The left side of the curve represents shadows, the centre represents midtones, and the right side represents highlights.
+
+Explore:
+
+- Moving part of the curve upward to brighten that tonal range
+- Moving part of the curve downward to darken that tonal range
+- Creating a subtle S-curve to increase contrast
+- Flattening the curve to reduce contrast
 
 <div class="video-wrapper">
   <iframe
@@ -233,25 +255,36 @@ Try creating a subtle adjustment and a more extreme adjustment. Compare the resu
   </iframe>
 </div>
 
-## 3. Explore the Colour Mixer
+</div>
+</details>
 
-Follow the tutorial and test how individual colour ranges can be adjusted.
+---
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">3. Explore the Colour Mixer</span>
+    <span class="section-description">
+      Adjust individual colour ranges without changing every colour in the photograph.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+The **Colour Mixer** allows you to adjust specific colour ranges without changing every colour in the photograph.
+
+Use it when you want to:
+
+- Correct one colour that appears inaccurate
+- Make the main subject stand out
+- Reduce a distracting colour
+- Brighten or darken a particular colour range
+- Refine colour relationships within the composition
 
 Explore:
 
-- **Hue:** Changes one colour into a neighbouring colour
+- **Hue:** Changes a colour into a neighbouring colour
 - **Saturation:** Increases or reduces the intensity of a colour
 - **Luminance:** Makes a colour range appear lighter or darker
-
-Focus on colours that are clearly visible in your photograph.
-
-Observe whether the adjustments:
-
-- Strengthen the main subject
-- Change the relationship between colours
-- Affect the visual hierarchy
-- Create unnatural colour shifts
-- Remove visible detail
 
 <div class="video-wrapper">
   <iframe
@@ -263,25 +296,40 @@ Observe whether the adjustments:
   </iframe>
 </div>
 
-## 4. Explore Colour Grading
+</div>
+</details>
 
-Follow the tutorial and experiment with adding colour to the:
+---
 
-- Shadows
-- Midtones
-- Highlights
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">4. Explore Colour Grading</span>
+    <span class="section-description">
+      Add controlled colour to the shadows, midtones, and highlights.
+    </span>
+  </summary>
 
-Try different colour combinations and strengths.
+<div class="section-content" markdown="1">
 
-Observe how colour grading changes:
+**Colour Grading** allows you to add different colours to the shadows, midtones, and highlights of a photograph.
 
-- Mood
-- Atmosphere
-- Colour contrast
-- Separation between light and dark areas
-- The viewer’s attention
+Use it when you want to:
 
-> Colour grading is an interpretive adjustment. It does not need to make the colours appear neutral or realistic. During this exploration, test how colour can change the meaning and atmosphere of the photograph.
+- Create a specific mood or atmosphere
+- Introduce warm or cool tones
+- Separate light and dark areas through colour
+- Create a more stylized or cinematic appearance
+- Develop a consistent colour treatment
+
+Explore:
+
+- **Shadows:** Adds colour to darker areas
+- **Midtones:** Adds colour to middle brightness values
+- **Highlights:** Adds colour to brighter areas
+- **Blending:** Controls how smoothly the colour ranges combine
+- **Balance:** Shifts the grading toward shadows or highlights
+
+> Colour grading is interpretive. It does not need to make the colours appear neutral or realistic. Test how colour changes the meaning and atmosphere of the photograph.
 
 <div class="video-wrapper">
   <iframe
@@ -293,24 +341,38 @@ Observe how colour grading changes:
   </iframe>
 </div>
 
-## 5. Explore the Before and After views
+</div>
+</details>
 
-Follow the tutorial and test the different Before and After views.
+---
 
-Use them throughout the exploration to compare:
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">5. Explore the Before and After views</span>
+    <span class="section-description">
+      Compare the original RAW interpretation with the current edit.
+    </span>
+  </summary>
 
-- The original RAW interpretation
-- Individual adjustments
-- The complete edited version
-- Subtle and extreme changes
+<div class="section-content" markdown="1">
 
-Ask:
+The **Before and After views** allow you to compare the original RAW interpretation with the edited version.
 
-- What changed?
-- Which adjustment created the clearest difference?
-- Which changes improved the photograph?
-- Which changes became distracting?
-- Does the edited version still retain important detail?
+Use them when you want to:
+
+- Confirm that the edit improves the photograph
+- Identify which adjustments created the clearest changes
+- Compare subtle and extreme edits
+- Check whether colour or contrast has become excessive
+- Confirm that highlight and shadow detail remain visible
+- Decide which adjustments to keep or remove
+
+Explore:
+
+- Side-by-side comparison
+- Split-view comparison
+- Switching between the original and edited versions
+- Comparing the photograph after each major adjustment
 
 <div class="video-wrapper">
   <iframe
@@ -322,24 +384,42 @@ Ask:
   </iframe>
 </div>
 
-## 6. Explore Crop, Straighten, Flip, and Rotate
+</div>
+</details>
 
-Follow the tutorial and test the composition controls.
+---
 
-Explore how you can:
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Explore Crop, Straighten, Flip, and Rotate</span>
+    <span class="section-description">
+      Refine the framing, orientation, and visual balance of the photograph.
+    </span>
+  </summary>
 
-- Change the crop
-- Adjust the aspect ratio
-- Straighten a horizon
-- Correct the orientation
-- Remove distractions near the frame edges
-- Reposition the main subject
-- Flip the photograph horizontally or vertically
-- Rotate the photograph
+<div class="section-content" markdown="1">
 
-Compare different crops before selecting one.
+The **Crop, Straighten, Flip, and Rotate tools** change the frame and orientation of the photograph without changing its colour or exposure.
 
-Observe how each crop changes:
+Use them when you want to:
+
+- Remove distracting elements near the frame edges
+- Strengthen the placement of the main subject
+- Correct a tilted horizon
+- Change the aspect ratio
+- Correct the photograph’s orientation
+- Test a different visual balance
+- Reframe the relationship between the subject and background
+
+Explore:
+
+- **Crop:** Removes areas from the edges of the frame
+- **Aspect Ratio:** Controls the proportions of the image
+- **Straighten:** Corrects tilted horizontal or vertical lines
+- **Rotate:** Turns the photograph clockwise or counter-clockwise
+- **Flip:** Reverses the photograph horizontally or vertically
+
+Compare different crops and observe how each one changes:
 
 - Subject placement
 - Visual balance
@@ -358,7 +438,20 @@ Observe how each crop changes:
   </iframe>
 </div>
 
-## Record your exploration
+</div>
+</details>
+
+---
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Record your exploration</span>
+    <span class="section-description">
+      Identify the controls and adjustments that produced the most useful or noticeable results.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
 
 After completing the tutorials, identify:
 
@@ -372,6 +465,9 @@ After completing the tutorials, identify:
 > After exploring the controls, return to the photograph and keep only the adjustments that support the exposure, colour, mood, and composition you want to develop.
 
 Do not click **Open** until you have completed the exploration and selected the adjustments you want to keep.
+
+</div>
+</details>
 
 </div>
 </details>
