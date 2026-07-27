@@ -714,7 +714,7 @@ Different light sources may make a photograph appear warmer, more orange, cooler
 
   <figure class="media-card">
     <img
-      src="imgs/WB-Examples-1.jpg
+      src="imgs/WB-Examples-1.jpg"
       alt="Animated example demonstrating the effect of increasing ISO"
     >
     <figcaption>
