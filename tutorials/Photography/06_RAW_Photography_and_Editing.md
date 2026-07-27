@@ -432,9 +432,9 @@ Before completing additional edits, save the photograph as a Photoshop file.
 
 ## Export a high-quality JPEG file
 
-Exporting a JPEG creates a separate copy of the edited photograph. It does not preserve Photoshop layers, so keep the `.PSD` file as the editable working version.
+Exporting a JPEG does not preserve Photoshop layers, so keep the `.PSD` file as the editable working version.  
 
-## Save the Photoshop file first
+JPEG is a widely supported format used for viewing, sharing, and printing. Other file formats, such as TIFF, may also be used for high-quality printing.  
 
 1. Select **File → Export → Export As**.
 2. Select **JPG** as the file format.
@@ -455,15 +455,11 @@ Exporting a JPEG creates a separate copy of the edited photograph. It does not p
 
 ## Reflection questions
 
-1. Which Adobe Camera Raw adjustment created the most significant improvement?
+1. Which Adobe Camera Raw adjustment changed your photograph most significantly, and what did you learn from using it?
 
-2. How did the white-balance correction change the photograph?
+2. How did your editing choices affect the exposure, colour, mood, or composition of the photograph?
 
-3. Which Photoshop tool was most useful for refining the image?
-
-4. What editing decision helped strengthen the composition?
-
-5. Which adjustment would you use more carefully in a future photograph?
+3. Which tool or adjustment would you use differently when editing another RAW photograph, and why?
 
 ---
 
