@@ -13,8 +13,6 @@ title: RAW Photography and Image Editing
 
 **Goal:** Work with  RAW photographs in Adobe Camera Raw, correct their exposure and colour, and use essential Photoshop tools for photographic editing.
 
-> RAW files contain more image information than JPEG files. They provide greater control over exposure, white balance, colour, highlights, and shadows before the photograph is opened in Photoshop.
-
 ## Final files
 
 ---
@@ -79,41 +77,65 @@ SECTION 2
   <summary>
     <span class="section-title">2. Open the photograph in Adobe Camera Raw</span>
     <span class="section-description">
-      Open the RAW file and identify the main controls used for colour and exposure correction.
+      Open the RAW file and review the main controls used for exposure and colour correction.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-1. Right-click the RAW file.
-2. Select **Open With → Adobe Photoshop**.
-3. The photograph will open in **Adobe Camera Raw** before entering Photoshop.
+## Open the RAW file
 
-Identify:
+Use either method below.
+
+### Method 1: Open from the file folder
+
+1. Right-click the `.CR2` file.
+2. Select **Open With → Adobe Photoshop**.
+3. The photograph will open automatically in **Adobe Camera Raw** before entering Photoshop.
+
+### Method 2: Open from Photoshop
+
+1. Open Adobe Photoshop.
+2. Select **File → Open**.
+3. Locate and select the RAW `.CR2` file.
+4. Click **Open**.
+5. The photograph will open in **Adobe Camera Raw**.
+
+> A RAW photograph opens in Adobe Camera Raw first so you can correct exposure, white balance, colour, and tonal detail before continuing into Photoshop.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/wq4Tz0kkg9o?si=9iW_NDmtPcYvHv0U"
+    title="Opening RAW files in Adobe Camera Raw"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Review the Adobe Camera Raw interface
+
+Watch the tutorial below and identify:
 
 - Image preview
 - Histogram
 - Edit panel
+- Exposure and colour controls
 - Zoom controls
 - Before-and-after view
 - **Open** button
 
-## Read the histogram
+> Do not click **Open** yet. Complete the RAW exposure and colour corrections in the following sections first.
 
-The histogram represents the brightness values in the photograph:
-
-- **Left:** shadows and dark tones
-- **Centre:** midtones
-- **Right:** highlights and bright tones
-
-Check for:
-
-- Shadows with no visible detail
-- Highlights with no visible detail
-- Brightness concentrated heavily on one side
-- Warning indicators for clipped shadows or highlights
-
-> A histogram does not need to be perfectly centred. Use it to support what you see in the photograph.
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/4UPtbBxoUM8?si=OLXP4wOi3WJXHOJL"
+    title="Adobe Camera Raw interface tour"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
 </details>
@@ -126,226 +148,219 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Correct exposure and tonal range</span>
+    <span class="section-title">3. Develop the photograph in Adobe Camera Raw</span>
     <span class="section-description">
-      Recover visible detail and establish a balanced tonal range before editing colour.
+      Follow the tutorials to correct exposure and colour, refine the tonal range, crop the photograph, and compare the edited image with the original.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-Begin in the **Basic** editing panel.
+Keep the selected RAW photograph open in **Adobe Camera Raw** while completing the tutorials below.
 
-Adjust the controls in this order:
+Work through the tutorials in order and apply the techniques directly to your photograph.
 
-### Exposure
+> You do not need to change every control. Use only the adjustments that improve the exposure, colour, and composition of your photograph. Avoid extreme corrections.
 
-Controls the overall brightness of the photograph.
+## 1. Basic adjustments
 
-Use it when the complete image appears too bright or too dark.
+Learn how to use:
 
-### Highlights
+- Temperature
+- Tint
+- Exposure
+- Contrast
+- Highlights
+- Shadows
+- Whites
+- Blacks
+- Texture
+- Clarity
+- Dehaze
+- Vibrance
+- Saturation
 
-Controls the brightest areas.
+Use these controls to establish the overall exposure, recover visible detail, correct colour casts, and refine the image.
 
-Reduce Highlights when bright areas have lost visible texture or detail.
-
-### Shadows
-
-Controls darker areas.
-
-Increase Shadows carefully when important details are difficult to see.
-
-### Whites
-
-Sets the brightest white point.
-
-Adjust it carefully to add brightness without removing important highlight detail.
-
-### Blacks
-
-Sets the darkest black point.
-
-Adjust it carefully to create depth without making large areas completely black.
-
-### Contrast
-
-Controls the difference between light and dark areas.
-
-Use moderate adjustments.
-
-## Tonal correction checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Exposure and tonal range</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The overall exposure is balanced.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Important highlight detail remains visible.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Important shadow detail remains visible.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The photograph contains clear light, midtone, and dark areas.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The contrast supports the subject and composition.</strong></span>
-  </label>
-</fieldset>
-
-> Avoid extreme adjustments. RAW editing should improve the photograph without making it appear unnatural or removing important detail.
-
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/szOF8qCy92I?si=ZWGrx6n9NPOsU_D5"
+    title="Adobe Camera Raw basic adjustments"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
-</details>
 
-<!--
-/////////////////
-SECTION 4
-/////////////////
--->
+## 2. Curves
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Correct white balance and colour</span>
-    <span class="section-description">
-      Neutralize unwanted colour casts and refine the photograph’s colour intensity.
-    </span>
-  </summary>
+Use the Curve panel to refine the relationship between:
 
-<div class="section-content" markdown="1">
+- Shadows
+- Dark tones
+- Midtones
+- Light tones
+- Highlights
 
-## Set the white balance
+Make small adjustments and avoid removing important highlight or shadow detail.
 
-Use one of these methods:
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/YzJiWYmqWdw?si=-bDWgTxfOWHhI_aH"
+    title="Adobe Camera Raw curve adjustment"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-### White Balance menu
+## 3. Colour Mixer
 
-Open the White Balance menu and compare:
+Use the Colour Mixer to adjust individual colour ranges.
 
-- As Shot
-- Auto
-- Daylight
-- Cloudy
-- Shade
-- Tungsten
-- Fluorescent
+You may refine the:
 
-### White Balance Selector
+- Hue
+- Saturation
+- Luminance
 
-1. Select the **White Balance Selector**.
-2. Click an area that should appear neutral grey or white.
-3. Check the result.
-4. Select a different area when the first result is inaccurate.
+Adjust only colours that are present in the photograph and support the main subject.
 
-### Temperature and Tint
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/xmj3IprM-nU?si=fKFpQePYHAIeh78g"
+    title="Adobe Camera Raw Colour Mixer adjustment"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Use:
+## 4. Colour Grading
 
-- **Temperature** to make the photograph warmer or cooler
-- **Tint** to shift the image between green and magenta
+Use Colour Grading to introduce controlled colour into the:
 
-Make small adjustments.
+- Shadows
+- Midtones
+- Highlights
 
-## Refine the colour
+Keep the effect subtle. The colour grading should support the photograph’s mood without creating distracting colour casts.
 
-### Vibrance
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/0b3DtnhsFVs?si=RDLi0IqNjRDu0cfq"
+    title="Adobe Camera Raw Colour Grading adjustment"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Increases the intensity of less-saturated colours while protecting colours that are already strong.
+## 5. Compare before and after
 
-Use Vibrance for most general colour adjustments.
+Use the Before and After views to compare the edited photograph with the original RAW interpretation.
 
-### Saturation
-
-Changes the intensity of all colours.
-
-Use it carefully. Excessive Saturation can remove detail and create unnatural colours.
-
-## Colour correction checklist
-
-<fieldset class="equipment-checklist">
-  <legend>White balance and colour</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>White and neutral areas appear believable.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The photograph does not contain an unwanted blue, orange, green, or magenta cast.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The colour supports the subject and intended mood.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Strong colours retain visible texture and detail.</strong></span>
-  </label>
-</fieldset>
-
-## Compare before and after
-
-Use the **Before/After** view to compare the original RAW interpretation with your correction.
-
-Check that the edited version improves:
+Check whether the edited version improves:
 
 - Exposure
 - Highlight detail
 - Shadow detail
 - White balance
 - Colour clarity
-- Visual attention toward the main subject
+- Contrast
+- Attention toward the main subject
 
-> The goal is not to make every photograph brighter or more colourful. The corrections should support the image’s subject, lighting, and composition.
-
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/BHZMPZAkEj8?si=i-lmknRoqyENpf74"
+    title="Adobe Camera Raw before and after views"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
-</details>
 
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
+> The edited version should improve the photograph without making it appear excessively bright, dark, saturated, or artificial.
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Open the photograph in Photoshop</span>
-    <span class="section-description">
-      Move from RAW development into Photoshop for cropping, cleanup, and finishing.
+## 6. Crop, straighten, flip, and rotate
+
+Use the Crop panel to refine the composition.
+
+You may:
+
+- Straighten a tilted horizon
+- Correct the orientation
+- Remove distracting elements near the frame edges
+- Improve the placement of the main subject
+- Maintain or refine the original aspect ratio
+
+Do not flip or rotate the photograph unless it is necessary for the composition.
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/cnXrSu2v63s?si=kQDedYS9u7tA4ubE"
+    title="Adobe Camera Raw crop, flip, and rotate tools"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Review the RAW development
+
+<fieldset class="equipment-checklist">
+  <legend>Adobe Camera Raw review</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Exposure corrected</strong>
+      Confirm that the photograph is not unnecessarily bright or dark.
     </span>
-  </summary>
+  </label>
 
-<div class="section-content" markdown="1">
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Highlight and shadow detail retained</strong>
+      Confirm that important bright and dark areas still contain visible detail.
+    </span>
+  </label>
 
-1. Complete the exposure and colour corrections in Adobe Camera Raw.
-2. Click **Open**.
-3. Wait for the photograph to open in Photoshop.
-4. Select **File → Save As**.
-5. Save the working file as:
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>White balance corrected</strong>
+      Confirm that unwanted blue, orange, green, or magenta colour casts have been addressed.
+    </span>
+  </label>
 
-```text
-Name-Lastname-Edited.psd
-```
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Colour refined</strong>
+      Confirm that the colours support the subject without appearing excessively saturated.
+    </span>
+  </label>
 
-6. Confirm that the format is **Photoshop (`.PSD`)**.
-7. Click **Save**.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Composition reviewed</strong>
+      Confirm that the crop and orientation support the photograph.
+    </span>
+  </label>
 
-> The PSD file preserves layers and allows you to continue editing. Save regularly using `Ctrl + S` on Windows or `Command + S` on macOS.
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Before and After compared</strong>
+      Confirm that the edited version improves the original RAW interpretation.
+    </span>
+  </label>
+</fieldset>
+
+> Do not click **Open** until you have completed and reviewed all Adobe Camera Raw corrections.
 
 </div>
 </details>
