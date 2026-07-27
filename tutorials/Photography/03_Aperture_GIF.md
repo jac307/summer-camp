@@ -769,6 +769,8 @@ SECTION 5
 
 ## Transfer all files
 
+> The camera will save recorded photographs twice: once as a `.JPEG` file and once as a RAW file (`.CR2`).
+
 1. Turn off the camera.
 2. Remove the SD card.
 3. Insert the SD card into a card reader.
@@ -797,7 +799,13 @@ Name-Lastname-Technical-Cards/
 
 Sort the files into the correct comparison and file-type folders.
 
-> Each photograph was recorded twice: once as a JPEG file and once as a RAW file. For today’s activity, use only the **JPEG files**. The RAW files will be reviewed tomorrow.
+Your final selection should contain:
+
+```text
+Aperture: 6 selected JPEG files
+ISO: 6 selected JPEG files
+White Balance: 6 selected JPEG files
+```
 
 ## Review the JPEG photographs
 
@@ -814,14 +822,6 @@ For each camera setting:
 7. Copy the selected JPEG into the corresponding Selected folder.
 
 > Copy the selected files rather than moving them. Keep all original JPEG and RAW files in their existing folders.
-
-Your final selection should contain:
-
-```text
-Aperture: 6 selected JPEG files
-ISO: 6 selected JPEG files
-White Balance: 6 selected JPEG files
-```
 
 > Do not delete the additional JPEG photographs or RAW files.
 

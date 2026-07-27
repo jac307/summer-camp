@@ -11,30 +11,11 @@ title: RAW Photography and Image Editing
 
 **Time:** 1-1.5 hours
 
-**Goal:** Develop one RAW photograph in Adobe Camera Raw, correct its exposure and colour, and use essential Photoshop tools for photographic editing.
-
-For this activity, select **one RAW photograph** from the Aperture, ISO, or White Balance comparison completed on Day 1.
-
-Choose a photograph with:
-
-- Sharp focus
-- A strong composition
-- Visible highlight and shadow detail
-- Colours that could be improved
-- No major camera or subject movement
+**Goal:** Work with  RAW photographs in Adobe Camera Raw, correct their exposure and colour, and use essential Photoshop tools for photographic editing.
 
 > RAW files contain more image information than JPEG files. They provide greater control over exposure, white balance, colour, highlights, and shadows before the photograph is opened in Photoshop.
 
 ## Final files
-
-Create:
-
-```text
-Name-Lastname-RAW-Editing/
-├── Name-Lastname-Original.CR2
-├── Name-Lastname-Edited.psd
-└── Name-Lastname-Edited.jpg
-```
 
 ---
 
@@ -54,9 +35,22 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
+## RAW files
+
+Canon cameras save RAW photographs using the `.CR2` file extension.
+
+A `.CR2` file:
+
+- Contains the camera’s original image data
+- Preserves more highlight, shadow, and colour information than a JPEG
+- Allows greater control over exposure and white balance
+- Must be developed in software such as Adobe Camera Raw before regular editing or sharing
+
+## Steps
+
 1. Open the RAW folders created during Day 1.
 2. Review the photographs from the Aperture, ISO, and White Balance comparisons.
-3. Select one photograph with strong focus and composition.
+3. **Select one photograph** with strong focus and composition.
 4. Create this folder:
 
 ```text
@@ -70,7 +64,7 @@ Name-Lastname-RAW-Editing/
 Name-Lastname-Original.CR2
 ```
 
-> Copy the file rather than moving it. Keep the original RAW photograph in the Day 1 folder as a backup.
+7. Follow the next step. 
 
 </div>
 </details>
