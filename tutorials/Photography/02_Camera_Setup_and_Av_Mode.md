@@ -715,20 +715,20 @@ Different light sources may make a photograph appear warmer, more orange, cooler
   <figure class="media-card">
     <img
       src="imgs/WB-Examples-1.jpg"
-      alt="Animated example demonstrating the effect of increasing ISO"
+      alt="Example demonstrating the effect of increasing WB"
     >
     <figcaption>
-      Increasing ISO changes how the camera responds to available light
+      Each White Balance Setting changes the temperature (colour) of the photo. 
     </figcaption>
   </figure>
 
   <figure class="media-card">
     <img
       src="imgs/WB-Examples-2.jpg"
-      alt="Animated example showing increased digital noise at higher ISO values"
+      alt="Example demonstrating the effect of increasing WB"
     >
     <figcaption>
-      Higher ISO can increase visible digital noise
+      Each White Balance Setting changes the temperature (colour) of the photo. 
     </figcaption>
   </figure>
 
