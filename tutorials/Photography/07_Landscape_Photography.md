@@ -9,25 +9,11 @@ title: Mini-Project 1: Landscape Photography
 
 # 🏞️ Mini-Project 1: Landscape Photography
 
-**Time:** 2–3 hours
+**Time:** 2–2.5 hours
 
 **Goal:** Create a coherent series of five photographs that communicates a sense of one specific place at McMaster University.
 
 Your series should move between wider views and closer observations so that the viewer can understand both the overall space and its specific character.
-
-## Final series
-
-Create a series of **five edited photographs** from one location at McMaster University.
-
-The series must include:
-
-1. One wide establishing photograph
-2. One medium view of the space
-3. One photograph showing depth, movement, or a path through the location
-4. One close-up photograph of a specific detail
-5. One additional photograph that contributes to the atmosphere or identity of the place
-
-> The five photographs should work together as a series. They should not appear as five unrelated images.
 
 ---
 <!--
