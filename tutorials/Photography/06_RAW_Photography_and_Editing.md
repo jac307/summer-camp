@@ -378,259 +378,140 @@ Do not click **Open** until you have completed the exploration and selected the 
 
 <!--
 /////////////////
-SECTION 6
+SECTION 4
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Use essential Photoshop tools for photography</span>
+    <span class="section-title">4. Continue editing in Photoshop</span>
     <span class="section-description">
-      Refine the composition, remove small distractions, and make non-destructive adjustments.
+      Open the developed RAW photograph in Photoshop, review the basic workspace, and save an editable PSD file.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Zoom and Hand tools
+## Finish the Adobe Camera Raw exploration
 
-Use:
+When you have finished exploring the Camera Raw controls:
 
-- **Zoom Tool (`Z`)** to inspect details
-- **Hand Tool (`H`)** to move around the magnified image
+1. Review the photograph using the **Before and After** view.
+2. Return any experimental adjustments that you do not want to keep to their neutral settings.
+3. Keep the adjustments that support the exposure, colour, mood, and composition of the photograph.
+4. Click **Open** or **Open Image** to continue into Photoshop.
 
-Check important areas at a larger scale before making corrections.
+> Clicking **Done** saves the Camera Raw adjustments and closes the window. It does not open the photograph in Photoshop. To continue editing in Photoshop, click **Open** or **Open Image**.
 
-## Crop and Straighten tools
+If you accidentally click **Done**:
 
-1. Select the **Crop Tool (`C`)**.
-2. Use the grid to evaluate the composition.
-3. Straighten tilted horizontal or vertical lines when necessary.
-4. Remove distracting elements near the frame edges.
-5. Keep the crop in a landscape `16:9` format unless instructed otherwise.
-6. Press **Enter/Return** to apply the crop.
+1. Reopen the `.CR2` file.
+2. Confirm that the Camera Raw adjustments are still visible.
+3. Click **Open** or **Open Image**.
 
-> Crop only when it improves the composition. Do not remove important visual information.
+## Review the Photoshop workspace
 
-## Spot Healing Brush
+Once the photograph opens in Photoshop, review the basic workspace.
 
-Use the **Spot Healing Brush Tool (`J`)** to remove small temporary distractions, such as:
+Identify:
 
-- Dust spots
-- Small marks
-- Minor unwanted objects
-- Sensor dust visible in flat areas
+- **Menu bar:** Access file, image, layer, selection, filter, and editing commands
+- **Tools panel:** Contains tools for selecting, cropping, painting, repairing, and adding text
+- **Document window:** Displays the photograph being edited
+- **Layers panel:** Organizes the photograph and any additional editing layers
+- **Properties panel:** Displays controls for the selected layer or adjustment
+- **History panel:** Displays recent actions and allows you to return to an earlier step
+- **Zoom controls:** Change the size of the photograph on the screen without changing the image itself
 
-Before editing:
+> Photoshop provides additional tools for detailed edits that are not completed during the RAW-development stage.
 
-1. Create a new empty layer.
-2. Rename it:
-
-```text
-Cleanup
-```
-
-3. Select the Spot Healing Brush.
-4. Enable **Sample All Layers** in the Options bar.
-5. Use a brush slightly larger than the unwanted mark.
-6. Click or paint briefly over the distraction.
-
-> Do not use the tool to substantially alter the scene or remove important people, objects, or contextual information.
-
-## Clone Stamp Tool
-
-Use the **Clone Stamp Tool (`S`)** when the Spot Healing Brush creates an inaccurate result.
-
-1. Continue working on the **Cleanup** layer.
-2. Enable **Sample: Current & Below** or **All Layers**.
-3. Hold `Alt` on Windows or `Option` on macOS.
-4. Click a clean source area near the distraction.
-5. Paint carefully over the unwanted area.
-6. Select new source points frequently to avoid visible repetition.
-
-## Adjustment layers
-
-Use Adjustment Layers instead of applying permanent changes directly to the photograph.
-
-Possible adjustments include:
-
-- Brightness/Contrast
-- Levels
-- Curves
-- Vibrance
-- Hue/Saturation
-
-To add one:
-
-1. Open the **Adjustments** panel.
-2. Select an adjustment.
-3. Make a small correction.
-4. Turn the layer visibility on and off to compare the result.
-5. Rename the layer according to its purpose.
-
-Examples:
-
-```text
-Final Contrast
-Colour Refinement
-Brightness Correction
-```
-
-> The RAW corrections should complete most of the exposure and colour work. Use Photoshop Adjustment Layers only for final refinements.
-
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/80434t3GTgA?si=o2OvZqY45mNFU4yT&amp;start=122"
+    title="Photoshop For Beginners: Easy Guide to Get Started!"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
-</details>
 
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
+## Review basic Photoshop navigation
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Review the finished photograph</span>
-    <span class="section-description">
-      Inspect the complete image and confirm that the corrections remain controlled and consistent.
-    </span>
-  </summary>
+Practise these controls:
 
-<div class="section-content" markdown="1">
+- Use the **Zoom Tool (`Z`)** to examine details.
+- Use the **Hand Tool (`H`)** to move around a magnified photograph.
+- Press `Ctrl + Z` on Windows or `Command + Z` on macOS to undo an action.
+- Use the **Layers** panel to confirm which layer is selected.
+- Use the eye icon beside a layer to hide or show it.
+- Select **Window** from the menu bar to reopen a panel that is not visible.
 
-Review the photograph at two scales.
+## Save the Photoshop working file
 
-## Fit on screen
+Before completing additional edits, save the photograph as a Photoshop file.
 
-Check:
-
-- Overall composition
-- Exposure
-- Colour balance
-- Visual hierarchy
-- Frame edges
-- Relationship between the subject and background
-
-## View at 100%
-
-Check:
-
-- Focus
-- Digital noise
-- Dust or small marks
-- Healing and cloning corrections
-- Repeated patterns
-- Visible editing edges
-- Fine detail
-
-## Final editing checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Final photograph review</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The main subject is sharp.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The exposure retains important highlight and shadow detail.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The white balance and colours appear intentional.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The crop strengthens the composition.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Cleanup corrections are not visibly distracting.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The photograph does not appear excessively bright, dark, saturated, or sharpened.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PSD file contains the editable layers.</strong></span>
-  </label>
-</fieldset>
-
-Save the PSD file again before exporting.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 8
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">8. Export the edited photograph</span>
-    <span class="section-description">
-      Save a high-quality JPEG while preserving the layered PSD working file.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-1. Select **File → Export → Export As**.
-2. Select **JPG**.
-3. Confirm that the colour space is **sRGB**.
-4. Use a high-quality setting.
-5. Keep the original image dimensions unless instructed otherwise.
-6. Export the file as:
-
-```text
-Name-Lastname-Edited.jpg
-```
-
-7. Save it in the same project folder as the RAW and PSD files.
-
-Your completed folder should contain:
+1. Select **File → Save As**.
+2. Open the folder:
 
 ```text
 Name-Lastname-RAW-Editing/
-├── Name-Lastname-Original.CR2
-├── Name-Lastname-Edited.psd
-└── Name-Lastname-Edited.jpg
 ```
 
-## Final submission check
+3. Name the file:
+
+```text
+Name-Lastname-Edited.psd
+```
+
+4. Select **Photoshop (`.PSD`)** as the file format.
+5. Confirm that **Layers** is enabled when the option appears.
+6. Click **Save**.
+7. Use `Ctrl + S` on Windows or `Command + S` on macOS regularly while working.
+
+> The `.PSD` format preserves Photoshop layers and allows you to return to the file for additional editing. Do not overwrite the original `.CR2` file.
+
+## Check the saved file
 
 <fieldset class="equipment-checklist">
-  <legend>RAW editing files</legend>
+  <legend>Photoshop file check</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>The original RAW file is included.</strong></span>
+    <span><strong>The photograph opened in Photoshop.</strong></span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>The layered PSD file opens correctly.</strong></span>
+    <span><strong>I reviewed the main Photoshop tools and panels.</strong></span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>The exported JPEG opens correctly.</strong></span>
+    <span><strong>The working file was saved as a `.PSD` file.</strong></span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>All files use the required naming format.</strong></span>
+    <span><strong>The original `.CR2` file remains unchanged.</strong></span>
   </label>
 </fieldset>
+
+## Additional exploration
+
+After completing and saving the required photograph, use any remaining time to explore Adobe Camera Raw with another photograph.
+
+Select an image with different:
+
+- Lighting conditions
+- Colours
+- Contrast
+- Subject matter
+- Highlight and shadow detail
+- White-balance challenges
+
+Compare how the same Camera Raw controls produce different results across photographs.
+
+> Additional photographs are for exploration. Complete and save the required photograph before beginning another edit.
 
 </div>
 </details>
