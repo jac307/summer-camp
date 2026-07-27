@@ -367,7 +367,7 @@ SECTION 3
 
 **Exposure compensation** changes the camera’s recommended exposure without leaving Aperture Priority mode.
 
-![Camera display showing an exposure histogram](imgs/ExposureCompensation.jpg){: .tutorial-image }
+![Exposure Compensantion Light Chart](imgs/ExposureCompensation.jpg){: .tutorial-image }
 
 - A negative value makes the photograph darker
 - A positive value makes the photograph brighter
@@ -457,6 +457,8 @@ SECTION 4
 White balance adjusts how the camera records the colour of the light illuminating a scene.
 
 Automatic and preset white-balance settings are general estimates. A **Custom White Balance** uses a photograph of a neutral reference to measure the light in the actual location.
+
+![Camera display showing an exposure histogram](imgs/WB-Examples-1.jpg){: .tutorial-image }
 
 Use Custom White Balance when:
 

@@ -710,6 +710,30 @@ SECTION 6
 
 Different light sources may make a photograph appear warmer, more orange, cooler, or more blue. White-balance presets help the camera compensate for these differences.
 
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/WB-Examples-1.jpg
+      alt="Animated example demonstrating the effect of increasing ISO"
+    >
+    <figcaption>
+      Increasing ISO changes how the camera responds to available light
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/WB-Examples-2.jpg"
+      alt="Animated example showing increased digital noise at higher ISO values"
+    >
+    <figcaption>
+      Higher ISO can increase visible digital noise
+    </figcaption>
+  </figure>
+
+</div>
+
 ## White-balance presets
 
 | Setting | When it is commonly used |
