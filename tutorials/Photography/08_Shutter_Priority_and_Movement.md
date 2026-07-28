@@ -329,7 +329,7 @@ The Shutter Speed GIF should demonstrate how movement changes from **frozen acti
 
   <figure class="media-card">
     <img
-      src="{{ '/tutorials/Photography/imgs/shutter-speed-example.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/shutter-speed-example-1.gif' | relative_url }}"
       class="tutorial-image"
       alt="Shutter-speed comparison showing the same movement photographed at progressively slower shutter speeds."
       loading="lazy"
