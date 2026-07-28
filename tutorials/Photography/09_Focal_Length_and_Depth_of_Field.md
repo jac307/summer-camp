@@ -359,6 +359,13 @@ Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md
     </span>
   </label>
 
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus: Manual Focus (`MF`)</strong>
+      Focus manually on the same point of the subject at each focal length. Recheck and adjust the focus after changing to <code>18 mm</code>, <code>50 mm</code>, or <code>85 mm</code>, because the focus may shift when the lens is zoomed.
+    </span>
+  </label>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -399,6 +406,14 @@ Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md
       Use the tripod for both comparisons and lock it securely at every camera position.
     </span>
   </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image Stabilization (`IS`): Off</strong>
+      Turn Image Stabilization off while the camera is mounted on the tripod. Turn it on again only after completing the activity and returning to handheld photography.
+    </span>
+  </label>
 </fieldset>
 
 ## Confirm the exposure
@@ -415,24 +430,6 @@ Before the next step:
 8. Once the final aperture, shutter speed, and ISO are selected, keep them unchanged for all six final photographs.
 
 > When outdoor light changes significantly, stop the activity. Re-establish one fixed exposure and restart both comparisons so the six photographs remain technically consistent.
-
-## Focus procedure
-
-The Canon 18–135 mm lens may require refocusing after changing the focal length or moving the camera.
-
-For every new setup:
-
-1. Set the lens to `AF`.
-2. Focus on the same point on the main subject.
-3. Magnify the photograph or Live View image to confirm sharpness.
-4. Switch the lens to `MF`.
-5. Take the photographs without touching the focus ring.
-6. Return to `AF` before changing focal length or moving the camera again.
-
-## Image Stabilization
-
-- Turn Image Stabilization **off** while the camera is locked on the tripod.
-- Turn it **on** only after the activity when returning to handheld photography.
 
 </div>
 </details>
@@ -487,12 +484,9 @@ This comparison demonstrates how focal length changes the **field of view** whil
 
 ### Prepare the fixed position
 
-1. Place the camera on the tripod.
-2. Frame the scene at `18 mm`.
+1. Confirm fix placement and exposure settings (Aperture, ISO, and shutter speed)
+2. Frame the scene at `85 mm` and set the composition and the focus. 
 3. Confirm that the main subject and background are visible.
-4. Mark or record the tripod position.
-5. Lock the tripod.
-6. Do not move the tripod during this comparison.
 
 ### Photograph the three focal lengths
 
@@ -502,31 +496,19 @@ Photograph from the same camera position using:
 2. `50 mm`
 3. `135 mm`
 
-At each focal length:
+### Photographing and backup procedure
+
+At each shutter speed:
 
 1. Set the required focal length.
-2. Refocus on the same point on the subject.
-3. Switch the lens from `AF` to `MF`.
-4. Confirm the exposure and histogram.
-5. Take the first photograph.
-6. Review focus, framing, and exposure.
-7. Take a second photograph as a backup.
-8. Take a third photograph only when one of the first two has a visible problem.
+2. **Take the first photograph.**
+3. Review the photograph on the camera.
+4. Magnify the main subject to check focus.
+5. Check for camera movement, subject movement, or unexpected blur.
+6. **Take a second photograph** using the same settings as a backup.
+7. Take a third photograph only when one of the first two has a visible problem.
 
-Keep unchanged:
-
-- Camera position
-- Tripod height
-- Camera angle
-- Subject position
-- Background
-- Aperture
-- Shutter speed
-- ISO
-- White balance
-- Lighting
-
-> Do not reframe by moving the camera. The subject will appear larger as the focal length increases because the field of view becomes narrower.
+You will select the strongest photograph from each pair when creating the GIF.
 
 ## Comparison B: Similar subject framing from different distances
 
@@ -536,9 +518,12 @@ The subject should appear approximately the same size in all three photographs. 
 
 ### Photograph the three focal length and distance combinations
 
+> Do not move the subject to create the framing. Move the camera and tripod.
+
 #### Photograph 1: `18 mm` from a close position
 
-1. Set the focal length to `18 mm`.
+1. Confirm exposure settings (Aperture, ISO, and shutter speed)
+2. Set the focal length to `18 mm`.
 2. Move the tripod closer to the subject.
 3. Frame the subject at the planned size.
 4. Lock the tripod.
@@ -562,45 +547,6 @@ The subject should appear approximately the same size in all three photographs. 
 4. Lock the tripod.
 5. Refocus on the same point.
 6. Take two photographs.
-
-Keep unchanged:
-
-- Subject position
-- Background
-- Tripod height
-- Camera angle
-- Aperture
-- Shutter speed
-- ISO
-- White balance
-- Lighting
-
-Change only:
-
-- Focal length
-- Camera distance
-- Focus after each camera movement or focal-length change
-
-> Do not move the subject to create the framing. Move the camera and tripod.
-
-## Observe the differences
-
-After completing both comparisons, review the photographs on the camera.
-
-For Comparison A, observe:
-
-- The changing field of view
-- The changing size of the subject within the frame
-- The amount of environment included or excluded
-- The unchanged perspective from the fixed camera position
-
-For Comparison B, observe:
-
-- The changing relationship between subject and background
-- The apparent size of background objects
-- The amount of visible background
-- Changes in foreground-to-background distance
-- Changes in depth of field
 
 ## Record the settings
 
