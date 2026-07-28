@@ -33,6 +33,40 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
+### Quick Aperture, Shutter Speed, and ISO reference
+
+![Quick Exposure Reference](imgs/QuickExposureReference.jpg)
+
+- **Aperture:** Controls how much light enters the camera and the depth of field.
+- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
+- **ISO:** Controls image brightness; higher values produce more digital noise.
+
+### Shutter Speed
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/shutter-speed-graph.webp"
+      alt="Shutter Speed scale showing slower and faster lens openings at different values"
+    >
+    <figcaption>
+      Aperture scale and f-stop values
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/shutter-speed-example.gif"
+      alt="Animated example showing how shutter speed affects motion and light"
+    >
+    <figcaption>
+      Aperture and depth of field
+    </figcaption>
+  </figure>
+
+</div>
+
 **Shutter speed** controls how long the camera sensor is exposed to light.
 
 - A **fast shutter speed** records a brief moment and can freeze movement.
