@@ -82,3 +82,43 @@
   object-fit: cover;
   object-position: center;
 }
+
+/* =========================================================
+   Two-column photography examples
+   ========================================================= */
+
+.tutorial-content .photography-example-row__images {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: start;
+  width: 100%;
+}
+
+/* Keep the photographs at 16:9 */
+.tutorial-content
+  .photography-example-row__images
+  .photo-reveal-card__image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.tutorial-content
+  .photography-example-row__images
+  .photo-reveal-card__image
+  img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* One column only on small screens */
+@media (max-width: 600px) {
+  .tutorial-content .photography-example-row__images {
+    grid-template-columns: 1fr;
+  }
+}

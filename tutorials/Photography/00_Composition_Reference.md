@@ -37,7 +37,7 @@ Each row shows one shot size using a human subject and an object.
 
 **Select each photograph to read its description.**
 
-<div class="photography-examples photography-examples--sixteen-nine">
+<div class="photography-examples photography-examples--sixteen-nine media-grid--three">
 
   <!-- Long shot -->
   <section class="photography-example-row">
