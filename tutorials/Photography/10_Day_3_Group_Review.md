@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photography Foundations
+title: Shutter Speed and Focal Length Technical Cards Review
 ---
 
 [Photography Tutorials](README.md)
@@ -11,14 +11,14 @@ title: Photography Foundations
 
 **Time:** 45–60 minutes
 
-**Goal:** Prepare your work, share your three technical GIFs, listen to the presentations of others, participate in the discussion, and complete a short reflection.
+**Goal:** Prepare and present your Shutter Speed and Focal Length and Distance technical cards, listen to the presentations of others, participate in the discussion, and complete a short reflection.
 
 Use the **Technical Cards Exhibition Handout** throughout this activity.
 
 Complete this activity after:
 
-- 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
-- ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md)
+- 📸 [Manual Mode and Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md){:target="_blank" rel="noopener noreferrer"}
+- 🔭 [Focal Length, Camera Distance, Perspective, and Depth of Field](12_Focal_Length_and_Depth_of_Field.md){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -32,7 +32,7 @@ SECTION 1
   <summary>
     <span class="section-title">1. Prepare for the exhibition</span>
     <span class="section-description">
-      Check your three GIFs and use the handout to prepare what you will share.
+      Check both technical cards and use the handout to prepare what you will explain during the presentation.
     </span>
   </summary>
 
@@ -41,10 +41,9 @@ SECTION 1
 Bring these completed files:
 
 ```text
-Name-Lastname-Day-1-Review/
-├── Name-Lastname-Aperture.gif
-├── Name-Lastname-ISO.gif
-└── Name-Lastname-WhiteBalance.gif
+Name-Lastname-Technical-Cards-Review/
+├── Name-Lastname-Shutter-Speed-Card.gif
+└── Name-Lastname-Focal-Length-Distance-Card.jpg
 ```
 
 Each participant will have approximately **3-4 minutes**.
@@ -52,14 +51,13 @@ Each participant will have approximately **3-4 minutes**.
 Present the GIFs in this order:
 
 ```text
-1. Aperture GIF
-2. ISO GIF
-3. White Balance GIF
+1. Shutter Speed GIF
+2. Focal Length and Distance Technical Card
 ```
 
 For each GIF, briefly explain:
 
-- What setting changed
+- What changed
 - What remained unchanged
 - What visual change you observed
 
@@ -93,18 +91,31 @@ SECTION 2
 During the exhibition:
 
 1. Listen while each participant presents.
-2. Observe the technical and compositional changes in all cards/gifs.
+2. Observe the technical and compositional changes in both cards/gifs.
 3. Complete the audience section of the handout.
 4. Record at least one specific observation from another participant’s work.
 5. Contribute at least one question or comment during the discussion.
 
+## Observe the Shutter Speed GIFs
+
+Look for:
+
+- A stationary camera position
+- Consistent framing and focus
+- A repeated subject movement
+- A clear progression from frozen movement to motion blur
+- Accurate shutter-speed labels
+- Changes in brightness caused by the slower shutter speeds
+- A readable and consistently positioned text label
+
 Useful comments include:
 
-- “The change in background sharpness is clearest between these two apertures.”
-- “Digital noise becomes more visible in the shadowed area.”
-- “The Tungsten setting creates the strongest blue colour cast.”
-- “The framing remains consistent throughout the GIF.”
-- “The shallow depth of field helps separate the subject from the background.”
+- “The movement begins to blur clearly at `1/60`.”
+- “The camera framing remains consistent throughout the GIF.”
+- “The background makes the subject’s movement easy to see.”
+- “The difference between `1/500` and `1/30` is especially clear.”
+- “The slower shutter speeds also produce a visible change in brightness.”
+- “The repeated movement is consistent enough to compare the settings accurately.”
 
 Avoid vague comments such as:
 
@@ -125,27 +136,27 @@ SECTION 3
   <summary>
     <span class="section-title">3. Reflection</span>
     <span class="section-description">
-      Share what you learned from Day 1.
+      Share what you learned from Day 3.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-## Day 1 reflection questions
+## Day 3 reflection questions
 
-1. Which camera setting do you understand more clearly after today’s activities?
+1. What changed when you photographed `18 mm`, `50 mm`, and `135 mm` from the same camera position?
 
-2. What was the most noticeable difference in your Aperture, ISO, or White Balance GIF?
+2. What changed when you moved the camera to maintain similar subject framing?
 
-3. Which technical result surprised you, and why?
+3. How did camera distance affect the apparent relationship between the subject and background?
 
-4. What compositional choice worked well in your photographs?
+4. Which focal length and camera position created the strongest sense of depth or subject separation?
 
-5. What problem did you encounter, and how did you respond?
+5. Which compositional decision worked best across the two activities?
 
 6. What did you notice in another participant’s work that you may apply to your own photography?
 
-7. What would you change if you repeated one of the technical comparisons?
+7. What would you change if you repeated one of these technical comparisons?
 
 8. What will you pay closer attention to during the next photography activity?
 

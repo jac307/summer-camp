@@ -33,7 +33,7 @@ SECTION 1
 
 ## Why use Manual mode?
 
-![Quick reference showing the relationship between aperture, shutter speed, ISO.](imgs/QuickExposureReference.jpg)
+![Quick reference showing the relationship between aperture, shutter speed, ISO.](imgs/QuickExposureReference.jpg){: .tutorial-image }
 
 **Manual mode (`M`)** gives you direct control over the three main exposure settings:
 
@@ -760,6 +760,12 @@ After completing the Shutter Speed GIF and transferring all files, return the ca
       </span>
 </label>
 </fieldset>
+
+---
+
+## What is next?
+
+Continue with 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
 
 </div>
 </details>

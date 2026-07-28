@@ -32,7 +32,7 @@ Photography combines technical camera control with observation, composition, and
 
 * 📸 [Manual Mode and Shutter Speed + ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
 * 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
-* 🗣️ [Technical Cards Exhibition and Group Review](10_Shutter_Speed_and_Focal_Length_Group_Review.md)
+* 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md)
 
 ### Day 4
 
