@@ -233,6 +233,14 @@ References:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Manual Focus (`MF`)</strong>
+      Always use Manual Focus, re-focus on each photograph. 
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Image stabilization</strong>
       Turn it on when photographing handheld and off when using a tripod.
     </span>

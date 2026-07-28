@@ -89,6 +89,14 @@ SECTION 1
   <label class="checklist-item">
     <input type="checkbox">
     <span>
+      <strong>Manual Focus (`MF`)</strong>
+      Always use Manual Focus, re-focus on each photograph. 
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
       <strong>Flash: Off</strong>
       Use the existing light illuminating the scene.
     </span>
