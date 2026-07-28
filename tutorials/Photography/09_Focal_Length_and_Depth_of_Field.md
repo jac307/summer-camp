@@ -645,46 +645,6 @@ B2-Similar-Framing-50mm.jpg
 B3-Similar-Framing-135mm.jpg
 ```
 
-## Confirm the file organization
-
-<fieldset class="equipment-checklist">
-  <legend>File transfer and selection check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All camera files copied</strong>
-      Confirm that every RAW and JPEG file was transferred from the SD card.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>RAW and JPEG files separated</strong>
-      Confirm that the files are stored in the correct folders.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Six JPEG photographs selected</strong>
-      Confirm that the Selected folder contains three photographs from each comparison.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Selected files renamed</strong>
-      Confirm that every filename identifies the comparison and focal length.
-    </span>
-  </label>
-</fieldset>
-
-> Do not erase or format the SD card until the instructor confirms that the transfer and backup are complete.
-
 </div>
 </details>
 
@@ -715,8 +675,8 @@ Complete these steps separately for each GIF: **Comparison A and Comparison B**.
    - Select **Open With → Adobe Photoshop**.
 2. Select the **Type Tool (`T`)**.
 3. Add the setting shown in the photograph:
-   - Comparison A: `Same distance - 18mm`, `Same distance - 50mm`, `Same distance - 135mm`, etc.
-   - Comparison B: `Different distance - 18mm`, `Different distance - 50mm`, `Different distance - 135mm`, etc.
+   - Comparison A: `Same distance - 18mm`, `Same distance - 50mm`, etc.
+   - Comparison B: `Different distance - 18mm`, `Different distance - 50mm`, etc.
 4. Use a simple, readable sans-serif font.
 5. Keep the font, size, alignment, and colour consistent across all six photographs.
 6. Position the label in the same place on every photograph.
@@ -844,7 +804,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">76. Return the camera to the base settings</span>
+    <span class="section-title">7. Return the camera to the base settings</span>
     <span class="section-description">
       Reset the camera after the focal-length comparison so it is ready for the next photography activity.
     </span>
@@ -914,8 +874,8 @@ After transferring all files, return the camera to these base settings.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focus: Autofocus (`AF`)</strong>
-      Return the lens switch to <code>AF</code>.
+      <strong>Focus: Manual Focus (`MF`)</strong>
+      Return the lens switch to <code>MF</code>.
     </span>
   </label>
 

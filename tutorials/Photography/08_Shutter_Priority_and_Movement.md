@@ -238,8 +238,8 @@ SECTION 2
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focus: Autofocus, then Manual Focus</strong>
-      Focus on the area where the movement will occur, confirm sharpness, and then switch the lens from <code>AF</code> to <code>MF</code>. Do not touch the focus ring again.
+      <strong>Focus: Manual Focus (`MF`)</strong>
+      Always use Manual Focus. 
     </span>
   </label>
 
@@ -482,7 +482,7 @@ Rename the six selected files in order:
 06-30.jpg
 ```
 
-I the location allowed: 
+If the location allowed: 
 
 ```text
 07-15.jpg
@@ -707,8 +707,8 @@ After completing the Shutter Speed GIF and transferring all files, return the ca
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focus: Autofocus (`AF`)</strong>
-      Return the lens switch to <code>AF</code> so the camera is ready to focus for the next composition.
+      <strong>Focus: Manual Focus (`MF`)</strong>
+      Return the lens switch to <code>MF</code>.
     </span>
   </label>
 
