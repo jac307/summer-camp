@@ -430,7 +430,7 @@ Apply similar settings to the remaining photographs, then refine each image indi
 
 > Consistency does not mean every slider must have the exact same value. The photographs may require small individual corrections because the light and framing changed. The final results should have a related colour, brightness, contrast, and mood.
 
-## Photoshop: Maintain consistency
+## 2. Photoshop: Maintain consistency
 
 ### Save the Photoshop Files
 
@@ -475,7 +475,7 @@ Across the complete series, maintain:
 
 > The individual photographs may require slightly different corrections, but the final series should feel visually unified.
 
-## Compare the photographs together
+## 3. Compare the photographs together
 
 Before exporting:
 
@@ -494,7 +494,7 @@ Ask:
 - Does the sequence move clearly through the location?
 - Do the close-up photographs still feel connected to the wider views?
 
-### Export High-Quality JPEG Files
+## 4. Export High-Quality JPEG Files
 
 After finishing changes, export a high-quality JPEG copy of each photograph.
 
