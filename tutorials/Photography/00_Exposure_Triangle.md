@@ -11,8 +11,6 @@ title: Exposure Triangle Reference Guide
 
 **Purpose:** Use this guide to understand how aperture, shutter speed, and ISO work together in Manual mode (`M`) and how each control changes both exposure and the visual appearance of a photograph.
 
-![Quick reference showing the relationship between aperture, shutter speed, ISO, exposure, depth of field, motion blur, and digital noise.](imgs/QuickExposureReference.jpg){: .tutorial-image }
-
 > Exposure is not only about making an image lighter or darker. Each setting also changes how the photograph represents depth, movement, detail, and image quality.
 
 ## Related guides and activities
@@ -22,12 +20,6 @@ title: Exposure Triangle Reference Guide
 - 📸 [Manual Mode and Shutter Speed](08_Shutter_Priority_and_Movement.md)
 
 ---
-
-<!--
-/////////////////
-SECTION 1
-/////////////////
--->
 
 ## The three exposure controls
 
@@ -59,51 +51,58 @@ SECTION 1
 
 </div>
 
-The exposure triangle includes:
-
-- **Aperture:** Controls the size of the lens opening, the amount of light entering through the lens, and depth of field.
-- **Shutter speed:** Controls how long the sensor records light and how movement appears.
-- **ISO:** Controls how strongly the camera amplifies the captured image signal. Higher ISO values can brighten the recorded image but may increase digital noise.
-
-## What each control changes
-
-| Setting | Exposure effect | Main visual effect |
-|---|---|---|
-| **Aperture** | Wider openings allow more light; narrower openings allow less light | Depth of field |
-| **Shutter speed** | Slower speeds record light for longer; faster speeds record light for less time | Frozen movement or motion blur |
-| **ISO** | Higher values amplify the image signal more strongly | Digital noise and image quality |
-
-## Manual mode
-
-In **Manual mode (`M`)**, the camera does not automatically correct the exposure by changing aperture or shutter speed.
-
-You decide:
-
-- How movement should appear
-- How much of the scene should remain sharp
-- How much signal amplification is acceptable
-- Whether the highlights and shadows contain the information required by the composition
-
-Use the exposure meter as a starting estimate and the histogram to evaluate the recorded photograph.
+| Setting | What it controls | Exposure effect | Main visual effect |
+|---|---|---|---|
+| **Aperture** | Size of the lens opening | Wider openings allow more light; narrower openings allow less light | Depth of field |
+| **Shutter speed** | How long the sensor records light | Slower speeds record more light; faster speeds record less light | Frozen movement or motion blur |
+| **ISO** | Strength of image-signal amplification | Higher values brighten the recorded image | Digital noise and image quality |
 
 ---
 
-## How aperture works
+## Camera Modes: Av and M
 
-Aperture is written as an **f-number**:
+In **Aperture Priority (`Av`)**, you select the aperture and ISO. The camera selects the shutter speed.
 
-```text
-f/2.8
-f/4
-f/5.6
-f/8
-f/11
-f/16
-f/22
-```
+In **Manual mode (`M`)**, you select:
 
-- A **lower f-number** represents a wider lens opening.
-- A **higher f-number** represents a narrower lens opening.
+- Aperture
+- Shutter speed
+- ISO
+
+In both cases, review the histogram to check brightness and confirm that important highlight and shadow detail is preserved.
+
+---
+
+## Histogram
+
+![Camera display showing an exposure histogram](imgs/ExposureHistogram.png){: .tutorial-image }
+
+The histogram shows how brightness values are distributed:
+
+- **Left:** Shadows and darker values
+- **Centre:** Midtones
+- **Right:** Highlights and brighter values
+
+The histogram does not need to be centred. Its shape depends on the subject, lighting, background, and intended brightness of the photograph.
+
+Use it to identify:
+
+- A strong pile-up against the left edge that may indicate blocked shadows
+- A strong pile-up against the right edge that may indicate clipped highlights
+- Whether important tonal information is retained
+- How exposure changes when aperture, shutter speed, or ISO changes
+
+</div>
+</details>
+
+---
+
+## Aperture
+
+| F-number | Lens opening | Exposure effect |
+|---|---|---|
+| **Lower f-number** | Wider opening | Allows more light to enter the camera |
+| **Higher f-number** | Narrower opening | Allows less light to enter the camera |
 
 <div class="media-grid media-grid--two">
 
@@ -133,12 +132,23 @@ f/22
 
 </div>
 
-## Aperture and exposure
+## Camera display notation
 
-- A wider aperture allows more light to enter the camera.
-- A narrower aperture allows less light to enter the camera.
+Aperture values are written with `f/`, but the camera may display the value as a number alone or with an `F`.
 
-## Aperture and depth of field
+| Written value | Camera display | Lens opening |
+|---|---:|---|
+| `f/3.5` | `3.5` or `F3.5` | Very wide |
+| `f/4` | `4.0` or `F4.0` | Wide |
+| `f/5.6` | `5.6` or `F5.6` | Moderately wide |
+| `f/8` | `8.0` or `F8.0` | Medium |
+| `f/11` | `11` or `F11` | Narrow |
+| `f/16` | `16` or `F16` | Very narrow |
+| `f/22` | `22` or `F22` | Smallest commonly used opening |
+
+> The lowest available f-number depends on the lens and selected focal length.
+
+### Aperture and depth of field
 
 **Depth of field** is the area in front of and behind the focus point that appears acceptably sharp.
 
@@ -154,7 +164,7 @@ Depth of field also depends on:
 
 > Aperture does not work alone. A wide-angle photograph can still have shallow depth of field when the camera is close to the focus point and the background is far away.
 
-## Quick aperture decisions
+### Quick aperture decisions
 
 | Visual goal | Aperture direction |
 |---|---|
@@ -163,24 +173,18 @@ Depth of field also depends on:
 | Record in lower light without changing shutter speed or ISO | Open the aperture |
 | Reduce the amount of light entering through the lens | Close the aperture |
 
-## Variable-aperture lens reminder
-
-The Canon 18–135 mm lens does not provide the same widest aperture at every focal length.
-
-- At wider focal lengths, a lower f-number may be available.
-- As the lens zooms toward `135 mm`, the lowest available f-number becomes higher.
-- At approximately `50 mm`, the widest aperture is usually close to `f/5`.
-
-Use the lowest value permitted by the camera rather than forcing a value that the lens cannot provide.
-
 </div>
 </details>
 
 ---
 
-## How shutter speed works
+## Shutter Speed
 
-Shutter speed describes how long the camera sensor records light.
+| Shutter speed | Recording time | Exposure effect | Movement effect |
+|---|---|---|---|
+| **Fast shutter speed**<br>`1/1000` to `1/250` | Short interval | Allows less light to reach the sensor | Freezes movement |
+| **Moderate shutter speed**<br>`1/125` to `1/60` | Medium interval | Allows a moderate amount of light to reach the sensor | May freeze or slightly blur movement |
+| **Slow shutter speed**<br>`1/30` to `1/8` | Long interval | Allows more light to reach the sensor | Produces motion blur |
 
 <div class="media-grid media-grid--two">
 
@@ -210,23 +214,7 @@ Shutter speed describes how long the camera sensor records light.
 
 </div>
 
-Common shutter speeds include:
-
-```text
-1/1000
-1/500
-1/250
-1/125
-1/60
-1/30
-1/15
-1/8
-```
-
-- A **fast shutter speed** records a short moment, allows less light to reach the sensor, and can freeze movement.
-- A **slow shutter speed** records a longer interval, allows more light to reach the sensor, and can produce motion blur.
-
-## Camera display notation
+### Camera display notation
 
 Fractional shutter speeds usually appear on the camera without `1/`.
 
@@ -241,13 +229,7 @@ Fractional shutter speeds usually appear on the camera without `1/`.
 | `1/15` | `15` | One-fifteenth of a second |
 | `1/8` | `8` | One-eighth of a second |
 
-A quotation mark identifies whole seconds:
-
-- `5` means `1/5` second.
-- `5"` means `5` seconds.
-- `0"5` means `0.5` seconds, equivalent to `1/2` second.
-
-## Subject movement and camera movement
+### Subject movement and camera movement
 
 Motion blur may come from:
 
@@ -273,20 +255,15 @@ When testing subject movement:
 
 ---
 
-## How ISO works
+## ISO
 
-ISO controls how strongly the camera amplifies the captured image signal.
+| ISO range | Signal amplification | Image quality |
+|---|---|---|
+| **Low ISO**<br>`100–400` | Low | Cleaner image with less visible noise |
+| **Medium ISO**<br>`800` | Moderate | Some noise may become visible |
+| **High ISO**<br>`1600–3200` | Strong | More visible noise, especially in shadows |
 
-Common values include:
-
-```text
-ISO 100
-ISO 200
-ISO 400
-ISO 800
-ISO 1600
-ISO 3200
-```
+> ISO brightens the recorded image through signal amplification; it does not increase the amount of light entering the camera.
 
 <div class="media-grid media-grid--two">
 
@@ -316,13 +293,6 @@ ISO 3200
 
 </div>
 
-## ISO and image quality
-
-- Lower ISO values generally produce cleaner files with less visible digital noise.
-- Higher ISO values can make noise more visible, especially in shadows and flat areas.
-- Higher ISO does not increase the amount of light entering the camera.
-- ISO should support the required aperture and shutter speed rather than replace intentional lighting and exposure decisions.
-
 ## Quick ISO decisions
 
 | Situation | ISO approach |
@@ -340,61 +310,14 @@ ISO 3200
 
 ---
 
-## Metering
+## Metering and Exposure Bracketing
 
-Metering is the camera system that measures the brightness of the scene and estimates an exposure.
+| Control | Purpose | Use |
+|---|---|---|
+| **Metering** | Measures scene brightness and estimates an exposure | Begin with **Evaluative Metering** and confirm the result using the image preview and histogram |
+| **Exposure Bracketing (`EB`)** | Records multiple photographs at different exposure levels | Keep **off** unless the activity specifically requires an exposure comparison |
 
-Use **Evaluative Metering** as a starting point.
-
-The meter may be influenced by:
-
-- Bright skies
-- Pale concrete
-- Reflective surfaces
-- Large shadowed areas
-- Dark backgrounds
-- Strong backlighting
-
-The meter is an estimate rather than an automatic answer. Compare it with the visible image and histogram.
-
----
-
-## Histogram
-
-![Camera display showing an exposure histogram](imgs/ExposureHistogram.png){: .tutorial-image }
-
-The histogram shows how brightness values are distributed:
-
-- **Left:** Shadows and darker values
-- **Centre:** Midtones
-- **Right:** Highlights and brighter values
-
-The histogram does not need to be centred. Its shape depends on the subject, lighting, background, and intended brightness of the photograph.
-
-Use it to identify:
-
-- A strong pile-up against the left edge that may indicate blocked shadows
-- A strong pile-up against the right edge that may indicate clipped highlights
-- Whether important tonal information is retained
-- How exposure changes when aperture, shutter speed, or ISO changes
-
-## Histogram workflow in Manual mode
-
-After taking a test photograph:
-
-1. Review the visible image.
-2. Display the histogram.
-3. Identify important highlights and shadows.
-4. Check whether the graph is pressed against either edge.
-5. Decide which visual control can change:
-   - Aperture, when depth of field can change
-   - Shutter speed, when movement rendering can change
-   - ISO, when aperture and shutter speed must remain fixed
-6. Take another test photograph.
-7. Recheck the histogram before beginning the final sequence or project.
-
-</div>
-</details>
+> Bright skies, reflective surfaces, dark backgrounds, large shadows, and strong backlighting can affect the meter. Treat it as a starting estimate rather than an automatic answer.
 
 ---
 
