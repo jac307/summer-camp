@@ -1067,8 +1067,8 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
 5. Save using the required filename.
 
 ```text
-Aperture-Card.gif
-ISO-Card.gif
+Name_Aperture-Card.gif
+Name_ISO-Card.gif
 White-Balance-Card.gif
 ```
 

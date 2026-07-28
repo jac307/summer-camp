@@ -617,9 +617,138 @@ SECTION 6
 1. Select **File → Export → Save for Web (Legacy)**.
 2. Select **GIF**.
 3. Confirm that looping is set to **Forever**.
-5. Save as `Shutter-Speed-Card.gif`
+5. Save as `Name_Shutter-Speed-Card.gif`
 
 Open the exported GIF in a web browser and watch it from beginning to end.
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 7
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">7. Return the camera to the base settings</span>
+    <span class="section-description">
+      Reset the camera after the shutter-speed comparison so it is ready for the next photography activities.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+After completing the Shutter Speed GIF and transferring all files, return the camera to the following base settings.
+
+<fieldset class="equipment-checklist">
+  <legend>Base settings for the next activities</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shooting mode: <code>M</code></strong>
+      Continue using Manual mode so aperture, shutter speed, and ISO can be controlled directly.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image quality: RAW + Large/Fine JPEG</strong>
+      Preserve the RAW files for editing and use the JPEG files for reviewing and organizing photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aperture: <code>f/8</code></strong>
+      Use this as a starting point. Adjust it during the next activity when a different depth of field is required.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Shutter speed: <code>1/125</code></strong>
+      On the camera display, select <code>125</code>. Adjust it during the next activity according to the movement and available light.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>ISO: <code>400</code></strong>
+      Use this as the starting ISO and adjust it when the lighting conditions require a different setting.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>White Balance: Daylight</strong>
+      Begin with Daylight and select another fixed preset when the lighting conditions require it.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus: Autofocus (`AF`)</strong>
+      Return the lens switch to <code>AF</code> so the camera is ready to focus for the next composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image Stabilization: On</strong>
+      Turn stabilization on for handheld photography. Turn it off again when the camera is mounted on a tripod.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Metering: Evaluative</strong>
+      Use the histogram after each photograph to evaluate the exposure.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aspect ratio: <code>16:9</code></strong>
+      Keep the widescreen format for the next activities unless another format is specified.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Grid: Grid 1</strong>
+      Use the grid to support alignment and composition.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Flash: Off</strong>
+      Keep the built-in flash disabled unless an activity specifically requires it.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Exposure Bracketing (EB): Off</strong>
+      Confirm that Exposure Bracketing is not active and that the exposure scale is centred at <code>0</code>.
+      </span>
+</label>
+</fieldset>
 
 </div>
 </details>
