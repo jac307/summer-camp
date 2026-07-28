@@ -281,7 +281,7 @@ SECTION 3
 
 ## What the comparison should demonstrate
 
-The Shutter Speed GIF should demonstrate how movement changes from **frozen action** to **motion blur** as the shutter speed becomes slower.
+The Shutter Speed GIF should demonstrate how movement changes from **frozen action** to **motion blur** as the shutter speed becomes slower.  
 
 <div class="media-grid media-grid--two">
 
@@ -311,11 +311,9 @@ The Shutter Speed GIF should demonstrate how movement changes from **frozen acti
 
 </div>
 
-The camera and background should remain stationary. The visible change should come from the moving subject and the selected shutter speed.
+For this exercise, the **camera must remain stationary on a tripod**.  
 
-The tripod, camera position, framing, focal length, focus, ISO, white balance, background, and lighting must remain unchanged throughout the sequence.
-
-The only setting you will change manually is the **shutter speed**. In `Tv` mode, the camera will adjust the aperture automatically.
+Do not move the tripod, reframe the composition, change the focal length, or refocus during the sequence. Only the subject should move, repeating the same action at each shutter speed.
 
 ## Movement and location requirements
 
@@ -355,91 +353,6 @@ Before photographing, decide:
 
 Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md){:target="_blank" rel="noopener noreferrer"}.
 
-## Static photographic settings
-
-Set and confirm these controls before beginning the shutter-speed sequence.
-
-<fieldset class="equipment-checklist">
-  <legend>Static photographic settings</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shooting mode: <code>Tv</code></strong>
-      Select the shutter speed manually. The camera will adjust the aperture automatically.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Lens: Canon 18–135 mm</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focal length: fixed</strong>
-      Select the focal length before beginning and do not move the zoom ring again.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>ISO: fixed</strong>
-      Test the fastest and slowest shutter speeds, then select one ISO that produces usable exposure across the sequence.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>White Balance: one fixed preset</strong>
-      Do not use Auto White Balance.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus locked</strong>
-      Focus on the area where the movement will occur using <code>AF</code>, confirm sharpness, then switch the lens to <code>MF</code>. Do not touch the focus ring again.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image Stabilization: Off</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Metering: Evaluative</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure compensation: <code>0</code></strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Flash and AEB: Off</strong>
-    </span>
-  </label>
-</fieldset>
-
-> Keep these settings unchanged throughout the sequence. The aperture value will change automatically because the camera is in `Tv` mode.
-
 ## Photograph the six shutter speeds
 
 Photograph the same repeated movement using:
@@ -460,38 +373,21 @@ When the location and exposure allow, you may also experiment with:
 
 At each shutter speed:
 
-1. Set the required shutter speed.
-2. Ask the subject to begin from the established starting position.
-3. Photograph the movement.
-4. Review the photograph on the camera.
-5. Magnify the subject to check focus.
-6. Check the exposure, framing, and visibility of movement.
-7. Take **5–10 photographs** of the same action.
-8. Repeat until you have at least two usable photographs at that setting.
-9. Change only the shutter speed before continuing.
+1. Set the required Shutter Speed.
+2. **Take the first photograph.**
+3. Review the photograph on the camera.
+4. Magnify the main subject to check focus.
+5. Check for camera movement, subject movement, or unexpected blur.
+6. **Take a second photograph** using the same settings as a backup.
+7. Take a third photograph only when one of the first two has a visible problem.
 
-You will select the strongest photograph from each group when creating the GIF.
-
-## Check the aperture display
-
-In `Tv` mode, the camera selects the aperture automatically.
-
-If the aperture value flashes, the camera cannot produce the required exposure with the current shutter speed, ISO, and lighting.
-
-When this happens:
-
-1. Test whether another fixed ISO can support the complete sequence.
-2. Move to a location with more appropriate light when necessary.
-3. Restart the comparison using the new fixed ISO.
-4. Keep the selected ISO unchanged for all six shutter speeds.
-
-> Do not change the ISO for individual frames. A consistent ISO makes the shutter-speed comparison easier to evaluate.
+You will select the strongest photograph from each pair when creating the GIF.
 
 ## Record the settings
 
-Record the information on the **Technical Cards Planning Handout**.
+Record the information on the **Technical Cards Handout**.
 
-| Frame | Shutter Speed | ISO | Aperture Selected by Camera | Movement Result |
+| Frame | Shutter Speed | ISO | Aperture | Movement Result |
 |---|---:|---:|---:|---|
 | 1 | `1/1000` |  |  |  |
 | 2 | `1/500` |  |  |  |
@@ -502,8 +398,6 @@ Record the information on the **Technical Cards Planning Handout**.
 
 </div>
 </details>
-
-
 
 <!--
 /////////////////
