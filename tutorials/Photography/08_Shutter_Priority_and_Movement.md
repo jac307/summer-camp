@@ -7,7 +7,8 @@ title: Shutter Priority Mode and Shutter Speed GIF
 
 ---
 
-# 📸 Manual Mode and ⚙️ Technical Card: Shutter Speed
+# 📸 Manual Mode and Shutter Speed
+# ⚙️ Technical Card: Shutter Speed
 
 **Time:** 1-1.5 hours  
 
