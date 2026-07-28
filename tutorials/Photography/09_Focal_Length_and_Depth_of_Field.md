@@ -1091,4 +1091,10 @@ After transferring all files, return the camera to these base settings.
 
 ---
 
+## What is next?
+
+Continue with 🗣️ [Technical Cards Exhibition and Group Review](10_Shutter_Speed_and_Focal_Length_Group_Review.md)
+
+---
+
 Credits: Jessica A. Rodríguez

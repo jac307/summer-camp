@@ -1161,14 +1161,14 @@ SECTION 7
   </label>
 </fieldset>
 
+</div>
+</details>
+
 ---
 
 ## What is next?
 
-Continue with 🗣️ [Group Review: Reading Camera Settings](04_Day_1_Group_Review.md).
-
-</div>
-</details>
+Continue with 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md).
 
 ---
 
