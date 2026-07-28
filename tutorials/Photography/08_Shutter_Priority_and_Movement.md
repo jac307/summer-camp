@@ -35,12 +35,7 @@ SECTION 1
 
 ## Why use Manual mode?
 
-<img
-  src="imgs/QuickExposureReference.jpg"
-  class="tutorial-image"
-  alt="Quick reference showing the relationship between aperture, shutter speed, ISO, exposure, depth of field, motion blur, and digital noise."
-  loading="lazy"
->
+![Quick reference showing the relationship between aperture, shutter speed, ISO.](imgs/QuickExposureReference.jpg)
 
 **Manual mode (`M`)** gives you direct control over the three main exposure settings:
 
@@ -106,12 +101,7 @@ A larger denominator represents a faster shutter speed. For example:
 
 ## Shutter speed in Manual mode
 
-For the shutter-speed comparison:
-
-- Set the aperture before beginning.
-- Set the ISO before beginning.
-- Keep the aperture and ISO unchanged.
-- Change only the shutter speed manually.
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;"> <iframe src="https://www.youtube.com/embed/siYpMmY0jgQ?si=KE3-WeV7Sw6_Gr7D" title="Beginner Photography - Tv Mode (Shutter Priority Mode)" style="width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe> </div>
 
 Because the camera is in Manual mode, it will not automatically compensate as the shutter speed changes.
 
@@ -123,32 +113,29 @@ As a result:
 
 > This activity demonstrates how shutter speed affects both movement and exposure.
 
-## Use the exposure meter
+## Use the histogram
 
-Before taking each photograph, check the exposure meter in the viewfinder or on the camera screen.
+In Manual mode, the camera does not automatically correct the exposure. The histogram provides a visual record of how the selected aperture, shutter speed, and ISO affect the distribution of tones in the photograph.
 
-The exposure indicator may move:
+![Camera display showing an exposure histogram](imgs/ExposureHistogram.png){: .tutorial-image }
 
-- Toward the negative side when the photograph is underexposed
-- Toward the positive side when the photograph is overexposed
-- Toward the centre when the camera estimates a balanced exposure
+Use the histogram to evaluate the image after each exposure:
 
-Do not change the aperture or ISO during the sequence. Record how the exposure changes as the shutter speed becomes slower.
+- The **left side** represents shadows and darker tones.
+- The **middle** represents midtones.
+- The **right side** represents highlights and brighter tones.
+- A graph pressed against the **left edge** may indicate blocked shadows with little or no visible detail.
+- A graph pressed against the **right edge** may indicate clipped highlights with lost detail.
+
+The histogram does not need to be centred. Its shape depends on the subject, background, lighting, and intended visual result. A dark scene may naturally contain more information on the left, while a bright scene may contain more information on the right.
 
 ## Subject movement and camera movement
 
 Motion blur can come from:
 
-- **Subject movement:** The subject moves while the camera remains stationary.
+- **Subject movement:** The subject moves while the camera remains stationary. This requires a tripod. 
 - **Camera movement:** The camera moves while the shutter is open.
 - **Both:** The subject and camera move during the exposure.
-
-For this comparison:
-
-- The camera must remain stationary on a tripod.
-- The camera position and framing must remain unchanged.
-- The subject must repeat the same movement.
-- The visible blur should come from the subject’s movement rather than camera movement.
 
 </div>
 </details>
