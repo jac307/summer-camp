@@ -31,13 +31,12 @@ Photography combines technical camera control with observation, composition, and
 ### Day 3
 
 * 📸 [Shutter Priority Mode and ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
-* 💨 [Mini-Project 2: Motion Blur Triptych](09_Motion_Blur_Triptych.md)
 * 🗣️ [Pair Feedback Activity: Motion and Composition](10_Motion_Feedback_Activity.md)
 
 ### Day 4
 
-* 🔭 [Focal Length, Camera Distance, Perspective, and Depth of Field](12_Focal_Length_and_Depth_of_Field.md)
-* ⚙️ [Technical Card: Focal Length and Distance](13_Focal_Length_and_Distance_Card.md)
+* 💨 [Mini-Project 2: Motion Blur Triptych](09_Motion_Blur_Triptych.md)
+
 * 🎞️ [Mini-Project 1: Thirty Seconds of Light — Planning, Production, and Export](07_Thirty_Seconds_of_Light.md)
 
 ### Additional Photography Resources
