@@ -274,16 +274,6 @@ SECTION 3
 
 <div class="section-content" markdown="1">
 
-Work with your partner for support and safety, but create your own individual series.
-
-Both partners may photograph the same general location, but each person must develop an individual:
-
-- Point of view
-- Composition
-- Sequence
-- Selection of details
-- Final edit
-
 ## Photographing process
 
 1. Begin with the wide establishing view.
@@ -294,8 +284,8 @@ Both partners may photograph the same general location, but each person must dev
 6. Check the frame edges.
 7. Review the histogram and image preview.
 8. Retake a photograph when the focus, exposure, or framing is unsuccessful.
-9. Create at least three options for each required photograph.
 10. Avoid deleting files in the camera.
+11. Take several photographs of each composition. Aim for 5–10 variations so you have multiple options to review and select from later.
 
 ## Before leaving the location
 
