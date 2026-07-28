@@ -34,6 +34,7 @@
   width: 100%;
   max-width: 100%;
   height: auto;
+  margin: 0;
 }
 
 .media-card figcaption {
@@ -56,4 +57,28 @@
   .media-grid--three {
     grid-template-columns: 1fr;
   }
+}
+
+/* =========================================================
+   16:9 images for the Composition Reference Guide
+   ========================================================= */
+
+/* Create a consistent 16:9 frame */
+.photography-examples--sixteen-nine .photo-reveal-card__image,
+.composition-example-grid .photo-reveal-card__image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+/* Make each photograph fill its 16:9 frame */
+.photography-examples--sixteen-nine .photo-reveal-card__image img,
+.composition-example-grid .photo-reveal-card__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  margin: 0;
+  object-fit: cover;
+  object-position: center;
 }

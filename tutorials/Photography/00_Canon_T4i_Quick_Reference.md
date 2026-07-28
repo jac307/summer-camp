@@ -32,6 +32,9 @@ A reliable entry-level DSLR with full manual controls. It is suitable for learni
 
 - 🔍 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
 - 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
+- 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
+- 📸 [Manual Mode and Shutter Speed + ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
+- 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
 
 ---
 

@@ -198,7 +198,7 @@ Complete the equipment checklist before leaving the classroom.
     <span>
       <strong>Image Stabilization (`IS`): Off</strong>
       Turn Image Stabilization off because the camera will remain mounted on the tripod.
-    /span>
+    </span>
   </label>
 
   <label class="checklist-item">
