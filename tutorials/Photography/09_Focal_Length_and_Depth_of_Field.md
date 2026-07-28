@@ -350,29 +350,6 @@ Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md
     </span>
   </label>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Aperture: <code>f/8</code></strong>
-      Keep the aperture unchanged so the comparison focuses on focal length and camera distance.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shutter speed: Begin at <code>1/125</code></strong>
-      Keep the selected shutter speed unchanged throughout the final comparison.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>ISO: Begin at <code>400</code></strong>
-      Keep the selected ISO unchanged throughout the final comparison.
-    </span>
-  </label>
 
   <label class="checklist-item">
     <input type="checkbox">
@@ -417,7 +394,7 @@ Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md
 
 ## Confirm the exposure
 
-Before beginning the final comparisons:
+Before the next step:
 
 1. Set the focal length to `50 mm`.
 2. Set the aperture to `f/8`.
@@ -466,6 +443,34 @@ SECTION 3
   </summary>
 
 <div class="section-content" markdown="1">
+
+<div class="media-grid media-grid--two">
+
+  <figure class="media-card">
+    <img
+      src="imgs/LensComparison-1.gif"
+      class="tutorial-image"
+      alt="Shutter-speed scale comparing slower and faster shutter speeds and their effects on movement and exposure."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Comparison A:</strong> Same camera position with different focal lengths.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/LensComparison-6.gif"
+      class="tutorial-image"
+      alt="Animated comparison showing how different shutter speeds affect movement and image brightness."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>Comparison B:</strong> Framing from different distances with different focal lengths.
+    </figcaption>
+  </figure>
+
+</div>
 
 ## Comparison A: Same camera position
 
