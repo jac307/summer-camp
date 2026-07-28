@@ -48,15 +48,17 @@ SECTION 1
 
 <div class="section-content" markdown="1">
 
-![Examples from the Photo-Film activity](imgs/0.png){: .tutorial-image }
-
 ## La Jetée
+
+![Stills from La Jetée by Chris Marker](imgs/LaJetee.jpg){: .tutorial-image }
 
 **La Jetée** (1962), directed by Chris Marker, constructs a narrative almost entirely through still photographs. Meaning develops through image order, duration, repetition, sound, narration, and the relationship between one photograph and the next.
 
 [Watch *La Jetée*](https://vimeo.com/658254211){:target="_blank" rel="noopener noreferrer"}
 
 ## Año Uña
+
+![Stills from Año Uña by Jonás Cuarón](imgs/AnoUna.png){: .tutorial-image }
 
 **Año Uña** (2007), directed by Jonás Cuarón, uses family photographs to construct a fictional narrative. Character, rhythm, and progression emerge through image selection, uneven timing, repetition, and post-production.
 
@@ -65,6 +67,8 @@ SECTION 1
 - [Watch “Molly and Diego on the Beach”](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank" rel="noopener noreferrer"}
 
 ## Olga Karlovac
+
+![Olga Karlovac Photographs](imgs/OlgaKarlovac.jpg){: .tutorial-image }
 
 Olga Karlovac photographs fleeting moments, movement, shadow, atmosphere, and abstraction. Her black-and-white street photography demonstrates how blur, contrast, darkness, framing, and partial views can transform everyday observation into visual poetry.
 
