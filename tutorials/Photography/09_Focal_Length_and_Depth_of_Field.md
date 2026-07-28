@@ -601,7 +601,6 @@ Name-Lastname-Technical-Cards/
 │   ├── RAW/
 │   ├── JPEG/
 │   ├── Selected/
-│   ├── PSD/
 │   └── Exported-JPEG/
 └── White-Balance/
 ```
@@ -697,147 +696,142 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Create the Focal Length and Distance Technical Card</span>
+    <span class="section-title">5. Create GIFs in Photoshop</span>
     <span class="section-description">
-      Arrange the six selected photographs in a two-row comparison and export an editable PSD and high-quality JPEG.
+      Label the photographs, load them as layers, and export looping GIF files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-> Use only the six JPEG files in the **Selected** folder.
+Complete these steps separately for each GIF: **Comparison A and Comparison B**.
 
-## Create the Photoshop document
+> For this activity, use only the **JPEG files** in each **Selected** folder.
+
+### 1. Add information to each selected photograph
+
+1. Open the photograph in Photoshop:
+   - Right-click the file.
+   - Select **Open With → Adobe Photoshop**.
+2. Select the **Type Tool (`T`)**.
+3. Add the setting shown in the photograph:
+   - Comparison A: `Same distance - 18mm`, `Same distance - 50mm`, `Same distance - 135mm`, etc.
+   - Comparison B: `Different distance - 18mm`, `Different distance - 50mm`, `Different distance - 135mm`, etc.
+4. Use a simple, readable sans-serif font.
+5. Keep the font, size, alignment, and colour consistent across all six photographs.
+6. Position the label in the same place on every photograph.
+7. Use **View → Rulers** and drag guides from the rulers to align the labels consistently.
+8. Make sure the text is clearly visible against the photograph. Add a simple solid background behind the text when necessary.
+9. Save image: **File → Save**
+
+> Check the Photoshop Text Tool and ruler tutorials below before adding the labels.
+> Repeat the same process with each image. 
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/SBfpj2fTWYs?si=-dIMAAL5prkpQz_E"
+    title="How to OPEN Files in Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Pi2VOfnes-Q?si=wPh_SZFp_YWp5nQX&amp;start=17"
+    title="How To Use Text Tool In Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/RCnDuPOE680?si=abHy-sg0q3_puaGx"
+    title="How to Add Ruler Guides in Photoshop"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### 2. Create a new Photoshop document
+
+> Follow the video tutorial below, then use these document settings.
 
 1. Open Photoshop.
 2. Select **File → New**.
-3. Enter:
+3. Enter the following settings:
    - **Width:** `1920 pixels`
    - **Height:** `1080 pixels`
    - **Orientation:** Landscape
    - **Resolution:** `150 pixels/inch`
    - **Colour Mode:** RGB Colour
-   - **Background:** White or another neutral colour
 4. Click **Create**.
-5. Turn on **View → Rulers**.
-6. Add guides to create:
-   - One title area
-   - Two horizontal rows
-   - Three equal image columns
+5. Continue to the next step.
 
-## Arrange the photographs
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/0KDEtrFnpx4?si=A6j---rMLKUOQipe"
+    title="How To Create New File In Photoshop 2025"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-### First row: Same camera position
+### 3. Create the GIF
 
-Place these images from left to right:
+> Follow the video tutorial below to create a frame animation in Photoshop.
 
-```text
-A1-Same-Position-18mm.jpg
-A2-Same-Position-50mm.jpg
-A3-Same-Position-135mm.jpg
-```
+1. In Photoshop, select **File → Scripts → Load Files into Stack**.
+2. Click **Browse**.
+3. Select the six labelled JPEG files from the corresponding **Selected** folder.
+4. Click **Open**, then click **OK**.
+5. In the **Layers** panel, confirm that each photograph appears on a separate layer.
+6. Select **Window → Timeline**.
+7. In the Timeline panel, select **Create Frame Animation**.
+8. Open the Timeline panel menu.
+9. Select **Make Frames From Layers**.
+10. Confirm that the frames appear in the correct order:
+    - Shutter Speed: faster to slower value
+11. When the frames appear in reverse order:
+    - Select all frames.
+    - Open the Timeline panel menu.
+    - Select **Reverse Frames**.
+12. Select all six frames.
+13. Set the duration to approximately **1.5 seconds** per frame.
+14. Set the looping option to **Forever**.
+15. Press **Play** and review the complete animation.
+16. Continue to the next step.
 
-Add the row heading:
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/8cn6zmYGYZM?si=-iv8Dt76iCjemgVL&amp;start=28"
+    title="How To Create a GIF in Photoshop - Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-```text
-Same Camera Position: Field of View
-```
+## Export GIF
 
-### Second row: Similar subject framing
+1. Select **File → Export → Save for Web (Legacy)**.
+2. Select **GIF**.
+3. Confirm that looping is set to **Forever**.
+5. Save as: 
+  - `Name_Shutter-Focal-Lengh-1.gif`
+  - `Name_Shutter-Focal-Lengh-2.gif`
 
-Place these images from left to right:
-
-```text
-B1-Similar-Framing-18mm.jpg
-B2-Similar-Framing-50mm.jpg
-B3-Similar-Framing-135mm.jpg
-```
-
-Add the row heading:
-
-```text
-Similar Subject Framing: Camera Distance and Perspective
-```
-
-## Add the labels
-
-Add these labels beneath or over the corresponding photographs:
-
-```text
-18 mm
-50 mm
-135 mm
-```
-
-For the second row, also add the approximate camera distance:
-
-```text
-18 mm — Close Position
-50 mm — Intermediate Position
-135 mm — Distant Position
-```
-
-When actual distances were measured, replace the position descriptions with the recorded values.
-
-Example:
-
-```text
-18 mm — 1.2 m
-50 mm — 3.5 m
-135 mm — 8 m
-```
-
-Keep the following consistent:
-
-- Font family
-- Font size
-- Text colour
-- Label position
-- Image dimensions
-- Spacing
-- Alignment
-
-## Add the title and explanation
-
-Use this title:
-
-```text
-Focal Length, Camera Distance, and Perspective
-```
-
-Add a brief explanation:
-
-```text
-Changing focal length from a fixed camera position changes the field of view. Moving the camera to maintain similar subject framing changes perspective and the apparent relationship between the subject and background.
-```
-
-## Save the editable Photoshop file
-
-1. Select **File → Save As**.
-2. Save the file in the **PSD** folder.
-3. Select Photoshop (`.PSD`).
-4. Keep layers enabled.
-5. Use:
-
-```text
-Name-Lastname-Focal-Length-Distance-Card.psd
-```
-
-## Export a high-quality JPEG
-
-1. Select **File → Export → Export As**.
-2. Select **JPG**.
-3. Use:
-   - **Quality:** High or `100%`
-   - **Scale:** `100%`
-   - **Colour Space:** Convert to `sRGB`
-   - **Embed Colour Profile:** Enabled, when available
-4. Save the file in the **Exported-JPEG** folder.
-5. Use:
-
-```text
-Name-Lastname-Focal-Length-Distance-Card.jpg
-```
+Open the exported GIF in a web browser and watch it from beginning to end.
 
 </div>
 </details>
@@ -850,114 +844,7 @@ SECTION 6
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">6. Complete the final quality check</span>
-    <span class="section-description">
-      Confirm that the comparisons are controlled, correctly labelled, clearly arranged, and technically accurate.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-<fieldset class="equipment-checklist">
-  <legend>Focal Length and Distance Technical Card check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Six photographs included</strong>
-      Confirm that the card contains three images from each comparison.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Comparison A remains controlled</strong>
-      Confirm that the camera position, tripod height, camera angle, subject, background, and exposure remained unchanged.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Comparison B uses similar subject framing</strong>
-      Confirm that the subject appears approximately the same size in the three photographs.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focal lengths are accurate</strong>
-      Confirm that the images are labelled `18 mm`, `50 mm`, and `135 mm`.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Camera distances are identified</strong>
-      Confirm that the second row records the close, intermediate, and distant positions or measured distances.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus is accurate</strong>
-      Confirm that the same point on the main subject appears sharp in every photograph.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure is consistent</strong>
-      Confirm that aperture, shutter speed, ISO, and white balance remained unchanged.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Layout is readable</strong>
-      Confirm that the images, headings, labels, and explanation are aligned and easy to compare.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>PSD and JPEG files exported</strong>
-      Confirm that both files use the required names and are saved in the correct folders.
-    </span>
-  </label>
-</fieldset>
-
-## Reflection questions
-
-1. What changed when the focal length changed but the camera remained in the same position?
-
-2. What changed when you moved the camera to maintain similar subject framing?
-
-3. Which focal length and camera distance created the strongest separation between the subject and background?
-
-4. How did focal length and camera distance affect the apparent relationship between foreground and background?
-
-5. How did the depth of field change across the two comparisons?
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Return the camera to the base settings</span>
+    <span class="section-title">76. Return the camera to the base settings</span>
     <span class="section-description">
       Reset the camera after the focal-length comparison so it is ready for the next photography activity.
     </span>

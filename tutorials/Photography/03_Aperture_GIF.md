@@ -787,14 +787,17 @@ Name-Lastname-Technical-Cards/
 │   ├── RAW/
 │   └── JPEG/
 │   └── Selected/
+│   └── Exported-JPEG/
 ├── ISO/
 │   ├── RAW/
 │   └── JPEG/
 │   └── Selected/
+│   └── Exported-JPEG/
 └── White-Balance/
     ├── RAW/
     └── JPEG/
     └── Selected/
+    └── Exported-JPEG/
 ```
 
 Sort the files into the correct comparison and file-type folders.

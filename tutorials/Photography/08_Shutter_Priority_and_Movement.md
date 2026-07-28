@@ -447,6 +447,7 @@ Name-Lastname-Technical-Cards/
 │   ├── RAW/
 │   ├── JPEG/
 │   └── Selected/
+│   └── Exported-JPEG/
 └── White-Balance/
 ```
 
