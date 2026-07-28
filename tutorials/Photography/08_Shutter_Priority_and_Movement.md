@@ -8,13 +8,10 @@ title: Shutter Priority Mode and Shutter Speed GIF
 ---
 
 # 📸 Manual Mode and Shutter Speed
-# ⚙️ Technical Card: Shutter Speed
 
-**Time:** 1-1.5 hours  
+**Time:** 30 minutes  
 
-**Goal:** Explore how shutter speed records movement, use Shutter Priority (`Tv`) mode, and create a GIF comparing frozen and blurred motion.
-
-You will work with a partner for camera setup, tripod support, and feedback. Each participant must photograph and create their own three technical cards.
+**Goal:** Learn how Manual mode controls exposure and how shutter speed affects brightness, frozen movement, and motion blur.
 
 ---
 
@@ -140,6 +137,18 @@ Motion blur can come from:
 
 </div>
 </details>
+
+---
+
+# ⚙️ Technical Card: Shutter Speed
+
+**Time:** 45–60 minutes  
+
+**Goal:** Photograph one repeated movement at six shutter speeds and create a GIF comparing frozen action and motion blur.
+
+You will work with a partner for camera setup, tripod support, repeated movement, and feedback. Each participant must photograph and create their own Shutter Speed Technical Card.
+
+---
 
 <!--
 /////////////////

@@ -7,14 +7,11 @@ title: Focal Length, Camera Distance, Perspective, and Depth of Field
 
 ---
 
-# 🔭 Focal Length, Camera Distance, Perspective, and Depth of Field  
-# ⚙️ Technical Card: Focal Length and Distance
+# 🔭 Focal Length, Camera Distance, Perspective, and Depth of Field
 
-**Time:** 1.5–2 hours  
+**Time:** 30 minutes  
 
-**Goal:** Examine how focal length changes field of view, how camera position changes perspective, and how focal length, camera distance, aperture, and background distance work together to affect depth of field.
-
-You will work with a partner for camera setup, tripod support, distance checks, and feedback. Each participant must photograph and create their own technical card.
+**Goal:** Learn how focal length changes field of view, how camera position changes perspective, and how focal length, distance, aperture, and background distance affect depth of field.
 
 ---
 
@@ -249,6 +246,18 @@ Compare:
 
 </div>
 </details>
+
+---
+
+# ⚙️ Technical Card: Focal Length and Distance
+
+**Time:** 60–75 minutes  
+
+**Goal:** Photograph two controlled comparisons using different focal lengths and camera distances, then create a technical card showing changes in field of view, perspective, and depth.
+
+You will work with a partner for camera setup, tripod support, distance checks, and feedback. Each participant must photograph and create their own Focal Length and Distance Technical Card.
+
+---
 
 <!--
 /////////////////
