@@ -100,10 +100,10 @@ Ask what makes the location recognizable and which wider views and close details
 
 Use the same format for all five photographs:
 
-- **Horizontal:** `16:9` — `3200 × 1800 pixels`
-- **Vertical:** `9:16` — `1800 × 3200 pixels`
-- **Square:** `1:1` — `3000 × 3000 pixels`
-- **Standard horizontal:** `4:3` — `3000 × 2250 pixels`
+- **Horizontal:** `16:9`
+- **Vertical:** `9:16`
+- **Square:** `1:1`
+- **Standard horizontal:** `4:3`
 
 > Choose the format before photographing so you can select the corresponding aspect ratio and compose intentionally.
 
@@ -398,13 +398,15 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
+Check 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md).  
+
 Open the five selected RAW files in Adobe Camera Raw.
 
 Edit the photographs as a group so they appear to belong to the same series.
 
-## Establish the visual treatment
+## 1. Adobe Camera Raw: Establish the visual treatment
 
-Begin with one photograph and develop a base treatment for:
+Begin with one photograph and develop a base treatment (make notes) for:
 
 - White balance
 - Exposure
@@ -424,44 +426,19 @@ Apply similar settings to the remaining photographs, then refine each image indi
 
 > Consistency does not mean every slider must have the exact same value. The photographs may require small individual corrections because the light and framing changed. The final results should have a related colour, brightness, contrast, and mood.
 
-## Maintain consistent format and size
+## Photoshop: Maintain consistency
 
-Crop every photograph to the selected format:
+### Save the Photoshop Files
 
-### Horizontal series
+After completing the colour and tonal adjustments in Adobe Camera Raw, open each developed photograph in Photoshop.
 
-```text
-3000 × 2000 pixels
-3:2
-```
+For each photograph:
 
-### Square series
-
-```text
-3000 × 3000 pixels
-1:1
-```
-
-### Vertical series
-
-```text
-2000 × 3000 pixels
-2:3
-```
-
-All five photographs must have:
-
-- The same orientation
-- The same aspect ratio
-- The same pixel dimensions
-- The same `sRGB` colour space
-- Similar colour treatment
-- Similar brightness and contrast
-- A consistent level of texture, clarity, and saturation
-
-## Save the Photoshop working files
-
-Open each developed photograph in Photoshop and save it in the **PSD** folder.
+1. Select **File → Save As**.
+2. Save the file in the **PSD** folder.
+3. Select **Photoshop (`.PSD`)** as the file format.
+4. Confirm that **Layers** is enabled when the option appears.
+5. Save the files using this naming sequence:
 
 Use:
 
@@ -473,7 +450,26 @@ Name-Lastname-Landscape-04.psd
 Name-Lastname-Landscape-05.psd
 ```
 
-The order should support the experience of moving from the larger space toward its details and atmosphere.
+### Format and Size
+
+You may recompose, crop, straighten, flip, or rotate the photographs during editing. However, all five photographs must use the same final format and dimensions.
+
+- **Horizontal:** `16:9` — `3200 × 1800 pixels`
+- **Vertical:** `9:16` — `1800 × 3200 pixels`
+- **Square:** `1:1` — `3000 × 3000 pixels`
+- **Standard horizontal:** `4:3` — `3000 × 2250 pixels`
+
+Across the complete series, maintain:
+
+- The same orientation
+- The same aspect ratio
+- The same pixel dimensions
+- The same `sRGB` colour space
+- A related colour treatment
+- Consistent brightness and contrast
+- A consistent level of texture, clarity, and saturation
+
+> The individual photographs may require slightly different corrections, but the final series should feel visually unified.
 
 ## Compare the photographs together
 
@@ -494,36 +490,23 @@ Ask:
 - Does the sequence move clearly through the location?
 - Do the close-up photographs still feel connected to the wider views?
 
-</div>
-</details>
+### Export High-Quality JPEG Files
 
-<!--
-/////////////////
-SECTION 9
-/////////////////
--->
+After finishing changes, export a high-quality JPEG copy of each photograph.
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">9. Export the final series</span>
-    <span class="section-description">
-      Export five high-quality JPEG files with consistent dimensions and filenames.
-    </span>
-  </summary>
+For each photograph:
 
-<div class="section-content" markdown="1">
-
-Export each photograph as a high-quality JPEG.
-
-Use:
-
-- **Format:** JPEG
-- **Quality:** High or `100%`
-- **Colour Space:** `sRGB`
-- **Scale:** `100%`
-- **Dimensions:** The dimensions selected for the complete series
-
-Save the files in the **Exported-JPEG** folder:
+1. Select **File → Export → Export As**.
+2. Select **JPG** as the file format.
+3. Use these settings:
+   - **Quality:** High or `100%`
+   - **Scale:** `100%`
+   - **Colour Space:** Convert to `sRGB`
+   - **Embed Colour Profile:** Enabled, when available
+4. Confirm that the photograph uses the required pixel dimensions for the series.
+5. Click **Export**.
+6. Save the file in the **Exported-JPEG** folder.
+7. Use this naming sequence:
 
 ```text
 Name-Lastname-Landscape-01.jpg
@@ -532,52 +515,6 @@ Name-Lastname-Landscape-03.jpg
 Name-Lastname-Landscape-04.jpg
 Name-Lastname-Landscape-05.jpg
 ```
-
-## Final series checklist
-
-<fieldset class="equipment-checklist">
-  <legend>Landscape photography series</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The series contains exactly five photographs.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>All five photographs show the same general location.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The series includes wide, medium, depth, close-up, and atmospheric views.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>At least three compositional strategies are visible.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>All photographs use the same orientation, aspect ratio, and pixel dimensions.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Colour, exposure, contrast, and saturation remain consistent across the series.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The sequence communicates a clear sense of the space.</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>The PSD and exported JPEG files use the required filenames.</strong></span>
-  </label>
-</fieldset>
 
 </div>
 </details>
