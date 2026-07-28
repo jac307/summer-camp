@@ -158,19 +158,6 @@ SECTION 2
 
 ## Establish the fixed exposure settings
 
-Before beginning the final sequence:
-
-1. Set the camera to **Manual mode (`M`)**.
-2. Choose one aperture.
-3. Choose one ISO.
-4. Test the fastest shutter speed, `1/1000`.
-5. Test the slowest required shutter speed, `1/30`.
-6. Review both photographs.
-7. Adjust the aperture and ISO until the subject remains visible across the sequence.
-8. Once the final aperture and ISO are selected, do not change them again.
-
-> The photographs will become brighter as the shutter speed becomes slower. This change is expected because the aperture and ISO remain fixed.
-
 <fieldset class="equipment-checklist">
   <legend>Shutter speed comparison settings</legend>
 
@@ -187,6 +174,30 @@ Before beginning the final sequence:
     <span>
       <strong>Image quality: RAW + Large/Fine JPEG</strong>
       Use the JPEG files for the GIF and preserve the RAW files for future editing.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+     <strong>Aspect ratio: <code>16:9</code></strong>
+      Use the same widescreen aspect ratio for every photograph in the GIF.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Grid: Grid 1</strong>
+      Use the grid to maintain alignment and framing.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Metering: Evaluative</strong>
+      Use the exposure meter to observe how the exposure changes at each shutter speed.
     </span>
   </label>
 
@@ -217,14 +228,6 @@ Before beginning the final sequence:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focal length: Fixed</strong>
-      Select the focal length before beginning and do not move the zoom ring again.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Focus: Autofocus, then Manual Focus</strong>
       Focus on the area where the movement will occur, confirm sharpness, and then switch the lens from <code>AF</code> to <code>MF</code>. Do not touch the focus ring again.
     </span>
@@ -243,38 +246,6 @@ Before beginning the final sequence:
     <span>
       <strong>Flash: Off</strong>
       Use the available light in the location.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>AEB: Off</strong>
-      Confirm that Automatic Exposure Bracketing is not active.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Metering: Evaluative</strong>
-      Use the exposure meter to observe how the exposure changes at each shutter speed.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Aspect ratio: One fixed format</strong>
-      Use the same aspect ratio for every photograph.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Grid: Grid 1</strong>
-      Use the grid to maintain alignment and framing.
     </span>
   </label>
 
