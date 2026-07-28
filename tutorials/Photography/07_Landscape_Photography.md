@@ -137,13 +137,13 @@ Before taking each photograph, ask:
 
 <!--
 /////////////////
-SECTION 2
+SECTION 3
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">2. Prepare the camera</span>
+    <span class="section-title">3. Prepare the camera</span>
     <span class="section-description">
       Review the previous and newly introduced camera settings before photographing the series.
     </span>
@@ -260,13 +260,13 @@ Use the aperture according to the photograph:
 
 <!--
 /////////////////
-SECTION 3
+SECTION 4
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Photograph the location</span>
+    <span class="section-title">4. Photograph the location</span>
     <span class="section-description">
       Move through the space, vary the distance and viewpoint, and create several options for each required photograph.
     </span>
@@ -333,13 +333,13 @@ SECTION 3
 
 <!--
 /////////////////
-SECTION 4
+SECTION 5
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">4. Transfer and select the photographs</span>
+    <span class="section-title">5. Transfer and select the photographs</span>
     <span class="section-description">
       Organize the files and select five photographs that work together as a coherent sequence.
     </span>
@@ -384,13 +384,13 @@ Choose photographs that:
 
 <!--
 /////////////////
-SECTION 5
+SECTION 6
 /////////////////
 -->
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Edit the series consistently</span>
+    <span class="section-title">6. Edit the series consistently</span>
     <span class="section-description">
       Develop all five RAW photographs using related colour, tonal, crop, and size settings.
     </span>
