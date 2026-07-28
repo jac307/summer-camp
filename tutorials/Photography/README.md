@@ -3,7 +3,7 @@ layout: default
 title: Photographic Foundations
 ---
 
-[Home](../../../README.md)
+[Home](../../README.md)
 
 ---
 
@@ -20,7 +20,7 @@ Photography combines technical camera control with observation, composition, and
 * 📷 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
 * 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
 * ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md)
-* 🗣️ [Group Review: Reading Camera Settings](04_Day_1_Group_Review.md)
+* 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md)
 
 ### Day 2
 
@@ -55,7 +55,7 @@ Photography combines technical camera control with observation, composition, and
 ## Instructor Presentation
 
 <!-- <iframe
-  src="imgs/W1_Teacher_Presentation_Slides.pdf"
+  src="imgs/Teacher_Presentation_Slides.pdf"
   width="100%"
   height="600"
   title="Motion Capture and Animation Foundations presentation slides">

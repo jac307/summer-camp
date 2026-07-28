@@ -16,18 +16,6 @@ title: Focal Length, Camera Distance, Perspective, and Depth of Field
 
 You will work with a partner for camera setup, tripod support, distance checks, and feedback. Each participant must photograph and create their own technical card.
 
-## Final outputs
-
-```text
-Name-Lastname-Focal-Length-Distance-Card.psd
-Name-Lastname-Focal-Length-Distance-Card.jpg
-```
-
-The completed card will contain two controlled comparisons:
-
-1. **Same camera position:** `18 mm`, `50 mm`, and `135 mm`
-2. **Similar subject framing:** `18 mm`, `50 mm`, and `135 mm`, with the camera moved to a different distance for each photograph
-
 ---
 
 <!--
@@ -61,6 +49,50 @@ With the Canon 18–135 mm lens:
 A wider focal length includes more of the surrounding environment. A longer focal length includes a smaller section of the scene and makes distant details appear larger within the frame.
 
 > Changing focal length changes the field of view. It does not change perspective when the camera remains in exactly the same position.
+
+## Set the focal length
+
+Use the **white line indicator** on the lens to align the zoom ring with the required focal length.
+
+<div class="media-grid media-grid--three">
+
+  <figure class="media-card">
+    <img
+      src="imgs/Lens-18mm.jpg"
+      class="tutorial-image"
+      alt="Canon 18–135 mm lens set to 18 mm. The white line indicator is aligned with 18."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>18 mm:</strong> Turn the zoom ring until the white line indicator aligns with <code>18</code>.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Lens-50mm.jpg"
+      class="tutorial-image"
+      alt="Canon 18–135 mm lens set to 50 mm. The white line indicator is aligned with 50."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>50 mm:</strong> Turn the zoom ring until the white line indicator aligns with <code>50</code>.
+    </figcaption>
+  </figure>
+
+  <figure class="media-card">
+    <img
+      src="imgs/Lens-85mm.jpg"
+      class="tutorial-image"
+      alt="Canon 18–135 mm lens set to 85 mm. The white line indicator is aligned with 85."
+      loading="lazy"
+    >
+    <figcaption>
+      <strong>85 mm:</strong> Turn the zoom ring until the white line indicator aligns with <code>85</code>.
+    </figcaption>
+  </figure>
+
+</div>
 
 ## Camera distance and perspective
 
