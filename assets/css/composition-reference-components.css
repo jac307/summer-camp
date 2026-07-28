@@ -138,3 +138,22 @@
     display: none;
   }
 }
+
+/* Three-column media grid */
+.media-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+/* Two columns on medium screens */
+@media (max-width: 900px) {
+  .media-grid--three {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* One column on small screens */
+@media (max-width: 600px) {
+  .media-grid--three {
+    grid-template-columns: 1fr;
+  }
+}
