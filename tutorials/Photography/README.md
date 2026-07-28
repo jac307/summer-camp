@@ -36,7 +36,7 @@ Photography combines technical camera control with observation, composition, and
 
 ### Day 4
 
-* 🎞️ [Mini-Project 12: Photo-Film and Series](11_Thirty_Seconds_of_Light.md)
+* 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md)
 
 ### Additional Photography Resources
 
