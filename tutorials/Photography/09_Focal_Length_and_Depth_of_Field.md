@@ -96,8 +96,6 @@ Use the **white line indicator** on the lens to align the zoom ring with the req
 
 ## Camera distance and perspective
 
-Explore the [Depth of Field Simulator](https://jherr.github.io/depth-of-field/){:target="_blank" rel="noopener noreferrer"} to compare how focal length, aperture, camera distance, and subject distance affect depth of field.
-
 **Perspective** describes the apparent spatial relationship between objects at different distances from the camera.
 
 Camera position determines perspective:
@@ -110,6 +108,41 @@ Camera position determines perspective:
 When photographers use a longer focal length and move farther away to maintain similar subject framing, the background often appears larger and closer to the subject. This effect is commonly described as **compression**, but it results primarily from the increased camera distance.
 
 > The lens changes the framing. Moving the camera changes the perspective.
+
+## What is depth of field?
+
+Explore the [Depth of Field Simulator](https://jherr.github.io/depth-of-field/){:target="_blank" rel="noopener noreferrer"} to compare how focal length, aperture, camera distance, and subject distance affect depth of field.
+
+**Depth of field** is the area in front of and behind the focus point that appears acceptably sharp.
+
+![Diagram illustrating shallow and deep depth of field](imgs/DetphIllustration.jpg){: .tutorial-image }
+
+- A **shallow depth of field** keeps a limited area in focus while other areas appear blurred.
+- A **deep depth of field** keeps a larger area of the scene in focus.
+
+Depth of field is affected by several connected factors:
+
+### Aperture
+
+- A wider aperture with a lower f-number generally creates a shallower depth of field.
+- A narrower aperture with a higher f-number generally creates a deeper depth of field.
+
+### Camera distance
+
+- Moving closer to the focus point generally creates a shallower depth of field.
+- Moving farther from the focus point generally creates a deeper depth of field.
+
+### Focal length
+
+- Shorter focal lengths generally make it easier to maintain a deeper area of focus.
+- Longer focal lengths generally make it easier to isolate the subject with a shallower area of focus.
+
+### Background distance
+
+- A background close to the subject may appear more defined.
+- A background farther behind the subject is more likely to appear blurred.
+
+> Focal length, aperture, camera distance, and background distance work together. Do not evaluate any one factor in isolation.
 
 ## Compare the examples
 
@@ -213,41 +246,6 @@ Compare:
 - The apparent size of background objects
 - The shape and spatial relationship of foreground and background elements
 - The depth of field
-
-## What is depth of field?
-
-**Depth of field** is the area in front of and behind the focus point that appears acceptably sharp.
-
-![Diagram illustrating shallow and deep depth of field](imgs/DetphIllustration.jpg){: .tutorial-image }
-
-- A **shallow depth of field** keeps a limited area in focus while other areas appear blurred.
-- A **deep depth of field** keeps a larger area of the scene in focus.
-
-Depth of field is affected by several connected factors:
-
-### Aperture
-
-- A wider aperture with a lower f-number generally creates a shallower depth of field.
-- A narrower aperture with a higher f-number generally creates a deeper depth of field.
-
-### Camera distance
-
-- Moving closer to the focus point generally creates a shallower depth of field.
-- Moving farther from the focus point generally creates a deeper depth of field.
-
-### Focal length
-
-- Shorter focal lengths generally make it easier to maintain a deeper area of focus.
-- Longer focal lengths generally make it easier to isolate the subject with a shallower area of focus.
-
-### Background distance
-
-- A background close to the subject may appear more defined.
-- A background farther behind the subject is more likely to appear blurred.
-
-> Focal length, aperture, camera distance, and background distance work together. Do not evaluate any one factor in isolation.
-
-Explore the [Depth of Field Simulator](https://jherr.github.io/depth-of-field/){:target="_blank" rel="noopener noreferrer"} to compare these relationships.
 
 </div>
 </details>
