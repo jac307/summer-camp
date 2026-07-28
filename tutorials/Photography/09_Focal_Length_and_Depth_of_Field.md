@@ -58,7 +58,7 @@ Use the **white line indicator** on the lens to align the zoom ring with the req
 
   <figure class="media-card">
     <img
-      src="imgs/Lens-18mm.jpg"
+      src="imgs/Lens-18mm.JPG"
       class="tutorial-image"
       alt="Canon 18–135 mm lens set to 18 mm. The white line indicator is aligned with 18."
       loading="lazy"
@@ -70,7 +70,7 @@ Use the **white line indicator** on the lens to align the zoom ring with the req
 
   <figure class="media-card">
     <img
-      src="imgs/Lens-50mm.jpg"
+      src="imgs/Lens-50mm.JPG"
       class="tutorial-image"
       alt="Canon 18–135 mm lens set to 50 mm. The white line indicator is aligned with 50."
       loading="lazy"
@@ -82,7 +82,7 @@ Use the **white line indicator** on the lens to align the zoom ring with the req
 
   <figure class="media-card">
     <img
-      src="imgs/Lens-85mm.jpg"
+      src="imgs/Lens-85mm.JPG"
       class="tutorial-image"
       alt="Canon 18–135 mm lens set to 85 mm. The white line indicator is aligned with 85."
       loading="lazy"
