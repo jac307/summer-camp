@@ -16,7 +16,8 @@ title: Mini-Project 1: Landscape Photography
 Your series should move between wider views and closer observations so that the viewer can understand both the overall space and its specific character.
 
 ---
-<!--
+
+<!-- 
 /////////////////
 SECTION 1
 /////////////////
@@ -24,7 +25,55 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Plan the landscape series</span>
+    <span class="section-title">1. Review the examples</span>
+    <span class="section-description">
+      Examine how artists use wide views, close details, composition, and consistent visual treatments to communicate a sense of place.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Lorraine Gilbert
+
+![Lorraine Gilbert photographies](imgs/Lorraine-Gilbert.png){: .tutorial-image }
+
+Lorraine Gilbert’s **Shaping the New Forest** was photographed while she worked as a tree planter in British Columbia and Quebec. The project combines landscapes, portraits, and panoramic views to document relationships between labour, forestry, and environmental change.
+
+Notice how wide views establish the environment while closer photographs reveal people, materials, textures, and evidence of human activity.
+
+- [Visit Lorraine Gilbert’s website](https://www.lorrainegilbert.ca/){:target="_blank"}
+- [View *Shaping the New Forest*](https://www.lorrainegilbert.ca/shaping-the-new-forest){:target="_blank"}
+
+## Meryl McMaster
+
+![Meryl McMaster photographies](imgs/Meryl-McMaster.jpg){: .tutorial-image }
+
+Meryl McMaster is an Ottawa-based artist of nêhiyaw and European ancestry. In **As Immense as the Sky** (2019), she uses landscape, staged photography, costume, and self-portraiture to explore ancestry, memory, migration, and relationships with the land.
+
+- [Visit Meryl McMaster’s website](http://merylmcmaster.com/){:target="_blank"}
+- [*As Immense as the Sky* project](http://merylmcmaster.com/){:target="_blank"}
+
+## Jin-me Yoon
+
+![Jin-me Yoon Photographies on exhibition](imgs/Jin-me.webp){: .tutorial-image }
+
+Jin-me Yoon is a Korean-born, Vancouver-based artist. In **Souvenirs of the Self** (1991), she places herself within recognizable Canadian tourist landscapes to examine identity, representation, migration, and belonging.
+
+- [Visit Jin-me Yoon’s website](https://www.jin-meyoon.com/){:target="_blank"}
+- [View *Souvenirs of the Self*](https://www.jin-meyoon.com/works/souvenirs-of-the-self){:target="_blank"}
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 2
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">2. Plan the landscape series</span>
     <span class="section-description">
       Select one campus location, choose a consistent format, and plan five photographs that communicate a sense of place.
     </span>
