@@ -7,7 +7,7 @@ title: Shutter Priority Mode and Shutter Speed GIF
 
 ---
 
-# 📸 Shutter Priority Mode and ⚙️ Technical Card: Shutter Speed
+# 📸 Manual Mode and ⚙️ Technical Card: Shutter Speed
 
 **Time:** 1-1.5 hours  
 
@@ -25,43 +25,56 @@ SECTION 1
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">1. Understand shutter speed</span>
+    <span class="section-title">1. Understand Manual Mode and Shutter Speed</span>
     <span class="section-description">
-      Learn how shutter speed changes the way movement appears in a photograph.
+      Learn how Manual mode provides direct control over exposure and how shutter speed changes the appearance of movement.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
 
-### Quick Aperture, Shutter Speed, and ISO reference
+## Why use Manual mode?
 
-![Quick Exposure Reference](imgs/QuickExposureReference.jpg)
+<img
+  src="imgs/QuickExposureReference.jpg"
+  class="tutorial-image"
+  alt="Quick reference showing the relationship between aperture, shutter speed, ISO, exposure, depth of field, motion blur, and digital noise."
+  loading="lazy"
+>
 
-- **Aperture:** Controls how much light enters the camera and the depth of field.
-- **Shutter speed:** Controls how movement appears and how long each frame is exposed.
-- **ISO:** Controls image brightness; higher values produce more digital noise.
+**Manual mode (`M`)** gives you direct control over the three main exposure settings:
 
-### Shutter Speed
+- **Aperture:** Controls how much light enters the camera and affects depth of field.
+- **Shutter speed:** Controls how long the camera sensor is exposed to light and how movement appears.
+- **ISO:** Controls how strongly the camera amplifies the image signal. Higher ISO values produce a brighter image but may increase digital noise.
+
+In Manual mode, the camera does not automatically adjust the aperture or shutter speed to correct the exposure. You must select and evaluate each setting.
+
+## Shutter speed
 
 <div class="media-grid media-grid--two">
 
   <figure class="media-card">
     <img
       src="imgs/shutter-speed-graph.webp"
-      alt="Shutter Speed scale showing slower and faster lens openings at different values"
+      class="tutorial-image"
+      alt="Shutter-speed scale comparing slower and faster shutter speeds and their effects on movement and exposure."
+      loading="lazy"
     >
     <figcaption>
-      Aperture scale and f-stop values
+      <strong>Shutter-speed scale:</strong> Faster shutter speeds freeze movement, while slower shutter speeds create more motion blur.
     </figcaption>
   </figure>
 
   <figure class="media-card">
     <img
       src="imgs/shutter-speed-example.gif"
-      alt="Animated example showing how shutter speed affects motion and light"
+      class="tutorial-image"
+      alt="Animated comparison showing how different shutter speeds affect movement and image brightness."
+      loading="lazy"
     >
     <figcaption>
-      Aperture and depth of field
+      <strong>Shutter-speed comparison:</strong> The same movement photographed using different exposure times.
     </figcaption>
   </figure>
 
@@ -69,8 +82,8 @@ SECTION 1
 
 **Shutter speed** controls how long the camera sensor is exposed to light.
 
-- A **fast shutter speed** records a brief moment and can freeze movement.
-- A **slow shutter speed** records movement over a longer period and can create motion blur.
+- A **fast shutter speed** records a brief moment, freezes movement, and allows less light to reach the sensor.
+- A **slow shutter speed** records movement over a longer period, creates motion blur, and allows more light to reach the sensor.
 
 Shutter speed is written as a fraction of a second:
 
@@ -85,7 +98,42 @@ Shutter speed is written as a fraction of a second:
 1/8
 ```
 
-A larger denominator represents a faster shutter speed. For example, `1/1000` is faster than `1/30`.
+A larger denominator represents a faster shutter speed. For example:
+
+- `1/1000` is faster than `1/30`.
+- `1/1000` exposes the sensor for less time.
+- `1/30` exposes the sensor for more time.
+
+## Shutter speed in Manual mode
+
+For the shutter-speed comparison:
+
+- Set the aperture before beginning.
+- Set the ISO before beginning.
+- Keep the aperture and ISO unchanged.
+- Change only the shutter speed manually.
+
+Because the camera is in Manual mode, it will not automatically compensate as the shutter speed changes.
+
+As a result:
+
+- Faster shutter speeds will generally produce darker photographs.
+- Slower shutter speeds will generally produce brighter photographs.
+- The appearance of movement will change from frozen action to visible motion blur.
+
+> This activity demonstrates how shutter speed affects both movement and exposure.
+
+## Use the exposure meter
+
+Before taking each photograph, check the exposure meter in the viewfinder or on the camera screen.
+
+The exposure indicator may move:
+
+- Toward the negative side when the photograph is underexposed
+- Toward the positive side when the photograph is overexposed
+- Toward the centre when the camera estimates a balanced exposure
+
+Do not change the aperture or ISO during the sequence. Record how the exposure changes as the shutter speed becomes slower.
 
 ## Subject movement and camera movement
 
@@ -95,15 +143,12 @@ Motion blur can come from:
 - **Camera movement:** The camera moves while the shutter is open.
 - **Both:** The subject and camera move during the exposure.
 
-For this comparison, the camera will remain stationary on a tripod. The visible blur should come from the subject’s movement.
+For this comparison:
 
-## Shutter Priority mode
-
-In Shutter Priority mode:
-
-> You select the shutter speed, and the camera adjusts the aperture automatically to maintain the exposure.
-
-On the Canon Rebel T4i, Shutter Priority mode is labelled **`Tv`**.
+- The camera must remain stationary on a tripod.
+- The camera position and framing must remain unchanged.
+- The subject must repeat the same movement.
+- The visible blur should come from the subject’s movement rather than camera movement.
 
 </div>
 </details>
@@ -118,82 +163,144 @@ SECTION 2
   <summary>
     <span class="section-title">2. Prepare the camera</span>
     <span class="section-description">
-      Set up the camera so that only the shutter speed changes manually during the comparison.
+      Set the camera to Manual mode and establish a fixed aperture and ISO so that only the shutter speed changes during the comparison.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
+
+## Establish the fixed exposure settings
+
+Before beginning the final sequence:
+
+1. Set the camera to **Manual mode (`M`)**.
+2. Choose one aperture.
+3. Choose one ISO.
+4. Test the fastest shutter speed, `1/1000`.
+5. Test the slowest required shutter speed, `1/30`.
+6. Review both photographs.
+7. Adjust the aperture and ISO until the subject remains visible across the sequence.
+8. Once the final aperture and ISO are selected, do not change them again.
+
+> The photographs will become brighter as the shutter speed becomes slower. This change is expected because the aperture and ISO remain fixed.
 
 <fieldset class="equipment-checklist">
   <legend>Shutter speed comparison settings</legend>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Shooting mode: Shutter Priority (`Tv`)</strong> Select the shutter speed manually. The camera will adjust the aperture automatically.</span>
+    <span>
+      <strong>Shooting mode: Manual (`M`)</strong>
+      Set the aperture, shutter speed, and ISO manually.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Image quality: RAW + Large/Fine JPEG</strong> Use the JPEG files for the GIF and preserve the RAW files for future editing.</span>
+    <span>
+      <strong>Image quality: RAW + Large/Fine JPEG</strong>
+      Use the JPEG files for the GIF and preserve the RAW files for future editing.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>ISO: Begin at ISO 100</strong> Increase the ISO only when the camera cannot produce a usable exposure at the selected shutter speeds.</span>
+    <span>
+      <strong>Aperture: One fixed setting</strong>
+      Select the aperture before beginning the final sequence and keep it unchanged for every photograph.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>White balance: One fixed setting</strong> Do not use Auto White Balance. Keep the same preset throughout the comparison.</span>
+    <span>
+      <strong>ISO: One fixed setting</strong>
+      Select the ISO before beginning the final sequence and keep it unchanged for every photograph.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Focus: Autofocus, then Manual Focus</strong> Focus on the area where the movement will occur, then switch the lens from `AF` to `MF`.</span>
+    <span>
+      <strong>White balance: One fixed setting</strong>
+      Do not use Auto White Balance. Keep the same preset throughout the comparison.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Image stabilization: Off</strong> Turn stabilization off because the camera is mounted on a tripod.</span>
+    <span>
+      <strong>Focal length: Fixed</strong>
+      Select the focal length before beginning and do not move the zoom ring again.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Flash: Off</strong> Use the available light in the location.</span>
+    <span>
+      <strong>Focus: Autofocus, then Manual Focus</strong>
+      Focus on the area where the movement will occur, confirm sharpness, and then switch the lens from <code>AF</code> to <code>MF</code>. Do not touch the focus ring again.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Exposure compensation: `0`</strong> Begin without exposure compensation.</span>
+    <span>
+      <strong>Image Stabilization: Off</strong>
+      Turn stabilization off because the camera is mounted on a tripod.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>AEB: Off</strong> Confirm that Automatic Exposure Bracketing is not active.</span>
+    <span>
+      <strong>Flash: Off</strong>
+      Use the available light in the location.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Metering: Evaluative</strong> Use Evaluative metering for the complete comparison.</span>
+    <span>
+      <strong>AEB: Off</strong>
+      Confirm that Automatic Exposure Bracketing is not active.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Aspect ratio: One fixed format</strong> Use the same aspect ratio for every photograph.</span>
+    <span>
+      <strong>Metering: Evaluative</strong>
+      Use the exposure meter to observe how the exposure changes at each shutter speed.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Grid: Grid 1</strong> Use the grid to maintain alignment and framing.</span>
+    <span>
+      <strong>Aspect ratio: One fixed format</strong>
+      Use the same aspect ratio for every photograph.
+    </span>
   </label>
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Tripod: Required</strong> Lock the tripod and do not move it during the comparison.</span>
+    <span>
+      <strong>Grid: Grid 1</strong>
+      Use the grid to maintain alignment and framing.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Tripod: Required</strong>
+      Lock the tripod and do not move it during the comparison.
+    </span>
   </label>
 </fieldset>
 
-> Keep the ISO, white balance, focus, focal length, framing, camera position, and lighting unchanged. Only the shutter speed should change manually.
+> Keep the aperture, ISO, white balance, focus, focal length, framing, camera position, subject, background, and lighting unchanged. The only setting that should change during the final sequence is the shutter speed.
 
 </div>
 </details>
@@ -222,7 +329,7 @@ The Shutter Speed GIF should demonstrate how movement changes from **frozen acti
 
   <figure class="media-card">
     <img
-      src="{{ '/tutorials/Photography/imgs/Shutter-Speed-Example-1.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/shutter-speed-example.gif' | relative_url }}"
       class="tutorial-image"
       alt="Shutter-speed comparison showing the same movement photographed at progressively slower shutter speeds."
       loading="lazy"
@@ -234,7 +341,7 @@ The Shutter Speed GIF should demonstrate how movement changes from **frozen acti
 
   <figure class="media-card">
     <img
-      src="{{ '/tutorials/Photography/imgs/Shutter-Speed-Example-2.gif' | relative_url }}"
+      src="{{ '/tutorials/Photography/imgs/shutter-speed-example-2.gif' | relative_url }}"
       class="tutorial-image"
       alt="Shutter-speed comparison showing an object changing from frozen movement to visible motion blur."
       loading="lazy"
