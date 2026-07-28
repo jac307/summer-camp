@@ -689,9 +689,6 @@ You have approximately **55 minutes** for this stage.
 * 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/index.html?file=Video-Collage.json)    
   Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
 
-* **(Optional)** 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/index.html?file=Keyframe-Animation.json)  
-  Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
-
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/Q7LO6T4ol20?si=9O7DBjRt0bSrfD5k"
@@ -703,7 +700,75 @@ You have approximately **55 minutes** for this stage.
   </iframe>
 </div>
 
+## Create the DaVinci Resolve project
 
+1. Open **DaVinci Resolve**.
+2. In the **Project Manager**, select **New Project**.
+3. Name the project:
+
+```text
+Name-Lastname-Photo-Film
+```
+
+4. Select **Create**.
+5. Open **Project Settings** using the gear icon in the lower-right corner.
+6. Set:
+
+```text
+Timeline frame rate: 30 fps
+Playback frame rate: 30 fps
+```
+
+7. Select **Save**.
+
+> Set the frame rate before importing and editing the photographs.
+
+## Create the timeline
+
+1. Select **File → New Timeline**.
+2. Name the timeline:
+
+```text
+Name-Lastname-Photo-Film
+```
+
+3. Disable **Use Project Settings** so you can enter the required timeline resolution.
+4. Select one format for the complete photography series and photo-film.
+
+| Format | Photograph dimensions | Timeline resolution |
+|---|---:|---:|
+| **Horizontal `16:9`** | `1920 × 1080 pixels` |
+| **Vertical `9:16`** | `1080 × 1920 pixels` |
+| **Square `1:1`** | `1080 × 1080 pixels` |
+| **Standard horizontal `4:3`** | `1440 × 1080 pixels` |
+
+5. Set:
+
+```text
+Timeline frame rate: 30 fps
+Playback frame rate: 30 fps
+```
+
+6. Select **Create**.
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Zmzrm-__vzU?si=DPM8oQ1MlqyNpP5f"
+    title="How To Change Aspect Ratio in Davinci Resolve 19"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Timeline requirements
+
+- **Duration:** `12-17 seconds`
+- **Number of photographs:** Five
+- **Frame rate:** `30 fps`
+- **Aspect ratio:** Must match the selected photography-series format
+- **Video footage:** Not permitted
 
 ## Import the photographs
 
@@ -715,6 +780,28 @@ The photo-film must contain:
 - A simple title
 - Your name
 - A final audio credit when sourced audio is used
+
+## Audio
+
+You can only use audio from [Freesound](https://freesound.org/){:target="_blank" rel="noopener noreferrer"}.
+
+Choose one instrumental, ambient, or environmental sound that supports the photographs without overwhelming them.
+
+Avoid audio that is:
+
+- Too loud or aggressive
+- Extremely dense or busy
+- Dominated by sudden changes
+- Longer or more complex than the project requires
+- Distracting from the rhythm of the images
+- Difficult to fade within the 15-second duration
+
+Before downloading:
+
+1. Check the licence and attribution requirements.
+2. Record the audio title.
+3. Record the creator’s name.
+4. Save the original audio file in the **Audio** folder.
 
 ## Arrange the sequence
 
@@ -769,61 +856,44 @@ Do not use:
 
 > The photographs must remain still. Create rhythm through image order and duration rather than animation.
 
-## Sound
-
-Use one approach:
-
-- One instrumental or ambient music track
-- One ambient sound recording
-- Silence when it supports the concept
-
-Do not use dialogue, lyrics, multiple unrelated audio tracks, or copyrighted commercial music without permission.
-
-Royalty-free sources include:
-
-- [Freesound](https://freesound.org){:target="_blank" rel="noopener noreferrer"}
-- [Free Music Archive](https://freemusicarchive.org){:target="_blank" rel="noopener noreferrer"}
-- [Pixabay Music](https://pixabay.com/music/){:target="_blank" rel="noopener noreferrer"}
-- [Mixkit](https://mixkit.co/free-stock-music/){:target="_blank" rel="noopener noreferrer"}
-- [YouTube Audio Library](https://www.youtube.com/audiolibrary){:target="_blank" rel="noopener noreferrer"}
-
-Before using sourced audio:
-
-- Check the licence
-- Record the track title
-- Record the creator’s name
-- Record the source
-- Save the audio file in the **Audio** folder
-
-For the on-screen audio credit, include only the audio title and creator name.
-
-## Mix the audio
-
-Check that:
-
-- The audio does not clip
-- The master output remains below `0 dB`
-- The audio supports the photographs
-- The audio begins and ends intentionally
-- Fades do not cut off abruptly
-- Silence is intentional when selected
-
 ## Export the photo-film
 
-1. Select **File → Export → Media**.
-2. Select **H.264**.
-3. Use:
-   - **Resolution:** `1920 × 1080`
-   - **Frame rate:** `30 fps`
-   - **Audio:** AAC
-4. Confirm that the total duration is exactly `15 seconds`.
-5. Export to the **Exported-Video** folder.
+1. Open the **Deliver** page.
+2. Select **Custom Export**.
+3. Enter the filename:
 
 ```text
 Name-Lastname-Photo-Film.mp4
 ```
+4. Select the Exported-Video folder as the location.
+5. Set:
 
-Watch the exported MP4 from beginning to end.
+```text
+Render: Single Clip
+Format: MP4
+Codec: H.264
+Frame rate: 30 fps
+```
+6. Set the resolution to match the selected timeline format:
+
+| Format                        | Export resolution |
+| ----------------------------- | ----------------: |
+| **Horizontal `16:9`**         |     `1920 × 1080` |
+| **Vertical `9:16`**           |     `1080 × 1920` |
+| **Square `1:1`**              |     `1080 × 1080` |
+| **Standard horizontal `4:3`** |     `1440 × 1080` |
+
+7. Open the Audio settings and confirm:
+
+```text
+Export Audio: On
+Codec: AAC
+```
+
+8. Set the render range to Entire Timeline.
+9. Select Add to Render Queue.
+10. In the Render Queue, select Render All.
+11. Check the exported file.
 
 </div>
 </details>
@@ -863,7 +933,7 @@ SECTION 9
 <fieldset class="equipment-checklist">
   <legend>15-second photo-film</legend>
 
-  <label class="checklist-item"><input type="checkbox"><span><strong>The exported video is exactly `15 seconds`.</strong></span></label>
+  <label class="checklist-item"><input type="checkbox"><span><strong>The exported video is `12-17 seconds`.</strong></span></label>
   <label class="checklist-item"><input type="checkbox"><span><strong>The video uses all five final photographs.</strong></span></label>
   <label class="checklist-item"><input type="checkbox"><span><strong>No video footage or photograph animation is included.</strong></span></label>
   <label class="checklist-item"><input type="checkbox"><span><strong>The title, name, year, and audio credit are readable.</strong></span></label>
@@ -882,8 +952,6 @@ Name-Lastname-Photo-Film-Series/
 │   ├── Name-Lastname-Series-03.tif
 │   ├── Name-Lastname-Series-04.tif
 │   └── Name-Lastname-Series-05.tif
-├── Premiere/
-│   └── Name-Lastname-Photo-Film.prproj
 └── Exported-Video/
     └── Name-Lastname-Photo-Film.mp4
 ```
