@@ -17,10 +17,9 @@ title: Exposure Triangle Reference Guide
 
 ## Related guides and activities
 
-- 📐 [Photography Composition Reference Guide](00_Composition_Reference.md){:target="_blank" rel="noopener noreferrer"}
-- ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md){:target="_blank" rel="noopener noreferrer"}
-- 📸 [Manual Mode and Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md){:target="_blank" rel="noopener noreferrer"}
-- 🔭 [Focal Length, Camera Distance, Perspective, and Depth of Field](12_Focal_Length_and_Depth_of_Field.md){:target="_blank" rel="noopener noreferrer"}
+- 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
+- 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
+- 📸 [Manual Mode and Shutter Speed](08_Shutter_Priority_and_Movement.md)
 
 ---
 
@@ -29,16 +28,6 @@ title: Exposure Triangle Reference Guide
 SECTION 1
 /////////////////
 -->
-
-<details class="tutorial-section" open>
-  <summary>
-    <span class="section-title">1. Understand the exposure triangle</span>
-    <span class="section-description">
-      Review how aperture, shutter speed, and ISO work together and identify the visual effect controlled by each setting.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
 
 ## The three exposure controls
 
@@ -97,24 +86,7 @@ You decide:
 
 Use the exposure meter as a starting estimate and the histogram to evaluate the recorded photograph.
 
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 2
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">2. Aperture reference</span>
-    <span class="section-description">
-      Use aperture to control the lens opening, exposure, and the amount of the scene that appears acceptably sharp.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+---
 
 ## How aperture works
 
@@ -204,21 +176,7 @@ Use the lowest value permitted by the camera rather than forcing a value that th
 </div>
 </details>
 
-<!--
-/////////////////
-SECTION 3
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">3. Shutter speed reference</span>
-    <span class="section-description">
-      Use shutter speed to control exposure time and determine whether movement appears frozen or blurred.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+---
 
 ## How shutter speed works
 
@@ -313,24 +271,7 @@ When testing subject movement:
 
 > For video recorded at `30 fps`, `1/60` is a standard starting point. Change it only when a different rendering of movement is intentional.
 
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. ISO reference</span>
-    <span class="section-description">
-      Use ISO to control image-signal amplification after selecting the aperture and shutter speed required by the visual approach.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+---
 
 ## How ISO works
 
@@ -397,105 +338,7 @@ ISO 3200
 </div>
 </details>
 
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Understand stops and equivalent exposure</span>
-    <span class="section-description">
-      Recognize full-stop changes and understand how one exposure control can compensate for a change to another.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## What is one stop?
-
-A **one-stop change** doubles or halves the amount of recorded light or signal amplification.
-
-### Full-stop aperture scale
-
-```text
-f/2.8 → f/4 → f/5.6 → f/8 → f/11 → f/16 → f/22
-```
-
-Moving one step to the right allows approximately half as much light through the lens.
-
-### Full-stop shutter-speed scale
-
-```text
-1/1000 → 1/500 → 1/250 → 1/125 → 1/60 → 1/30 → 1/15 → 1/8
-```
-
-Moving one step to the right approximately doubles the exposure time.
-
-### Full-stop ISO scale
-
-```text
-ISO 100 → 200 → 400 → 800 → 1600 → 3200
-```
-
-Moving one step to the right doubles the signal amplification.
-
-> The camera may also display intermediate third-stop values. These allow more precise adjustments between the full-stop values listed above.
-
-## Equivalent exposure example
-
-Starting exposure:
-
-```text
-f/8
-1/125
-ISO 400
-```
-
-Changing the shutter speed from `1/125` to `1/250` records approximately one stop less light.
-
-To produce a similar overall brightness, you could compensate by changing one other control by approximately one stop:
-
-```text
-Option A: Open the aperture from f/8 to f/5.6
-Option B: Increase ISO 400 to ISO 800
-```
-
-These settings may create similar brightness, but the photographs will not look identical:
-
-- Opening the aperture changes depth of field.
-- Increasing ISO changes image-signal amplification and may increase visible noise.
-- Changing shutter speed changes movement.
-
-## Controlled comparisons
-
-When studying one control:
-
-- Change only the setting being tested.
-- Keep the other exposure settings unchanged.
-- Accept and observe the resulting changes in brightness when the activity requires them.
-
-> Do not compensate during a controlled comparison unless the instructions specifically ask you to maintain equivalent exposure.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 6
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">6. Use the histogram and metering</span>
-    <span class="section-description">
-      Evaluate the distribution of shadows, midtones, and highlights instead of relying only on the camera screen.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+---
 
 ## Metering
 
@@ -513,6 +356,8 @@ The meter may be influenced by:
 - Strong backlighting
 
 The meter is an estimate rather than an automatic answer. Compare it with the visible image and histogram.
+
+---
 
 ## Histogram
 
@@ -533,111 +378,6 @@ Use it to identify:
 - Whether important tonal information is retained
 - How exposure changes when aperture, shutter speed, or ISO changes
 
-## Exposure examples
-
-Select each example to compare the photograph with its histogram.
-
-<div class="exposure-example-list">
-
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="exposure-reference-under"
-    >
-
-    <label
-      class="photo-reveal-card__image"
-      for="exposure-reference-under"
-    >
-      <img
-        src="imgs/underexposure.jpg"
-        alt="Underexposed outdoor scene with a histogram concentrated toward the shadows."
-        loading="lazy"
-      >
-
-      <span class="photo-reveal-card__title">
-        Underexposure
-      </span>
-
-      <span class="photo-reveal-card__prompt">
-        Select for details
-      </span>
-    </label>
-
-    <div class="photo-reveal-card__description">
-      <strong>Notice the histogram:</strong> Much of the brightness information is concentrated toward the left. When the graph presses against the far-left edge, important shadow detail may be lost. Severe brightening during editing can make noise and limited colour information more visible.
-    </div>
-  </div>
-
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="exposure-reference-balanced"
-    >
-
-    <label
-      class="photo-reveal-card__image"
-      for="exposure-reference-balanced"
-    >
-      <img
-        src="imgs/balanced-exposure.jpg"
-        alt="Balanced outdoor exposure with brightness information distributed across the histogram."
-        loading="lazy"
-      >
-
-      <span class="photo-reveal-card__title">
-        Balanced exposure
-      </span>
-
-      <span class="photo-reveal-card__prompt">
-        Select for details
-      </span>
-    </label>
-
-    <div class="photo-reveal-card__description">
-      <strong>Notice the histogram:</strong> Brightness information is distributed through the shadows, midtones, and highlights without a strong pile-up against either edge. A useful histogram does not need to be symmetrical or centred.
-    </div>
-  </div>
-
-  <div class="photo-reveal-card">
-    <input
-      class="photo-reveal-card__toggle screen-reader-only"
-      type="checkbox"
-      id="exposure-reference-over"
-    >
-
-    <label
-      class="photo-reveal-card__image"
-      for="exposure-reference-over"
-    >
-      <img
-        src="imgs/overexposure.jpg"
-        alt="Overexposed outdoor scene with a histogram concentrated toward the highlights."
-        loading="lazy"
-      >
-
-      <span class="photo-reveal-card__title">
-        Overexposure
-      </span>
-
-      <span class="photo-reveal-card__prompt">
-        Select for details
-      </span>
-    </label>
-
-    <div class="photo-reveal-card__description">
-      <strong>Notice the histogram:</strong> Much of the brightness information is concentrated toward the right. When the graph presses against the far-right edge, highlights may be clipped to pure white and cannot be fully recovered.
-    </div>
-  </div>
-
-</div>
-
-## Common exposure problems
-
-![Examples of exposure problems in recorded photographs](imgs/ExposureProblems.png){: .tutorial-image }
-
 ## Histogram workflow in Manual mode
 
 After taking a test photograph:
@@ -656,79 +396,9 @@ After taking a test photograph:
 </div>
 </details>
 
-<!--
-/////////////////
-SECTION 7
-/////////////////
--->
+---
 
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">7. Choose settings in Manual mode</span>
-    <span class="section-description">
-      Select settings according to the visual priority, then use the remaining controls to establish a usable exposure.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Still-photography workflow
-
-### When movement is the priority
-
-1. Choose the shutter speed required to freeze or blur movement.
-2. Choose the aperture required for the depth of field.
-3. Set a low ISO.
-4. Take a test photograph.
-5. Review the histogram.
-6. Adjust ISO only when the aperture and shutter speed must remain unchanged.
-
-### When depth of field is the priority
-
-1. Choose the aperture required for shallow or deep focus.
-2. Choose a shutter speed that controls movement and prevents unwanted camera shake.
-3. Set a low ISO.
-4. Take a test photograph.
-5. Review the histogram.
-6. Increase ISO only when the selected aperture and shutter speed must remain unchanged.
-
-### When image quality is the priority
-
-1. Begin with a low ISO.
-2. Use a tripod when the subject and composition permit it.
-3. Select the aperture for depth of field.
-4. Adjust the shutter speed to establish exposure.
-5. Review the histogram for clipped highlights or shadows.
-
-## Video workflow at 30 fps
-
-Set the controls in this order:
-
-1. **Shutter speed:** Begin at `1/60` for natural-looking movement.
-2. **Aperture:** Select according to the required depth of field.
-3. **ISO:** Begin between `ISO 100` and `ISO 400`, then increase only when necessary.
-4. **Histogram:** Confirm that important highlights and shadows retain the required information.
-
-> Keep exposure settings fixed during a continuous shot unless an intentional change is part of the recording.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 8
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">8. Quick solutions for common situations</span>
-    <span class="section-description">
-      Identify which exposure control to adjust according to the movement, depth, light, and image-quality requirements.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
+## Quick solutions for common situations
 
 | Situation | First control to consider | Additional adjustment |
 |---|---|---|
@@ -744,227 +414,6 @@ SECTION 8
 | Shadows are blocked | Increase exposure when shadow detail is required | Use a slower shutter speed, wider aperture, or higher ISO |
 
 > Always protect the information required by the composition. A dark scene may correctly contain deep shadows, and a bright scene may correctly contain strong highlights.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 9
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">9. Controlled comparison rules</span>
-    <span class="section-description">
-      Keep every variable unchanged except the setting being tested so the visual result can be evaluated accurately.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Use these rules for Aperture, ISO, Shutter Speed, Focal Length, and White Balance technical comparisons.
-
-<fieldset class="equipment-checklist">
-  <legend>Controlled comparison check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Tripod position fixed</strong>
-      Do not move the tripod during a comparison that requires the same camera position.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Framing unchanged</strong>
-      Do not rotate, tilt, raise, lower, or reframe the camera.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focal length unchanged</strong>
-      Do not move the zoom ring unless focal length is the setting being tested.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus locked</strong>
-      Focus using <code>AF</code>, confirm sharpness, then switch to <code>MF</code>. Do not touch the focus ring.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Subject and background unchanged</strong>
-      Keep stationary subjects in the same position. For movement comparisons, only the subject performs the repeated action.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Lighting unchanged</strong>
-      Work under stable light and restart the comparison when the lighting changes significantly.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Change only one setting</strong>
-      Keep the other exposure controls fixed unless the instructions specify equivalent exposure.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image Stabilization: Off on tripod</strong>
-      Turn stabilization on again for handheld photography.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 10
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">10. Base camera settings</span>
-    <span class="section-description">
-      Return the camera to consistent starting settings before beginning the next photography activity.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-These are **starting settings**, not a guaranteed correct exposure. Evaluate the location, subject, movement, and histogram before photographing.
-
-<fieldset class="equipment-checklist">
-  <legend>Base settings for photography activities</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shooting mode: <code>M</code></strong>
-      Use Manual mode so aperture, shutter speed, and ISO can be controlled directly.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image quality: RAW + Large/Fine JPEG</strong>
-      Preserve RAW files for editing and use JPEG files for review and technical cards.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Aspect ratio: <code>16:9</code></strong>
-      Use the widescreen format unless another aspect ratio is specified.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Grid: Grid 1</strong>
-      Use the grid to support alignment and composition.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Aperture: <code>f/8</code></strong>
-      Use this as a starting point and adjust it according to the required depth of field.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shutter speed: <code>1/125</code></strong>
-      On the camera display, select <code>125</code>. Adjust it according to movement and available light.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>ISO: <code>400</code></strong>
-      Use this as a starting point and adjust it only when the lighting conditions require a different value.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>White Balance: Daylight</strong>
-      Select a different fixed preset or Custom White Balance when the lighting requires it.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus: Autofocus (`AF`)</strong>
-      Focus for each new composition. Switch to `MF` only when the activity requires locked focus.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image Stabilization: On for handheld photography</strong>
-      Turn stabilization off when the camera is mounted on a tripod.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Metering: Evaluative</strong>
-      Use the meter as a starting estimate and evaluate the histogram after each test photograph.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Flash: Off</strong>
-      Keep the built-in flash disabled unless an activity specifically requires it.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Exposure Bracketing (EB): Off</strong>
-      Confirm that Exposure Bracketing is not active.
-    </span>
-  </label>
-</fieldset>
-
-</div>
-</details>
 
 ---
 

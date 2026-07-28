@@ -457,6 +457,7 @@ Each row shows one shot size using a human subject and an object.
 
 </div>
 
+---
 
 ## Compositional frameworks
 
@@ -609,6 +610,7 @@ Composition describes how subjects, objects, lines, and empty spaces are organiz
 
 > These frameworks are starting points rather than strict rules. Choose the approach that best supports the subject, space, and mood of your photograph.
 
+---
 
 ## Depth of Field
 
