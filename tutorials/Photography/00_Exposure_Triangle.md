@@ -7,7 +7,7 @@ title: Exposure Triangle Reference Guide
 
 ---
 
-# 🌗 Exposure Triangle Reference Guide
+# 👁️⃤ Exposure Triangle Reference Guide
 
 **Purpose:** Use this guide to understand how aperture, shutter speed, and ISO work together in Manual mode (`M`) and how each control changes both exposure and the visual appearance of a photograph.
 
