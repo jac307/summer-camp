@@ -68,7 +68,7 @@ In Manual mode, the camera does not automatically adjust the aperture or shutter
 
   <figure class="media-card">
     <img
-      src="imgs/shutter-speed-example.gif"
+      src="imgs/shutter-speed-example-2.gif"
       class="tutorial-image"
       alt="Animated comparison showing how different shutter speeds affect movement and image brightness."
       loading="lazy"
