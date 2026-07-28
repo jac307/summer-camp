@@ -577,15 +577,6 @@ Aperture is measured in **f-stops**.
 
 > A smaller f-number means a wider aperture. A larger f-number means a narrower aperture.
 
-## The 18–55 mm kit lens
-
-The widest available aperture changes as the lens zooms:
-
-- At approximately <code>18 mm</code>, the lens may open as wide as <code>f/3.5</code>
-- At approximately <code>55 mm</code>, the widest available aperture is approximately <code>f/5.6</code>
-
-The camera will not allow an aperture wider than the lens can provide at the selected focal length.
-
 ## Change the aperture
 
 1. Confirm that the Mode Dial is set to <code>Av</code>.

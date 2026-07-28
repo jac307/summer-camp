@@ -96,6 +96,8 @@ Use the **white line indicator** on the lens to align the zoom ring with the req
 
 ## Camera distance and perspective
 
+Explore the [Depth of Field Simulator](https://jherr.github.io/depth-of-field/){:target="_blank" rel="noopener noreferrer"} to compare how focal length, aperture, camera distance, and subject distance affect depth of field.
+
 **Perspective** describes the apparent spatial relationship between objects at different distances from the camera.
 
 Camera position determines perspective:
