@@ -85,16 +85,6 @@ SECTION 2
 
 Choose one outdoor space at McMaster University and remain within the same general area for all five photographs.
 
-Possible locations include:
-
-- A courtyard
-- A pathway
-- A garden
-- A building exterior
-- A gathering space
-- A campus entrance
-- A space where architecture and vegetation meet
-
 Before photographing, walk through the space and notice:
 
 - Overall layout
@@ -110,21 +100,16 @@ Ask what makes the location recognizable and which wider views and close details
 
 Use the same format for all five photographs:
 
-- **Horizontal:** `3:2` — `3000 × 2000 pixels`
+- **Horizontal:** `16:9` — `3200 × 1800 pixels`
+- **Vertical:** `9:16` — `1800 × 3200 pixels`
 - **Square:** `1:1` — `3000 × 3000 pixels`
-- **Vertical:** `2:3` — `2000 × 3000 pixels`
+- **Standard horizontal:** `4:3` — `3000 × 2250 pixels`
 
-All five photographs must use the same:
-
-- Orientation
-- Aspect ratio
-- Pixel dimensions
-- Colour space
-- General editing approach
-
-> Choose the format before photographing so you can compose intentionally. Confirm the final crop in Adobe Camera Raw or Photoshop.
+> Choose the format before photographing so you can select the corresponding aspect ratio and compose intentionally.
 
 ## Plan the five photographs
+
+Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md). 
 
 Create:
 
@@ -135,28 +120,6 @@ Create:
 5. **Atmosphere or identity:** A photograph that communicates the mood or character of the place
 
 The close-up should still feel connected to the location rather than appearing as an unrelated detail.
-
-## Plan the composition
-
-Use at least **three compositional strategies** across the series:
-
-- Rule of Thirds
-- Golden Ratio
-- Leading Lines
-- Centred and Symmetrical
-- Foreground, Middle Ground, and Background
-- Repetition and Pattern
-- Negative Space
-- Frame Within a Frame
-- Shallow or Deep Depth of Field
-
-Across the five photographs, include:
-
-- One layered composition with foreground, middle-ground, and background
-- One photograph using a path or leading line
-- One close-up detail
-- One use of intentional negative space
-- Clear attention to the frame edges
 
 Before taking each photograph, ask:
 
@@ -190,6 +153,12 @@ SECTION 2
 
 ## Required camera settings
 
+References:  
+
+* 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
+* 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
+* 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
+
 <fieldset class="equipment-checklist">
   <legend>Landscape photography settings</legend>
 
@@ -206,6 +175,30 @@ SECTION 2
     <span>
       <strong>Image quality: RAW + Large/Fine JPEG</strong>
       Use the RAW files for editing.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Aspect ratio: Select one format for the complete series</strong>
+      Choose `16:9`, `9:16`, `1:1`, or `4:3`, and use the same aspect ratio for all five photographs.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Grid: Grid 1</strong>
+      Use the grid in Live View to check alignment and subject placement.
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Exposure compensation: `0` to begin</strong>
+      Adjust it when the camera makes the scene consistently too bright or too dark.
     </span>
   </label>
 
@@ -236,22 +229,6 @@ SECTION 2
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Exposure compensation: `0` to begin</strong>
-      Adjust it when the camera makes the scene consistently too bright or too dark.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus: Autofocus</strong>
-      Refocus for every new composition and confirm that the intended subject is sharp.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Image stabilization</strong>
       Turn it on when photographing handheld and off when using a tripod.
     </span>
@@ -265,21 +242,6 @@ SECTION 2
     </span>
   </label>
 
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>AEB: Off</strong>
-      Confirm that Automatic Exposure Bracketing is not active.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Grid: Grid 1</strong>
-      Use the grid in Live View to check alignment and subject placement.
-    </span>
-  </label>
 </fieldset>
 
 ## Select the aperture intentionally
