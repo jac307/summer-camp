@@ -86,14 +86,6 @@ Complete the equipment checklist before leaving the classroom.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Canon 18–135 mm lens</strong>
-      Confirm that the lens is securely attached and that the zoom and focus rings move correctly.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Charged battery</strong>
       Check the battery level and confirm that the battery is inserted correctly.
     </span>
@@ -191,6 +183,22 @@ Complete the equipment checklist before leaving the classroom.
       <strong>Grid display: Grid 1</strong>
       Use the grid to maintain consistent framing and intentional composition.
     </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Focus: <code>MF</code></strong>
+      Use Manual Focus and check focus before taking a photography. 
+    </span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span>
+      <strong>Image Stabilization (`IS`): Off</strong>
+      Turn Image Stabilization off because the camera will remain mounted on the tripod.
+    /span>
   </label>
 
   <label class="checklist-item">
@@ -338,13 +346,6 @@ Set and confirm these controls before beginning the aperture sequence.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Lens: Canon 18–135 mm</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
       <strong>Focal length: <code>50 mm</code></strong>
       Set the zoom ring to approximately <code>50 mm</code> and do not move it again.
     </span>
@@ -361,22 +362,8 @@ Set and confirm these controls before beginning the aperture sequence.
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>White Balance: Daylight</strong>
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Focus locked</strong>
-      Focus on the main subject using <code>AF</code>, confirm sharpness, then switch the lens to <code>MF</code>. Do not touch the focus ring again.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Image Stabilization: Off</strong>
+      <strong>Focus confirmed and locked</strong>
+      Focus on the main subject using <code>MF</code>.
     </span>
   </label>
 </fieldset>
@@ -547,15 +534,7 @@ Avoid locations where:
     <input type="checkbox">
     <span>
       <strong>Focus confirmed and locked</strong>
-      Focus on the main subject using <code>AF</code>, take a test photograph, and magnify it during playback to confirm sharpness.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Lens switched to <code>MF</code></strong>
-      After confirming focus, switch from <code>AF</code> to <code>MF</code> and do not touch the focus ring again.
+      Focus on the main subject using <code>MF</code>.
     </span>
   </label>
 </fieldset>
@@ -703,7 +682,7 @@ Set and confirm these controls before beginning the white-balance sequence.
     <input type="checkbox">
     <span>
       <strong>Focus confirmed and locked</strong>
-      Focus using <code>AF</code>, take a test photograph, confirm sharpness, then switch the lens to <code>MF</code>.
+      Focus on the main subject using <code>MF</code>.
     </span>
   </label>
 </fieldset>
@@ -1166,6 +1145,66 @@ SECTION 7
 
 </div>
 </details>
+
+<!--
+/////////////////
+SECTION 8
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">8. Return to Day 1 Base Camera Settings</span>
+    <span class="section-description">
+      Turn off temporary settings so they do not affect the next photography activity.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+<fieldset class="equipment-checklist">
+  <legend>Day 1 final setup</legend>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>SD card formatted</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Shooting mode set to <code>Av</code></strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Image quality set to RAW + JPEG</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Focus set to <code>MF</code></strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>White balance set to Daylight</strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>ISO set to <code>100</code></strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Starting aperture set to approximately <code>f/5.6</code></strong></span>
+  </label>
+
+  <label class="checklist-item">
+    <input type="checkbox">
+    <span><strong>Flash turned off</strong></span>
+  </label>
+</fieldset>
 
 ---
 

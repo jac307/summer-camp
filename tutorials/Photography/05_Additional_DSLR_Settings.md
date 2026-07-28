@@ -540,7 +540,7 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Return the camera to the standard settings</span>
+    <span class="section-title">5. Return to Day 2 Base Camera Settings</span>
     <span class="section-description">
       Turn off temporary settings so they do not affect the next photography activity.
     </span>

@@ -430,8 +430,8 @@ Press <code>Q</code>, use the navigation buttons to select a setting, turn the M
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Focus: AF</strong>
-      Begin with autofocus. Use manual focus only when an activity specifically requires it.
+      <strong>Focus: MF</strong>
+      Always use Manual Focus (`MF`)
     </span>
   </label>
 
@@ -808,7 +808,7 @@ SECTION 7
 
   <label class="checklist-item">
     <input type="checkbox">
-    <span><strong>Autofocus set to <code>AF</code></strong></span>
+    <span><strong>Focus set to <code>MF</code></strong></span>
   </label>
 
   <label class="checklist-item">
@@ -829,19 +829,6 @@ SECTION 7
   <label class="checklist-item">
     <input type="checkbox">
     <span><strong>Flash turned off</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span><strong>Auto Exposure Bracketing turned off</strong></span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Test photograph reviewed</strong>
-      Check the exposure and magnify the main subject to confirm focus.
-    </span>
   </label>
 </fieldset>
 
