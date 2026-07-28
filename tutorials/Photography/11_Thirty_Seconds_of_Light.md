@@ -15,29 +15,6 @@ title: Mini-Project 2: Photo-Film and Series
 
 You will work with a partner for technical support, location safety, camera assistance, and feedback. Each participant must photograph, edit, print, assemble, and present their own project.
 
-## Final outcomes
-
-### Printed photography series
-
-```text
-5 black-and-white photographs
-16:9 landscape format
-3200 × 1800 pixels
-TIFF
-300 pixels/inch
-sRGB
-```
-
-### Photo-film
-
-```text
-Exactly 15 seconds
-1920 × 1080
-30 fps
-H.264 MP4
-5 photographs
-Black and white
-```
 
 ## Production schedule
 
@@ -79,14 +56,6 @@ SECTION 1
 
 [Watch *La Jetée*](https://vimeo.com/658254211){:target="_blank" rel="noopener noreferrer"}
 
-Notice:
-
-- How long each photograph remains visible
-- How wide views and close details are combined
-- How repetition creates emphasis
-- How sound changes the meaning of the photographs
-- How the sequence creates movement without video footage
-
 ## Año Uña
 
 **Año Uña** (2007), directed by Jonás Cuarón, uses family photographs to construct a fictional narrative. Character, rhythm, and progression emerge through image selection, uneven timing, repetition, and post-production.
@@ -95,13 +64,6 @@ Notice:
 - [Watch “Diego’s Toenail”](https://www.youtube.com/watch?v=zf3c1gJj-PY){:target="_blank" rel="noopener noreferrer"}
 - [Watch “Molly and Diego on the Beach”](https://www.youtube.com/watch?v=PO7PTDHuFqs){:target="_blank" rel="noopener noreferrer"}
 
-Notice:
-
-- How ordinary photographs become a sequence
-- How one photograph changes meaning when it follows another
-- How different image durations affect pacing
-- How the sequence suggests events that were not directly photographed
-
 ## Olga Karlovac
 
 Olga Karlovac photographs fleeting moments, movement, shadow, atmosphere, and abstraction. Her black-and-white street photography demonstrates how blur, contrast, darkness, framing, and partial views can transform everyday observation into visual poetry.
@@ -109,27 +71,11 @@ Olga Karlovac photographs fleeting moments, movement, shadow, atmosphere, and ab
 - [Visit Olga Karlovac’s website](https://olga-karlovac-photography.com/site/){:target="_blank" rel="noopener noreferrer"}
 - [View image examples](https://www.google.com/search?q=olga+karlovac&udm=2){:target="_blank" rel="noopener noreferrer"}
 
-Notice:
-
-- How blur communicates movement
-- How darkness and contrast create atmosphere
-- How partial views encourage interpretation
-- How several photographs can share one visual treatment
-
 ## Student photo-films
 
 Students in MEDIAART 2B06 created concise photo-films using black-and-white still images, sequencing, duration, and sound.
 
 [View the online gallery](https://media-studio-art.github.io/come-as-you-art/time-based/index.html){:target="_blank" rel="noopener noreferrer"}
-
-When reviewing the examples, ask:
-
-- Is the main idea understandable without dialogue?
-- How does the sequence begin?
-- What changes across the photographs?
-- Which image creates the strongest pause or emphasis?
-- How does the sound support the rhythm?
-- Could the photographs also work together as a printed series?
 
 </div>
 </details>
@@ -175,16 +121,20 @@ The five photographs will be printed and displayed in a specific order. Meaning 
 
 ### Photo-film
 
-The same five photographs will be arranged in Premiere Pro. Meaning develops through image order, duration, rhythm, pacing, cuts, sound or intentional silence, titles, and credits.
+The same five photographs will be arranged in DaVinci Resolve (video editing software). Meaning develops through image order, duration, rhythm, pacing, cuts, sound or intentional silence, titles, and credits.
 
 > Do not treat the photo-film as a slideshow of unrelated images. Both outcomes must communicate one coherent idea.
 
 ## Project requirements
 
-- Create exactly **five final photographs**
+- Create **five final photographs**
 - Photograph in colour and convert the final images to black and white
 - Use landscape orientation
-- Use a `16:9` aspect ratio
+- Aspect Ratio (choose one):
+   - **Horizontal:** `16:9`
+   - **Vertical:** `9:16`
+   - **Square:** `1:1`
+   - **Standard horizontal:** `4:3`
 - Create all photographs during the activity
 - Work within one general location
 - Use at least three different shot sizes
@@ -206,7 +156,7 @@ SECTION 3
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">3. Plan the five-photograph sequence</span>
+    <span class="section-title">3. Plan the photograph sequence</span>
     <span class="section-description">
       Select one observational idea and plan five images that create progression, variation, and visual continuity.
     </span>
@@ -269,7 +219,7 @@ Use one or two compositional frameworks consistently:
 
 Review:
 
-- 🌗 [Exposure Triangle Reference Guide](00_Exposure_Triangle.md){:target="_blank" rel="noopener noreferrer"}
+- 📐 [Photography Composition Reference Guide](00_Composition_Reference.md){:target="_blank" rel="noopener noreferrer"}
 - 🔭 [Focal Length, Camera Distance, Perspective, and Depth of Field](12_Focal_Length_and_Depth_of_Field.md){:target="_blank" rel="noopener noreferrer"}
 
 ## Complete a quick sequence plan
@@ -307,7 +257,6 @@ Review:
 
 - 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md){:target="_blank" rel="noopener noreferrer"}
 - 🌗 [Exposure Triangle Reference Guide](00_Exposure_Triangle.md){:target="_blank" rel="noopener noreferrer"}
-- 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md){:target="_blank" rel="noopener noreferrer"}
 
 <fieldset class="equipment-checklist">
   <legend>Photo-Film and Series camera setup</legend>
@@ -331,8 +280,8 @@ Review:
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Aspect ratio: `16:9`</strong>
-      Use the same landscape format for every photograph.
+      <strong>Aspect ratio: Select one format for the complete series</strong>
+      Choose `16:9`, `9:16`, `1:1`, or `4:3`, and use the same aspect ratio for all five photographs.
     </span>
   </label>
 
@@ -388,7 +337,7 @@ Review:
     <input type="checkbox">
     <span>
       <strong>Exposure Bracketing (`EB`): Off</strong>
-      Confirm that Exposure Bracketing is not active.
+      Confirm that Exposure Bracketing is not active. You may use it later if need it. 
     </span>
   </label>
 </fieldset>
@@ -458,19 +407,6 @@ For each planned photograph:
 10. Photograph at least three usable variations.
 
 Aim to create approximately **15–20 photographs** in total. You will select five.
-
-## Required variation
-
-Across the complete sequence:
-
-- Use at least three shot sizes
-- Include at least one wider environmental view
-- Include at least one close-up or extreme close-up
-- Change camera distance or viewpoint
-- Use one or two compositional frameworks
-- Make at least one intentional depth-of-field decision
-- Maintain the same `16:9` landscape format
-- Maintain a recognizable visual relationship between the photographs
 
 ## Before leaving the location
 
@@ -546,7 +482,6 @@ Name-Lastname-Photo-Film-Series/
 ├── Selected-RAW/
 ├── PSD/
 ├── TIFF-Print/
-├── Premiere/
 ├── Audio/
 └── Exported-Video/
 ```
@@ -571,7 +506,7 @@ Select images that:
 - Include useful changes in shot size and distance
 - Use composition intentionally
 - Work together in a clear order
-- Can be cropped consistently to `16:9`
+- Can be cropped consistently depending on the selected aspect ratio.
 - Avoid unnecessary repetition
 
 Copy the matching RAW files into the **Selected-RAW** folder.
@@ -601,7 +536,7 @@ SECTION 7
   <summary>
     <span class="section-title">7. Edit and export the printed series</span>
     <span class="section-description">
-      Convert the RAW photographs to black and white, create a consistent treatment, save PSD files, and export print-ready TIFF files.
+      Convert the RAW photographs in color, create a consistent treatment, save PSD files, and export print-ready TIFF files.
     </span>
   </summary>
 
@@ -611,13 +546,14 @@ You have approximately **70 minutes** for this stage.
 
 Review 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md){:target="_blank" rel="noopener noreferrer"}.
 
-## Develop the five RAW files
+The printed series **must remain in colour**. Edit the five photographs as a group so they share a consistent colour, tonal, and visual treatment.
+
+## 1. Adobe Camera Raw: Establish the visual treatment
 
 Open the five selected `.CR2` files in Adobe Camera Raw and arrange them in sequence.
 
 For all five photographs:
 
-- Convert the image to black and white
 - Correct exposure
 - Adjust contrast
 - Preserve important highlight detail
@@ -627,46 +563,19 @@ For all five photographs:
 - Avoid excessive sharpening
 - Avoid heavy noise reduction that removes important detail
 
-## Create one visual treatment
+## 2. Photoshop: Maintain consistency
 
-The photographs should share:
+### Save the Photoshop Files
 
-- A consistent black-and-white treatment
-- Related brightness and contrast
-- Similar highlight and shadow detail
-- A consistent crop and format
-- A related level of texture and clarity
-- A coherent visual atmosphere
-
-Consistency does not require identical slider values. Each photograph may need small corrections.
-
-## Restrictions
-
-Do not:
-
-- Remove or add objects
-- Retouch extensively
-- Apply decorative filters
-- Add textures
-- Add generated imagery
-- Add typography to the printed photographs
-- Use different aspect ratios
-
-## Open in Photoshop
+After completing the colour and tonal adjustments in Adobe Camera Raw, open each developed photograph in Photoshop.
 
 For each photograph:
 
-1. Confirm the crop is `16:9`.
-2. Set the dimensions to `3200 × 1800 pixels`.
-3. Set the resolution to `300 pixels/inch`.
-4. Confirm the orientation is landscape.
-5. Convert to `sRGB`.
-6. Compare all five images together.
-7. Make final tonal corrections when necessary.
-
-## Save editable PSD files
-
-Save in the **PSD** folder:
+1. Select **File → Save As**.
+2. Save the file in the **PSD** folder.
+3. Select **Photoshop (`.PSD`)** as the file format.
+4. Confirm that **Layers** is enabled when the option appears.
+5. Save the files using this naming sequence:
 
 ```text
 Name-Lastname-Series-01.psd
@@ -678,6 +587,48 @@ Name-Lastname-Series-05.psd
 
 Keep layers enabled.
 
+### Format and Size
+
+You may recompose, crop, straighten, flip, or rotate the photographs during editing. However, all five photographs must use the same final format and dimensions.
+
+- **Horizontal:** `16:9` — `3200 × 1800 pixels`
+- **Vertical:** `9:16` — `1800 × 3200 pixels`
+- **Square:** `1:1` — `3000 × 3000 pixels`
+- **Standard horizontal:** `4:3` — `3000 × 2250 pixels`
+
+Across the complete series, maintain:
+
+- The same orientation
+- The same aspect ratio
+- The same pixel dimensions
+- The same `sRGB` colour space
+- A related colour treatment
+- Consistent brightness and contrast
+- A consistent level of texture, clarity, and saturation
+
+> The individual photographs may require slightly different corrections, but the final series should feel visually unified.
+
+## 3. Compare the photographs together
+
+Before exporting:
+
+1. Open all five photographs.
+2. View them at the same size.
+3. Arrange them in sequence.
+4. Compare colour, exposure, contrast, crop, and visual weight.
+5. Adjust any image that appears disconnected from the others.
+
+Ask:
+
+- Does one photograph appear noticeably warmer or cooler?
+- Does one photograph appear much brighter or darker?
+- Is the contrast consistent across the series?
+- Are the colours related without looking identical?
+- Do all five photographs use the same dimensions and aspect ratio?
+- Does one image feel visually heavier or lighter than the others?
+- Does the sequence create a clear visual progression?
+- Does every photograph contribute something necessary to the series?
+
 ## Export print-ready TIFF files
 
 For each photograph:
@@ -685,8 +636,6 @@ For each photograph:
 1. Select **File → Save a Copy** or **File → Save As**.
 2. Select **TIFF (`.tif`)**.
 3. Use:
-   - **Dimensions:** `3200 × 1800 pixels`
-   - **Resolution:** `300 pixels/inch`
    - **Bit depth:** `8 Bits/Channel`
    - **Colour profile:** `sRGB`
    - **Embed Colour Profile:** Enabled
@@ -704,16 +653,15 @@ Name-Lastname-Series-05.tif
 
 ## Print the series
 
-Follow the paper, printer, and print-dialogue settings provided by the instructor.
+The professor will collect the final TIFF files and work with each student during the printing process.
 
-- Print one photograph per sheet
-- Maintain the `16:9` aspect ratio
-- Do not stretch or distort the image
-- Centre the photograph on the page
-- Use the same paper and print settings for all five photographs
-- Keep the five prints in sequence
+Before printing, confirm that:
 
-> The TIFF files are the print masters. Do not print from screenshots or compressed preview files.
+- All five TIFF files are complete
+- The filenames follow the required sequence
+- The photographs use the same dimensions and aspect ratio
+- The colour and tonal treatment is consistent
+- The files open correctly
 
 </div>
 </details>
@@ -736,24 +684,26 @@ SECTION 8
 
 You have approximately **55 minutes** for this stage.
 
-Review the [Premiere Pro Fundamentals tutorials](../Tutorials/index.html?file=T-W1.json){:target="_blank" rel="noopener noreferrer"}.
+### DaVinci Resolve Tutorials
 
-## Create the Premiere Pro project
+* 🎥 [Intro to Linear Video Editing](tutorials/DaVinci/index.html?file=Video-Collage.json)    
+  Learn how to create a project, import and organize recordings, edit clips on a timeline, add transitions and effects, and export a finished video.  
 
-Save in the **Premiere** folder:
+* **(Optional)** 🌀 [Intro to Keyframe Animation](tutorials/DaVinci/index.html?file=Keyframe-Animation.json)  
+  Learn how to use keyframes to animate properties such as position, scale, rotation, and opacity.  
 
-```text
-Name-Lastname-Photo-Film.prproj
-```
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Q7LO6T4ol20?si=9O7DBjRt0bSrfD5k"
+    title="How To Make Videos BLACK And WHITE In Davinci Resolve"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-## Create the sequence
 
-Use:
-
-- **Resolution:** `1920 × 1080`
-- **Aspect ratio:** `16:9`
-- **Frame rate:** `30 fps`
-- **Duration:** Exactly `15 seconds`
 
 ## Import the photographs
 
