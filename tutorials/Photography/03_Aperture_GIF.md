@@ -18,7 +18,7 @@ Complete this activity after:
 - 📷 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
 - 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
 
-You may work with a partner for camera setup, tripod support, and feedback. Each participant must photograph and create their own three technical cards.
+You will work with a partner for camera setup, tripod support, and feedback. Each participant must photograph and create their own three technical cards.
 
 <!--
 /////////////////

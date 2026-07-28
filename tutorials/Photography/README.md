@@ -30,10 +30,9 @@ Photography combines technical camera control with observation, composition, and
 
 ### Day 3
 
-* 📸 [Shutter Priority Mode: Freezing and Blurring Movement](08_Shutter_Priority_and_Movement.md)
-* ⚙️ [Technical Card: Shutter Speed GIF](09_Shutter_Speed_GIF.md)
-* 💨 [Mini-Project 2: Motion Blur Triptych — Techniques, Planning, and Production](10_Motion_Blur_Triptych.md)
-* 🗣️ [Pair Feedback Activity: Motion and Composition](11_Motion_Feedback_Activity.md)
+* 📸 [Shutter Priority Mode and ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
+* 💨 [Mini-Project 2: Motion Blur Triptych](09_Motion_Blur_Triptych.md)
+* 🗣️ [Pair Feedback Activity: Motion and Composition](10_Motion_Feedback_Activity.md)
 
 ### Day 4
 
@@ -46,7 +45,6 @@ Photography combines technical camera control with observation, composition, and
 * 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
 * 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
 * 🌗 [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
-* ⌨️ [Photo Editing Shortcut Reference Guide](00_Photo_Editing_Shortcuts.md)
 
 ---
 
