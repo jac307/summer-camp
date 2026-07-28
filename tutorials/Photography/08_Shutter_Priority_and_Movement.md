@@ -407,15 +407,95 @@ SECTION 5
 
 <details class="tutorial-section">
   <summary>
-    <span class="section-title">5. Create GIFs in Photoshop</span>
+    <span class="section-title">5. Transfer, review, and organize the photographs</span>
+    <span class="section-description">
+      Import all camera files, review the JPEG photographs, select one image for each setting, and rename the selected files.
+    </span>
+  </summary>
+
+<div class="section-content" markdown="1">
+
+## Transfer all files
+
+> The camera will save recorded photographs twice: once as a `.JPEG` file and once as a RAW file (`.CR2`).
+
+1. Turn off the camera.
+2. Remove the SD card.
+3. Insert the SD card into a card reader.
+4. Create the main project folder on the computer.
+5. Copy **all RAW and JPEG files** from the SD card into the project folder.
+6. Confirm that the files open correctly on the computer.
+7. Do not work directly from the SD card.
+
+Add a **Shutter-Speed** folder to your existing project folder:
+
+```text
+Name-Lastname-Technical-Cards/
+├── Aperture/
+├── ISO/
+├── Shutter-Speed/
+│   ├── RAW/
+│   ├── JPEG/
+│   └── Selected/
+└── White-Balance/
+```
+
+## Review the JPEG photographs
+
+Open the JPEG folder for each comparison and check every photograph.
+
+For each camera setting:
+
+1. Compare the photographs taken at that setting.
+2. Confirm that the main subject is sharp.
+3. Check for camera movement or subject movement.
+4. Confirm that the framing remained consistent.
+5. Check that no person or unexpected object entered the composition.
+6. Select the strongest photograph.
+7. Copy the selected JPEG into the corresponding Selected folder.
+
+> Copy the selected files rather than moving them. Keep all original JPEG and RAW files in their existing folders.
+
+> Do not delete the additional JPEG photographs or RAW files.
+
+## Rename the selected Aperture JPEG files
+
+Rename the six selected files in order:
+
+```text
+01-1000.jpg
+02-500.jpg
+03-250.jpg
+04-125.jpg
+05-60.jpg
+06-30.jpg
+```
+
+I the location allowed: 
+
+```text
+07-15.jpg
+08-8.jpg
+```
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 6
+/////////////////
+-->
+
+<details class="tutorial-section">
+  <summary>
+    <span class="section-title">6. Create GIF in Photoshop</span>
     <span class="section-description">
       Label the photographs, load them as layers, and export looping GIF files.
     </span>
   </summary>
 
 <div class="section-content" markdown="1">
-
-Complete these steps separately for each GIF: **Aperture, ISO, and White Balance**.
 
 > For this activity, use only the **JPEG files** in each **Selected** folder.
 
@@ -426,9 +506,7 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
    - Select **Open With → Adobe Photoshop**.
 2. Select the **Type Tool (`T`)**.
 3. Add the setting shown in the photograph:
-   - Aperture: `f/5`, `f/8`, `f/11`, etc.
-   - ISO: `ISO 100`, `ISO 400`, `ISO 1600`, etc.
-   - White Balance: `Daylight`, `Shade`, `Tungsten`, etc.
+   - Aperture: `1/1000`, `1/500`, `1/250`, etc.
 4. Use a simple, readable sans-serif font.
 5. Keep the font, size, alignment, and colour consistent across all six photographs.
 6. Position the label in the same place on every photograph.
@@ -512,9 +590,7 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
 8. Open the Timeline panel menu.
 9. Select **Make Frames From Layers**.
 10. Confirm that the frames appear in the correct order:
-    - Aperture: lowest to highest f-number
-    - ISO: `100` to `3200`
-    - White Balance: AWB, Daylight, Shade, Cloudy, Tungsten, White Fluorescent
+    - Shutter Speed: faster to slower value
 11. When the frames appear in reverse order:
     - Select all frames.
     - Open the Timeline panel menu.
@@ -541,259 +617,9 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
 1. Select **File → Export → Save for Web (Legacy)**.
 2. Select **GIF**.
 3. Confirm that looping is set to **Forever**.
-5. Save using the required filename.
+5. Save as `Shutter-Speed-Card.gif`
 
 Open the exported GIF in a web browser and watch it from beginning to end.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 4
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">4. Transfer, select, rename, and label the photographs</span>
-    <span class="section-description">
-      Transfer all camera files, select one photograph for each shutter speed, rename the selected JPEG files, and add consistent labels.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-## Transfer all files
-
-> The camera records each photograph twice: as a JPEG file and as a Canon RAW file (`.CR2`).
-
-1. Turn off the camera.
-2. Remove the SD card.
-3. Insert the SD card into the card reader.
-4. Create the main project folder on the computer.
-5. Copy **all RAW and JPEG files** from the SD card.
-6. Confirm that the files open correctly.
-7. Do not work directly from the SD card.
-
-Create this folder structure:
-
-```text
-Name-Lastname-Shutter-Speed/
-├── RAW/
-├── JPEG/
-└── Selected/
-```
-
-Sort the files by format:
-
-- Copy all `.CR2` files into the **RAW** folder.
-- Copy all `.JPG` or `.JPEG` files into the **JPEG** folder.
-
-> Keep the RAW files for future editing. Use the JPEG files to create the Shutter Speed GIF.
-
-## Review the JPEG photographs
-
-Open the **JPEG** folder and compare the photographs taken at each shutter speed.
-
-For each setting:
-
-1. Confirm that the subject is in focus.
-2. Check that the intended movement is visible.
-3. Confirm that the camera position and framing remained consistent.
-4. Check that the subject appears in a similar area of the frame.
-5. Check for unexpected people or objects.
-6. Confirm that the exposure is usable.
-7. Select the strongest photograph.
-8. Copy the selected JPEG into the **Selected** folder.
-
-Select photographs that demonstrate a clear progression from frozen movement to motion blur.
-
-> Copy the selected files rather than moving them. Keep all original JPEG and RAW files in their folders.
-
-## Rename the selected JPEG files
-
-Rename the six selected photographs in order:
-
-```text
-01-1000.jpg
-02-500.jpg
-03-250.jpg
-04-125.jpg
-05-60.jpg
-06-30.jpg
-```
-
-If you also photographed the optional slower settings, continue with:
-
-```text
-07-15.jpg
-08-8.jpg
-```
-
-> Filenames cannot contain `/`, so use `01-1000.jpg` as the filename and add `1/1000` as the visible label inside the photograph.
-
-## Add the shutter-speed labels
-
-For each selected JPEG:
-
-1. Open the photograph in Photoshop.
-2. Select the **Type Tool (`T`)**.
-3. Add the shutter-speed value shown in the photograph:
-   - `1/1000`
-   - `1/500`
-   - `1/250`
-   - `1/125`
-   - `1/60`
-   - `1/30`
-4. Use a simple, readable sans-serif font.
-5. Keep the font, size, alignment, and colour consistent.
-6. Position the label in the same place on every photograph.
-7. Use **View → Rulers** and guides to align the labels.
-8. Add a solid background behind the text when necessary.
-9. Save the labelled photograph as a JPEG in the **Selected** folder.
-10. Keep the required filename and use a high-quality JPEG setting.
-
-> Edit only the copies in the **Selected** folder. Do not overwrite the original files in the **JPEG** folder.
-
-## Confirm the file organization
-
-<fieldset class="equipment-checklist">
-  <legend>Transfer, selection, and labelling check</legend>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All camera files copied</strong>
-      Confirm that every RAW and JPEG file was transferred from the SD card.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>RAW and JPEG files separated</strong>
-      Confirm that the files are in the correct folders.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>All JPEG photographs reviewed</strong>
-      Check focus, exposure, movement, framing, and technical consistency.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>One photograph selected for each shutter speed</strong>
-      Confirm that the **Selected** folder contains at least six photographs.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Selected files renamed</strong>
-      Confirm that the filenames follow the required numerical order.
-    </span>
-  </label>
-
-  <label class="checklist-item">
-    <input type="checkbox">
-    <span>
-      <strong>Shutter-speed labels added</strong>
-      Confirm that every label is accurate, readable, and positioned consistently.
-    </span>
-  </label>
-</fieldset>
-
-> Do not erase or format the SD card until the instructor confirms that the transfer and backup are complete.
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 5
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">5. Create the Shutter Speed GIF</span>
-    <span class="section-description">
-      Combine the labelled photographs into a looping frame animation in Photoshop.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-1. In Photoshop, select **File → Scripts → Load Files into Stack**.
-2. Click **Browse**.
-3. Select the labelled JPEG files from the **Selected** folder.
-4. Click **Open**, then click **OK**.
-5. Confirm that each photograph appears on a separate layer.
-6. Select **Window → Timeline**.
-7. Select **Create Frame Animation**.
-8. Open the Timeline panel menu.
-9. Select **Make Frames From Layers**.
-10. Confirm that the frames appear from the fastest to the slowest shutter speed.
-11. If the frames are reversed:
-    - Select all frames.
-    - Open the Timeline panel menu.
-    - Select **Reverse Frames**.
-12. Select all frames.
-13. Set the duration to approximately **1.5 seconds** per frame.
-14. Set the looping option to **Forever**.
-15. Press **Play** and review the animation.
-
-## Export the GIF
-
-1. Select **File → Export → Save for Web (Legacy)**.
-2. Select **GIF**.
-3. Confirm the required image dimensions.
-4. Set **Looping Options** to **Forever**.
-5. Click **Save**.
-6. Name the file:
-
-```text
-Name-Lastname-Shutter-Speed.gif
-```
-
-</div>
-</details>
-
-<!--
-/////////////////
-SECTION 9
-/////////////////
--->
-
-<details class="tutorial-section">
-  <summary>
-    <span class="section-title">9. Review the completed GIF</span>
-    <span class="section-description">
-      Confirm that the animation clearly demonstrates the relationship between shutter speed and movement.
-    </span>
-  </summary>
-
-<div class="section-content" markdown="1">
-
-Check that:
-
-- All required shutter speeds are included
-- Every frame is labelled correctly
-- The frames appear from fastest to slowest
-- The camera position and framing remain unchanged
-- The subject performs the same movement
-- Frozen movement is visible at faster shutter speeds
-- Motion blur becomes visible at slower shutter speeds
-- The text remains in the same position
-- The GIF loops continuously
-- The filename follows the required format
 
 </div>
 </details>

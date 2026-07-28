@@ -1066,6 +1066,12 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
 3. Confirm that looping is set to **Forever**.
 5. Save using the required filename.
 
+```text
+Aperture-Card.gif
+ISO-Card.gif
+White-Balance-Card.gif
+```
+
 Open the exported GIF in a web browser and watch it from beginning to end.
 
 </div>
