@@ -85,6 +85,10 @@ SECTION 2
 
 Choose one outdoor space at McMaster University and remain within the same general area for all five photographs.
 
+Resources:
+- [McMaster's interactive map](https://discover.mcmaster.ca/map/){:target="_blank"}
+- [Google Maps: McMaster](https://maps.app.goo.gl/ouKZRBnnSAisHVxw6){:target="_blank"}
+
 Before photographing, walk through the space and notice:
 
 - Overall layout
