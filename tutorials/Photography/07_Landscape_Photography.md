@@ -113,7 +113,7 @@ Use the same format for all five photographs:
 
 ## Plan the five photographs
 
-Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md). 
+Check 📐 [Photography Composition Reference Guide](00_Composition_Reference.md){:target="_blank" rel="noopener noreferrer"}. 
 
 Create:
 
@@ -159,9 +159,9 @@ SECTION 3
 
 References:  
 
-* 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
-* 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
-* 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
+* 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md){:target="_blank" rel="noopener noreferrer"}
+* 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md){:target="_blank" rel="noopener noreferrer"}
+* 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md){:target="_blank" rel="noopener noreferrer"}
 
 <fieldset class="equipment-checklist">
   <legend>Landscape photography settings</legend>
@@ -402,7 +402,7 @@ SECTION 6
 
 <div class="section-content" markdown="1">
 
-Check 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md).  
+Check 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md){:target="_blank" rel="noopener noreferrer"}.  
 
 Open the five selected RAW files in Adobe Camera Raw.
 
