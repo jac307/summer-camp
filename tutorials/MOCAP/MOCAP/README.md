@@ -42,6 +42,10 @@ In these tutorials, you will learn how to set up the motion-capture equipment, c
 * 🦴 [Rigging Movements in Blender ](04_Rigging_Blender.md)
 * 🌀 [Retarget Motion onto a Character in Blender](05_Retargeting_Blender.md)
 
+### Advance References
+
+* ⚙️ [Advanced Axis Studio Setup Panels](06_MoreOnAxis)
+
 ---
 
 ## What Is Motion Capture?
