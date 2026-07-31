@@ -23,7 +23,7 @@ SECTION 1
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>1. 👁 What You Need + PN3 Body Kit Overview</strong>
+  <strong>1. 🛠️ What You Need + PN3 Body Kit Overview</strong>
   <br>
   <span class="path-description">
     Review the required equipment and watch a short overview of the Perception Neuron 3 Body Kit.
@@ -74,7 +74,7 @@ SECTION 2
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. 🚀 Launch Axis Studio and Create a Project</strong>
+  <strong>1️⃣ Launch Axis Studio and Create a Project</strong>
   <br>
   <span class="path-description">
     Connect the USB dongle, open Axis Studio, create a project, and confirm that the PN3 device is connected.
@@ -172,7 +172,7 @@ SECTION 3
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>3. ⚙️ Run Sensor Check</strong>
+  <strong>2️⃣ Run Sensor Check</strong>
   <br>
   <span class="path-description">
     Prepare the sensors, run the Sensor Check in Axis Studio, and confirm that all sensors are connected correctly.
@@ -261,7 +261,7 @@ If the sensors are all working correctly, you will get this message. Click Finis
 
 ---
 
-## 🎥 Sensor Calibration Videos
+## Sensor Calibration Videos
 
 ### Perception Neuron 3 | Sensor Calibration
 
@@ -302,7 +302,7 @@ SECTION 4
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>4. 👖 Wear and Connect Sensors</strong>
+  <strong>3️⃣ Wear and Connect Sensors</strong>
   <br>
   <span class="path-description">
     Put on the PN3 suit or straps and place each sensor carefully before calibration.
@@ -379,7 +379,7 @@ SECTION 5
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>5. 🔗 Complete the Initial Connection</strong>
+  <strong>4️⃣ Complete the Initial Connection</strong>
   <br>
   <span class="path-description">
     Connect the suit in Axis Studio and complete the first automatic sensor alignment before posture calibration.

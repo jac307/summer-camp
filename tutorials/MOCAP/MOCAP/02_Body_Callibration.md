@@ -62,7 +62,7 @@ Accurate calibration is essential for clean motion-capture data. If the calibrat
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>1. ✨ Start Posture Calibration</strong>
+  <strong>1️⃣ Start Posture Calibration</strong>
   <br>
   <span class="path-description">
     Open the posture calibration panel, enable the required poses, and begin calibration.
@@ -153,7 +153,7 @@ Check that the virtual avatar mirrors the performer’s movement smoothly.
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. 👤 Calibration Poses Explained</strong>
+  <strong>2️⃣ Calibration Poses Explained</strong>
   <br>
   <span class="path-description">
     Review each posture and what it helps Axis Studio calibrate.
@@ -255,7 +255,7 @@ Keep:
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>3. ✅ Check the Calibration</strong>
+  <strong>3️⃣ Check the Calibration</strong>
   <br>
   <span class="path-description">
     Test the avatar and repeat calibration if the movement looks inaccurate.
@@ -296,7 +296,7 @@ If the avatar looks incorrect:
 
 After the sensors are connected and worn correctly, continue with:
 
-🎥 Intro to Record & Export Motion Data in Axis Studio
+[🎥 Record and Export Motion Data in Axis Studio](03_Recording_And_Exporting.md)
 
 </div>
 </details>
