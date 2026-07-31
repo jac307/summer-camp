@@ -45,9 +45,9 @@ Before starting, remove any existing armatures from your model:
 
 ---
 
-### Step-by-Step Instructions
+## Step-by-Step Instructions
 
-#### 1. **Import Your BVH File**  
+### 1. **Import Your BVH File**  
    - Go to `File → Import → Motion Capture (.bvh)`  
    - Select your `.bvh` file  
    - Before importing: In the **Transform** panel on the right, set the **Scale** to `0.1`  
@@ -55,24 +55,24 @@ Before starting, remove any existing armatures from your model:
    - This will create a **BVH armature** with baked motion keyframes
    - Before going to the next step, **go to frame 0 in your timeline**. This will show the imported **armature in T pose**.
 
-![Import mocap](images/import-mocap-2.png){: .tutorial-image }
+![Import mocap](images/import-mocap-2.png){: .tutorial-image-full }
 
-#### 2. **Align BVH Scale with Character**  
+### 2. **Align BVH Scale with Character**  
    - Your mocap character may appear larger/smaller than your mesh  
    - Use **`S` (scale)** on the **BVH armature only** (Object Mode)  
    - Do **not scale the armature in Edit Mode** or using non-uniform transforms
 
 ![Align Scale](images/import-mocap-3.png){: .tutorial-image }
 
-#### 4. **Match Bone Positions**  
+### 4. **Match Bone Positions**  
    - Select the **BVH armature**  
    - Enter **Edit Mode**  
    - Move and adjust bones so they **visually align with your character’s mesh**  
    - Focus on key joints like the **shoulders, hips, knees, and feet** for accurate alignment
 
-![Match Bone Positions](images/import-mocap-4.png){: .tutorial-image }
+![Match Bone Positions](images/import-mocap-4.png){: .tutorial-image-full }
 
-#### 5. **Parent the Mesh**  
+### 5. **Parent the Mesh**  
    - To apply the BVH armature to your mesh, select the **mesh first**, then **Shift+click the armature**  
    - Press `Ctrl+P` and choose **With Automatic Weights**  
    - **Note**: This works best if your mesh is **roughly aligned** with the armature
@@ -82,13 +82,13 @@ Before starting, remove any existing armatures from your model:
 
 ![Parent](images/import-mocap-5.png){: .tutorial-image }
 
-#### 6. **Play the Timeline**  
+### 6. **Play the Timeline**  
    - Press `Spacebar` or drag the timeline to preview the movement  
    - Your BVH skeleton should animate based on the captured motion
   
-![Play](images/import-mocap-6.png){: .tutorial-image }
+![Play](images/import-mocap-6.png){: .tutorial-image-full }
 
-#### 7. **Export short video**  
+### 7. **Export short video**  
    - Go to the **Output Properties** tab (printer icon in the Properties Panel).
    - Set the **frame range** to max 1-500.
    - Under **Output**, choose a location to save and set the file format to `FFmpeg video`.
