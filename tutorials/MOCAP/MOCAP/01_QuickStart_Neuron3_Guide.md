@@ -69,7 +69,7 @@ SECTION 1
 <div class="step-grid" markdown="1">
 
 <div class="step-card" markdown="1">
-<img src="images/setup-step-01.png" alt="USB dongle connected to the computer">
+<img src="images/setup-step-01.JPG" alt="USB dongle connected to the computer">
 
 ### 1. Plug in the USB Dongle
 
