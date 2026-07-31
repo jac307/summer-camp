@@ -211,66 +211,46 @@ As you drag, Axis Studio will show the updated frame position.
   <strong>3️⃣ Export</strong>
   <br>
   <span class="path-description">
-    Open the recorded take, review the motion, and export it as a .bvh file.
+    Export the edited take as a .bvh file and save it in the correct project folder.
   </span>
 </summary>
 
 <div markdown="1">
 
-## Reviewing and Exporting Steps
+## Exporting Steps
 
 <div class="step-grid" markdown="1">
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-01.png" alt="Editing window in Axis Studio">
+<img src="images/export-bvh-step-01.png" alt="Export icon in Axis Studio editing panel">
 
 ### 1. Open Export Settings
 
-On the editing panel, click the **Export** icon on the right-side panel.
+In the **Editing** window, select the take you want to export from the right-side panel.
+
+Click the **Export** icon to open the export settings.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-01.png" alt="BVH export settings in Axis Studio">
+<img src="images/export-bvh-step-02.png" alt="BVH export settings in Axis Studio">
 
-### 5. Choose BVH Format
+### 2. Check the Export Settings
 
-Confirm that the file type is set to `.bvh`.
+Before exporting, confirm that:
 
-Set the frame range you want to export.
-</div>
+- The file name is clear and easy to identify.
+- The file type is set to `.bvh`.
+- The export range is correct.
+- The selected directory is the folder where you want to save the file.
 
-<div class="step-card" markdown="1">
-<img src="images/export-bvh-step-06.png" alt="Selecting export directory in Axis Studio">
-
-### 6. Select Directory and Export
-
-Choose the folder where you want to save the file.
-
-Click **Export**.
+Then click **Export**.
 </div>
 
 </div>
-
-## Tips
-
-- Avoid leaving extra empty time at the beginning or end of the exported file.
-- Review the motion in **Axis Studio playback** before exporting.
-
-</div>
-</details>
 
 ---
 
-<details class="software-section">
-<summary class="software-title">
-  <strong>Locate the Recorded File</strong>
-  <br>
-  <span class="path-description">
-    Find the exported .bvh file and prepare it for use in Blender or other software.
-  </span>
-</summary>
-
-<div markdown="1">
+## After Exporting
 
 After exporting:
 
@@ -285,6 +265,26 @@ You can open and preview `.bvh` files in:
 - **MotionBuilder**
 - **DeepMotion**
 - Any `.bvh`-compatible animation software
+
+---
+
+## Tips
+
+- Review the motion in **Axis Studio playback** before exporting.
+- Make sure the beginning and end of the take have already been trimmed.
+- Avoid exporting extra empty time at the beginning or end of the file.
+- Use clear file names, such as `performer_movement_take01.bvh`.
+- Save the exported `.bvh` file in a folder you can easily find later.
+- If the exported file does not look correct in Blender, return to Axis Studio, check the take, and export again.
+
+---
+
+## To Import the Animation in Blender
+
+To continue working with your exported motion-capture file, use these tutorials:
+
+* 🦴 [Rigging Movements in Blender](04_Rigging_Blender.md)
+* 🌀 [Retarget Motion onto a Character in Blender](05_Retargeting_Blender.md)
 
 </div>
 </details>
