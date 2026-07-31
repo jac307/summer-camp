@@ -304,7 +304,7 @@ SECTION 4
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>4. Wear and Connect Sensors</strong>
+  <strong>4. 👖 Wear and Connect Sensors</strong>
   <br>
   <span class="path-description">
     Put on the PN3 suit or straps and place each sensor carefully before calibration.
@@ -313,7 +313,7 @@ SECTION 4
 
 <div markdown="1">
 
-## 4. 👖 Wear and Place the Sensors
+## 4. Wear and Place the Sensors
 
 Use the sensor placement guide in **Axis Studio** as a reference.
 
@@ -381,7 +381,7 @@ SECTION 5
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>5. Complete the Initial Connection</strong>
+  <strong>5. 🔗 Complete the Initial Connection</strong>
   <br>
   <span class="path-description">
     Connect the suit in Axis Studio and complete the first automatic sensor alignment before posture calibration.
