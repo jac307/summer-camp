@@ -15,7 +15,7 @@ Most of these settings should be **checked**, not changed. Only adjust advanced 
 
 ---
 
-## Axis Studio Setup Panels
+## 🎛️ Axis Studio Setup Panels
 
 <div class="step-grid" markdown="1">
 
@@ -210,7 +210,7 @@ If something is not working, try this order:
 
 ---
 
-## Realtime Data
+## ⚡ Realtime Data
 
 Axis Studio can send motion-capture data to other 3D and animation software in real time.
 
