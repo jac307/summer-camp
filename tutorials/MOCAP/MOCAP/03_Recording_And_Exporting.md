@@ -138,7 +138,7 @@ Axis Studio automatically saves the recording in the selected output folder.
 <div class="step-grid" markdown="1">
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-01.png" alt="Editing window in Axis Studio">
+<img src="images/edit-step-01.png" alt="Editing window in Axis Studio">
 
 ### 1. Open the Editing Window
 
@@ -146,7 +146,7 @@ Go to the **Editing** window in Axis Studio.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-02.png" alt="Selecting a recorded take in Axis Studio">
+<img src="images/edit-step-02.png" alt="Selecting a recorded take in Axis Studio">
 
 ### 2. Select the Recording
 
@@ -154,7 +154,7 @@ On the right-side panel, under **Take Information**, double click on the take to
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-03.gif" alt="Timeline playback in Axis Studio">
+<img src="images/edit-step-03.gif" alt="Timeline playback in Axis Studio">
 
 ### 3. Review the Motion
 
@@ -164,31 +164,25 @@ Check that the motion looks clean before exporting.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-04.png" alt="Export icon in Axis Studio">
+<img src="images/edit-step-04.png" alt="Export icon in Axis Studio">
 
-### 4. Open Export Settings
+### 4. Adjust the Playback Speed
 
-Click the **Export** icon on the right-side panel.
+Click the **1x** dropdown menu on the timeline.
+
+You can speed up the animation by choosing **2x**, **5x**, or **10x**.
+
+You can slow down the animation by choosing **1/10**, **1/5**, or **1/2**.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-05.png" alt="BVH export settings in Axis Studio">
+<img src="images/edit-step-05.png" alt="BVH export settings in Axis Studio">
 
 ### 5. Choose BVH Format
 
 Confirm that the file type is set to `.bvh`.
 
 Set the frame range you want to export.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/export-bvh-step-06.png" alt="Selecting export directory in Axis Studio">
-
-### 6. Select Directory and Export
-
-Choose the folder where you want to save the file.
-
-Click **Export**.
 </div>
 
 </div>
