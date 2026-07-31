@@ -96,7 +96,7 @@ This opens the **Posture Calibration** panel.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/body_callibration_03.png" alt="Posture calibration options in Axis Studio">
+<img src="images/posture-calibration-step-03.png" alt="Posture calibration options in Axis Studio">
 
 ### 3. Enable the Required Poses
 
@@ -131,6 +131,19 @@ After calibration, a success message should appear.
 Check that the virtual avatar mirrors the performer’s movement smoothly.
 </div>
 
+</div>
+
+## Perception Neuron 3 | First Launch
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/KdryfjN8pvs?si=ANNxJWdKtMohntUB"
+    title="Perception Neuron 3 | First Launch"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
 
 </div>
@@ -277,19 +290,13 @@ If the avatar looks incorrect:
 - [ ] Tighten any loose straps.
 - [ ] Repeat posture calibration if needed.
 
+---
 
-## Perception Neuron 3 | First Launch
+## Continue to Record & Export Motion Data
 
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/KdryfjN8pvs?si=ANNxJWdKtMohntUB"
-    title="Perception Neuron 3 | First Launch"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+After the sensors are connected and worn correctly, continue with:
+
+🎥 Intro to Record & Export Motion Data in Axis Studio
 
 </div>
 </details>

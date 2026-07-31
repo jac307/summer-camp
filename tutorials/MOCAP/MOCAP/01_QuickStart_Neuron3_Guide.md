@@ -467,8 +467,6 @@ After the sensors are connected and worn correctly, continue with:
 
 [👤 Posture Calibration in Axis Studio](02_Body_Callibration.md){:target="_blank"}
 
----
-
 </div>
 </details>
 
