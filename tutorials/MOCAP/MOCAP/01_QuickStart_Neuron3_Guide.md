@@ -1,25 +1,46 @@
-[MOCAP Tutorials](README.md)
+---
+layout: default
+title: Motion Capture and Animation Foundations
+---
 
--------------------------------------------------------------------------------
-
-# ⚙️ PN3 QuickStart Guide  
-## Perception Neuron 3 (PN3) – General Setup & Sensor Initialization in Axis Studio
+[MOCAP Tutorials](README.md) | [Home](../../README.md)
 
 ---
 
-## 🧰 What You’ll Need:
-- Fully charged **PN3 sensors** and **hub**
-- PN3 **suit or straps**
-- **Axis Studio** installed on your computer
-- USB **receiver plugged into your computer**
-- **3×3 meter workspace** (minimum) free of obstacles and metal interference
+# ⚙️ PN3 QuickStart Guide
 
-### Perception Neuron 3 | Body Kit Unboxing
+**Activity:** Set up the Perception Neuron 3 body kit, check sensor connection, and prepare the suit for posture calibration in Axis Studio.
+
+---
+
+## 🎯 Goal
+
+Initialize the PN3 sensors correctly before recording motion capture. This guide helps you check that the hub, sensors, receiver, and Axis Studio are connected before the performer puts on the suit and completes posture calibration.
+
+---
+
+## 🧰 What You Need
+
+Before starting, make sure you have:
+
+- Fully charged **PN3 sensors**
+- Fully charged **PN3 hub**
+- PN3 **suit or straps**
+- **Axis Studio** installed on the computer
+- USB **receiver plugged into the computer**
+- A clear **3 × 3 meter workspace**
+- A space away from metal objects, speakers, or magnetic surfaces
+
+---
+
+## 📦 Perception Neuron 3 Body Kit Overview
+
+Watch this video for a general overview of the PN3 Body Kit.
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/MgAUYQAoXyk?si=TJ8aVa9u7bq6OLuC"
-    title="Perception Neuron 3 | Body Kit Unboxing"
+    title="Perception Neuron 3 Body Kit Unboxing"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -29,47 +50,94 @@
 
 ---
 
-## Step 1: Check Everything is Connected
+## 1. Open Axis Studio and Create a Project
 
-> Open **Axis Studio** and **Create New Project**. 
-> Go to the **Capturing** tab → **Sensor Check** panel.  
-> Make sure the device shows as **Connected** and all sensors are online.
+1. Open **Axis Studio**.
+2. Select **Create New Project**.
+3. Go to the **Capturing** tab.
+4. Open the **Sensor Check** panel.
+5. Confirm that the device appears as **Connected**.
 
 ![Sensor Check](images/setup_0.png){: .tutorial-image }
 
-## Step 2: Sensor Check
+---
 
-> **Axis Studio → Capturing Tab → Sensor Check** Panel  
-> Follow the on-screen instructions
+## 2. Run Sensor Check
+
+Go to:
+
+**Axis Studio → Capturing Tab → Sensor Check**
+
+Follow the on-screen instructions.
 
 ![Sensor Check](images/setup_2.png){: .tutorial-image2 }
 
-### 🔌 Turn On Sensors
-Choose one method, then click **Next**:
-- **Manual**: Hold the power button on the hub for 2 seconds  
-- **Auto**: Unplug and reconnect the USB-C power cable to auto-start sensors
+---
 
-### 🪑 Sensor Placement
-- Place sensors **on the charging dock** on a **non-magnetic table or stool**
-- Avoid magnetic surfaces or devices (metal desks, speakers, etc.)
-- Click **Next**
+## 3. Turn On the Sensors
 
-### ✅ Sensor Check
-The system will automatically run the following diagnostics:
-- **Signal Quality Check** – verifies stable wireless connection  
-- **Gyro Calibration** – aligns the sensors' internal orientation tracking  
-- **Alignment Check** – ensures correct placement and positioning of sensors
+Choose one method:
 
-### ✔️ Checking Result
-- All sensors must show as **Connected**
-- Click **Finish**
+### Option A: Manual Start
 
-### Perception Neuron 3 | Sensor Calibration
+- Hold the power button on the hub for **2 seconds**.
+
+### Option B: Auto Start
+
+- Unplug and reconnect the USB-C power cable to auto-start the sensors.
+
+Then click **Next**.
+
+---
+
+## 4. Prepare the Sensors for Checking
+
+Place the sensors on the charging dock before running the check.
+
+Make sure:
+
+- The sensors are on a **non-magnetic table or stool**
+- The sensors are not on a metal desk
+- The sensors are away from speakers, magnets, phones, or other electronic interference
+- The dock is stable and not being moved
+
+Click **Next**.
+
+---
+
+## 5. Complete the Sensor Diagnostics
+
+Axis Studio will automatically check:
+
+| Diagnostic | What it checks |
+|---|---|
+| **Signal Quality Check** | Confirms that the sensors have a stable wireless connection |
+| **Gyro Calibration** | Aligns the sensors’ internal orientation tracking |
+| **Alignment Check** | Confirms that the sensors are responding correctly |
+
+---
+
+## 6. Check the Results
+
+Before continuing, confirm that:
+
+- All sensors appear as **Connected**
+- No sensors are missing
+- No sensors show warning messages
+- The hub and receiver are working correctly
+
+When everything is connected, click **Finish**.
+
+---
+
+## 🎥 Sensor Calibration Video
+
+Watch this video for a visual explanation of the sensor calibration process.
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a"
-    title="Perception Neuron 3 | Sensor Calibration"
+    title="Perception Neuron 3 Sensor Calibration"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -79,33 +147,76 @@ The system will automatically run the following diagnostics:
 
 ---
 
-## 🧍 Step 3: Wear the Sensors
+## 7. Wear the Sensors
 
-### 🟢 Proper Sensor Placement  
-> Use the [PN Studio] tab in Axis Studio for reference.
+Use the sensor placement guide in Axis Studio as a reference.
 
 ![Sensor Wear](images/setup_1.png){: .tutorial-image2 }
 
-Key sensor locations:
-- **[1] Shoulders** – Attach to the **upper back** of each shoulder  
-- **[2] Hip** – Place firmly on the **back of your pelvis**, not lower back  
-- **[3] Upper Legs** – Attach on the **outside of each thigh**, not the front  
-- **Feet, arms, and wrists** – Follow strap guides for symmetrical placement
+Place the sensors carefully and symmetrically.
 
-### 🧠 How Sensors Work
-Each PN3 sensor uses an **inertial measurement unit (IMU)** to track movement through acceleration, rotation, and orientation.  
-The hub **receives data wirelessly** from each sensor and streams it to Axis Studio in real time for live motion tracking.
+Important sensor locations:
 
-> Click **Next** and follow the instructions to complete the initial general calibration.  
-> This calibration won’t be perfect — you will need to perform a full **Posture Calibration** in **Step 4**.
+| Body area | Placement |
+|---|---|
+| **Shoulders** | Attach to the upper back of each shoulder |
+| **Hip** | Place firmly on the back of the pelvis, not the lower back |
+| **Upper legs** | Attach on the outside of each thigh, not the front |
+| **Feet, arms, and wrists** | Follow the strap guides and keep placement symmetrical |
+
+---
+
+## 🧠 How the Sensors Work
+
+Each PN3 sensor uses an **inertial measurement unit**, or **IMU**, to track movement.
+
+The sensors detect:
+
+- Acceleration
+- Rotation
+- Orientation
+- Body movement in space
+
+The hub receives data wirelessly from the sensors and sends it to **Axis Studio** in real time. Axis Studio then translates the performer’s physical movement into digital motion.
+
+---
+
+## 8. Complete the Initial Calibration
+
+After putting on the sensors:
+
+1. Click **Next** in Axis Studio.
+2. Follow the instructions on screen.
+3. Complete the initial calibration.
+
+This first calibration helps Axis Studio recognize the sensor setup, but it is not the final body alignment.
+
+You will still need to complete a full **Posture Calibration** before recording.
 
 ![Sensor Wear](images/setup_4.png){: .tutorial-image }
 
 ---
 
-## Step 4: Posture Calibration
+## 9. Continue to Posture Calibration
 
-Follow the instructions in [🧍‍♂️ Posture Calibration in Axis Studio](2_Body_Callibration.md) to complete body alignment before recording.
+After the sensors are connected and worn correctly, continue with:
+
+[🧍 Posture Calibration in Axis Studio](2_Body_Callibration.md)
 
 ---
 
+## ✅ Final Check
+
+Before moving to posture calibration, confirm that:
+
+- [ ] Axis Studio is open.
+- [ ] The project has been created.
+- [ ] The USB receiver is connected.
+- [ ] The PN3 hub is turned on.
+- [ ] All sensors are connected.
+- [ ] The sensors passed the sensor check.
+- [ ] The performer is wearing the sensors correctly.
+- [ ] The workspace is clear of obstacles.
+- [ ] The performer is away from metal or magnetic interference.
+
+---
