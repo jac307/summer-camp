@@ -259,23 +259,70 @@ Recalibration is a normal part of motion-capture work. It is better to recalibra
 
 ---
 
-## Before Recording
+## Realtime Data
 
-Before recording motion capture, confirm that:
+### Perception Neuron | Blender Tutorial
 
-- [ ] Sensor Map looks correct.
-- [ ] Skeleton settings are acceptable.
-- [ ] Device Detail shows good signal and battery.
-- [ ] Solver Parameter settings are not accidentally changed.
-- [ ] The performer has completed posture calibration.
-- [ ] The avatar mirrors the performer smoothly.
-- [ ] The workspace is clear.
-- [ ] The motion looks clean enough to record.
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/cUA7KHcJOCo?si=wt-yREjPm69WYoEg"
+    title="Perception Neuron | Blender Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
----
+### Perception Neuron | Cinema 4D Real-time Streaming Tutorial
 
-## Continue to Recording and Export
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/UryW_N0fxUc?si=4iU-xZP35b1RS8Ys"
+    title="Perception Neuron | Cinema 4D Real-time Streaming Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-After the advanced setup has been checked, continue with:
+### Perception Neuron | Realtime mocap with Houdini
 
-[🎥 Intro to Record and Export Motion Data in Axis Studio](03_Record_Export_Axis_Studio.md)
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/w4kNOXLRC0A?si=RsqEj33af1cic1xi"
+    title="Perception Neuron | Realtime mocap with Houdini"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+### Perception Neuron Studio & Perception Neuron 3 | Real-time Maya Tutorial
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/Fl_RuA_vjxQ?si=Zn-t-rsS0xWSViIn"
+    title="Perception Neuron Studio & Perception Neuron 3 | Real-time Maya Tutorial"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+### Perception Neuron Mocap Today - Real-time with Unreal Engine
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/70-bEyGtqDs?si=k7EMSR9VbfPaDvho"
+    title="Perception Neuron Mocap Today - Real-time with Unreal Engine"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
