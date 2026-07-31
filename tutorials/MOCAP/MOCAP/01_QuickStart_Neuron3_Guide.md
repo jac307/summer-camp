@@ -276,19 +276,6 @@ If the sensors are all working correctly, you will get this message. Click Finis
   </iframe>
 </div>
 
-### Perception Neuron | Multi-Actor Calibration
-
-<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
-  <iframe
-    src="https://www.youtube.com/embed/_2yBt1xjFaE?si=G4yZPmR0c5BU2Ew1"
-    title="Perception Neuron | Multi-Actor Calibration"
-    style="width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-
 </div>
 </details>
 

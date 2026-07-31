@@ -9,25 +9,9 @@ title: Motion Capture and Animation Foundations
 
 # ⚙️ Advanced Axis Studio Setup Panels
 
-**Activity:** Review the advanced setup panels in Axis Studio and learn how to check sensor mapping, skeleton settings, device details, and solver parameters before recording motion capture.
+This guide explains the main setup panels in **Axis Studio**. These panels are useful when troubleshooting sensor problems, checking body measurements, reviewing signal quality, or confirming that the software is interpreting the performer’s movement correctly.
 
-This guide explains the main setup panels in Axis Studio. These panels are useful when troubleshooting sensor problems, checking body measurements, reviewing signal quality, or confirming that the software is interpreting the performer’s movement correctly.
-
----
-
-## Important Note
-
-Most of these settings should be **checked**, not changed.
-
-Only adjust advanced settings if:
-
-- The instructor asks you to.
-- A sensor is missing or placed incorrectly.
-- The avatar does not match the performer’s body.
-- The avatar is drifting, twisting, or reacting incorrectly.
-- The motion data looks unstable after calibration.
-
-When in doubt, keep the default settings and ask for help before changing advanced parameters.
+Most of these settings should be **checked**, not changed. Only adjust advanced settings if the instructor asks you to, or if you are troubleshooting a specific problem.
 
 ---
 
@@ -77,9 +61,9 @@ You may see settings such as:
 - Upper leg
 - Lower leg
 
-For most class activities, use the default template unless the avatar looks very different from the performer’s body.
+For most activities, use the default template unless the avatar looks very different from the performer’s body.
 
-Only adjust body measurements if the instructor asks you to or if accurate body proportions are needed for the recording.
+Only adjust these measurements if the instructor asks you to or if accurate body proportions are required for the recording.
 </div>
 
 <div class="step-card" markdown="1">
@@ -97,7 +81,7 @@ Use this panel to check:
 - Magnetic status
 - Battery level
 
-Before recording, most sensors should show strong signal and good battery status.
+Before recording, sensors should show strong signal, good magnetic status, and enough battery.
 
 If a sensor shows a warning, weak signal, low battery, or magnetic interference, stop and fix the issue before recording.
 </div>
@@ -127,121 +111,6 @@ Check that **Feet** contact is enabled when the performer is standing or walking
 
 ---
 
-## Sensor Map Panel
-
-The **Sensor Map** is one of the most important panels for setup. It gives a visual overview of the PN3 sensor system.
-
-Use it to confirm that the digital body is receiving information from the sensors.
-
-Check:
-
-- The body map shows active sensors.
-- The sensors are placed on the correct parts of the body.
-- The performer’s left side matches the avatar’s left side.
-- The performer’s right side matches the avatar’s right side.
-- The character name is correct.
-- The working mode is appropriate for the setup.
-- The frame rate is set correctly.
-
-In most cases, the working mode can stay on **Auto Detection**.
-
----
-
-## Skeleton Panel
-
-The **Skeleton** panel controls the performer’s digital body proportions.
-
-This panel is useful if the avatar looks too tall, too short, too wide, or if the arms and legs do not match the performer’s movement correctly.
-
-Use this panel carefully. Changing measurements can affect how the motion is interpreted.
-
-Only adjust measurements when:
-
-- The avatar proportions are clearly inaccurate.
-- Arm movement looks stretched or compressed.
-- Leg movement does not match the performer.
-- The instructor asks you to enter specific body measurements.
-
-For quick class projects, the default **PN Robot** template is usually enough.
-
----
-
-## Device Detail Panel
-
-The **Device Detail** panel is useful for troubleshooting.
-
-Each row represents one sensor and its assigned body segment.
-
-Important columns include:
-
-| Column | What it means |
-|---|---|
-| **Body Segment** | The body part assigned to the sensor |
-| **Sensor** | The sensor number |
-| **Signal** | The wireless connection strength |
-| **Magnetic** | Whether the sensor is affected by magnetic interference |
-| **Battery** | The battery level of the sensor |
-
-Before continuing, check that:
-
-- Signal levels are strong.
-- Magnetic status is good.
-- Battery levels are not low.
-- No sensors are missing.
-- No sensors are assigned to the wrong body part.
-
-If a sensor has a problem, check the sensor, strap, receiver, and workspace before recording.
-
----
-
-## Solver Parameter Panel
-
-The **Solver Parameter** panel controls how Axis Studio interprets sensor data and converts it into body movement.
-
-This panel affects how the avatar understands:
-
-- Feet touching the floor
-- Hand contact
-- Hip contact
-- Balance
-- Walking stability
-- Body constraints
-- Contact sensitivity
-
-For most recordings, leave the solver settings at their default values.
-
-You may check:
-
-- **Scenario:** Use a single-level setup when the performer is moving on one flat surface.
-- **Contact Points:** Feet should usually be enabled for standing or walking.
-- **Constraint Mode:** Use the default mode unless instructed otherwise.
-- **Yaw and Pitch:** Keep these unchanged unless correcting a specific tracking issue.
-
-Use **Reset Parameters** if the settings have been changed accidentally and the avatar is behaving incorrectly.
-
----
-
-## Troubleshooting Checklist
-
-Use this checklist if the avatar is not moving correctly.
-
-- [ ] All sensors are turned on.
-- [ ] All sensors are charged.
-- [ ] The receiver is connected.
-- [ ] The hub is connected.
-- [ ] The Sensor Map shows the correct body placement.
-- [ ] Left and right sensors are not reversed.
-- [ ] The Device Detail panel shows good signal.
-- [ ] The Device Detail panel shows good magnetic status.
-- [ ] The batteries are not low.
-- [ ] The performer is away from metal objects, speakers, magnets, or electronic interference.
-- [ ] The skeleton settings have not been changed accidentally.
-- [ ] Solver parameters are still on the default settings.
-- [ ] The performer has completed posture calibration.
-- [ ] The avatar has been tested before recording.
-
----
-
 ## When to Recalibrate
 
 Recalibrate when:
@@ -259,7 +128,104 @@ Recalibration is a normal part of motion-capture work. It is better to recalibra
 
 ---
 
+## Multi-Actor Calibration
+
+This video explains how calibration works when more than one performer is being captured.
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/_2yBt1xjFaE?si=G4yZPmR0c5BU2Ew1"
+    title="Perception Neuron | Multi-Actor Calibration"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+## 🚦 Sensor Light Troubleshooting
+
+Use the sensor lights and the **Device Detail** panel in Axis Studio to check whether the PN3 system is ready.
+
+Sensor lights can show battery status, connection status, working mode, channel information, or possible interference.
+
+---
+
+## PN3 Sensor Lights
+
+| Light or behaviour | What it may mean | What to do |
+|---|---|---|
+| **Slow blinking light** | The sensor may be in standby mode to save power. | Connect the suit in Axis Studio or turn the sensor on again if needed. |
+| **Fast blinking light** | The sensor is active and transferring data. | This is normal when the sensors are working. |
+| **Solid light** | The sensor may be detecting magnetic interference. | Move away from metal tables, speakers, magnets, phones, or electronic equipment. |
+| **Red light** | The sensor may have low battery or may be charging. | Charge the sensor fully before continuing. |
+| **Green light** | The sensor may be using Channel 1. | This is normal if the system is set to Channel 1. |
+| **Blue light** | The sensor may be using Channel 2. | This is normal if the system is set to Channel 2. |
+| **Purple light** | The sensor may be using Channel 3. | This is normal if the system is set to Channel 3. |
+
+---
+
+## Receiver / Transceiver Lights
+
+| Light | What it may mean | What to do |
+|---|---|---|
+| **Solid red light** | The transceiver may be waiting for connection or assignment. | Wait briefly. If it does not connect, unplug and reconnect the receiver. |
+| **Green light** | The transceiver may be using Channel 1. | This is normal if the sensors are also using Channel 1. |
+| **Blue light** | The transceiver may be using Channel 2. | This is normal if the sensors are also using Channel 2. |
+| **Purple light** | The transceiver may be using Channel 3. | This is normal if the sensors are also using Channel 3. |
+| **Yellow light** | The transceiver may have stopped broadcasting or may not be communicating correctly. | Check the connection, restart Axis Studio, or reconnect the receiver. |
+
+---
+
+## Common Sensor Problems
+
+| Problem | Possible cause | Fix |
+|---|---|---|
+| A sensor does not appear in Axis Studio | Sensor is off, battery is low, or receiver is not connected | Turn on the sensor, charge it, and reconnect the receiver |
+| A sensor shows low battery | Sensor was not fully charged | Charge all sensors before running Sensor Check again |
+| Magnetic status is not good | Sensor is near metal or electronic interference | Move to a non-magnetic table, stool, or open space |
+| Avatar body part moves incorrectly | Sensor may be on the wrong body part | Check the Sensor Map and physical placement |
+| Left and right sides are reversed | Sensors are placed on the wrong side | Swap the sensors or correct the placement |
+| Motion jitters or snaps | Weak signal, loose strap, or interference | Tighten straps, check signal, and move away from interference |
+| Avatar drifts after calibration | Sensor shifted or calibration was not accurate | Recheck placement and repeat posture calibration |
+
+---
+
+## Quick Fix Order
+
+If something is not working, try this order:
+
+1. Check that the receiver is plugged in.
+2. Check that all sensors are turned on.
+3. Check the battery level.
+4. Move away from metal or magnetic objects.
+5. Check the **Device Detail** panel.
+6. Check the **Sensor Map** panel.
+7. Tighten or reposition loose sensors.
+8. Run **Sensor Check** again.
+9. Repeat **Posture Calibration**.
+10. Restart Axis Studio if the problem continues.
+
+---
+
 ## Realtime Data
+
+Axis Studio can send motion-capture data to other 3D and animation software in real time.
+
+This is useful when you want to:
+
+- Preview the performer’s movement on a character in another program.
+- Test live animation workflows.
+- Send motion data to a 3D scene.
+- Connect motion capture to game engines or visual effects software.
+
+Realtime streaming is more advanced than recording and exporting `.bvh` files. For most class projects, record and export your motion first. Use realtime data only if the instructor asks you to test a live workflow.
+
+---
+
+## Realtime Data Tutorials
 
 ### Perception Neuron | Blender Tutorial
 
@@ -287,7 +253,7 @@ Recalibration is a normal part of motion-capture work. It is better to recalibra
   </iframe>
 </div>
 
-### Perception Neuron | Realtime mocap with Houdini
+### Perception Neuron | Realtime Mocap with Houdini
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
@@ -313,7 +279,6 @@ Recalibration is a normal part of motion-capture work. It is better to recalibra
   </iframe>
 </div>
 
-
 ### Perception Neuron Mocap Today - Real-time with Unreal Engine
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
@@ -326,3 +291,5 @@ Recalibration is a normal part of motion-capture work. It is better to recalibra
     allowfullscreen>
   </iframe>
 </div>
+
+---
