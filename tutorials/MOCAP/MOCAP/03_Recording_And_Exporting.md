@@ -127,13 +127,13 @@ Axis Studio automatically saves the recording in the selected output folder.
   <strong>2️⃣ Review and Edit</strong>
   <br>
   <span class="path-description">
-    Open the recorded take, review the motion, and edit if need it.
+    Open the recorded take, review the motion, and edit it if needed.
   </span>
 </summary>
 
 <div markdown="1">
 
-## Reviewing and Exporting Steps
+## Reviewing and Editing Steps
 
 <div class="step-grid" markdown="1">
 
@@ -178,19 +178,28 @@ You can slow down the animation by choosing **1/10**, **1/5**, or **1/2**.
 <div class="step-card" markdown="1">
 <img src="images/edit-step-05.png" alt="BVH export settings in Axis Studio">
 
-### 5. Choose BVH Format
+### 5. Trim the Beginning or End
 
-Confirm that the file type is set to `.bvh`.
+Use the timeline to trim unwanted frames from the beginning or end of the recording.
 
-Set the frame range you want to export.
+Drag the left edge to change the starting frame.
+
+Drag the right edge to change the ending frame.
+
+As you drag, Axis Studio will show the updated frame position.
 </div>
 
 </div>
 
 ## Tips
 
-- Avoid leaving extra empty time at the beginning or end of the exported file.
-- Review the motion in **Axis Studio playback** before exporting.
+- Play the full recording before trimming.
+- Watch the avatar carefully for twisting, snapping, jittering, or drifting.
+- Use the playback speed menu to review movement slowly when checking details.
+- Trim empty time from the beginning and end of the take.
+- Leave a small amount of space before and after the main movement so the animation does not start or end too abruptly.
+- Do not trim important preparation or recovery movement if it is part of the action.
+- Review the edited take in **Axis Studio playback** before exporting.
 
 </div>
 </details>
@@ -199,7 +208,7 @@ Set the frame range you want to export.
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2️⃣ Review and Export the Recording</strong>
+  <strong>3️⃣ Export</strong>
   <br>
   <span class="path-description">
     Open the recorded take, review the motion, and export it as a .bvh file.
@@ -215,43 +224,13 @@ Set the frame range you want to export.
 <div class="step-card" markdown="1">
 <img src="images/export-bvh-step-01.png" alt="Editing window in Axis Studio">
 
-### 1. Open the Editing Window
+### 1. Open Export Settings
 
-Go to the **Editing** window in Axis Studio.
+On the editing panel, click the **Export** icon on the right-side panel.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/export-bvh-step-02.png" alt="Selecting a recorded take in Axis Studio">
-
-### 2. Select the Recording
-
-On the right-side panel, under **Take Information**, select your recording.
-
-For example:
-
-`walk_cycle_001`
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/export-bvh-step-03.png" alt="Timeline playback in Axis Studio">
-
-### 3. Review the Motion
-
-Use the timeline panel to play the recording.
-
-Check that the motion looks clean before exporting.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/export-bvh-step-04.png" alt="Export icon in Axis Studio">
-
-### 4. Open Export Settings
-
-Click the **Export** icon on the right-side panel.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/export-bvh-step-05.png" alt="BVH export settings in Axis Studio">
+<img src="images/export-bvh-step-01.png" alt="BVH export settings in Axis Studio">
 
 ### 5. Choose BVH Format
 
