@@ -42,7 +42,7 @@
 > **Axis Studio → Capturing Tab → Sensor Check** Panel  
 > Follow the on-screen instructions
 
-![Sensor Check](images/setup_2.png){: .tutorial-image }
+![Sensor Check](images/setup_2.png){: .tutorial-image2 }
 
 ### 🔌 Turn On Sensors
 Choose one method, then click **Next**:
@@ -84,7 +84,7 @@ The system will automatically run the following diagnostics:
 ### 🟢 Proper Sensor Placement  
 > Use the [PN Studio] tab in Axis Studio for reference.
 
-![Sensor Wear](images/setup_1.png){: .tutorial-image }
+![Sensor Wear](images/setup_1.png){: .tutorial-image2 }
 
 Key sensor locations:
 - **[1] Shoulders** – Attach to the **upper back** of each shoulder  
