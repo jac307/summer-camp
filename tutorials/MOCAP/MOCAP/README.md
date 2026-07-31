@@ -25,7 +25,7 @@ The system works with **Axis Studio**, software that displays body movement in r
 
 In these tutorials, you will learn how to set up the motion-capture equipment, calibrate the performer, record movement in Axis Studio, and apply the recorded motion to a 3D character in Blender.
 
-<a href="https://www.noitom.com/axis-studio" target="_blank" rel="noopener noreferrer"><strong>Learn more about Axis Studio</strong></a>
+<a href="https://www.noitom.com/productinfo.html?id=1" target="_blank" rel="noopener noreferrer"><strong>Learn more about Axis Studio</strong></a>
 
 ---
 

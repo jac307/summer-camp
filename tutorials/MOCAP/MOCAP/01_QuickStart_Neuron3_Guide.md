@@ -3,7 +3,7 @@ layout: default
 title: Motion Capture and Animation Foundations
 ---
 
-[MOCAP Tutorials](README.md) | [Home](../../README.md)
+[MOCAP Tutorials](README.md)
 
 ---
 
