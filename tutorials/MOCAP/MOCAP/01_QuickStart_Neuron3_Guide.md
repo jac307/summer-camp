@@ -11,11 +11,9 @@ title: Motion Capture and Animation Foundations
 
 **Activity:** Set up the Perception Neuron 3 body kit, check sensor connection, and prepare the suit for posture calibration in Axis Studio.
 
----
+**Goal:** Initialize the PN3 sensors correctly before recording motion capture.   
 
-## 🎯 Goal
-
-Initialize the PN3 sensors correctly before recording motion capture. This guide helps you check that the hub, sensors, receiver, and Axis Studio are connected before the performer puts on the suit and completes posture calibration.
+his guide helps you check that the hub, sensors, receiver, and Axis Studio are connected before the performer puts on the suit and completes posture calibration.
 
 ---
 
@@ -70,7 +68,7 @@ Go to:
 
 Follow the on-screen instructions.
 
-![Sensor Check](images/setup_2.png){: .tutorial-image2 }
+![Sensor Check](images/setup_2.png){: .tutorial-image }
 
 ---
 
@@ -151,7 +149,7 @@ Watch this video for a visual explanation of the sensor calibration process.
 
 Use the sensor placement guide in Axis Studio as a reference.
 
-![Sensor Wear](images/setup_1.png){: .tutorial-image2 }
+![Sensor Wear](images/setup_1.png){: .tutorial-image }
 
 Place the sensors carefully and symmetrically.
 
