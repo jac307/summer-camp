@@ -25,7 +25,7 @@ SECTION 1
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>What You Need + PN3 Body Kit Overview</strong>
+  <strong>1. What You Need + PN3 Body Kit Overview</strong>
   <br>
   <span class="path-description">
     Review the required equipment and watch a short overview of the Perception Neuron 3 Body Kit.
@@ -172,72 +172,101 @@ SECTION 2
 /////////////////
 -->
 
+<details class="software-section">
+<summary class="software-title">
+  <strong>2. Run Sensor Check</strong>
+  <br>
+  <span class="path-description">
+    Prepare the sensors, run the Sensor Check in Axis Studio, and confirm that all sensors are connected correctly.
+  </span>
+</summary>
 
-## 2. Run Sensor Check
+<div markdown="1">
 
-Go to:
+## Prepare the Sensors for Checking
 
-**Axis Studio → Capturing Tab → Sensor Check**
-
-Follow the on-screen instructions.
-
-![Sensor Check](images/setup_2.png){: .tutorial-image }
-
----
-
-## 3. Turn On the Sensors
-
-Choose one method:
-
-### Option A: Manual Start
-
-- Hold the power button on the hub for **2 seconds**.
-
-### Option B: Auto Start
-
-- Unplug and reconnect the USB-C power cable to auto-start the sensors.
-
-Then click **Next**.
-
----
-
-## 4. Prepare the Sensors for Checking
-
-Place the sensors on the charging dock before running the check.
+Before running the Sensor Check, place the sensors on the charging dock.
 
 Make sure:
 
-- The sensors are on a **non-magnetic table or stool**
-- The sensors are not on a metal desk
-- The sensors are away from speakers, magnets, phones, or other electronic interference
-- The dock is stable and not being moved
+- The sensors are fully charged. Charging may take **3–4 hours**.
+- The sensors are on a **non-magnetic table or stool**.
+- The sensors are **not** on a metal desk.
+- The sensors are away from speakers, magnets, phones, or other electronic interference.
+- The dock is stable and not being moved.
+
+---
+
+## Sensor Check Steps
+
+<div class="step-grid" markdown="1">
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-01.png" alt="Sensor Check button in Axis Studio">
+
+### 1. Open Sensor Check
+
+In the **Capturing** tab, go to **Suits** and click **Sensor Check**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-02.png" alt="Turn on sensors instruction in Axis Studio">
+
+### 2. Turn On the Sensors
+
+Turn on all sensors.
+
+Then click **Next**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-03.png" alt="Sensors placed on charging dock on a stable surface">
+
+### 3. Place Sensors on a Stable Surface
+
+Place the sensors on the charging dock on a steady table or bar stool.
+
+Avoid metal or magnetic surfaces.
 
 Click **Next**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-04.png" alt="Sensor Check running in Axis Studio">
+
+### 4. Wait for the Sensor Check
+
+Wait while Axis Studio checks the sensors.
+
+Do not move the sensors or the dock while the check is running.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-05.png" alt="Sensor Check results in Axis Studio">
+
+### 5. Check the Results
+
+Confirm that all sensors appear as connected.
+
+If you get a warning, it may be because the battery is low. Fully charge all sensors and run the Sensor Check again.
+</div>
+
+</div>
 
 ---
 
-## 5. Complete the Sensor Diagnostics
+## ✅ Before Continuing
 
-Axis Studio will automatically check:
+Make sure:
 
-| Diagnostic | What it checks |
-|---|---|
-| **Signal Quality Check** | Confirms that the sensors have a stable wireless connection |
-| **Gyro Calibration** | Aligns the sensors’ internal orientation tracking |
-| **Alignment Check** | Confirms that the sensors are responding correctly |
+- [ ] All sensors are connected.
+- [ ] No sensors are missing.
+- [ ] No warning messages appear.
+- [ ] The sensors have enough battery.
+- [ ] The sensors stayed still during the check.
 
----
-
-## 6. Check the Results
-
-Before continuing, confirm that:
-
-- All sensors appear as **Connected**
-- No sensors are missing
-- No sensors show warning messages
-- The hub and receiver are working correctly
-
-When everything is connected, click **Finish**.
+</div>
+</details>
 
 ---
 
