@@ -272,7 +272,6 @@ You can open and preview `.bvh` files in:
 
 - Review the motion in **Axis Studio playback** before exporting.
 - Make sure the beginning and end of the take have already been trimmed.
-- Avoid exporting extra empty time at the beginning or end of the file.
 - Use clear file names, such as `performer_movement_take01.bvh`.
 - Save the exported `.bvh` file in a folder you can easily find later.
 - If the exported file does not look correct in Blender, return to Axis Studio, check the take, and export again.
