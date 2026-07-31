@@ -140,3 +140,42 @@ tbody tr:nth-child(even) {
 details[open] .path-description {
   display: none;
 }
+
+/* Two-column step cards */
+.step-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.step-card {
+  background: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.step-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+}
+
+.step-card h3 {
+  margin-top: 0;
+  color: #722F37;
+}
+
+.step-card p {
+  line-height: 1.5;
+}
+
+/* Mobile: one column */
+@media (max-width: 700px) {
+  .step-grid {
+    grid-template-columns: 1fr;
+  }
+}

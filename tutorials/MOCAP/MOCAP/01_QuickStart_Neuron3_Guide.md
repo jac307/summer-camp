@@ -48,17 +48,111 @@ Watch this video for a general overview of the PN3 Body Kit.
 
 ---
 
-## 1. Open Axis Studio and Create a Project
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
 
-1. Open **Axis Studio**.
-2. Select **Create New Project**.
-3. Go to the **Capturing** tab.
-4. Open the **Sensor Check** panel.
-5. Confirm that the device appears as **Connected**.
 
-![Sensor Check](images/setup_0.png){: .tutorial-image }
+<details class="software-section">
+<summary class="software-title">
+  <strong>1. Open Axis Studio and Create a Project</strong>
+  <br>
+  <span class="path-description">
+    Connect the USB dongle, open Axis Studio, create a project, and confirm that the PN3 device is connected.
+  </span>
+</summary>
 
----
+<div markdown="1">
+
+<div class="step-grid" markdown="1">
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-01.png" alt="USB dongle connected to the computer">
+
+### 1. Plug in the USB Dongle
+
+Plug the **USB dongle** into the computer.
+
+This dongle is necessary to open **Axis Studio**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-02.png" alt="Axis Studio login screen">
+
+### 2. Open Axis Studio
+
+Open **Axis Studio**.
+
+If the USB dongle is not connected, the software may ask you to log in. If this happens, connect the dongle, close Axis Studio, and open it again.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-03.png" alt="Create New Project button in Axis Studio">
+
+### 3. Create a New Project
+
+Select **Create New Project**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-04.png" alt="Capturing tab in Axis Studio">
+
+### 4. Open the Capturing Tab
+
+Go to the **Capturing** tab.
+
+At this stage, the sensors may not be connected yet.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-05.png" alt="USB-C receiver connected to the computer">
+
+### 5. Connect the USB-C Receiver
+
+Connect the **USB-C receiver** to the computer.
+
+This receiver allows the PN3 sensors to communicate with Axis Studio.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-06.png" alt="PN3 sensors in the charging case">
+
+### 6. Turn On the Sensors
+
+Turn on all of the sensors.
+
+You can do this by connecting the charging cable to the dock. The sensors should turn on while they are lined up in the case.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-07.png" alt="Connected device in Axis Studio">
+
+### 7. Confirm the Device Is Connected
+
+Confirm that the device appears as **Connected** in Axis Studio.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/setup-step-08.png" alt="PN3 sensors kept in their case">
+
+### 8. Keep the Sensors in the Case
+
+For now, keep the sensors in their case until you are ready to continue with the sensor check and placement.
+</div>
+
+</div>
+
+</div>
+</details>
+
+<!--
+/////////////////
+SECTION 2
+/////////////////
+-->
+
 
 ## 2. Run Sensor Check
 
@@ -195,14 +289,6 @@ You will still need to complete a full **Posture Calibration** before recording.
 
 ---
 
-## 9. Continue to Posture Calibration
-
-After the sensors are connected and worn correctly, continue with:
-
-[🧍 Posture Calibration in Axis Studio](2_Body_Callibration.md)
-
----
-
 ## ✅ Final Check
 
 Before moving to posture calibration, confirm that:
@@ -216,5 +302,13 @@ Before moving to posture calibration, confirm that:
 - [ ] The performer is wearing the sensors correctly.
 - [ ] The workspace is clear of obstacles.
 - [ ] The performer is away from metal or magnetic interference.
+
+---
+
+## 9. Continue to Posture Calibration
+
+After the sensors are connected and worn correctly, continue with:
+
+[🧍 Posture Calibration in Axis Studio](2_Body_Callibration.md)
 
 ---
