@@ -140,7 +140,7 @@ Check that the virtual avatar mirrors the performer’s movement smoothly.
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. Calibration Poses Explained</strong>
+  <strong>2. 👤 Calibration Poses Explained</strong>
   <br>
   <span class="path-description">
     Review each posture and what it helps Axis Studio calibrate.
@@ -242,7 +242,7 @@ Keep:
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>3. Check the Calibration</strong>
+  <strong>3. ✅ Check the Calibration</strong>
   <br>
   <span class="path-description">
     Test the avatar and repeat calibration if the movement looks inaccurate.
@@ -251,86 +251,32 @@ Keep:
 
 <div markdown="1">
 
-## Test the Motion
+## Test the Motion Before Recording
 
-<div class="step-grid" markdown="1">
-
-<div class="step-card" markdown="1">
-<img src="images/posture-calibration-check-01.png" alt="Avatar moving in Axis Studio">
-
-### 1. Move Slowly
-
-Perform simple movements first.
-
-Try:
-
-- Raising both arms
-- Turning the torso
-- Bending the knees slightly
-- Taking a few slow steps
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/posture-calibration-check-02.png" alt="Avatar tracking check in Axis Studio">
-
-### 2. Check the Avatar
-
-Watch the avatar carefully.
-
-The avatar should mirror the performer’s movement smoothly, without twisting, snapping, drifting, or jittering.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/posture-calibration-check-03.png" alt="Sensor placement warning in Axis Studio">
-
-### 3. Fix Problems
-
-If the avatar looks incorrect, check the sensor placement.
-
-A sensor may have shifted, been placed on the wrong side, or become loose.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/posture-calibration-check-04.png" alt="Repeating posture calibration in Axis Studio">
-
-### 4. Recalibrate if Needed
-
-Repeat posture calibration if tracking is inaccurate.
-
-Recalibration is normal and may be necessary when switching performers.
-</div>
-
-</div>
-
----
-
-## ✅ Before Recording
+Before recording motion capture, test the avatar carefully.
 
 Make sure:
 
+- [ ] The performer can move slowly and comfortably.
 - [ ] The avatar stands naturally.
+- [ ] The avatar mirrors the performer’s movements smoothly.
+- [ ] The arms raise correctly.
+- [ ] The torso turns correctly.
+- [ ] The knees bend correctly.
+- [ ] Slow walking looks stable.
 - [ ] Arms and legs are not twisted.
-- [ ] Walking looks stable.
-- [ ] There is no major drifting.
-- [ ] The performer can move comfortably.
+- [ ] There is no snapping, jittering, or major drifting.
 - [ ] The sensors are still secure.
+- [ ] No sensors have shifted or become loose.
 - [ ] The motion looks clean enough to record.
 
-</div>
-</details>
+If the avatar looks incorrect:
 
----
+- [ ] Check the sensor placement.
+- [ ] Confirm that left and right sensors are not reversed.
+- [ ] Tighten any loose straps.
+- [ ] Repeat posture calibration if needed.
 
-<details class="software-section">
-<summary class="software-title">
-  <strong>🎥 Perception Neuron 3 First Launch Video</strong>
-  <br>
-  <span class="path-description">
-    Watch a video guide for launching and setting up Perception Neuron 3.
-  </span>
-</summary>
-
-<div markdown="1">
 
 ## Perception Neuron 3 | First Launch
 
