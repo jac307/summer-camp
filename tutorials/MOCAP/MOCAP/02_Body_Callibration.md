@@ -98,29 +98,33 @@ This opens the **Posture Calibration** panel.
 <div class="step-card" markdown="1">
 <img src="images/body_callibration_03.png" alt="Posture calibration options in Axis Studio">
 
-### 3. Enable the Required Poses and Start Calibration
+### 3. Enable the Required Poses
 
 Enable the posture types required for calibration.
 
 Use the poses requested by Axis Studio, such as **T-Pose**, **W**, and **P-Pose**.
 
-Click **Start Calibration**.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/posture-calibration-step-05.png" alt="Performer standing still during posture calibration">
+<img src="images/posture-calibration-step-04.png" alt="Performer standing still during posture calibration">
 
-### 4. Remain Still
+### 4. Choose Manual Mode or Automatic Mode
+
+- **Manual Mode enabled:** You will need to click **Next** each time a new pose is ready to be recorded.
+- **Manual Mode disabled:** Axis Studio will move through the calibration steps automatically, giving you a short amount of time between poses.
+
+For beginners, **Manual Mode** is usually easier because it gives you more control over when each pose starts.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/posture-calibration-step-05.png" alt="Successful calibration message in Axis Studio">
+
+### 5. Start Calibration
+
+Click **Start Calibration** and follow the steps.
 
 During each countdown, the performer must remain completely still.
-
-Wait until Axis Studio tells you to move to the next pose.
-</div>
-
-<div class="step-card" markdown="1">
-<img src="images/posture-calibration-step-06.png" alt="Successful calibration message in Axis Studio">
-
-### 5. Confirm Calibration
 
 After calibration, a success message should appear.
 
