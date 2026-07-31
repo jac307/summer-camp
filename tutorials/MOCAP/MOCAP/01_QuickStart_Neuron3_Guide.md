@@ -189,7 +189,7 @@ Before running the Sensor Check, place the sensors on the charging dock.
 
 Make sure:
 
-- The sensors are fully charged. Charging may take **3–4 hours**.
+- The sensors are fully charged. Charging may take **3–4 hours** until the red light is turn off.
 - The sensors are on a **non-magnetic table or stool**.
 - The sensors are **not** on a metal desk.
 - The sensors are away from speakers, magnets, phones, or other electronic interference.
@@ -253,37 +253,36 @@ If you get a warning, it may be because the battery is low. Fully charge all sen
 
 </div>
 
----
+## 🎥 Sensor Calibration Videos
 
-## ✅ Before Continuing
-
-Make sure:
-
-- [ ] All sensors are connected.
-- [ ] No sensors are missing.
-- [ ] No warning messages appear.
-- [ ] The sensors have enough battery.
-- [ ] The sensors stayed still during the check.
-
-</div>
-</details>
-
----
-
-## 🎥 Sensor Calibration Video
-
-Watch this video for a visual explanation of the sensor calibration process.
+### Perception Neuron 3 | Sensor Calibration
 
 <div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
   <iframe
     src="https://www.youtube.com/embed/8yB58PIHUVw?si=XxTpHW7UXU7YPR9a"
-    title="Perception Neuron 3 Sensor Calibration"
+    title="Perception Neuron 3 | Sensor Calibration"
     style="width: 100%; height: 100%; border: 0;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen>
   </iframe>
 </div>
+
+### Perception Neuron | Multi-Actor Calibration
+
+<div style="width: 70vw; max-width: 100%; aspect-ratio: 16 / 9; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/_2yBt1xjFaE?si=G4yZPmR0c5BU2Ew1"
+    title="Perception Neuron | Multi-Actor Calibration"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+</div>
+</details>
 
 ---
 
