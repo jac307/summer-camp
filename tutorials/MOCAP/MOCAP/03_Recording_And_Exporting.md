@@ -7,7 +7,7 @@ title: Motion Capture and Animation Foundations
 
 ---
 
-# 🎥 Intro to Record and Export Motion Data in Axis Studio
+# 🎥 Record and Export Motion Data in Axis Studio
 
 **Activity:** Record motion-capture data in Axis Studio using the Perception Neuron 3 system and export the recording as a `.bvh` file.
 
@@ -43,7 +43,7 @@ Before recording, make sure:
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>1. Record Motion Data</strong>
+  <strong>1️⃣ Record Motion Data</strong>
   <br>
   <span class="path-description">
     Name the take, start recording, perform the movement, and stop the recording.
@@ -73,11 +73,8 @@ Find the **Take Information** section.
 
 Rename the take clearly before recording.
 
-Use a name that identifies the movement, for example:
+Use a name that identifies the person, date, and take, for example: `Cumbion_Jul31_take1.bvh`
 
-`walk_cycle_001`
-
-Optional: choose or confirm the output location where the recording will be saved.
 </div>
 
 <div class="step-card" markdown="1">
@@ -112,6 +109,15 @@ Axis Studio automatically saves the recording in the selected output folder.
 
 </div>
 
+## Tips
+
+- Use consistent file names, such as: `performer_date_take.bvh`
+- Rename each take before recording.
+- Recalibrate if the performer changes.
+- Recalibrate if tracking looks inaccurate.
+- Record short tests before recording the final movement.
+- Keep movements clear and intentional.
+
 </div>
 </details>
 
@@ -119,7 +125,7 @@ Axis Studio automatically saves the recording in the selected output folder.
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. Review and Export the Recording</strong>
+  <strong>2️⃣ Review and Export the Recording</strong>
   <br>
   <span class="path-description">
     Open the recorded take, review the motion, and export it as a .bvh file.
@@ -192,32 +198,10 @@ Click **Export**.
 
 </div>
 
-</div>
-</details>
-
----
-
-<details class="software-section">
-<summary class="software-title">
-  <strong>Tips for Recording and Exporting</strong>
-  <br>
-  <span class="path-description">
-    Use clear file names, review motion before exporting, and recalibrate when needed.
-  </span>
-</summary>
-
-<div markdown="1">
-
 ## Tips
 
-- Use consistent file names, such as: `performer_date_take.bvh`
-- Rename each take before recording.
-- Review the motion in **Axis Studio playback** before exporting.
-- Recalibrate if the performer changes.
-- Recalibrate if tracking looks inaccurate.
-- Record short tests before recording the final movement.
-- Keep movements clear and intentional.
 - Avoid leaving extra empty time at the beginning or end of the exported file.
+- Review the motion in **Axis Studio playback** before exporting.
 
 </div>
 </details>
