@@ -244,14 +244,24 @@ Do not move the sensors or the dock while the check is running.
 <div class="step-card" markdown="1">
 <img src="images/sensor-check-step-05.png" alt="Sensor Check results in Axis Studio">
 
-### 5. Check the Results
+### 5. Check the Results: Warnings
 
 Confirm that all sensors appear as connected.
 
-If you get a warning, it may be because the battery is low. Fully charge all sensors and run the Sensor Check again.
+If you get a warning, it may be because the battery is low or you must run the magnetic calligration (check video below).
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/sensor-check-step-06.png" alt="Sensor Check results in Axis Studio">
+
+### 5. Check the Results: Finished
+
+If the sensors are all working correctly, you will get this message. Click Finish. 
 </div>
 
 </div>
+
+---
 
 ## 🎥 Sensor Calibration Videos
 
@@ -294,7 +304,7 @@ SECTION 4
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>4. Wear and Place the Sensors</strong>
+  <strong>4. Wear and Connect Sensors</strong>
   <br>
   <span class="path-description">
     Put on the PN3 suit or straps and place each sensor carefully before calibration.
@@ -303,7 +313,7 @@ SECTION 4
 
 <div markdown="1">
 
-## 4. Wear and Place the Sensors
+## 4. 👖 Wear and Place the Sensors
 
 Use the sensor placement guide in **Axis Studio** as a reference.
 
@@ -332,7 +342,7 @@ Make sure:
 
 ---
 
-## 🧠 How the Sensors Work
+## How the Sensors Work
 
 Each PN3 sensor uses an **inertial measurement unit**, or **IMU**, to track movement.
 
@@ -363,45 +373,105 @@ Check that:
 </div>
 </details>
 
+<!--
+/////////////////
+SECTION 5
+/////////////////
+-->
+
+<details class="software-section">
+<summary class="software-title">
+  <strong>5. Complete the Initial Connection</strong>
+  <br>
+  <span class="path-description">
+    Connect the suit in Axis Studio and complete the first automatic sensor alignment before posture calibration.
+  </span>
+</summary>
+
+<div markdown="1">
+
+After putting on the sensors, complete the first connection step in **Axis Studio**.
+
+This step helps Axis Studio recognize the sensor setup and confirm that the performer is ready for calibration.
 
 ---
 
-## 8. Complete the Initial Calibration
+## Initial Connection Steps
 
-After putting on the sensors:
+<div class="step-grid" markdown="1">
 
-1. Click **Next** in Axis Studio.
-2. Follow the instructions on screen.
-3. Complete the initial calibration.
+<div class="step-card" markdown="1">
+<img src="images/initial-connection-step-01.png" alt="Connect button in Axis Studio">
 
-This first calibration helps Axis Studio recognize the sensor setup, but it is not the final body alignment.
+### 1. Click Connect
 
-You will still need to complete a full **Posture Calibration** before recording.
+In the **Capturing** tab, go to **Suits** and click **Connect**.
+</div>
 
-![Sensor Wear](images/setup_4.png){: .tutorial-image }
+<div class="step-card" markdown="1">
+<img src="images/initial-connection-step-02.png" alt="Sensor placement instructions in Axis Studio">
+
+### 2. Check Sensor Placement
+
+Axis Studio will show instructions to check the placement of the sensors.
+
+Review the placement carefully, then click **Next**.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/initial-connection-step-03.png" alt="Performer standing still during initial connection">
+
+### 3. Stay Still
+
+Stand still, or sit without moving, while Axis Studio completes the automatic connection step.
+
+Do not move until the software tells you to continue.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/initial-connection-step-04.png" alt="Initial connection complete in Axis Studio">
+
+### 4. Confirm the Connection
+
+Your initial connection should now be ready.
+
+Check that the suit appears connected and that there are no warning messages.
+</div>
+
+</div>
 
 ---
 
-## ✅ Final Check
+## Important Note
 
-Before moving to posture calibration, confirm that:
+This first connection helps Axis Studio recognize the sensor setup, but it is **not** the final body alignment.
 
-- [ ] Axis Studio is open.
-- [ ] The project has been created.
-- [ ] The USB receiver is connected.
-- [ ] The PN3 hub is turned on.
-- [ ] All sensors are connected.
-- [ ] The sensors passed the sensor check.
-- [ ] The performer is wearing the sensors correctly.
-- [ ] The workspace is clear of obstacles.
-- [ ] The performer is away from metal or magnetic interference.
+You still need to complete a full **Posture Calibration** before recording motion capture.
 
 ---
 
-## 9. Continue to Posture Calibration
+## ✅ Before Continuing
+
+Make sure:
+
+- [ ] The suit appears as connected in Axis Studio.
+- [ ] The performer stayed still during the connection process.
+- [ ] No sensor warnings appear.
+- [ ] The sensors are still placed correctly.
+- [ ] You are ready to continue to **Posture Calibration**.
+
+---
+
+## Continue to Posture Calibration
 
 After the sensors are connected and worn correctly, continue with:
 
-[🧍 Posture Calibration in Axis Studio](2_Body_Callibration.md)
+
+[🧍 Posture Calibration in Axis Studio](2_Body_Callibration.md){:target="_blank"}
+
+---
+
+</div>
+</details>
 
 ---
