@@ -102,7 +102,7 @@ Move clearly and avoid rushing. Stay within the safe recording space.
 
 ### 5. Stop Recording
 
-Click the **Record** icon again to stop recording.
+Click the **Stop** icon to stop recording.
 
 Axis Studio automatically saves the recording in the selected output folder.
 </div>
@@ -116,7 +116,87 @@ Axis Studio automatically saves the recording in the selected output folder.
 - Recalibrate if the performer changes.
 - Recalibrate if tracking looks inaccurate.
 - Record short tests before recording the final movement.
-- Keep movements clear and intentional.
+
+</div>
+</details>
+
+---
+
+<details class="software-section">
+<summary class="software-title">
+  <strong>2️⃣ Review and Edit</strong>
+  <br>
+  <span class="path-description">
+    Open the recorded take, review the motion, and edit if need it.
+  </span>
+</summary>
+
+<div markdown="1">
+
+## Reviewing and Exporting Steps
+
+<div class="step-grid" markdown="1">
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-01.png" alt="Editing window in Axis Studio">
+
+### 1. Open the Editing Window
+
+Go to the **Editing** window in Axis Studio.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-02.png" alt="Selecting a recorded take in Axis Studio">
+
+### 2. Select the Recording
+
+On the right-side panel, under **Take Information**, double click on the take to open it. 
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-03.gif" alt="Timeline playback in Axis Studio">
+
+### 3. Review the Motion
+
+Use the timeline panel to play the recording.
+
+Check that the motion looks clean before exporting.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-04.png" alt="Export icon in Axis Studio">
+
+### 4. Open Export Settings
+
+Click the **Export** icon on the right-side panel.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-05.png" alt="BVH export settings in Axis Studio">
+
+### 5. Choose BVH Format
+
+Confirm that the file type is set to `.bvh`.
+
+Set the frame range you want to export.
+</div>
+
+<div class="step-card" markdown="1">
+<img src="images/export-bvh-step-06.png" alt="Selecting export directory in Axis Studio">
+
+### 6. Select Directory and Export
+
+Choose the folder where you want to save the file.
+
+Click **Export**.
+</div>
+
+</div>
+
+## Tips
+
+- Avoid leaving extra empty time at the beginning or end of the exported file.
+- Review the motion in **Axis Studio playback** before exporting.
 
 </div>
 </details>
