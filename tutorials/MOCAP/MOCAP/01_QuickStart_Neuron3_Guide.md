@@ -25,7 +25,7 @@ SECTION 1
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>1. What You Need + PN3 Body Kit Overview</strong>
+  <strong>1. 👁 What You Need + PN3 Body Kit Overview</strong>
   <br>
   <span class="path-description">
     Review the required equipment and watch a short overview of the Perception Neuron 3 Body Kit.
@@ -76,7 +76,7 @@ SECTION 2
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. Open Axis Studio and Create a Project</strong>
+  <strong>2. 🚀 Launch Axis Studio and Create a Project</strong>
   <br>
   <span class="path-description">
     Connect the USB dongle, open Axis Studio, create a project, and confirm that the PN3 device is connected.
@@ -168,13 +168,13 @@ For now, keep the sensors in their case until you are ready to continue with the
 
 <!--
 /////////////////
-SECTION 2
+SECTION 3
 /////////////////
 -->
 
 <details class="software-section">
 <summary class="software-title">
-  <strong>2. Run Sensor Check</strong>
+  <strong>3. ⚙️ Run Sensor Check</strong>
   <br>
   <span class="path-description">
     Prepare the sensors, run the Sensor Check in Axis Studio, and confirm that all sensors are connected correctly.
@@ -286,15 +286,42 @@ If you get a warning, it may be because the battery is low. Fully charge all sen
 
 ---
 
-## 7. Wear the Sensors
+<!--
+/////////////////
+SECTION 4
+/////////////////
+-->
 
-Use the sensor placement guide in Axis Studio as a reference.
+<details class="software-section">
+<summary class="software-title">
+  <strong>4. Wear and Place the Sensors</strong>
+  <br>
+  <span class="path-description">
+    Put on the PN3 suit or straps and place each sensor carefully before calibration.
+  </span>
+</summary>
 
-![Sensor Wear](images/setup_1.png){: .tutorial-image }
+<div markdown="1">
 
-Place the sensors carefully and symmetrically.
+## 4. Wear and Place the Sensors
 
-Important sensor locations:
+Use the sensor placement guide in **Axis Studio** as a reference.
+
+![Sensor Wear](images/setup_1.png){: .tutorial-image-full }
+
+Place the sensors carefully and symmetrically. Sensor placement affects how accurately Axis Studio reads the performer’s movement.
+
+Make sure:
+
+- Sensors are attached firmly.
+- Sensors are placed on the correct body parts.
+- Left and right sensors are placed symmetrically.
+- Straps are secure but not uncomfortable.
+- Sensors do not slide when the performer moves.
+
+---
+
+## Important Sensor Locations
 
 | Body area | Placement |
 |---|---|
@@ -316,7 +343,26 @@ The sensors detect:
 - Orientation
 - Body movement in space
 
-The hub receives data wirelessly from the sensors and sends it to **Axis Studio** in real time. Axis Studio then translates the performer’s physical movement into digital motion.
+The hub receives data wirelessly from each sensor and sends it to **Axis Studio** in real time. Axis Studio then translates the performer’s physical movement into digital motion.
+
+---
+
+## ✅ Before Continuing
+
+Check that:
+
+- [ ] The performer is wearing all required sensors.
+- [ ] The sensors match the placement guide in Axis Studio.
+- [ ] The left and right sides are symmetrical.
+- [ ] The hip sensor is placed on the back of the pelvis.
+- [ ] The shoulder sensors are placed on the upper back.
+- [ ] The upper-leg sensors are placed on the outside of the thighs.
+- [ ] The performer can move comfortably.
+- [ ] The sensors stay in place when the performer moves.
+
+</div>
+</details>
+
 
 ---
 
