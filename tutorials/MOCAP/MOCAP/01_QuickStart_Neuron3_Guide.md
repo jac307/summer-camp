@@ -13,11 +13,28 @@ title: Motion Capture and Animation Foundations
 
 **Goal:** Initialize the PN3 sensors correctly before recording motion capture.   
 
-his guide helps you check that the hub, sensors, receiver, and Axis Studio are connected before the performer puts on the suit and completes posture calibration.
+This guide helps you check that the hub, sensors, receiver, and Axis Studio are connected before the performer puts on the suit and completes posture calibration.
 
 ---
 
-## 🧰 What You Need
+<!--
+/////////////////
+SECTION 1
+/////////////////
+-->
+
+<details class="software-section">
+<summary class="software-title">
+  <strong>What You Need + PN3 Body Kit Overview</strong>
+  <br>
+  <span class="path-description">
+    Review the required equipment and watch a short overview of the Perception Neuron 3 Body Kit.
+  </span>
+</summary>
+
+<div markdown="1">
+
+## What You Need
 
 Before starting, make sure you have:
 
@@ -31,7 +48,7 @@ Before starting, make sure you have:
 
 ---
 
-## 📦 Perception Neuron 3 Body Kit Overview
+## Perception Neuron 3 Body Kit Overview
 
 Watch this video for a general overview of the PN3 Body Kit.
 
@@ -46,18 +63,20 @@ Watch this video for a general overview of the PN3 Body Kit.
   </iframe>
 </div>
 
+</div>
+</details>
+
 ---
 
 <!--
 /////////////////
-SECTION 1
+SECTION 2
 /////////////////
 -->
 
-
 <details class="software-section">
 <summary class="software-title">
-  <strong>1. Open Axis Studio and Create a Project</strong>
+  <strong>2. Open Axis Studio and Create a Project</strong>
   <br>
   <span class="path-description">
     Connect the USB dongle, open Axis Studio, create a project, and confirm that the PN3 device is connected.
@@ -107,7 +126,7 @@ At this stage, the sensors may not be connected yet.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/setup-step-05.png" alt="USB-C receiver connected to the computer">
+<img src="images/setup-step-05.JPG" alt="USB-C receiver connected to the computer">
 
 ### 5. Connect the USB-C Receiver
 
@@ -117,7 +136,7 @@ This receiver allows the PN3 sensors to communicate with Axis Studio.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/setup-step-06.png" alt="PN3 sensors in the charging case">
+<img src="images/setup-step-06.JPG" alt="PN3 sensors in the charging case">
 
 ### 6. Turn On the Sensors
 
@@ -135,7 +154,7 @@ Confirm that the device appears as **Connected** in Axis Studio.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/setup-step-08.png" alt="PN3 sensors kept in their case">
+<img src="images/setup-step-08.JPG" alt="PN3 sensors kept in their case">
 
 ### 8. Keep the Sensors in the Case
 
