@@ -88,7 +88,7 @@ Wait a moment before moving so the beginning of the recording is clean.
 </div>
 
 <div class="step-card" markdown="1">
-<img src="images/record-export-step-04.png" alt="Performer moving during motion capture recording">
+<img src="images/record-export-step-04.gif" alt="Performer moving during motion capture recording">
 
 ### 4. Perform the Movement
 
