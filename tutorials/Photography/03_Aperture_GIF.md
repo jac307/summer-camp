@@ -939,7 +939,11 @@ Complete these steps separately for each GIF: **Aperture, ISO, and White Balance
 6. Position the label in the same place on every photograph.
 7. Use **View → Rulers** and drag guides from the rulers to align the labels consistently.
 8. Make sure the text is clearly visible against the photograph. Add a simple solid background behind the text when necessary.
-9. Save image: **File → Save**
+9. When the label is complete, flatten the image:
+   - Go to the **Layers** panel.
+   - Confirm that the text and image layers are visible.
+   - Select **Layer → Flatten Image**.
+10. Save the edited image: Select **File → Save**.
 
 > Check the Photoshop Text Tool and ruler tutorials below before adding the labels.
 > Repeat the same process with each image. 
