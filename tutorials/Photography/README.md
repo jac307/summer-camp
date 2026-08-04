@@ -40,11 +40,11 @@ Photography combines technical camera control with observation, composition, and
 
 * 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md) -->
 
-<!-- ### Additional Photography Resources
+### Additional Photography Resources
 
 * 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
 * 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
-* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md) -->
+* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
 
 ---
 
