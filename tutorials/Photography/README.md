@@ -18,6 +18,7 @@ Photography combines technical camera control with observation, composition, and
 ### Day 1
 
 * 📷 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
+
 <!-- * 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
 * ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md)
 * 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md) -->
