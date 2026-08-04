@@ -23,10 +23,11 @@ Photography combines technical camera control with observation, composition, and
 * 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md)
 
 
-<!-- ### Day 2
+### Day 2
 
-* 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
 * 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md)
+
+<!-- * 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
 * 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md) -->
 
 <!-- ### Day 3
