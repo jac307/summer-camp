@@ -18,31 +18,31 @@ Photography combines technical camera control with observation, composition, and
 ### Day 1
 
 * 📷 [Canon Rebel T4i Camera and Lens Anatomy](01_Camera_and_Lens_Anatomy.md)
-* 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
+<!-- * 📸 [Camera Setup and Aperture Priority Mode](02_Camera_Setup_and_Av_Mode.md)
 * ⚙️ [Technical Cards: Aperture, ISO, and White Balance](03_Aperture_GIF.md)
-* 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md)
+* 🗣️ [Technical Cards Exhibition and Group Review](04_Day_1_Group_Review.md) -->
 
-### Day 2
+<!-- ### Day 2
 
 * 📸 [Additional DSLR Camera Settings](05_Additional_DSLR_Settings.md)
 * 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md)
-* 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md)
+* 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md) -->
 
-### Day 3
+<!-- ### Day 3
 
 * 📸 [Manual Mode and Shutter Speed + ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
 * 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
-* 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md)
+* 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md) -->
 
-### Day 4
+<!-- ### Day 4
 
-* 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md)
+* 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md) -->
 
-### Additional Photography Resources
+<!-- ### Additional Photography Resources
 
 * 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
 * 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
-* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
+* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md) -->
 
 ---
 
