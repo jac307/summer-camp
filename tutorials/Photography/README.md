@@ -35,9 +35,9 @@ Photography combines technical camera control with observation, composition, and
 * 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
 * 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md)
 
-<!-- ### Day 4
+### Day 4
 
-* 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md) -->
+* 🎞️ [Mini-Project 2: Photo-Film and Series](11_Thirty_Seconds_of_Light.md)
 
 ### Additional Photography Resources
 
