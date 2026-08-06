@@ -1,0 +1,12 @@
+name: Force Cancel Stuck Job
+on: workflow_dispatch # Allows you to run this manually with a button
+
+jobs:
+  cancel-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel the stuck run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh run cancel 282
