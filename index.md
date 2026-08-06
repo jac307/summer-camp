@@ -137,7 +137,7 @@ This two-week intensive program introduces high school students to the creative 
 
 <div markdown="1">
 
-This four-day intensive program introduces high school students to the ...
+This four-day intensive program introduces high school students to the to photography with DSRL Cameras. 
 * [Photographic Foundations](tutorials/Photography/README.md)
 
 </div>
