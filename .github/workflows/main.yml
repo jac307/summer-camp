@@ -1,12 +1,31 @@
-name: Force Cancel Stuck Job
-on: workflow_dispatch # Allows you to run this manually with a button
+name: Bulk Cancel All Stuck Pages
+on: workflow_dispatch
 
 jobs:
-  cancel-job:
+  bulk-cancel:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
     steps:
-      - name: Cancel the stuck run
+      - name: Cancel All Queued and In-Progress Pages Builds
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh run cancel 282
+          echo "🔍 Fetching all stuck Pages deployment IDs..."
+          
+          # Retrieves up to 20 recent runs that are 'queued' or 'in_progress'
+          RUN_IDS=$(gh run list --workflow "pages-build-and-deployment" --limit 20 --json databaseId,status \
+            --jq '.[] | select(.status == "queued" or .status == "in_progress") | .databaseId')
+
+          if [ -z "$RUN_IDS" ]; then
+            echo "✅ No stuck or queued Pages deployments found."
+            exit 0
+          fi
+
+          # Loops through every found ID and cancels it
+          for ID in $RUN_IDS; do
+            echo "🚀 Found stuck run: $ID. Sending cancel request..."
+            gh run cancel "$ID"
+          done
+
+          echo "🎉 All cancel requests have been sent!"
