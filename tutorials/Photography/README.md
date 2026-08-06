@@ -29,11 +29,11 @@ Photography combines technical camera control with observation, composition, and
 * 🖼️ [RAW Photography and Image Editing](06_RAW_Photography_and_Editing.md)
 * 🏞️ [Mini-Project 1: Landscape Photography](07_Landscape_Photography.md)
 
-<!-- ### Day 3
+### Day 3
 
 * 📸 [Manual Mode and Shutter Speed + ⚙️ Technical Card: Shutter Speed](08_Shutter_Priority_and_Movement.md)
 * 📷 [Focal Length, Camera Distance, Perspective, and Depth of Field + ⚙️ Technical Card: Focal Length and Distance](09_Focal_Length_and_Depth_of_Field.md)
-* 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md) -->
+* 🗣️ [Technical Cards Exhibition and Group Review](10_Day_3_Group_Review.md)
 
 <!-- ### Day 4
 
@@ -43,25 +43,7 @@ Photography combines technical camera control with observation, composition, and
 
 * 📷 [Canon Rebel T4i Quick Reference Guide](00_Canon_T4i_Quick_Reference.md)
 * 📐 [Photography Composition Reference Guide](00_Composition_Reference.md)
-
-<!-- 
-* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md) -->
----
-
-## About Photography
-
-Photography combines technical camera control with observation, composition, and visual storytelling. These beginner-friendly activities introduce DSLR camera operation, aperture, ISO, white balance, shutter speed, focal length, depth of field, RAW image editing, and photographic sequencing.
-
----
-
-## Instructor Presentation
-
-<!-- <iframe
-  src="imgs/Teacher_Presentation_Slides.pdf"
-  width="100%"
-  height="600"
-  title="Motion Capture and Animation Foundations presentation slides">
-</iframe> -->
+* 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
 
 ---
 
