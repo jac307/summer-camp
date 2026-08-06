@@ -46,5 +46,6 @@ Photography combines technical camera control with observation, composition, and
 * 👁️⃤ [Exposure Triangle Reference Guide](00_Exposure_Triangle.md)
 
 ---
+---
 
 Credits: Jessica A. Rodríguez
