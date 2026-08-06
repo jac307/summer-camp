@@ -214,8 +214,8 @@ SECTION 2
   <label class="checklist-item">
     <input type="checkbox">
     <span>
-      <strong>Aperture: One fixed setting</strong>
-      Select the aperture before beginning the final sequence and keep it unchanged for every photograph.
+      <strong>Aperture: Move it depending on the shutter speed</strong>
+      Select the aperture before beginning the final sequence and change it if need it depending when the shutter speed is slower so you balance your exposure. 
     </span>
   </label>
 
