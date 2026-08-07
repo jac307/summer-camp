@@ -143,7 +143,6 @@ This four-day intensive program introduces high school students.
 </div>
 </details>
 
-
 ---
 
 Credits: Jessica A. Rodríguez
